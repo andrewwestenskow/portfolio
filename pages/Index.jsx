@@ -1,10 +1,14 @@
 import React from 'react'
+import Layout from '../Components/Layout'
 import '../styles/Index.scss'
-import Link from 'next/link'
 
 const Index = () => {
 
-  return <div className='Index'>Portfolio</div>
+  return <>
+  <Layout>
+    <section id='main'></section>
+  </Layout>
+  </>
 }
 
 export default Index

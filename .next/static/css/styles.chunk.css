@@ -32,9 +32,6 @@
   text-align: left;
   position: relative; }
 
-.navbar:hover .icon-hold {
-  margin-right: 15px; }
-
 .nav-label-hold {
   margin: 10px 0;
   display: flex; }
@@ -56,7 +53,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-right: 1.7vw; }
+  margin-right: 1.8vw; }
 
 .nav-label-hold:hover {
   color: #b9220f;
@@ -110,10 +107,55 @@ table {
   border-spacing: 0; }
 
 html {
-  scroll-behavior: smooth; }
+  scroll-behavior: smooth;
+  overflow-x: hidden; }
+  html ::-webkit-scrollbar {
+    width: 2px;
+    height: 2px; }
+  html ::-webkit-scrollbar-button {
+    width: 0px;
+    height: 0px; }
+  html ::-webkit-scrollbar-thumb {
+    background: #e1e1e1;
+    border: 0px none #ffffff;
+    border-radius: 50px; }
+  html ::-webkit-scrollbar-thumb:hover {
+    background: #ffffff; }
+  html ::-webkit-scrollbar-thumb:active {
+    background: #000000; }
+  html ::-webkit-scrollbar-track {
+    background: #666666;
+    border: 0px none #ffffff;
+    border-radius: 50px; }
+  html ::-webkit-scrollbar-track:hover {
+    background: #666666; }
+  html ::-webkit-scrollbar-track:active {
+    background: #333333; }
+  html ::-webkit-scrollbar-corner {
+    background: transparent; }
 
-#main {
+#home {
   background: #252525;
+  width: 100vw;
+  height: 100vh; }
+
+#about {
+  width: 100vw;
+  height: 100vh;
+  background: yellow; }
+
+#stack {
+  width: 100vw;
+  height: 100vh;
+  background: pink; }
+
+#portfolio {
+  background: purple;
+  width: 100vw;
+  height: 100vh; }
+
+#contact {
+  background: orange;
   width: 100vw;
   height: 100vh; }
 

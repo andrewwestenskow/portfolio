@@ -1,7 +1,31 @@
 @import './Reset.scss';
 
-#main{
+#home{
   background: #252525;
+  width: 100vw;
+  height: 100vh;
+}
+
+#about{
+  width: 100vw;
+  height: 100vh;
+  background: yellow;
+}
+
+#stack{
+  width: 100vw;
+  height: 100vh;
+  background: pink;
+}
+
+#portfolio{
+  background: purple;
+  width: 100vw;
+  height: 100vh;
+}
+
+#contact{
+  background: orange;
   width: 100vw;
   height: 100vh;
 }

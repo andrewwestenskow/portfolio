@@ -6,7 +6,11 @@ const Index = () => {
 
   return <>
   <Layout>
-    <section id='main'></section>
+    <section id='home'></section>
+    <section id='about'></section>
+    <section id='stack'></section>
+    <section id='portfolio'></section>
+    <section id='contact'></section>
   </Layout>
   </>
 }

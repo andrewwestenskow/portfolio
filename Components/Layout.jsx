@@ -3,6 +3,7 @@ import '../styles/Layout.scss'
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faHome, faUser, faLayerGroup, faDesktop, faEnvelopeOpenText } from '@fortawesome/free-solid-svg-icons'
+import Link from 'next/link'
 
 const Layout = props => {
 
@@ -12,36 +13,46 @@ const Layout = props => {
     <div className='Layout'>
       <div className="navbar">
         <nav className='nav'>
-          <div className='nav-label-hold'>
-            <span className='nav-label'>Home</span>
-            <div className="icon-hold">
-              <FontAwesomeIcon className='nav-icon' icon='home' />
+          <Link href='#home'>
+            <div className='nav-label-hold'>
+              <span className='nav-label'>Home</span>
+              <div className="icon-hold">
+                <FontAwesomeIcon className='nav-icon' icon='home' />
+              </div>
             </div>
-          </div>
-          <div className='nav-label-hold'>
-            <span className='nav-label'>About</span>
-            <div className="icon-hold">
-              <FontAwesomeIcon className='nav-icon' icon='user' />
+          </Link>
+          <Link href='#about'>
+            <div className='nav-label-hold'>
+              <span className='nav-label'>About</span>
+              <div className="icon-hold">
+                <FontAwesomeIcon className='nav-icon' icon='user' />
+              </div>
             </div>
-          </div>
-          <div className='nav-label-hold'>
-            <span className='nav-label'>Stack</span>
-            <div className="icon-hold">
-              <FontAwesomeIcon className='nav-icon' icon='layer-group' />
+          </Link>
+          <Link href='#stack'>
+            <div className='nav-label-hold'>
+              <span className='nav-label'>Stack</span>
+              <div className="icon-hold">
+                <FontAwesomeIcon className='nav-icon' icon='layer-group' />
+              </div>
             </div>
-          </div>
-          <div className='nav-label-hold'>
-            <span className='nav-label'>Portfolio</span>
-            <div className="icon-hold">
-              <FontAwesomeIcon className='nav-icon' icon='desktop' />
+          </Link>
+          <Link href='#portfolio'>
+            <div className='nav-label-hold'>
+              <span className='nav-label'>Portfolio</span>
+              <div className="icon-hold">
+                <FontAwesomeIcon className='nav-icon' icon='desktop' />
+              </div>
             </div>
-          </div>
-          <div className='nav-label-hold'>
-            <span className='nav-label'>Contact</span>
-            <div className="icon-hold">
-              <FontAwesomeIcon className='nav-icon' icon='envelope-open-text' />
+          </Link>
+          <Link href='#contact'>
+            <div className='nav-label-hold'>
+              <span className='nav-label'>Contact</span>
+              <div className="icon-hold">
+                <FontAwesomeIcon className='nav-icon' icon='envelope-open-text' />
+              </div>
             </div>
-          </div>
+          </Link>
         </nav>
       </div>
       <div>

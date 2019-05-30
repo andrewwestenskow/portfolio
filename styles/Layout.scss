@@ -9,17 +9,74 @@
   height: 100vh;
   width: 5vw;
   position: fixed;
-  transition: all 750ms;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  transition: all 500ms;
 }
 
 .navbar:hover{
-  width: 15vw
+  width: 10vw
+}
+
+.navbar:hover .nav-label{
+  // position: relative;
+  margin-right: 10px;
+  left: 20px;
+  // display: inline;
 }
 
 .nav{
   color: white;
   display: flex;
+  height: 100%;
+  width: 100%;
   flex-direction: column;
-  align-items: center;
-  font-size: 2rem;
+  align-items: flex-end;
+  justify-content: center;
+  transition: all 500ms;
+  text-align: left;
+  position: relative;
 }
+
+.navbar:hover .icon-hold{
+  margin-right: 15px;
+}
+
+.nav-label-hold{
+  margin: 10px 0;
+  // position: relative;
+  display: flex;
+}
+
+.nav-label{
+  transition: all 500ms;
+  left: -200px;
+  position: absolute;
+  font-size: 1.5rem;
+  // display: none;
+}
+
+.nav-icon{
+  display: inline;
+  font-size: 1.5rem;
+  // transition: all 500ms;
+}
+
+.icon-hold{
+  transition: all 500ms;
+  // border: 1px solid white;
+  height: 30px;
+  width: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 1.7vw;
+}
+
+
+.nav-label-hold:hover{
+  color: #b9220f;
+  cursor: pointer;
+}
+

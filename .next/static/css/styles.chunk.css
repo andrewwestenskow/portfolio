@@ -1,7 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=Karla&display=swap);
 .Layout {
   display: flex;
   width: 100vw;
-  min-height: 100vh; }
+  min-height: 100vh;
+  font-family: 'Karla', sans-serif; }
 
 .navbar {
   background: black;
@@ -142,22 +144,53 @@ html {
 #about {
   width: 100vw;
   height: 100vh;
-  background: yellow; }
+  background: #595959; }
 
 #stack {
   width: 100vw;
   height: 100vh;
-  background: pink; }
+  background: #252525; }
 
 #portfolio {
-  background: purple;
+  background: #595959;
   width: 100vw;
   height: 100vh; }
 
 #contact {
-  background: orange;
+  background: #252525;
   width: 100vw;
   height: 100vh; }
+
+.Home {
+  color: white;
+  margin-left: 5vw;
+  font-family: 'Karla', sans-serif; }
+
+.section-label {
+  position: absolute;
+  right: 0;
+  font-size: 3rem;
+  margin: 25px; }
+
+.About {
+  color: white;
+  margin-left: 5vw;
+  font-family: 'Karla', sans-serif; }
+
+.Stack {
+  color: white;
+  margin-left: 5vw;
+  font-family: 'Karla', sans-serif; }
+
+.Portfolio {
+  color: white;
+  margin-left: 5vw;
+  font-family: 'Karla', sans-serif; }
+
+.Contact {
+  color: white;
+  margin-left: 5vw;
+  font-family: 'Karla', sans-serif; }
 
 
 /*# sourceMappingURL=styles.chunk.css.map*/

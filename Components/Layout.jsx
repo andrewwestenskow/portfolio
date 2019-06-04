@@ -17,7 +17,7 @@ const Layout = props => {
             <div className='nav-label-hold'>
               <span className='nav-label'>Home</span>
               <div className="icon-hold">
-                <FontAwesomeIcon className='nav-icon' icon='home' />
+                <FontAwesomeIcon id='home-icon' className='nav-icon' icon='home' />
               </div>
             </div>
           </Link>

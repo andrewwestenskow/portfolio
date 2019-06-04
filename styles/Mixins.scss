@@ -1,0 +1,12 @@
+@mixin section-reset{
+  color: white;
+  margin-left: 5vw;
+  font-family: 'Karla', sans-serif;
+}
+
+@mixin label-reset{
+  position: absolute;
+  right: 0;
+  font-size: 3rem;
+  margin: 25px;
+}

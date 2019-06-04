@@ -1,0 +1,5 @@
+@import './Mixins.scss';
+
+.Stack{
+  @include section-reset
+}

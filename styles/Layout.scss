@@ -2,6 +2,7 @@
   display: flex;
   width: 100vw;
   min-height: 100vh;
+  font-family: 'Karla', sans-serif;
 }
 
 .navbar{
@@ -37,10 +38,6 @@
   transition: all 500ms;
   text-align: left;
   position: relative;
-}
-
-.navbar:hover .icon-hold{
-  // margin-right: 15px;
 }
 
 .nav-label-hold{

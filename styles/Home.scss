@@ -1,0 +1,9 @@
+@import './Mixins.scss';
+
+.Home{
+  @include section-reset
+}
+
+.section-label{
+  @include label-reset
+}

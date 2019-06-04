@@ -172,6 +172,15 @@ html {
   font-size: 3rem;
   margin: 25px; }
 
+.name {
+  font-size: 4rem; }
+
+.intro-hold {
+  display: flex; }
+
+.intro {
+  font-size: 3rem; }
+
 .About {
   color: white;
   margin-left: 5vw;

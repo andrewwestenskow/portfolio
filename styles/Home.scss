@@ -7,3 +7,15 @@
 .section-label{
   @include label-reset
 }
+
+.name{
+  font-size: 4rem;
+}
+
+.intro-hold{
+  display: flex
+}
+
+.intro{
+  font-size: 3rem
+}

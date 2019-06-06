@@ -3,3 +3,9 @@
 .About{
   @include section-reset
 }
+
+.about-content{
+  background: white;
+  width: 80%;
+  height: 70%;
+}

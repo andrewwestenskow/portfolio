@@ -7,6 +7,9 @@ const About = () => {
       <h1 className="section-label">
         About
       </h1>
+      <div className="about-content">
+      
+      </div>
     </div>
   )
 }

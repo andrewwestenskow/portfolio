@@ -175,6 +175,8 @@ html {
   align-items: center;
   justify-content: center;
   height: 100%;
+  width: calc(100% - 75px);
+  height: 100%;
   width: 100%; }
 
 .section-label {
@@ -208,10 +210,14 @@ html {
   display: flex; }
 
 .photo-hold {
+  max-width: 300px;
+  max-height: 300px;
+  object-fit: cover; }
+
+.profile-img {
   width: 300px;
-  height: 300px;
-  border-radius: 150px;
-  background: white; }
+  max-height: 300px;
+  border-radius: 250px; }
 
 .About {
   color: white;
@@ -219,7 +225,14 @@ html {
   font-family: 'Raleway', sans-serif;
   display: flex;
   align-items: center;
-  justify-content: center; }
+  justify-content: center;
+  height: 100%;
+  width: calc(100% - 75px); }
+
+.about-content {
+  background: white;
+  width: 80%;
+  height: 70%; }
 
 .Stack {
   color: white;
@@ -227,7 +240,9 @@ html {
   font-family: 'Raleway', sans-serif;
   display: flex;
   align-items: center;
-  justify-content: center; }
+  justify-content: center;
+  height: 100%;
+  width: calc(100% - 75px); }
 
 .Portfolio {
   color: white;
@@ -235,7 +250,9 @@ html {
   font-family: 'Raleway', sans-serif;
   display: flex;
   align-items: center;
-  justify-content: center; }
+  justify-content: center;
+  height: 100%;
+  width: calc(100% - 75px); }
 
 .Contact {
   color: white;
@@ -243,7 +260,9 @@ html {
   font-family: 'Raleway', sans-serif;
   display: flex;
   align-items: center;
-  justify-content: center; }
+  justify-content: center;
+  height: 100%;
+  width: calc(100% - 75px); }
 
 
 /*# sourceMappingURL=styles.chunk.css.map*/

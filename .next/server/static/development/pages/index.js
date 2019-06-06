@@ -452,7 +452,7 @@ var AnimatedTypingComponent = function AnimatedTypingComponent() {
       lineNumber: 7
     },
     __self: this
-  }, "Movie lover"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_typing_animation__WEBPACK_IMPORTED_MODULE_2___default.a.Delay, {
+  }, "movie lover"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_typing_animation__WEBPACK_IMPORTED_MODULE_2___default.a.Delay, {
     ms: 1500,
     __source: {
       fileName: _jsxFileName,
@@ -473,7 +473,7 @@ var AnimatedTypingComponent = function AnimatedTypingComponent() {
       lineNumber: 10
     },
     __self: this
-  }, "Video gamer"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_typing_animation__WEBPACK_IMPORTED_MODULE_2___default.a.Delay, {
+  }, "video gamer"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_typing_animation__WEBPACK_IMPORTED_MODULE_2___default.a.Delay, {
     ms: 1500,
     __source: {
       fileName: _jsxFileName,
@@ -494,7 +494,7 @@ var AnimatedTypingComponent = function AnimatedTypingComponent() {
       lineNumber: 13
     },
     __self: this
-  }, "Drummer"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_typing_animation__WEBPACK_IMPORTED_MODULE_2___default.a.Delay, {
+  }, "drummer"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_typing_animation__WEBPACK_IMPORTED_MODULE_2___default.a.Delay, {
     ms: 1500,
     __source: {
       fileName: _jsxFileName,
@@ -510,13 +510,16 @@ var AnimatedTypingComponent = function AnimatedTypingComponent() {
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "intro",
+    style: {
+      textDecoration: 'underline'
+    },
     __source: {
       fileName: _jsxFileName,
       lineNumber: 16
     },
     __self: this
-  }, "Web Developer"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_typing_animation__WEBPACK_IMPORTED_MODULE_2___default.a.Delay, {
-    ms: 10000000,
+  }, "web developer"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_typing_animation__WEBPACK_IMPORTED_MODULE_2___default.a.Delay, {
+    ms: 100000000,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 17
@@ -547,34 +550,54 @@ var Home = function Home() {
       lineNumber: 27
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
-    className: "name",
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "intro-hold",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 28
     },
     __self: this
-  }, "My name is Andrew Westenskow"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    className: "intro-hold",
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+    className: "name",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 29
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
-    className: "intro",
+  }, "My name is ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 29
+    },
+    __self: this
+  }), " Andrew Westenskow"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "titles-hold",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 30
     },
     __self: this
-  }, "I am a "), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(AnimatedTypingComponent, {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
+    className: "intro-head",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 30
+    },
+    __self: this
+  }, "I am a"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(AnimatedTypingComponent, {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 31
     },
     __self: this
-  }))));
+  }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "photo-hold",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 33
+    },
+    __self: this
+  })));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Home);

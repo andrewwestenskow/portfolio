@@ -1,21 +1,47 @@
 @import './Mixins.scss';
 
 .Home{
-  @include section-reset
+  @include section-reset;
+  height: 100%;
+  width: 100%
 }
 
 .section-label{
   @include label-reset
 }
 
+.home-content{
+  display: flex;
+  justify-content: space-around;
+  width: 60%;
+  line-height: 70px
+}
+
 .name{
-  font-size: 4rem;
+  font-size: 3.2rem;
 }
 
 .intro-hold{
-  display: flex
+  display: flex;
+  flex-direction: column;
+}
+
+.intro-head{
+  font-size: 2.5rem;
+  padding-right: 10px;
 }
 
 .intro{
-  font-size: 3rem
+  font-size: 2.5rem
+}
+
+.titles-hold{
+  display: flex;
+}
+
+.photo-hold{
+  width: 300px;
+  height: 300px;
+  border-radius: 150px;
+  background: white;
 }

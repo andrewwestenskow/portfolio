@@ -1,4 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Karla&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Raleway&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Raleway&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Raleway&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Raleway&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Raleway&display=swap);
 .Layout {
   display: flex;
   width: 100vw;
@@ -8,15 +13,16 @@
 .navbar {
   background: black;
   height: 100vh;
-  width: 5vw;
+  width: 75px;
   position: fixed;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  transition: all 500ms; }
+  transition: all 500ms;
+  z-index: 5; }
 
 .navbar:hover {
-  width: 10vw; }
+  width: 200px; }
 
 .navbar:hover .nav-label {
   margin-right: 10px;
@@ -164,42 +170,80 @@ html {
 .Home {
   color: white;
   margin-left: 5vw;
-  font-family: 'Karla', sans-serif; }
+  font-family: 'Raleway', sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%; }
 
 .section-label {
   position: absolute;
   right: 0;
   font-size: 3rem;
-  margin: 25px; }
+  margin: 25px;
+  align-self: flex-start; }
+
+.home-content {
+  display: flex;
+  justify-content: space-around;
+  width: 60%;
+  line-height: 70px; }
 
 .name {
-  font-size: 4rem; }
+  font-size: 3.2rem; }
 
 .intro-hold {
-  display: flex; }
+  display: flex;
+  flex-direction: column; }
+
+.intro-head {
+  font-size: 2.5rem;
+  padding-right: 10px; }
 
 .intro {
-  font-size: 3rem; }
+  font-size: 2.5rem; }
+
+.titles-hold {
+  display: flex; }
+
+.photo-hold {
+  width: 300px;
+  height: 300px;
+  border-radius: 150px;
+  background: white; }
 
 .About {
   color: white;
   margin-left: 5vw;
-  font-family: 'Karla', sans-serif; }
+  font-family: 'Raleway', sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center; }
 
 .Stack {
   color: white;
   margin-left: 5vw;
-  font-family: 'Karla', sans-serif; }
+  font-family: 'Raleway', sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center; }
 
 .Portfolio {
   color: white;
   margin-left: 5vw;
-  font-family: 'Karla', sans-serif; }
+  font-family: 'Raleway', sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center; }
 
 .Contact {
   color: white;
   margin-left: 5vw;
-  font-family: 'Karla', sans-serif; }
+  font-family: 'Raleway', sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center; }
 
 
 /*# sourceMappingURL=styles.chunk.css.map*/

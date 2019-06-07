@@ -31,7 +31,6 @@ const Home = () => {
           <AnimatedTypingComponent /></div>
         </div>
         <div className="photo-hold">
-          <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/13886475_10205130892150579_8267810955602109840_n.jpg?_nc_cat=100&_nc_oc=AQn1CwPNK4yazxRG5Ma6tbp92ExikuA0mVjvh5Lm_hKMzzivLM6wwZ94MGkfu5mOJMI&_nc_ht=scontent-lax3-1.xx&oh=e6e82d89e35b953b3b758711b2ebcddd&oe=5D9E4203" alt="Andrew Westenskow" className='profile-img'/>
         </div>
       </div>
     </div>

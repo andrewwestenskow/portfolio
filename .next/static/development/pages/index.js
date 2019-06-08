@@ -448,6 +448,7 @@ var Contact = function Contact() {
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    target: "_blank",
     className: "contact-info-text",
     href: "https://github.com/andrewwestenskow",
     __source: {

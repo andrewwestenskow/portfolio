@@ -35,7 +35,7 @@ const Contact = () => {
             <div className="contact-info-line">
               <FontAwesomeIcon className='contact-info-icon'
                 icon={['fab', 'github']} />
-              <a className="contact-info-text" href='https://github.com/andrewwestenskow'>https://github.com/andrewwestenskow</a>
+              <a target="_blank" className="contact-info-text" href='https://github.com/andrewwestenskow'>https://github.com/andrewwestenskow</a>
             </div>
           </div>
           <div className="contact-form-hold">

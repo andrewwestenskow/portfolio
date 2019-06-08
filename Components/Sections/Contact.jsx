@@ -1,6 +1,7 @@
 import React from 'react'
 import '../../styles/Contact.scss'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import ContactForm from './ContactForm'
 
 const Contact = () => {
   return (
@@ -37,8 +38,8 @@ const Contact = () => {
               <a className="contact-info-text" href='https://github.com/andrewwestenskow'>https://github.com/andrewwestenskow</a>
             </div>
           </div>
-
           <div className="contact-form-hold">
+          {/* <ContactForm /> */}
           </div>
         </div>
       </div>

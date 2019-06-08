@@ -1,5 +1,48 @@
 @import './Mixins.scss';
 
 .Contact{
-  @include section-reset
+  @include section-reset;
+  // flex-direction: column;
+}
+
+.lets-chat{
+  width: 100%;
+  font-size: 3rem;
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+.contact-content-hold{
+  width: 45%;
+  height: 100%;
+  display: flex;
+}
+
+.contact-info{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 100%;
+}
+
+.contact-info-line{
+  display: flex;
+  align-items: center;
+}
+
+.contact-info-icon{
+  font-size: 3rem;
+}
+
+.contact-info-text{
+  font-size: 1.8rem;
+  text-decoration: none;
+  color: white;
+  padding-left: 15px;
+}
+
+.contact-form-hold{
+  background: white;
+  width: 45%;
+  height: 100%;
 }

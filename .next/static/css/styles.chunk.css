@@ -247,7 +247,36 @@ html {
   align-items: center;
   justify-content: center;
   height: 100%;
-  width: calc(100% - 75px); }
+  width: calc(100% - 75px);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center; }
+
+.stack-img {
+  width: 200px;
+  height: 200px;
+  padding: 0 25px; }
+
+.stack-name-hold {
+  height: 33%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+
+.stack-name {
+  font-size: 2rem; }
+
+.stack-image-hold {
+  height: 66%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+
+.stack-image {
+  width: 150px; }
 
 .Portfolio {
   color: white;
@@ -268,6 +297,41 @@ html {
   justify-content: center;
   height: 100%;
   width: calc(100% - 75px); }
+
+.lets-chat {
+  width: 100%;
+  font-size: 3rem;
+  text-align: center;
+  margin-bottom: 25px; }
+
+.contact-content-hold {
+  width: 45%;
+  height: 100%;
+  display: flex; }
+
+.contact-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 100%; }
+
+.contact-info-line {
+  display: flex;
+  align-items: center; }
+
+.contact-info-icon {
+  font-size: 3rem; }
+
+.contact-info-text {
+  font-size: 1.8rem;
+  text-decoration: none;
+  color: white;
+  padding-left: 15px; }
+
+.contact-form-hold {
+  background: white;
+  width: 45%;
+  height: 100%; }
 
 
 /*# sourceMappingURL=styles.chunk.css.map*/

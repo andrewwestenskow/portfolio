@@ -1,5 +1,9 @@
 @import './Mixins.scss';
 
 .Stack{
-  @include section-reset
+  @include section-reset;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
 }

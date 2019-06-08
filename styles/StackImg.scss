@@ -1,0 +1,30 @@
+.stack-img{
+  width: 200px;
+  height: 200px;
+  padding: 0 25px;
+  // border: 1px solid white;
+}
+
+.stack-name-hold{
+  height: 33%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.stack-name{
+  font-size: 2rem;
+}
+
+.stack-image-hold{
+  height: 66%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.stack-image{
+  width: 150px;
+}

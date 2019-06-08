@@ -2,12 +2,13 @@ import React from 'react'
 import '../styles/Layout.scss'
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faHome, faUser, faLayerGroup, faDesktop, faEnvelopeOpenText } from '@fortawesome/free-solid-svg-icons'
+import { faHome, faUser, faLayerGroup, faDesktop, faEnvelopeOpenText, faEnvelope, faPhone } from '@fortawesome/free-solid-svg-icons'
+import { fab } from '@fortawesome/free-brands-svg-icons'
 import Link from 'next/link'
 
 const Layout = props => {
 
-  library.add(faHome, faUser, faLayerGroup, faDesktop, faEnvelopeOpenText)
+  library.add(faHome, faUser, faLayerGroup, faDesktop, faEnvelopeOpenText, faEnvelope, faPhone, fab)
 
   return (
     <div className='Layout'>

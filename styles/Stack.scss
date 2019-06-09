@@ -2,6 +2,13 @@
 
 .Stack{
   @include section-reset;
+  
+}
+
+.stack-content{
+  // border: 1px solid white;
+  width: 95%;
+  height: 80%;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;

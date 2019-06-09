@@ -25,10 +25,14 @@
     "express": "^4.17.1",
     "next": "^8.1.0",
     "node-sass": "^4.12.0",
+    "nuka-carousel": "^4.5.8",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-responsive-carousel": "^3.1.49",
+    "react-slick": "^0.24.0",
     "react-typing-animation": "^1.6.2",
     "sass": "^1.20.1",
+    "slick-carousel": "^1.8.1",
     "url-loader": "^2.0.0"
   },
   "devDependencies": {

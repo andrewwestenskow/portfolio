@@ -30,19 +30,19 @@ const Layout = props => {
               </div>
             </div>
           </Link>
-          <Link href='#stack'>
-            <div className='nav-label-hold'>
-              <span className='nav-label'>Stack</span>
-              <div className="icon-hold">
-                <FontAwesomeIcon className='nav-icon' icon='layer-group' />
-              </div>
-            </div>
-          </Link>
           <Link href='#portfolio'>
             <div className='nav-label-hold'>
               <span className='nav-label'>Portfolio</span>
               <div className="icon-hold">
                 <FontAwesomeIcon className='nav-icon' icon='desktop' />
+              </div>
+            </div>
+          </Link>
+          <Link href='#stack'>
+            <div className='nav-label-hold'>
+              <span className='nav-label'>Stack</span>
+              <div className="icon-hold">
+                <FontAwesomeIcon className='nav-icon' icon='layer-group' />
               </div>
             </div>
           </Link>

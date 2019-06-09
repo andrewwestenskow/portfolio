@@ -1,5 +1,23 @@
 @import './Mixins.scss';
 
+
 .Portfolio{
   @include section-reset
+}
+
+.portfolio-content{
+  border: 1px solid white;
+  width: 95%;
+  height: 80%;
+  display: flex;
+}
+
+.portfolio-item{
+  border: 1px solid red;
+  height: 100%;
+  width: 50%;
+}
+
+.portfolio-item-title{
+  font-size: 3rem;
 }

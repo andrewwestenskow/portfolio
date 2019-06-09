@@ -6,27 +6,31 @@ import About from '../Components/Sections/About'
 import Stack from '../Components/Sections/Stack'
 import Portfolio from '../Components/Sections/Portfolio'
 import Contact from '../Components/Sections/Contact'
+import Head from 'next/head'
 
 const Index = () => {
 
   return <>
-  <Layout>
-    <section id='home'>
-      <Home/>
-    </section>
-    <section id='about'>
-      <About/>
-    </section>
-    <section id='stack'>
-      <Stack/>
-    </section>
-    <section id='portfolio'>
-      <Portfolio/>
-    </section>
-    <section id='contact'>
-      <Contact/>
-    </section>
-  </Layout>
+    <Head>
+      <title>Andrew Westenskow</title>
+    </Head>
+    <Layout>
+      <section id='home'>
+        <Home />
+      </section>
+      <section id='about'>
+        <About />
+      </section>
+      <section id='portfolio'>
+        <Portfolio />
+      </section>
+      <section id='stack'>
+        <Stack />
+      </section>
+      <section id='contact'>
+        <Contact />
+      </section>
+    </Layout>
   </>
 }
 

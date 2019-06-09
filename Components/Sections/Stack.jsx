@@ -18,15 +18,17 @@ const Stack = () => {
       <h1 className="section-label">
         Stack
       </h1>
-      <StackImg img={HTML} name='HTML5'/>
-      <StackImg img={CSS} name='CSS3'/>
-      <StackImg img={SASS} name='Sass'/>
-      <StackImg img={JAVASCRIPT} name='Javascript'/>
-      <StackImg img={REACT} name='React.js'/>
-      <StackImg img={NEXT} name='Next.js'/>
-      <StackImg img={NODE} name='Node.js'/>
-      <StackImg img={POSTGRES} name='PostgreSQL'/>
-      <StackImg img={MONGO} name='MongoDB'/>
+      <div className="stack-content">
+        <StackImg img={HTML} name='HTML5' />
+        <StackImg img={CSS} name='CSS3' />
+        <StackImg img={SASS} name='Sass' />
+        <StackImg img={JAVASCRIPT} name='Javascript' />
+        <StackImg img={REACT} name='React.js' />
+        <StackImg img={NEXT} name='Next.js' />
+        <StackImg img={NODE} name='Node.js' />
+        <StackImg img={POSTGRES} name='PostgreSQL' />
+        <StackImg img={MONGO} name='MongoDB' />
+      </div>
     </div>
   )
 }

@@ -155,10 +155,10 @@ html {
 #stack {
   width: 100vw;
   height: 100vh;
-  background: #252525; }
+  background: #595959; }
 
 #portfolio {
-  background: #595959;
+  background: #252525;
   width: 100vw;
   height: 100vh; }
 
@@ -169,7 +169,7 @@ html {
 
 .Home {
   color: white;
-  margin-left: 5vw;
+  margin-left: 75px;
   font-family: 'Raleway', sans-serif;
   display: flex;
   align-items: center;
@@ -226,7 +226,7 @@ html {
 
 .About {
   color: white;
-  margin-left: 5vw;
+  margin-left: 75px;
   font-family: 'Raleway', sans-serif;
   display: flex;
   align-items: center;
@@ -235,19 +235,25 @@ html {
   width: calc(100% - 75px); }
 
 .about-content {
-  background: white;
-  width: 80%;
-  height: 70%; }
+  border: 1px solid white;
+  width: 95%;
+  height: 80%; }
+
+
 
 .Stack {
   color: white;
-  margin-left: 5vw;
+  margin-left: 75px;
   font-family: 'Raleway', sans-serif;
   display: flex;
   align-items: center;
   justify-content: center;
   height: 100%;
-  width: calc(100% - 75px);
+  width: calc(100% - 75px); }
+
+.stack-content {
+  width: 95%;
+  height: 80%;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -280,7 +286,7 @@ html {
 
 .Portfolio {
   color: white;
-  margin-left: 5vw;
+  margin-left: 75px;
   font-family: 'Raleway', sans-serif;
   display: flex;
   align-items: center;
@@ -288,9 +294,23 @@ html {
   height: 100%;
   width: calc(100% - 75px); }
 
+.portfolio-content {
+  border: 1px solid white;
+  width: 95%;
+  height: 80%;
+  display: flex; }
+
+.portfolio-item {
+  border: 1px solid red;
+  height: 100%;
+  width: 50%; }
+
+.portfolio-item-title {
+  font-size: 3rem; }
+
 .Contact {
   color: white;
-  margin-left: 5vw;
+  margin-left: 75px;
   font-family: 'Raleway', sans-serif;
   display: flex;
   align-items: center;
@@ -299,9 +319,10 @@ html {
   width: calc(100% - 75px); }
 
 .contact-page {
+  width: 95%;
   height: 80%;
   display: flex;
-  flex-direction: column;
+  flex-wrap: wrap;
   justify-content: center;
   align-items: center; }
 
@@ -320,21 +341,24 @@ html {
 .contact-info {
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
-  height: 100%; }
+  justify-content: space-between;
+  height: 55%; }
 
 .contact-info-line {
   display: flex;
   align-items: center; }
 
 .contact-info-icon {
-  font-size: 3rem; }
+  font-size: 3rem;
+  margin-right: 25px; }
 
 .contact-info-text {
   font-size: 1.8rem;
   text-decoration: none;
   color: white;
-  padding-left: 25px; }
+  padding-left: 25px;
+  display: flex;
+  align-items: center; }
 
 .contact-form-hold {
   width: 45%;

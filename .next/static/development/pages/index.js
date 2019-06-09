@@ -1002,79 +1002,101 @@ var Portfolio = function Portfolio() {
     },
     __self: this
   }, "vote2play"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(nuka_carousel__WEBPACK_IMPORTED_MODULE_2__["default"], {
+    width: "80%",
+    autoplay: "true",
+    autoplayInterval: "5000",
+    swiping: "true",
+    withoutControls: "true",
+    pauseOnHover: "true",
+    wrapAround: "true",
+    heightMode: "first",
+    speed: "1500",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 15
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "https://socialplaylists.s3-us-west-1.amazonaws.com/Hero+Images/groups+example.PNG",
-    alt: "vote2play groups",
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "carousel-item",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 16
     },
     __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    className: "carousel-image",
+    src: "https://socialplaylists.s3-us-west-1.amazonaws.com/Hero+Images/groups+example.PNG",
+    alt: "vote2play groups",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 17
     },
     __self: this
-  }, "1"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+    className: "carousel-image-label",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 18
     },
     __self: this
-  }, "2"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 19
-    },
-    __self: this
-  }, "3"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "User dashboard displays all groups")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "carousel-item",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 20
     },
     __self: this
-  }, "4"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    className: "carousel-image",
+    src: "https://socialplaylists.s3-us-west-1.amazonaws.com/Hero+Images/Playlist+example.PNG",
+    alt: "vote2play playlist",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 21
     },
     __self: this
-  }, "5"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+    className: "carousel-image-label",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 22
     },
     __self: this
-  }, "6"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 23
-    },
-    __self: this
-  }, "7"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Playlist displays now playing and upcoming songs")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "carousel-item",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 24
     },
     __self: this
-  }, "8"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    className: "carousel-image",
+    src: "https://socialplaylists.s3-us-west-1.amazonaws.com/Hero+Images/create+group+example.PNG",
+    alt: "vote2play create group",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 25
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+    className: "carousel-image-label",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 26
+    },
+    __self: this
+  }, "Users can create new groups")))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-item",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 27
+      lineNumber: 30
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "portfolio-item-title",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 28
+      lineNumber: 31
     },
     __self: this
   }, "fin-s"))));

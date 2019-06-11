@@ -532,6 +532,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
+var _jsxFileName = "C:\\Users\\andre\\Development-Projects\\portfolio\\Components\\Sections\\ContactForm.jsx";
 
 
 
@@ -573,22 +574,55 @@ function (_Component) {
     value: function render() {
       var _this2 = this;
 
-      return react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("div", {
-        className: "contact-form"
-      }, react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("p", null, "Your email"), react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("input", {
+      return react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("div", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 24
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("div", {
+        className: "contact-form",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 25
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("p", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 26
+        },
+        __self: this
+      }, "Your email"), react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("input", {
         onChange: function onChange(e) {
           return _this2.handleChange(e);
         },
         name: "from",
         type: "text",
-        required: true
-      }), react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("p", null, "Subject"), react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("input", {
+        required: true,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 27
+        },
+        __self: this
+      }), react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("p", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 31
+        },
+        __self: this
+      }, "Subject"), react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("input", {
         onChange: function onChange(e) {
           return _this2.handleChange(e);
         },
         name: "subject",
         type: "text",
-        required: true
+        required: true,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 32
+        },
+        __self: this
       }), react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("textarea", {
         onChange: function onChange(e) {
           return _this2.handleChange(e);
@@ -597,10 +631,20 @@ function (_Component) {
         id: "",
         cols: "30",
         rows: "10",
-        required: true
+        required: true,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 37
+        },
+        __self: this
       }), react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("button", {
         onClick: this.handleSubmit,
-        type: "submit"
+        type: "submit",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 42
+        },
+        __self: this
       }, "Send")));
     }
   }]);

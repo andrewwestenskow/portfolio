@@ -3855,7 +3855,7 @@ module.exports = __webpack_require__("UDep");
 /***/ "LZ9C":
 /***/ (function(module) {
 
-module.exports = {"devFiles":[],"pages":{"/Index":["static/runtime/webpack-8ed9452df514b4d17d80.js","static/chunks/commons.e304fba0b9256846e73d.js","static/css/styles.6efe15a5.chunk.css","static/chunks/styles.dd3281d59afcc07e1af6.js","static/runtime/main-fd73dbd6f398b7b886ec.js"],"/_app":["static/runtime/webpack-8ed9452df514b4d17d80.js","static/chunks/commons.e304fba0b9256846e73d.js","static/runtime/main-fd73dbd6f398b7b886ec.js"],"/_error":["static/runtime/webpack-8ed9452df514b4d17d80.js","static/chunks/commons.e304fba0b9256846e73d.js","static/runtime/main-fd73dbd6f398b7b886ec.js"]}};
+module.exports = {"devFiles":[],"pages":{"/":["static/runtime/webpack-8ed9452df514b4d17d80.js","static/chunks/commons.e304fba0b9256846e73d.js","static/css/styles.6efe15a5.chunk.css","static/chunks/styles.dd3281d59afcc07e1af6.js","static/runtime/main-fd73dbd6f398b7b886ec.js"],"/_app":["static/runtime/webpack-8ed9452df514b4d17d80.js","static/chunks/commons.e304fba0b9256846e73d.js","static/runtime/main-fd73dbd6f398b7b886ec.js"],"/_error":["static/runtime/webpack-8ed9452df514b4d17d80.js","static/chunks/commons.e304fba0b9256846e73d.js","static/runtime/main-fd73dbd6f398b7b886ec.js"],"/index":["static/runtime/webpack-8ed9452df514b4d17d80.js","static/chunks/commons.e304fba0b9256846e73d.js","static/css/styles.6efe15a5.chunk.css","static/chunks/styles.dd3281d59afcc07e1af6.js","static/runtime/main-fd73dbd6f398b7b886ec.js"]}};
 
 /***/ }),
 
@@ -6689,7 +6689,7 @@ var private_dot_next_react_loadable_manifest_json__WEBPACK_IMPORTED_MODULE_4___n
         Document: (next_dist_pages_document__WEBPACK_IMPORTED_MODULE_5___default()),
         buildManifest: private_dot_next_build_manifest_json__WEBPACK_IMPORTED_MODULE_3__,
         reactLoadableManifest: private_dot_next_react_loadable_manifest_json__WEBPACK_IMPORTED_MODULE_4__,
-        buildId: "qQfNEhmCWSPxv055MlfeH",
+        buildId: "G629eT0yafjHwRwYgzWfO",
         dynamicBuildId: false,
         assetPrefix: "",
         ampBindInitData: false

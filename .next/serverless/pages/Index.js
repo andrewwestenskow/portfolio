@@ -88,7 +88,7 @@ module.exports =
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = "Dk7Q");
+/******/ 	return __webpack_require__(__webpack_require__.s = "2zfy");
 /******/ })
 /************************************************************************/
 /******/ ({
@@ -2074,6 +2074,768 @@ var __WEBPACK_AMD_DEFINE_RESULT__;/*!
 
 }());
 
+
+/***/ }),
+
+/***/ "2zfy":
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+
+// EXTERNAL MODULE: external "url"
+var external_url_ = __webpack_require__("bzos");
+
+// EXTERNAL MODULE: ./node_modules/next-server/dist/server/render.js
+var server_render = __webpack_require__("R+7f");
+
+// EXTERNAL MODULE: ./node_modules/next-server/dist/server/send-html.js
+var send_html = __webpack_require__("I8F5");
+
+// EXTERNAL MODULE: ./.next/build-manifest.json
+var build_manifest = __webpack_require__("LZ9C");
+
+// EXTERNAL MODULE: ./.next/react-loadable-manifest.json
+var react_loadable_manifest = __webpack_require__("67Bq");
+
+// EXTERNAL MODULE: ./node_modules/next/dist/pages/_document.js
+var _document = __webpack_require__("VDXt");
+var _document_default = /*#__PURE__*/__webpack_require__.n(_document);
+
+// EXTERNAL MODULE: ./node_modules/next/dist/pages/_error.js
+var _error = __webpack_require__("/a9y");
+var _error_default = /*#__PURE__*/__webpack_require__.n(_error);
+
+// EXTERNAL MODULE: ./node_modules/next/dist/pages/_app.js
+var _app = __webpack_require__("B5Ud");
+var _app_default = /*#__PURE__*/__webpack_require__.n(_app);
+
+// EXTERNAL MODULE: ./node_modules/react/index.js
+var react = __webpack_require__("q1tI");
+var react_default = /*#__PURE__*/__webpack_require__.n(react);
+
+// EXTERNAL MODULE: ./styles/Layout.scss
+var styles_Layout = __webpack_require__("b/Yn");
+
+// EXTERNAL MODULE: ./node_modules/@fortawesome/fontawesome-svg-core/index.js
+var fontawesome_svg_core = __webpack_require__("jQ4O");
+
+// EXTERNAL MODULE: ./node_modules/@fortawesome/react-fontawesome/index.js
+var react_fontawesome = __webpack_require__("3SJ+");
+
+// EXTERNAL MODULE: ./node_modules/@fortawesome/free-solid-svg-icons/index.js
+var free_solid_svg_icons = __webpack_require__("YTkO");
+
+// EXTERNAL MODULE: ./node_modules/@fortawesome/free-brands-svg-icons/index.js
+var free_brands_svg_icons = __webpack_require__("h7Ti");
+
+// EXTERNAL MODULE: ./node_modules/next/link.js
+var next_link = __webpack_require__("YFqc");
+var link_default = /*#__PURE__*/__webpack_require__.n(next_link);
+
+// CONCATENATED MODULE: ./Components/Layout.jsx
+
+
+
+
+
+
+
+
+var Layout_Layout = function Layout(props) {
+  fontawesome_svg_core["library"].add(free_solid_svg_icons["faHome"], free_solid_svg_icons["faUser"], free_solid_svg_icons["faLayerGroup"], free_solid_svg_icons["faDesktop"], free_solid_svg_icons["faEnvelopeOpenText"], free_solid_svg_icons["faEnvelope"], free_solid_svg_icons["faPhone"], free_brands_svg_icons["fab"]);
+  return react_default.a.createElement("div", {
+    className: "Layout"
+  }, react_default.a.createElement("div", {
+    className: "navbar"
+  }, react_default.a.createElement("nav", {
+    className: "nav"
+  }, react_default.a.createElement(link_default.a, {
+    href: "#home"
+  }, react_default.a.createElement("div", {
+    className: "nav-label-hold"
+  }, react_default.a.createElement("span", {
+    className: "nav-label"
+  }, "Home"), react_default.a.createElement("div", {
+    className: "icon-hold"
+  }, react_default.a.createElement(react_fontawesome["FontAwesomeIcon"], {
+    id: "home-icon",
+    className: "nav-icon",
+    icon: "home"
+  })))), react_default.a.createElement(link_default.a, {
+    href: "#about"
+  }, react_default.a.createElement("div", {
+    className: "nav-label-hold"
+  }, react_default.a.createElement("span", {
+    className: "nav-label"
+  }, "About"), react_default.a.createElement("div", {
+    className: "icon-hold"
+  }, react_default.a.createElement(react_fontawesome["FontAwesomeIcon"], {
+    className: "nav-icon",
+    icon: "user"
+  })))), react_default.a.createElement(link_default.a, {
+    href: "#portfolio"
+  }, react_default.a.createElement("div", {
+    className: "nav-label-hold"
+  }, react_default.a.createElement("span", {
+    className: "nav-label"
+  }, "Portfolio"), react_default.a.createElement("div", {
+    className: "icon-hold"
+  }, react_default.a.createElement(react_fontawesome["FontAwesomeIcon"], {
+    className: "nav-icon",
+    icon: "desktop"
+  })))), react_default.a.createElement(link_default.a, {
+    href: "#stack"
+  }, react_default.a.createElement("div", {
+    className: "nav-label-hold"
+  }, react_default.a.createElement("span", {
+    className: "nav-label"
+  }, "Stack"), react_default.a.createElement("div", {
+    className: "icon-hold"
+  }, react_default.a.createElement(react_fontawesome["FontAwesomeIcon"], {
+    className: "nav-icon",
+    icon: "layer-group"
+  })))), react_default.a.createElement(link_default.a, {
+    href: "#contact"
+  }, react_default.a.createElement("div", {
+    className: "nav-label-hold"
+  }, react_default.a.createElement("span", {
+    className: "nav-label"
+  }, "Contact"), react_default.a.createElement("div", {
+    className: "icon-hold"
+  }, react_default.a.createElement(react_fontawesome["FontAwesomeIcon"], {
+    className: "nav-icon",
+    icon: "envelope-open-text"
+  })))))), react_default.a.createElement("div", null, props.children));
+};
+
+/* harmony default export */ var Components_Layout = (Layout_Layout);
+// EXTERNAL MODULE: ./styles/Index.scss
+var styles_Index = __webpack_require__("cHBK");
+
+// EXTERNAL MODULE: ./styles/Home.scss
+var styles_Home = __webpack_require__("xTwp");
+
+// EXTERNAL MODULE: ./node_modules/react-typing-animation/dist/index.js
+var dist = __webpack_require__("j/HY");
+var dist_default = /*#__PURE__*/__webpack_require__.n(dist);
+
+// CONCATENATED MODULE: ./Components/Sections/Home.jsx
+
+
+
+
+var Home_AnimatedTypingComponent = function AnimatedTypingComponent() {
+  return react_default.a.createElement(dist_default.a, {
+    startDelay: 1000
+  }, react_default.a.createElement("span", {
+    className: "intro"
+  }, "movie lover"), react_default.a.createElement(dist_default.a.Delay, {
+    ms: 1500
+  }), react_default.a.createElement(dist_default.a.Backspace, {
+    count: 20
+  }), react_default.a.createElement("span", {
+    className: "intro"
+  }, "video gamer"), react_default.a.createElement(dist_default.a.Delay, {
+    ms: 1500
+  }), react_default.a.createElement(dist_default.a.Backspace, {
+    count: 20
+  }), react_default.a.createElement("span", {
+    className: "intro"
+  }, "drummer"), react_default.a.createElement(dist_default.a.Delay, {
+    ms: 1500
+  }), react_default.a.createElement(dist_default.a.Backspace, {
+    count: 20
+  }), react_default.a.createElement("span", {
+    className: "intro",
+    style: {
+      textDecoration: 'underline'
+    }
+  }, "web developer"), react_default.a.createElement(dist_default.a.Delay, {
+    ms: 100000000
+  }));
+};
+
+var Home_Home = function Home() {
+  return react_default.a.createElement("div", {
+    className: "Home"
+  }, react_default.a.createElement("h1", {
+    className: "section-label"
+  }, "Home"), react_default.a.createElement("div", {
+    className: "home-content"
+  }, react_default.a.createElement("div", {
+    className: "intro-hold"
+  }, react_default.a.createElement("h1", {
+    className: "name"
+  }, "My name is ", react_default.a.createElement("br", null), " Andrew Westenskow"), react_default.a.createElement("div", {
+    className: "titles-hold"
+  }, react_default.a.createElement("h2", {
+    className: "intro-head"
+  }, "I am a"), react_default.a.createElement(Home_AnimatedTypingComponent, null))), react_default.a.createElement("div", {
+    className: "photo-hold"
+  })));
+};
+
+/* harmony default export */ var Sections_Home = (Home_Home);
+// EXTERNAL MODULE: ./styles/About.scss
+var styles_About = __webpack_require__("tO0T");
+
+// CONCATENATED MODULE: ./Components/Sections/About.jsx
+
+
+
+
+var About_About = function About() {
+  return react_default.a.createElement("div", {
+    className: "About"
+  }, react_default.a.createElement("h1", {
+    className: "section-label"
+  }, "About"), react_default.a.createElement("div", {
+    className: "about-content"
+  }, react_default.a.createElement("div", {
+    className: "about-image-hold"
+  }, react_default.a.createElement("div", {
+    className: "about-image"
+  })), react_default.a.createElement("div", {
+    className: "about-text-hold"
+  }, react_default.a.createElement("h1", null, "Hi, I'm Andrew..."), react_default.a.createElement("article", null, react_default.a.createElement("p", null, "Soon after graduating with Bachelor's degrees in Russian and International Studies, I realized that field was not where I would work for the rest of my life.  I spent a few years working in logistics but always felt the call of the tech community.  I finally decided to dive in and have loved every minute of my time as a developer.  I love finding solutions to complex problems, coming up with the most efficient way to do things, and  building effective and efficient apps.  When I'm not coding I love to play the drums and watch movies.  I even host a podcast discussing film!  If you have any questions please don't hesitate to ", react_default.a.createElement(link_default.a, {
+    href: "#contact"
+  }, "get in touch!"))))));
+};
+
+/* harmony default export */ var Sections_About = (About_About);
+// EXTERNAL MODULE: ./styles/Stack.scss
+var styles_Stack = __webpack_require__("lJos");
+
+// EXTERNAL MODULE: ./styles/StackImg.scss
+var styles_StackImg = __webpack_require__("lE1v");
+
+// CONCATENATED MODULE: ./Components/Sections/StackImg.jsx
+
+
+
+var StackImg_StackImg = function StackImg(props) {
+  return react_default.a.createElement("div", {
+    className: "stack-img"
+  }, react_default.a.createElement("div", {
+    className: "stack-name-hold"
+  }, react_default.a.createElement("p", {
+    className: "stack-name"
+  }, props.name)), react_default.a.createElement("div", {
+    className: "stack-image-hold"
+  }, react_default.a.createElement("img", {
+    className: "stack-image",
+    src: props.img,
+    alt: props.name
+  })));
+};
+
+/* harmony default export */ var Sections_StackImg = (StackImg_StackImg);
+// EXTERNAL MODULE: ./src/assets/HTML.png
+var HTML = __webpack_require__("7/Dw");
+var HTML_default = /*#__PURE__*/__webpack_require__.n(HTML);
+
+// EXTERNAL MODULE: ./src/assets/CSS.png
+var CSS = __webpack_require__("0ajy");
+var CSS_default = /*#__PURE__*/__webpack_require__.n(CSS);
+
+// EXTERNAL MODULE: ./src/assets/JAVASCRIPT.png
+var JAVASCRIPT = __webpack_require__("cCSr");
+var JAVASCRIPT_default = /*#__PURE__*/__webpack_require__.n(JAVASCRIPT);
+
+// EXTERNAL MODULE: ./src/assets/MONGO.png
+var MONGO = __webpack_require__("DkFn");
+var MONGO_default = /*#__PURE__*/__webpack_require__.n(MONGO);
+
+// EXTERNAL MODULE: ./src/assets/NEXT.png
+var NEXT = __webpack_require__("yqaT");
+var NEXT_default = /*#__PURE__*/__webpack_require__.n(NEXT);
+
+// EXTERNAL MODULE: ./src/assets/NODE.png
+var NODE = __webpack_require__("8wh9");
+var NODE_default = /*#__PURE__*/__webpack_require__.n(NODE);
+
+// EXTERNAL MODULE: ./src/assets/POSTGRES.png
+var POSTGRES = __webpack_require__("9OTN");
+var POSTGRES_default = /*#__PURE__*/__webpack_require__.n(POSTGRES);
+
+// EXTERNAL MODULE: ./src/assets/REACT.png
+var REACT = __webpack_require__("Vc8g");
+var REACT_default = /*#__PURE__*/__webpack_require__.n(REACT);
+
+// EXTERNAL MODULE: ./src/assets/SASS.png
+var SASS = __webpack_require__("rXXc");
+var SASS_default = /*#__PURE__*/__webpack_require__.n(SASS);
+
+// CONCATENATED MODULE: ./Components/Sections/Stack.jsx
+
+
+
+
+
+
+
+
+
+
+
+
+
+var Stack_Stack = function Stack() {
+  return react_default.a.createElement("div", {
+    className: "Stack"
+  }, react_default.a.createElement("h1", {
+    className: "section-label"
+  }, "Stack"), react_default.a.createElement("div", {
+    className: "stack-content"
+  }, react_default.a.createElement(Sections_StackImg, {
+    img: HTML_default.a,
+    name: "HTML5"
+  }), react_default.a.createElement(Sections_StackImg, {
+    img: CSS_default.a,
+    name: "CSS3"
+  }), react_default.a.createElement(Sections_StackImg, {
+    img: SASS_default.a,
+    name: "Sass"
+  }), react_default.a.createElement(Sections_StackImg, {
+    img: JAVASCRIPT_default.a,
+    name: "Javascript"
+  }), react_default.a.createElement(Sections_StackImg, {
+    img: REACT_default.a,
+    name: "React.js"
+  }), react_default.a.createElement(Sections_StackImg, {
+    img: NEXT_default.a,
+    name: "Next.js"
+  }), react_default.a.createElement(Sections_StackImg, {
+    img: NODE_default.a,
+    name: "Node.js"
+  }), react_default.a.createElement(Sections_StackImg, {
+    img: POSTGRES_default.a,
+    name: "PostgreSQL"
+  }), react_default.a.createElement(Sections_StackImg, {
+    img: MONGO_default.a,
+    name: "MongoDB"
+  })));
+};
+
+/* harmony default export */ var Sections_Stack = (Stack_Stack);
+// EXTERNAL MODULE: ./styles/Portfolio.scss
+var styles_Portfolio = __webpack_require__("9vOZ");
+
+// EXTERNAL MODULE: ./node_modules/nuka-carousel/index.js
+var nuka_carousel = __webpack_require__("NMyy");
+var nuka_carousel_default = /*#__PURE__*/__webpack_require__.n(nuka_carousel);
+
+// CONCATENATED MODULE: ./Components/Sections/Portfolio.jsx
+
+
+
+
+var Portfolio_Portfolio = function Portfolio() {
+  return react_default.a.createElement("div", {
+    className: "Portfolio"
+  }, react_default.a.createElement("h1", {
+    className: "section-label"
+  }, "Portfolio"), react_default.a.createElement("div", {
+    className: "portfolio-content"
+  }, react_default.a.createElement("div", {
+    className: "portfolio-item"
+  }, react_default.a.createElement("h2", {
+    className: "portfolio-item-title"
+  }, "vote2play"), react_default.a.createElement(nuka_carousel_default.a, {
+    width: "80%",
+    autoplay: "true",
+    autoplayInterval: "5000",
+    swiping: "true",
+    withoutControls: "true",
+    pauseOnHover: "true",
+    wrapAround: "true",
+    heightMode: "first",
+    speed: "1500"
+  }, react_default.a.createElement("div", {
+    className: "carousel-item"
+  }, react_default.a.createElement("img", {
+    className: "carousel-image",
+    src: "https://socialplaylists.s3-us-west-1.amazonaws.com/Website+images/vote2play+home.png",
+    alt: "vote2play home page"
+  }), react_default.a.createElement("p", {
+    className: "carousel-image-label"
+  }, "vote2play home page")), react_default.a.createElement("div", {
+    className: "carousel-item"
+  }, react_default.a.createElement("img", {
+    className: "carousel-image",
+    src: "https://socialplaylists.s3-us-west-1.amazonaws.com/Website+images/vote2play+group.png",
+    alt: "vote2play dashboard"
+  }), react_default.a.createElement("p", {
+    className: "carousel-image-label"
+  }, "User dashboard shows all groups and allows for joining new groups")), react_default.a.createElement("div", {
+    className: "carousel-item"
+  }, react_default.a.createElement("img", {
+    className: "carousel-image",
+    src: "https://socialplaylists.s3-us-west-1.amazonaws.com/Website+images/vote2play+group.png",
+    alt: "vote2play group"
+  }), react_default.a.createElement("p", {
+    className: "carousel-image-label"
+  }, "Host view plays media and shows additional controls")), react_default.a.createElement("div", {
+    className: "carousel-item"
+  }, react_default.a.createElement("img", {
+    className: "carousel-image",
+    src: "https://socialplaylists.s3-us-west-1.amazonaws.com/Website+images/vote2play+group+not+host.png",
+    alt: "vote2play group"
+  }), react_default.a.createElement("p", {
+    className: "carousel-image-label"
+  }, "Member view shows what is playing and allows for voting and tuning in")), react_default.a.createElement("div", {
+    className: "carousel-item"
+  }, react_default.a.createElement("img", {
+    className: "carousel-image",
+    src: "https://socialplaylists.s3-us-west-1.amazonaws.com/Website+images/vote2play+create+group.png",
+    alt: "vote2play create groups"
+  }), react_default.a.createElement("p", {
+    className: "carousel-image-label"
+  }, "Users can easily create new groups")), react_default.a.createElement("div", {
+    className: "carousel-item"
+  }, react_default.a.createElement("img", {
+    className: "carousel-image",
+    src: "https://socialplaylists.s3-us-west-1.amazonaws.com/Website+images/vote2play+profile.png",
+    alt: "vote2play profile"
+  }), react_default.a.createElement("p", {
+    className: "carousel-image-label"
+  }, "Profile page allows users to edit their information and leave any unused groups"))), react_default.a.createElement("ul", {
+    className: "portfolio-item-list"
+  }, react_default.a.createElement("li", null, "vote2play is a platform for collaborative playlist making and music listening"), react_default.a.createElement("li", null, "Playlists are made from YouTube links and can be added by listeners and voted on to determine the order they will play"), react_default.a.createElement("li", null, "By default, music only plays on host device but other members can tune in on their own devices"), react_default.a.createElement("li", null, "Music will always sync with the host device including pause, play, and seek functionality"), react_default.a.createElement("li", null, "Built using: React.js, Express, Socket.io, PostgreSQL, and Google's YouTube API"), react_default.a.createElement("li", null, "Live site: ", react_default.a.createElement("a", {
+    target: "_blank",
+    href: "http://www.vote2play.com"
+  }, "www.vote2play.com")), react_default.a.createElement("li", null, react_default.a.createElement("a", {
+    target: "_blank",
+    href: "https://github.com/andrewwestenskow/vote2play"
+  }, "GitHub repo ")))), react_default.a.createElement("div", {
+    className: "portfolio-item"
+  }, react_default.a.createElement("h2", {
+    className: "portfolio-item-title"
+  }, "fin-s"), react_default.a.createElement(nuka_carousel_default.a, {
+    width: "80%",
+    autoplay: "true",
+    autoplayInterval: "5000",
+    swiping: "true",
+    withoutControls: "true",
+    pauseOnHover: "true",
+    wrapAround: "true",
+    heightMode: "first",
+    speed: "1500"
+  }, react_default.a.createElement("div", {
+    className: "carousel-item"
+  }, react_default.a.createElement("img", {
+    className: "carousel-image",
+    src: "https://socialplaylists.s3-us-west-1.amazonaws.com/Hero+Images/groups+example.PNG",
+    alt: "vote2play groups"
+  }), react_default.a.createElement("p", {
+    className: "carousel-image-label"
+  }, "User dashboard displays all groups")), react_default.a.createElement("div", {
+    className: "carousel-item"
+  }, react_default.a.createElement("img", {
+    className: "carousel-image",
+    src: "https://socialplaylists.s3-us-west-1.amazonaws.com/Hero+Images/Playlist+example.PNG",
+    alt: "vote2play playlist"
+  }), react_default.a.createElement("p", {
+    className: "carousel-image-label"
+  }, "Playlist displays now playing and upcoming songs")), react_default.a.createElement("div", {
+    className: "carousel-item"
+  }, react_default.a.createElement("img", {
+    className: "carousel-image",
+    src: "https://socialplaylists.s3-us-west-1.amazonaws.com/Hero+Images/create+group+example.PNG",
+    alt: "vote2play create group"
+  }), react_default.a.createElement("p", {
+    className: "carousel-image-label"
+  }, "Users can create new groups"))), react_default.a.createElement("ul", {
+    className: "portfolio-item-list"
+  }, react_default.a.createElement("li", null, "fin-s is a financial tracker specifically designed to help users eliminate debt"), react_default.a.createElement("li", null, "Users incomes, debts, and expenses are input at sign-up and visualized in the dashboard"), react_default.a.createElement("li", null, "The dashboard view shows both a list and calendar view of upcoming incomes, debts, and expenses as well as an interactive graph which visualizes debt payoff with higher payments"), react_default.a.createElement("li", null, "The dashboard also provides a financial wellness to-do list designed to help users reach financial stability"), react_default.a.createElement("li", null, "Built using: React.js, Express, PostgreSQL, MongoDB, Chart.js, and fullcalendar"), react_default.a.createElement("li", null, "Live site: ", react_default.a.createElement("a", {
+    target: "_blank",
+    href: "http://www.fin-s.us"
+  }, "www.fin-s.us")), react_default.a.createElement("li", null, react_default.a.createElement("a", {
+    target: "_blank",
+    href: "https://github.com/fin-s/fin-s"
+  }, "GitHub repo "))))));
+};
+
+/* harmony default export */ var Sections_Portfolio = (Portfolio_Portfolio);
+// EXTERNAL MODULE: ./styles/Contact.scss
+var styles_Contact = __webpack_require__("U1XN");
+
+// EXTERNAL MODULE: ./node_modules/@babel/runtime-corejs2/helpers/esm/classCallCheck.js
+var classCallCheck = __webpack_require__("0iUn");
+
+// EXTERNAL MODULE: ./node_modules/@babel/runtime-corejs2/helpers/esm/createClass.js
+var createClass = __webpack_require__("sLSF");
+
+// EXTERNAL MODULE: ./node_modules/@babel/runtime-corejs2/helpers/esm/possibleConstructorReturn.js + 1 modules
+var possibleConstructorReturn = __webpack_require__("MI3g");
+
+// EXTERNAL MODULE: ./node_modules/@babel/runtime-corejs2/helpers/esm/getPrototypeOf.js
+var getPrototypeOf = __webpack_require__("a7VT");
+
+// EXTERNAL MODULE: ./node_modules/@babel/runtime-corejs2/helpers/esm/assertThisInitialized.js
+var assertThisInitialized = __webpack_require__("AT/M");
+
+// EXTERNAL MODULE: ./node_modules/@babel/runtime-corejs2/helpers/esm/inherits.js + 1 modules
+var inherits = __webpack_require__("Tit0");
+
+// EXTERNAL MODULE: ./node_modules/@babel/runtime-corejs2/core-js/object/define-property.js
+var define_property = __webpack_require__("hfKm");
+var define_property_default = /*#__PURE__*/__webpack_require__.n(define_property);
+
+// CONCATENATED MODULE: ./node_modules/@babel/runtime-corejs2/helpers/esm/defineProperty.js
+
+function _defineProperty(obj, key, value) {
+  if (key in obj) {
+    define_property_default()(obj, key, {
+      value: value,
+      enumerable: true,
+      configurable: true,
+      writable: true
+    });
+  } else {
+    obj[key] = value;
+  }
+
+  return obj;
+}
+// EXTERNAL MODULE: ./styles/ContactForm.scss
+var styles_ContactForm = __webpack_require__("aOSI");
+
+// CONCATENATED MODULE: ./Components/Sections/ContactForm.jsx
+
+
+
+
+
+
+
+
+
+
+var ContactForm_ContactForm =
+/*#__PURE__*/
+function (_Component) {
+  Object(inherits["default"])(ContactForm, _Component);
+
+  function ContactForm() {
+    var _getPrototypeOf2;
+
+    var _this;
+
+    Object(classCallCheck["default"])(this, ContactForm);
+
+    for (var _len = arguments.length, args = new Array(_len), _key = 0; _key < _len; _key++) {
+      args[_key] = arguments[_key];
+    }
+
+    _this = Object(possibleConstructorReturn["default"])(this, (_getPrototypeOf2 = Object(getPrototypeOf["default"])(ContactForm)).call.apply(_getPrototypeOf2, [this].concat(args)));
+
+    _defineProperty(Object(assertThisInitialized["default"])(_this), "state", {
+      from: '',
+      subject: '',
+      body: ''
+    });
+
+    _defineProperty(Object(assertThisInitialized["default"])(_this), "handleChange", function (e) {
+      _this.setState(_defineProperty({}, e.target.name, e.target.value));
+    });
+
+    _defineProperty(Object(assertThisInitialized["default"])(_this), "handleSubmit", function () {});
+
+    return _this;
+  }
+
+  Object(createClass["default"])(ContactForm, [{
+    key: "render",
+    value: function render() {
+      var _this2 = this;
+
+      return react_default.a.createElement("div", null, react_default.a.createElement("div", {
+        className: "contact-form"
+      }, react_default.a.createElement("p", null, "Your email"), react_default.a.createElement("input", {
+        onChange: function onChange(e) {
+          return _this2.handleChange(e);
+        },
+        name: "from",
+        type: "text",
+        required: true
+      }), react_default.a.createElement("p", null, "Subject"), react_default.a.createElement("input", {
+        onChange: function onChange(e) {
+          return _this2.handleChange(e);
+        },
+        name: "subject",
+        type: "text",
+        required: true
+      }), react_default.a.createElement("textarea", {
+        onChange: function onChange(e) {
+          return _this2.handleChange(e);
+        },
+        name: "body",
+        id: "",
+        cols: "30",
+        rows: "10",
+        required: true
+      }), react_default.a.createElement("button", {
+        onClick: this.handleSubmit,
+        type: "submit"
+      }, "Send")));
+    }
+  }]);
+
+  return ContactForm;
+}(react["Component"]);
+
+/* harmony default export */ var Sections_ContactForm = (ContactForm_ContactForm);
+// CONCATENATED MODULE: ./Components/Sections/Contact.jsx
+
+
+
+
+
+var Contact_Contact = function Contact() {
+  return react_default.a.createElement("div", {
+    className: "Contact"
+  }, react_default.a.createElement("h1", {
+    className: "section-label"
+  }, "Contact"), react_default.a.createElement("div", {
+    className: "contact-page"
+  }, react_default.a.createElement("div", {
+    className: "lets-chat"
+  }, react_default.a.createElement("h1", null, "Let's chat!")), react_default.a.createElement("div", {
+    className: "contact-info"
+  }, react_default.a.createElement("div", {
+    className: "contact-info-line"
+  }, react_default.a.createElement("a", {
+    href: "mailto:andrew.westenskow@gmail.com?subject=Let's chat!",
+    target: "_blank",
+    className: "contact-info-text"
+  }, react_default.a.createElement(react_fontawesome["FontAwesomeIcon"], {
+    className: "contact-info-icon",
+    icon: "envelope"
+  }), "andrew.westenskow@gmail.com")), react_default.a.createElement("div", {
+    className: "contact-info-line"
+  }, react_default.a.createElement("a", {
+    href: "tel:385-290-8656",
+    className: "contact-info-text"
+  }, react_default.a.createElement(react_fontawesome["FontAwesomeIcon"], {
+    className: "contact-info-icon",
+    icon: "phone"
+  }), "(385) 290-8656")), react_default.a.createElement("div", {
+    className: "contact-info-line"
+  }, react_default.a.createElement("a", {
+    className: "contact-info-text",
+    href: "https://www.linkedin.com/in/andrew-westenskow/",
+    target: "_blank"
+  }, react_default.a.createElement(react_fontawesome["FontAwesomeIcon"], {
+    className: "contact-info-icon",
+    icon: ['fab', 'linkedin-in']
+  }), "https://www.linkedin.com/in/andrew-westenskow/")), react_default.a.createElement("div", {
+    className: "contact-info-line"
+  }, react_default.a.createElement("a", {
+    target: "_blank",
+    className: "contact-info-text",
+    href: "https://github.com/andrewwestenskow"
+  }, react_default.a.createElement(react_fontawesome["FontAwesomeIcon"], {
+    className: "contact-info-icon",
+    icon: ['fab', 'github']
+  }), "https://github.com/andrewwestenskow")))));
+};
+
+/* harmony default export */ var Sections_Contact = (Contact_Contact);
+// EXTERNAL MODULE: ./node_modules/next-server/dist/lib/head.js
+var head = __webpack_require__("m/Pd");
+var head_default = /*#__PURE__*/__webpack_require__.n(head);
+
+// CONCATENATED MODULE: ./pages/index.js
+
+
+
+
+
+
+
+
+
+
+var pages_Index = function Index() {
+  return react_default.a.createElement(react_default.a.Fragment, null, react_default.a.createElement(head_default.a, null, react_default.a.createElement("title", null, "Andrew Westenskow")), react_default.a.createElement(Components_Layout, null, react_default.a.createElement("section", {
+    id: "home"
+  }, react_default.a.createElement(Sections_Home, null)), react_default.a.createElement("section", {
+    id: "about"
+  }, react_default.a.createElement(Sections_About, null)), react_default.a.createElement("section", {
+    id: "portfolio"
+  }, react_default.a.createElement(Sections_Portfolio, null)), react_default.a.createElement("section", {
+    id: "stack"
+  }, react_default.a.createElement(Sections_Stack, null)), react_default.a.createElement("section", {
+    id: "contact"
+  }, react_default.a.createElement(Sections_Contact, null))));
+};
+
+/* harmony default export */ var pages = (pages_Index);
+// CONCATENATED MODULE: ./node_modules/next/dist/build/webpack/loaders/next-serverless-loader.js?page=%2F&absolutePagePath=private-next-pages%2Findex.js&absoluteAppPath=next%2Fdist%2Fpages%2F_app&absoluteDocumentPath=next%2Fdist%2Fpages%2F_document&absoluteErrorPath=next%2Fdist%2Fpages%2F_error&distDir=private-dot-next&assetPrefix=&generateEtags=true&ampBindInitData=false&dynamicBuildId=false
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return next_serverless_loaderpage_2F_absolutePagePath_private_next_pages_2Findex_js_absoluteAppPath_next_2Fdist_2Fpages_2F_app_absoluteDocumentPath_next_2Fdist_2Fpages_2F_document_absoluteErrorPath_next_2Fdist_2Fpages_2F_error_distDir_private_dot_next_assetPrefix_generateEtags_true_ampBindInitData_false_dynamicBuildId_false_render; });
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    async function renderReqToHTML(req, res) {
+      const options = {
+        App: _app_default.a,
+        Document: _document_default.a,
+        buildManifest: build_manifest,
+        reactLoadableManifest: react_loadable_manifest,
+        buildId: "G629eT0yafjHwRwYgzWfO",
+        dynamicBuildId: false,
+        assetPrefix: "",
+        ampBindInitData: false
+      }
+      const parsedUrl = Object(external_url_["parse"])(req.url, true)
+      try {
+        
+        const result = await Object(server_render["renderToHTML"])(req, res, "/", parsedUrl.query, Object.assign(
+          {
+            Component: pages,
+            dataOnly: req.headers && (req.headers.accept || '').indexOf('application/amp.bind+json') !== -1,
+          }, 
+          options, 
+        ))
+        return result
+      } catch (err) {
+        if (err.code === 'ENOENT') {
+          res.statusCode = 404
+          const result = await Object(server_render["renderToHTML"])(req, res, "/_error", parsedUrl.query, Object.assign({}, options, {
+            Component: _error_default.a
+          }))
+          return result
+        } else {
+          console.error(err)
+          res.statusCode = 500
+          const result = await Object(server_render["renderToHTML"])(req, res, "/_error", parsedUrl.query, Object.assign({}, options, {
+            Component: _error_default.a,
+            err
+          }))
+          return result
+        }
+      }
+    }
+    async function next_serverless_loaderpage_2F_absolutePagePath_private_next_pages_2Findex_js_absoluteAppPath_next_2Fdist_2Fpages_2F_app_absoluteDocumentPath_next_2Fdist_2Fpages_2F_document_absoluteErrorPath_next_2Fdist_2Fpages_2F_error_distDir_private_dot_next_assetPrefix_generateEtags_true_ampBindInitData_false_dynamicBuildId_false_render (req, res) {
+      try {
+        const html = await renderReqToHTML(req, res)
+        Object(send_html["sendHTML"])(req, res, html, {generateEtags: true})
+      } catch(err) {
+        console.error(err)
+        res.statusCode = 500
+        res.end('Internal Server Error')
+      }
+    }
+  
 
 /***/ }),
 
@@ -6616,768 +7378,6 @@ module.exports = exports['default'];
 
 /***/ }),
 
-/***/ "Dk7Q":
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-
-// EXTERNAL MODULE: external "url"
-var external_url_ = __webpack_require__("bzos");
-
-// EXTERNAL MODULE: ./node_modules/next-server/dist/server/render.js
-var server_render = __webpack_require__("R+7f");
-
-// EXTERNAL MODULE: ./node_modules/next-server/dist/server/send-html.js
-var send_html = __webpack_require__("I8F5");
-
-// EXTERNAL MODULE: ./.next/build-manifest.json
-var build_manifest = __webpack_require__("LZ9C");
-
-// EXTERNAL MODULE: ./.next/react-loadable-manifest.json
-var react_loadable_manifest = __webpack_require__("67Bq");
-
-// EXTERNAL MODULE: ./node_modules/next/dist/pages/_document.js
-var _document = __webpack_require__("VDXt");
-var _document_default = /*#__PURE__*/__webpack_require__.n(_document);
-
-// EXTERNAL MODULE: ./node_modules/next/dist/pages/_error.js
-var _error = __webpack_require__("/a9y");
-var _error_default = /*#__PURE__*/__webpack_require__.n(_error);
-
-// EXTERNAL MODULE: ./node_modules/next/dist/pages/_app.js
-var _app = __webpack_require__("B5Ud");
-var _app_default = /*#__PURE__*/__webpack_require__.n(_app);
-
-// EXTERNAL MODULE: ./node_modules/react/index.js
-var react = __webpack_require__("q1tI");
-var react_default = /*#__PURE__*/__webpack_require__.n(react);
-
-// EXTERNAL MODULE: ./styles/Layout.scss
-var styles_Layout = __webpack_require__("b/Yn");
-
-// EXTERNAL MODULE: ./node_modules/@fortawesome/fontawesome-svg-core/index.js
-var fontawesome_svg_core = __webpack_require__("jQ4O");
-
-// EXTERNAL MODULE: ./node_modules/@fortawesome/react-fontawesome/index.js
-var react_fontawesome = __webpack_require__("3SJ+");
-
-// EXTERNAL MODULE: ./node_modules/@fortawesome/free-solid-svg-icons/index.js
-var free_solid_svg_icons = __webpack_require__("YTkO");
-
-// EXTERNAL MODULE: ./node_modules/@fortawesome/free-brands-svg-icons/index.js
-var free_brands_svg_icons = __webpack_require__("h7Ti");
-
-// EXTERNAL MODULE: ./node_modules/next/link.js
-var next_link = __webpack_require__("YFqc");
-var link_default = /*#__PURE__*/__webpack_require__.n(next_link);
-
-// CONCATENATED MODULE: ./Components/Layout.jsx
-
-
-
-
-
-
-
-
-var Layout_Layout = function Layout(props) {
-  fontawesome_svg_core["library"].add(free_solid_svg_icons["faHome"], free_solid_svg_icons["faUser"], free_solid_svg_icons["faLayerGroup"], free_solid_svg_icons["faDesktop"], free_solid_svg_icons["faEnvelopeOpenText"], free_solid_svg_icons["faEnvelope"], free_solid_svg_icons["faPhone"], free_brands_svg_icons["fab"]);
-  return react_default.a.createElement("div", {
-    className: "Layout"
-  }, react_default.a.createElement("div", {
-    className: "navbar"
-  }, react_default.a.createElement("nav", {
-    className: "nav"
-  }, react_default.a.createElement(link_default.a, {
-    href: "#home"
-  }, react_default.a.createElement("div", {
-    className: "nav-label-hold"
-  }, react_default.a.createElement("span", {
-    className: "nav-label"
-  }, "Home"), react_default.a.createElement("div", {
-    className: "icon-hold"
-  }, react_default.a.createElement(react_fontawesome["FontAwesomeIcon"], {
-    id: "home-icon",
-    className: "nav-icon",
-    icon: "home"
-  })))), react_default.a.createElement(link_default.a, {
-    href: "#about"
-  }, react_default.a.createElement("div", {
-    className: "nav-label-hold"
-  }, react_default.a.createElement("span", {
-    className: "nav-label"
-  }, "About"), react_default.a.createElement("div", {
-    className: "icon-hold"
-  }, react_default.a.createElement(react_fontawesome["FontAwesomeIcon"], {
-    className: "nav-icon",
-    icon: "user"
-  })))), react_default.a.createElement(link_default.a, {
-    href: "#portfolio"
-  }, react_default.a.createElement("div", {
-    className: "nav-label-hold"
-  }, react_default.a.createElement("span", {
-    className: "nav-label"
-  }, "Portfolio"), react_default.a.createElement("div", {
-    className: "icon-hold"
-  }, react_default.a.createElement(react_fontawesome["FontAwesomeIcon"], {
-    className: "nav-icon",
-    icon: "desktop"
-  })))), react_default.a.createElement(link_default.a, {
-    href: "#stack"
-  }, react_default.a.createElement("div", {
-    className: "nav-label-hold"
-  }, react_default.a.createElement("span", {
-    className: "nav-label"
-  }, "Stack"), react_default.a.createElement("div", {
-    className: "icon-hold"
-  }, react_default.a.createElement(react_fontawesome["FontAwesomeIcon"], {
-    className: "nav-icon",
-    icon: "layer-group"
-  })))), react_default.a.createElement(link_default.a, {
-    href: "#contact"
-  }, react_default.a.createElement("div", {
-    className: "nav-label-hold"
-  }, react_default.a.createElement("span", {
-    className: "nav-label"
-  }, "Contact"), react_default.a.createElement("div", {
-    className: "icon-hold"
-  }, react_default.a.createElement(react_fontawesome["FontAwesomeIcon"], {
-    className: "nav-icon",
-    icon: "envelope-open-text"
-  })))))), react_default.a.createElement("div", null, props.children));
-};
-
-/* harmony default export */ var Components_Layout = (Layout_Layout);
-// EXTERNAL MODULE: ./styles/Index.scss
-var styles_Index = __webpack_require__("cHBK");
-
-// EXTERNAL MODULE: ./styles/Home.scss
-var styles_Home = __webpack_require__("xTwp");
-
-// EXTERNAL MODULE: ./node_modules/react-typing-animation/dist/index.js
-var dist = __webpack_require__("j/HY");
-var dist_default = /*#__PURE__*/__webpack_require__.n(dist);
-
-// CONCATENATED MODULE: ./Components/Sections/Home.jsx
-
-
-
-
-var Home_AnimatedTypingComponent = function AnimatedTypingComponent() {
-  return react_default.a.createElement(dist_default.a, {
-    startDelay: 1000
-  }, react_default.a.createElement("span", {
-    className: "intro"
-  }, "movie lover"), react_default.a.createElement(dist_default.a.Delay, {
-    ms: 1500
-  }), react_default.a.createElement(dist_default.a.Backspace, {
-    count: 20
-  }), react_default.a.createElement("span", {
-    className: "intro"
-  }, "video gamer"), react_default.a.createElement(dist_default.a.Delay, {
-    ms: 1500
-  }), react_default.a.createElement(dist_default.a.Backspace, {
-    count: 20
-  }), react_default.a.createElement("span", {
-    className: "intro"
-  }, "drummer"), react_default.a.createElement(dist_default.a.Delay, {
-    ms: 1500
-  }), react_default.a.createElement(dist_default.a.Backspace, {
-    count: 20
-  }), react_default.a.createElement("span", {
-    className: "intro",
-    style: {
-      textDecoration: 'underline'
-    }
-  }, "web developer"), react_default.a.createElement(dist_default.a.Delay, {
-    ms: 100000000
-  }));
-};
-
-var Home_Home = function Home() {
-  return react_default.a.createElement("div", {
-    className: "Home"
-  }, react_default.a.createElement("h1", {
-    className: "section-label"
-  }, "Home"), react_default.a.createElement("div", {
-    className: "home-content"
-  }, react_default.a.createElement("div", {
-    className: "intro-hold"
-  }, react_default.a.createElement("h1", {
-    className: "name"
-  }, "My name is ", react_default.a.createElement("br", null), " Andrew Westenskow"), react_default.a.createElement("div", {
-    className: "titles-hold"
-  }, react_default.a.createElement("h2", {
-    className: "intro-head"
-  }, "I am a"), react_default.a.createElement(Home_AnimatedTypingComponent, null))), react_default.a.createElement("div", {
-    className: "photo-hold"
-  })));
-};
-
-/* harmony default export */ var Sections_Home = (Home_Home);
-// EXTERNAL MODULE: ./styles/About.scss
-var styles_About = __webpack_require__("tO0T");
-
-// CONCATENATED MODULE: ./Components/Sections/About.jsx
-
-
-
-
-var About_About = function About() {
-  return react_default.a.createElement("div", {
-    className: "About"
-  }, react_default.a.createElement("h1", {
-    className: "section-label"
-  }, "About"), react_default.a.createElement("div", {
-    className: "about-content"
-  }, react_default.a.createElement("div", {
-    className: "about-image-hold"
-  }, react_default.a.createElement("div", {
-    className: "about-image"
-  })), react_default.a.createElement("div", {
-    className: "about-text-hold"
-  }, react_default.a.createElement("h1", null, "Hi, I'm Andrew..."), react_default.a.createElement("article", null, react_default.a.createElement("p", null, "Soon after graduating with Bachelor's degrees in Russian and International Studies, I realized that field was not where I would work for the rest of my life.  I spent a few years working in logistics but always felt the call of the tech community.  I finally decided to dive in and have loved every minute of my time as a developer.  I love finding solutions to complex problems, coming up with the most efficient way to do things, and  building effective and efficient apps.  When I'm not coding I love to play the drums and watch movies.  I even host a podcast discussing film!  If you have any questions please don't hesitate to ", react_default.a.createElement(link_default.a, {
-    href: "#contact"
-  }, "get in touch!"))))));
-};
-
-/* harmony default export */ var Sections_About = (About_About);
-// EXTERNAL MODULE: ./styles/Stack.scss
-var styles_Stack = __webpack_require__("lJos");
-
-// EXTERNAL MODULE: ./styles/StackImg.scss
-var styles_StackImg = __webpack_require__("lE1v");
-
-// CONCATENATED MODULE: ./Components/Sections/StackImg.jsx
-
-
-
-var StackImg_StackImg = function StackImg(props) {
-  return react_default.a.createElement("div", {
-    className: "stack-img"
-  }, react_default.a.createElement("div", {
-    className: "stack-name-hold"
-  }, react_default.a.createElement("p", {
-    className: "stack-name"
-  }, props.name)), react_default.a.createElement("div", {
-    className: "stack-image-hold"
-  }, react_default.a.createElement("img", {
-    className: "stack-image",
-    src: props.img,
-    alt: props.name
-  })));
-};
-
-/* harmony default export */ var Sections_StackImg = (StackImg_StackImg);
-// EXTERNAL MODULE: ./src/assets/HTML.png
-var HTML = __webpack_require__("7/Dw");
-var HTML_default = /*#__PURE__*/__webpack_require__.n(HTML);
-
-// EXTERNAL MODULE: ./src/assets/CSS.png
-var CSS = __webpack_require__("0ajy");
-var CSS_default = /*#__PURE__*/__webpack_require__.n(CSS);
-
-// EXTERNAL MODULE: ./src/assets/JAVASCRIPT.png
-var JAVASCRIPT = __webpack_require__("cCSr");
-var JAVASCRIPT_default = /*#__PURE__*/__webpack_require__.n(JAVASCRIPT);
-
-// EXTERNAL MODULE: ./src/assets/MONGO.png
-var MONGO = __webpack_require__("DkFn");
-var MONGO_default = /*#__PURE__*/__webpack_require__.n(MONGO);
-
-// EXTERNAL MODULE: ./src/assets/NEXT.png
-var NEXT = __webpack_require__("yqaT");
-var NEXT_default = /*#__PURE__*/__webpack_require__.n(NEXT);
-
-// EXTERNAL MODULE: ./src/assets/NODE.png
-var NODE = __webpack_require__("8wh9");
-var NODE_default = /*#__PURE__*/__webpack_require__.n(NODE);
-
-// EXTERNAL MODULE: ./src/assets/POSTGRES.png
-var POSTGRES = __webpack_require__("9OTN");
-var POSTGRES_default = /*#__PURE__*/__webpack_require__.n(POSTGRES);
-
-// EXTERNAL MODULE: ./src/assets/REACT.png
-var REACT = __webpack_require__("Vc8g");
-var REACT_default = /*#__PURE__*/__webpack_require__.n(REACT);
-
-// EXTERNAL MODULE: ./src/assets/SASS.png
-var SASS = __webpack_require__("rXXc");
-var SASS_default = /*#__PURE__*/__webpack_require__.n(SASS);
-
-// CONCATENATED MODULE: ./Components/Sections/Stack.jsx
-
-
-
-
-
-
-
-
-
-
-
-
-
-var Stack_Stack = function Stack() {
-  return react_default.a.createElement("div", {
-    className: "Stack"
-  }, react_default.a.createElement("h1", {
-    className: "section-label"
-  }, "Stack"), react_default.a.createElement("div", {
-    className: "stack-content"
-  }, react_default.a.createElement(Sections_StackImg, {
-    img: HTML_default.a,
-    name: "HTML5"
-  }), react_default.a.createElement(Sections_StackImg, {
-    img: CSS_default.a,
-    name: "CSS3"
-  }), react_default.a.createElement(Sections_StackImg, {
-    img: SASS_default.a,
-    name: "Sass"
-  }), react_default.a.createElement(Sections_StackImg, {
-    img: JAVASCRIPT_default.a,
-    name: "Javascript"
-  }), react_default.a.createElement(Sections_StackImg, {
-    img: REACT_default.a,
-    name: "React.js"
-  }), react_default.a.createElement(Sections_StackImg, {
-    img: NEXT_default.a,
-    name: "Next.js"
-  }), react_default.a.createElement(Sections_StackImg, {
-    img: NODE_default.a,
-    name: "Node.js"
-  }), react_default.a.createElement(Sections_StackImg, {
-    img: POSTGRES_default.a,
-    name: "PostgreSQL"
-  }), react_default.a.createElement(Sections_StackImg, {
-    img: MONGO_default.a,
-    name: "MongoDB"
-  })));
-};
-
-/* harmony default export */ var Sections_Stack = (Stack_Stack);
-// EXTERNAL MODULE: ./styles/Portfolio.scss
-var styles_Portfolio = __webpack_require__("9vOZ");
-
-// EXTERNAL MODULE: ./node_modules/nuka-carousel/index.js
-var nuka_carousel = __webpack_require__("NMyy");
-var nuka_carousel_default = /*#__PURE__*/__webpack_require__.n(nuka_carousel);
-
-// CONCATENATED MODULE: ./Components/Sections/Portfolio.jsx
-
-
-
-
-var Portfolio_Portfolio = function Portfolio() {
-  return react_default.a.createElement("div", {
-    className: "Portfolio"
-  }, react_default.a.createElement("h1", {
-    className: "section-label"
-  }, "Portfolio"), react_default.a.createElement("div", {
-    className: "portfolio-content"
-  }, react_default.a.createElement("div", {
-    className: "portfolio-item"
-  }, react_default.a.createElement("h2", {
-    className: "portfolio-item-title"
-  }, "vote2play"), react_default.a.createElement(nuka_carousel_default.a, {
-    width: "80%",
-    autoplay: "true",
-    autoplayInterval: "5000",
-    swiping: "true",
-    withoutControls: "true",
-    pauseOnHover: "true",
-    wrapAround: "true",
-    heightMode: "first",
-    speed: "1500"
-  }, react_default.a.createElement("div", {
-    className: "carousel-item"
-  }, react_default.a.createElement("img", {
-    className: "carousel-image",
-    src: "https://socialplaylists.s3-us-west-1.amazonaws.com/Website+images/vote2play+home.png",
-    alt: "vote2play home page"
-  }), react_default.a.createElement("p", {
-    className: "carousel-image-label"
-  }, "vote2play home page")), react_default.a.createElement("div", {
-    className: "carousel-item"
-  }, react_default.a.createElement("img", {
-    className: "carousel-image",
-    src: "https://socialplaylists.s3-us-west-1.amazonaws.com/Website+images/vote2play+group.png",
-    alt: "vote2play dashboard"
-  }), react_default.a.createElement("p", {
-    className: "carousel-image-label"
-  }, "User dashboard shows all groups and allows for joining new groups")), react_default.a.createElement("div", {
-    className: "carousel-item"
-  }, react_default.a.createElement("img", {
-    className: "carousel-image",
-    src: "https://socialplaylists.s3-us-west-1.amazonaws.com/Website+images/vote2play+group.png",
-    alt: "vote2play group"
-  }), react_default.a.createElement("p", {
-    className: "carousel-image-label"
-  }, "Host view plays media and shows additional controls")), react_default.a.createElement("div", {
-    className: "carousel-item"
-  }, react_default.a.createElement("img", {
-    className: "carousel-image",
-    src: "https://socialplaylists.s3-us-west-1.amazonaws.com/Website+images/vote2play+group+not+host.png",
-    alt: "vote2play group"
-  }), react_default.a.createElement("p", {
-    className: "carousel-image-label"
-  }, "Member view shows what is playing and allows for voting and tuning in")), react_default.a.createElement("div", {
-    className: "carousel-item"
-  }, react_default.a.createElement("img", {
-    className: "carousel-image",
-    src: "https://socialplaylists.s3-us-west-1.amazonaws.com/Website+images/vote2play+create+group.png",
-    alt: "vote2play create groups"
-  }), react_default.a.createElement("p", {
-    className: "carousel-image-label"
-  }, "Users can easily create new groups")), react_default.a.createElement("div", {
-    className: "carousel-item"
-  }, react_default.a.createElement("img", {
-    className: "carousel-image",
-    src: "https://socialplaylists.s3-us-west-1.amazonaws.com/Website+images/vote2play+profile.png",
-    alt: "vote2play profile"
-  }), react_default.a.createElement("p", {
-    className: "carousel-image-label"
-  }, "Profile page allows users to edit their information and leave any unused groups"))), react_default.a.createElement("ul", {
-    className: "portfolio-item-list"
-  }, react_default.a.createElement("li", null, "vote2play is a platform for collaborative playlist making and music listening"), react_default.a.createElement("li", null, "Playlists are made from YouTube links and can be added by listeners and voted on to determine the order they will play"), react_default.a.createElement("li", null, "By default, music only plays on host device but other members can tune in on their own devices"), react_default.a.createElement("li", null, "Music will always sync with the host device including pause, play, and seek functionality"), react_default.a.createElement("li", null, "Built using: React.js, Express, Socket.io, PostgreSQL, and Google's YouTube API"), react_default.a.createElement("li", null, "Live site: ", react_default.a.createElement("a", {
-    target: "_blank",
-    href: "http://www.vote2play.com"
-  }, "www.vote2play.com")), react_default.a.createElement("li", null, react_default.a.createElement("a", {
-    target: "_blank",
-    href: "https://github.com/andrewwestenskow/vote2play"
-  }, "GitHub repo ")))), react_default.a.createElement("div", {
-    className: "portfolio-item"
-  }, react_default.a.createElement("h2", {
-    className: "portfolio-item-title"
-  }, "fin-s"), react_default.a.createElement(nuka_carousel_default.a, {
-    width: "80%",
-    autoplay: "true",
-    autoplayInterval: "5000",
-    swiping: "true",
-    withoutControls: "true",
-    pauseOnHover: "true",
-    wrapAround: "true",
-    heightMode: "first",
-    speed: "1500"
-  }, react_default.a.createElement("div", {
-    className: "carousel-item"
-  }, react_default.a.createElement("img", {
-    className: "carousel-image",
-    src: "https://socialplaylists.s3-us-west-1.amazonaws.com/Hero+Images/groups+example.PNG",
-    alt: "vote2play groups"
-  }), react_default.a.createElement("p", {
-    className: "carousel-image-label"
-  }, "User dashboard displays all groups")), react_default.a.createElement("div", {
-    className: "carousel-item"
-  }, react_default.a.createElement("img", {
-    className: "carousel-image",
-    src: "https://socialplaylists.s3-us-west-1.amazonaws.com/Hero+Images/Playlist+example.PNG",
-    alt: "vote2play playlist"
-  }), react_default.a.createElement("p", {
-    className: "carousel-image-label"
-  }, "Playlist displays now playing and upcoming songs")), react_default.a.createElement("div", {
-    className: "carousel-item"
-  }, react_default.a.createElement("img", {
-    className: "carousel-image",
-    src: "https://socialplaylists.s3-us-west-1.amazonaws.com/Hero+Images/create+group+example.PNG",
-    alt: "vote2play create group"
-  }), react_default.a.createElement("p", {
-    className: "carousel-image-label"
-  }, "Users can create new groups"))), react_default.a.createElement("ul", {
-    className: "portfolio-item-list"
-  }, react_default.a.createElement("li", null, "fin-s is a financial tracker specifically designed to help users eliminate debt"), react_default.a.createElement("li", null, "Users incomes, debts, and expenses are input at sign-up and visualized in the dashboard"), react_default.a.createElement("li", null, "The dashboard view shows both a list and calendar view of upcoming incomes, debts, and expenses as well as an interactive graph which visualizes debt payoff with higher payments"), react_default.a.createElement("li", null, "The dashboard also provides a financial wellness to-do list designed to help users reach financial stability"), react_default.a.createElement("li", null, "Built using: React.js, Express, PostgreSQL, MongoDB, Chart.js, and fullcalendar"), react_default.a.createElement("li", null, "Live site: ", react_default.a.createElement("a", {
-    target: "_blank",
-    href: "http://www.fin-s.us"
-  }, "www.fin-s.us")), react_default.a.createElement("li", null, react_default.a.createElement("a", {
-    target: "_blank",
-    href: "https://github.com/fin-s/fin-s"
-  }, "GitHub repo "))))));
-};
-
-/* harmony default export */ var Sections_Portfolio = (Portfolio_Portfolio);
-// EXTERNAL MODULE: ./styles/Contact.scss
-var styles_Contact = __webpack_require__("U1XN");
-
-// EXTERNAL MODULE: ./node_modules/@babel/runtime-corejs2/helpers/esm/classCallCheck.js
-var classCallCheck = __webpack_require__("0iUn");
-
-// EXTERNAL MODULE: ./node_modules/@babel/runtime-corejs2/helpers/esm/createClass.js
-var createClass = __webpack_require__("sLSF");
-
-// EXTERNAL MODULE: ./node_modules/@babel/runtime-corejs2/helpers/esm/possibleConstructorReturn.js + 1 modules
-var possibleConstructorReturn = __webpack_require__("MI3g");
-
-// EXTERNAL MODULE: ./node_modules/@babel/runtime-corejs2/helpers/esm/getPrototypeOf.js
-var getPrototypeOf = __webpack_require__("a7VT");
-
-// EXTERNAL MODULE: ./node_modules/@babel/runtime-corejs2/helpers/esm/assertThisInitialized.js
-var assertThisInitialized = __webpack_require__("AT/M");
-
-// EXTERNAL MODULE: ./node_modules/@babel/runtime-corejs2/helpers/esm/inherits.js + 1 modules
-var inherits = __webpack_require__("Tit0");
-
-// EXTERNAL MODULE: ./node_modules/@babel/runtime-corejs2/core-js/object/define-property.js
-var define_property = __webpack_require__("hfKm");
-var define_property_default = /*#__PURE__*/__webpack_require__.n(define_property);
-
-// CONCATENATED MODULE: ./node_modules/@babel/runtime-corejs2/helpers/esm/defineProperty.js
-
-function _defineProperty(obj, key, value) {
-  if (key in obj) {
-    define_property_default()(obj, key, {
-      value: value,
-      enumerable: true,
-      configurable: true,
-      writable: true
-    });
-  } else {
-    obj[key] = value;
-  }
-
-  return obj;
-}
-// EXTERNAL MODULE: ./styles/ContactForm.scss
-var styles_ContactForm = __webpack_require__("aOSI");
-
-// CONCATENATED MODULE: ./Components/Sections/ContactForm.jsx
-
-
-
-
-
-
-
-
-
-
-var ContactForm_ContactForm =
-/*#__PURE__*/
-function (_Component) {
-  Object(inherits["default"])(ContactForm, _Component);
-
-  function ContactForm() {
-    var _getPrototypeOf2;
-
-    var _this;
-
-    Object(classCallCheck["default"])(this, ContactForm);
-
-    for (var _len = arguments.length, args = new Array(_len), _key = 0; _key < _len; _key++) {
-      args[_key] = arguments[_key];
-    }
-
-    _this = Object(possibleConstructorReturn["default"])(this, (_getPrototypeOf2 = Object(getPrototypeOf["default"])(ContactForm)).call.apply(_getPrototypeOf2, [this].concat(args)));
-
-    _defineProperty(Object(assertThisInitialized["default"])(_this), "state", {
-      from: '',
-      subject: '',
-      body: ''
-    });
-
-    _defineProperty(Object(assertThisInitialized["default"])(_this), "handleChange", function (e) {
-      _this.setState(_defineProperty({}, e.target.name, e.target.value));
-    });
-
-    _defineProperty(Object(assertThisInitialized["default"])(_this), "handleSubmit", function () {});
-
-    return _this;
-  }
-
-  Object(createClass["default"])(ContactForm, [{
-    key: "render",
-    value: function render() {
-      var _this2 = this;
-
-      return react_default.a.createElement("div", null, react_default.a.createElement("div", {
-        className: "contact-form"
-      }, react_default.a.createElement("p", null, "Your email"), react_default.a.createElement("input", {
-        onChange: function onChange(e) {
-          return _this2.handleChange(e);
-        },
-        name: "from",
-        type: "text",
-        required: true
-      }), react_default.a.createElement("p", null, "Subject"), react_default.a.createElement("input", {
-        onChange: function onChange(e) {
-          return _this2.handleChange(e);
-        },
-        name: "subject",
-        type: "text",
-        required: true
-      }), react_default.a.createElement("textarea", {
-        onChange: function onChange(e) {
-          return _this2.handleChange(e);
-        },
-        name: "body",
-        id: "",
-        cols: "30",
-        rows: "10",
-        required: true
-      }), react_default.a.createElement("button", {
-        onClick: this.handleSubmit,
-        type: "submit"
-      }, "Send")));
-    }
-  }]);
-
-  return ContactForm;
-}(react["Component"]);
-
-/* harmony default export */ var Sections_ContactForm = (ContactForm_ContactForm);
-// CONCATENATED MODULE: ./Components/Sections/Contact.jsx
-
-
-
-
-
-var Contact_Contact = function Contact() {
-  return react_default.a.createElement("div", {
-    className: "Contact"
-  }, react_default.a.createElement("h1", {
-    className: "section-label"
-  }, "Contact"), react_default.a.createElement("div", {
-    className: "contact-page"
-  }, react_default.a.createElement("div", {
-    className: "lets-chat"
-  }, react_default.a.createElement("h1", null, "Let's chat!")), react_default.a.createElement("div", {
-    className: "contact-info"
-  }, react_default.a.createElement("div", {
-    className: "contact-info-line"
-  }, react_default.a.createElement("a", {
-    href: "mailto:andrew.westenskow@gmail.com?subject=Let's chat!",
-    target: "_blank",
-    className: "contact-info-text"
-  }, react_default.a.createElement(react_fontawesome["FontAwesomeIcon"], {
-    className: "contact-info-icon",
-    icon: "envelope"
-  }), "andrew.westenskow@gmail.com")), react_default.a.createElement("div", {
-    className: "contact-info-line"
-  }, react_default.a.createElement("a", {
-    href: "tel:385-290-8656",
-    className: "contact-info-text"
-  }, react_default.a.createElement(react_fontawesome["FontAwesomeIcon"], {
-    className: "contact-info-icon",
-    icon: "phone"
-  }), "(385) 290-8656")), react_default.a.createElement("div", {
-    className: "contact-info-line"
-  }, react_default.a.createElement("a", {
-    className: "contact-info-text",
-    href: "https://www.linkedin.com/in/andrew-westenskow/",
-    target: "_blank"
-  }, react_default.a.createElement(react_fontawesome["FontAwesomeIcon"], {
-    className: "contact-info-icon",
-    icon: ['fab', 'linkedin-in']
-  }), "https://www.linkedin.com/in/andrew-westenskow/")), react_default.a.createElement("div", {
-    className: "contact-info-line"
-  }, react_default.a.createElement("a", {
-    target: "_blank",
-    className: "contact-info-text",
-    href: "https://github.com/andrewwestenskow"
-  }, react_default.a.createElement(react_fontawesome["FontAwesomeIcon"], {
-    className: "contact-info-icon",
-    icon: ['fab', 'github']
-  }), "https://github.com/andrewwestenskow")))));
-};
-
-/* harmony default export */ var Sections_Contact = (Contact_Contact);
-// EXTERNAL MODULE: ./node_modules/next-server/dist/lib/head.js
-var head = __webpack_require__("m/Pd");
-var head_default = /*#__PURE__*/__webpack_require__.n(head);
-
-// CONCATENATED MODULE: ./pages/Index.jsx
-
-
-
-
-
-
-
-
-
-
-var Index_Index = function Index() {
-  return react_default.a.createElement(react_default.a.Fragment, null, react_default.a.createElement(head_default.a, null, react_default.a.createElement("title", null, "Andrew Westenskow")), react_default.a.createElement(Components_Layout, null, react_default.a.createElement("section", {
-    id: "home"
-  }, react_default.a.createElement(Sections_Home, null)), react_default.a.createElement("section", {
-    id: "about"
-  }, react_default.a.createElement(Sections_About, null)), react_default.a.createElement("section", {
-    id: "portfolio"
-  }, react_default.a.createElement(Sections_Portfolio, null)), react_default.a.createElement("section", {
-    id: "stack"
-  }, react_default.a.createElement(Sections_Stack, null)), react_default.a.createElement("section", {
-    id: "contact"
-  }, react_default.a.createElement(Sections_Contact, null))));
-};
-
-/* harmony default export */ var pages_Index = (Index_Index);
-// CONCATENATED MODULE: ./node_modules/next/dist/build/webpack/loaders/next-serverless-loader.js?page=%2FIndex&absolutePagePath=private-next-pages%2FIndex.jsx&absoluteAppPath=next%2Fdist%2Fpages%2F_app&absoluteDocumentPath=next%2Fdist%2Fpages%2F_document&absoluteErrorPath=next%2Fdist%2Fpages%2F_error&distDir=private-dot-next&assetPrefix=&generateEtags=true&ampBindInitData=false&dynamicBuildId=false
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return next_serverless_loaderpage_2FIndex_absolutePagePath_private_next_pages_2FIndex_jsx_absoluteAppPath_next_2Fdist_2Fpages_2F_app_absoluteDocumentPath_next_2Fdist_2Fpages_2F_document_absoluteErrorPath_next_2Fdist_2Fpages_2F_error_distDir_private_dot_next_assetPrefix_generateEtags_true_ampBindInitData_false_dynamicBuildId_false_render; });
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    async function renderReqToHTML(req, res) {
-      const options = {
-        App: _app_default.a,
-        Document: _document_default.a,
-        buildManifest: build_manifest,
-        reactLoadableManifest: react_loadable_manifest,
-        buildId: "qQfNEhmCWSPxv055MlfeH",
-        dynamicBuildId: false,
-        assetPrefix: "",
-        ampBindInitData: false
-      }
-      const parsedUrl = Object(external_url_["parse"])(req.url, true)
-      try {
-        
-        const result = await Object(server_render["renderToHTML"])(req, res, "/Index", parsedUrl.query, Object.assign(
-          {
-            Component: pages_Index,
-            dataOnly: req.headers && (req.headers.accept || '').indexOf('application/amp.bind+json') !== -1,
-          }, 
-          options, 
-        ))
-        return result
-      } catch (err) {
-        if (err.code === 'ENOENT') {
-          res.statusCode = 404
-          const result = await Object(server_render["renderToHTML"])(req, res, "/_error", parsedUrl.query, Object.assign({}, options, {
-            Component: _error_default.a
-          }))
-          return result
-        } else {
-          console.error(err)
-          res.statusCode = 500
-          const result = await Object(server_render["renderToHTML"])(req, res, "/_error", parsedUrl.query, Object.assign({}, options, {
-            Component: _error_default.a,
-            err
-          }))
-          return result
-        }
-      }
-    }
-    async function next_serverless_loaderpage_2FIndex_absolutePagePath_private_next_pages_2FIndex_jsx_absoluteAppPath_next_2Fdist_2Fpages_2F_app_absoluteDocumentPath_next_2Fdist_2Fpages_2F_document_absoluteErrorPath_next_2Fdist_2Fpages_2F_error_distDir_private_dot_next_assetPrefix_generateEtags_true_ampBindInitData_false_dynamicBuildId_false_render (req, res) {
-      try {
-        const html = await renderReqToHTML(req, res)
-        Object(send_html["sendHTML"])(req, res, html, {generateEtags: true})
-      } catch(err) {
-        console.error(err)
-        res.statusCode = 500
-        res.end('Internal Server Error')
-      }
-    }
-  
-
-/***/ }),
-
 /***/ "DkFn":
 /***/ (function(module, exports) {
 
@@ -10773,7 +10773,7 @@ module.exports = __webpack_require__("UDep");
 /***/ "LZ9C":
 /***/ (function(module) {
 
-module.exports = {"devFiles":[],"pages":{"/Index":["static/runtime/webpack-8ed9452df514b4d17d80.js","static/chunks/commons.e304fba0b9256846e73d.js","static/css/styles.6efe15a5.chunk.css","static/chunks/styles.dd3281d59afcc07e1af6.js","static/runtime/main-fd73dbd6f398b7b886ec.js"],"/_app":["static/runtime/webpack-8ed9452df514b4d17d80.js","static/chunks/commons.e304fba0b9256846e73d.js","static/runtime/main-fd73dbd6f398b7b886ec.js"],"/_error":["static/runtime/webpack-8ed9452df514b4d17d80.js","static/chunks/commons.e304fba0b9256846e73d.js","static/runtime/main-fd73dbd6f398b7b886ec.js"]}};
+module.exports = {"devFiles":[],"pages":{"/":["static/runtime/webpack-8ed9452df514b4d17d80.js","static/chunks/commons.e304fba0b9256846e73d.js","static/css/styles.6efe15a5.chunk.css","static/chunks/styles.dd3281d59afcc07e1af6.js","static/runtime/main-fd73dbd6f398b7b886ec.js"],"/_app":["static/runtime/webpack-8ed9452df514b4d17d80.js","static/chunks/commons.e304fba0b9256846e73d.js","static/runtime/main-fd73dbd6f398b7b886ec.js"],"/_error":["static/runtime/webpack-8ed9452df514b4d17d80.js","static/chunks/commons.e304fba0b9256846e73d.js","static/runtime/main-fd73dbd6f398b7b886ec.js"],"/index":["static/runtime/webpack-8ed9452df514b4d17d80.js","static/chunks/commons.e304fba0b9256846e73d.js","static/css/styles.6efe15a5.chunk.css","static/chunks/styles.dd3281d59afcc07e1af6.js","static/runtime/main-fd73dbd6f398b7b886ec.js"]}};
 
 /***/ }),
 

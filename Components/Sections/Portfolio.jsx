@@ -12,7 +12,7 @@ const Portfolio = () => {
       <div className="portfolio-content">
         <div className="portfolio-item">
           <h2 className='portfolio-item-title'>vote2play</h2>
-          <Carousel width='80%' autoplay='true' autoplayInterval='5000' swiping='true' withoutControls='true' pauseOnHover='true' wrapAround='true' heightMode='first' speed='1500'>
+          <Carousel width='80%' autoplay={true} autoplayInterval={5000} swiping={true} withoutControls={true} pauseOnHover={true} wrapAround={true} heightMode='first' speed={1500}>
             <div className="carousel-item">
               <img className='carousel-image' src="https://socialplaylists.s3-us-west-1.amazonaws.com/Website+images/vote2play+home.png" alt="vote2play home page"/>
               <p className='carousel-image-label'>vote2play home page</p>
@@ -50,7 +50,7 @@ const Portfolio = () => {
         </div>
         <div className="portfolio-item">
           <h2 className="portfolio-item-title">fin-s</h2>
-          <Carousel width='80%' autoplay='true' autoplayInterval='5000' swiping='true' withoutControls='true' pauseOnHover='true' wrapAround='true' heightMode='first' speed='1500'>
+          <Carousel width='80%' autoplay={true} autoplayInterval={5000} swiping={true} withoutControls={true} pauseOnHover={true} wrapAround={true} heightMode='first' speed={1500}>
             <div className="carousel-item">
               <img className='carousel-image' src="https://socialplaylists.s3-us-west-1.amazonaws.com/Hero+Images/groups+example.PNG" alt="vote2play groups"/>
               <p className='carousel-image-label'>User dashboard displays all groups</p>

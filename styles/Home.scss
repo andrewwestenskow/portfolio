@@ -2,8 +2,10 @@
 
 .Home{
   @include section-reset;
-  height: 100%;
-  width: 100%
+  @media screen and (max-width: 400px) {
+    width: 100%;
+    margin-left: 25px
+  }
 }
 
 .section-label{
@@ -14,11 +16,20 @@
   display: flex;
   justify-content: space-around;
   width: 60%;
-  line-height: 70px
+  line-height: 70px;
+  @media screen and (max-width: 1270px) {
+    flex-direction: column-reverse
+  }
 }
 
 .name{
   font-size: 3.5rem;
+  @media screen and (max-width: 800px) {
+    font-size: 2.5rem
+  }
+  @media screen and (max-width: 520px) {
+    font-size: 1.8rem
+  }
 }
 
 .intro-hold{
@@ -29,10 +40,22 @@
 .intro-head{
   font-size: 2.5rem;
   padding-right: 10px;
+  @media screen and (max-width: 800px) {
+    font-size: 1.8rem
+  }
+  @media screen and (max-width: 520px) {
+    font-size: 1.2rem
+  }
 }
 
 .intro{
-  font-size: 2.5rem
+  font-size: 2.5rem;
+  @media screen and (max-width: 800px) {
+    font-size: 1.5rem
+  }
+  @media screen and (max-width: 520px) {
+    font-size: 1rem
+  }
 }
 
 .titles-hold{
@@ -40,14 +63,25 @@
 }
 
 .photo-hold{
-  width: 350px;
+  min-width: 350px;
+  max-width: 350px;
   height: 350px;
   border-radius: 200px;
   object-fit: cover;
   background: white;
   background-image: url('https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/13886475_10205130892150579_8267810955602109840_n.jpg?_nc_cat=100&_nc_oc=AQn1CwPNK4yazxRG5Ma6tbp92ExikuA0mVjvh5Lm_hKMzzivLM6wwZ94MGkfu5mOJMI&_nc_ht=scontent-lax3-1.xx&oh=e6e82d89e35b953b3b758711b2ebcddd&oe=5D9E4203');
   background-size: 110%;
-  background-repeat: no-repeat
+  background-repeat: no-repeat;
+  @media screen and (max-width: 800px) {
+    min-width: 250px;
+  max-width: 250px;
+  height: 250px;
+  }
+  @media screen and (max-width: 520px) {
+    min-width: 200px;
+  max-width: 200px;
+  height: 200px;
+  }
 }
 
 .profile-img{

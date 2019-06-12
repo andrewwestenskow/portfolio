@@ -20,6 +20,9 @@
   justify-content: center;
   transition: all 500ms;
   z-index: 5; }
+  @media screen and (max-width: 800px) {
+    .navbar {
+      width: 50px; } }
 
 .navbar:hover {
   width: 200px; }
@@ -151,16 +154,22 @@ html {
   width: 100vw;
   height: 100vh;
   background: #595959; }
-
-#stack {
-  width: 100vw;
-  height: 100vh;
-  background: #595959; }
+  @media screen and (max-width: 1300px) {
+    #about {
+      height: 120vh; } }
 
 #portfolio {
   background: #252525;
   width: 100vw;
   height: 100vh; }
+  @media screen and (max-width: 1300px) {
+    #portfolio {
+      height: 120vh; } }
+
+#stack {
+  width: 100vw;
+  height: 100vh;
+  background: #595959; }
 
 #contact {
   background: #252525;
@@ -175,9 +184,11 @@ html {
   align-items: center;
   justify-content: center;
   height: 100%;
-  width: calc(100% - 75px);
-  height: 100%;
-  width: 100%; }
+  width: calc(100% - 75px); }
+  @media screen and (max-width: 400px) {
+    .Home {
+      width: 100%;
+      margin-left: 25px; } }
 
 .section-label {
   position: absolute;
@@ -191,9 +202,18 @@ html {
   justify-content: space-around;
   width: 60%;
   line-height: 70px; }
+  @media screen and (max-width: 1270px) {
+    .home-content {
+      flex-direction: column-reverse; } }
 
 .name {
   font-size: 3.5rem; }
+  @media screen and (max-width: 800px) {
+    .name {
+      font-size: 2.5rem; } }
+  @media screen and (max-width: 520px) {
+    .name {
+      font-size: 1.8rem; } }
 
 .intro-hold {
   display: flex;
@@ -202,15 +222,28 @@ html {
 .intro-head {
   font-size: 2.5rem;
   padding-right: 10px; }
+  @media screen and (max-width: 800px) {
+    .intro-head {
+      font-size: 1.8rem; } }
+  @media screen and (max-width: 520px) {
+    .intro-head {
+      font-size: 1.2rem; } }
 
 .intro {
   font-size: 2.5rem; }
+  @media screen and (max-width: 800px) {
+    .intro {
+      font-size: 1.5rem; } }
+  @media screen and (max-width: 520px) {
+    .intro {
+      font-size: 1rem; } }
 
 .titles-hold {
   display: flex; }
 
 .photo-hold {
-  width: 350px;
+  min-width: 350px;
+  max-width: 350px;
   height: 350px;
   border-radius: 200px;
   object-fit: cover;
@@ -218,6 +251,16 @@ html {
   background-image: url("https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/13886475_10205130892150579_8267810955602109840_n.jpg?_nc_cat=100&_nc_oc=AQn1CwPNK4yazxRG5Ma6tbp92ExikuA0mVjvh5Lm_hKMzzivLM6wwZ94MGkfu5mOJMI&_nc_ht=scontent-lax3-1.xx&oh=e6e82d89e35b953b3b758711b2ebcddd&oe=5D9E4203");
   background-size: 110%;
   background-repeat: no-repeat; }
+  @media screen and (max-width: 800px) {
+    .photo-hold {
+      min-width: 250px;
+      max-width: 250px;
+      height: 250px; } }
+  @media screen and (max-width: 520px) {
+    .photo-hold {
+      min-width: 200px;
+      max-width: 200px;
+      height: 200px; } }
 
 .profile-img {
   width: 300px;
@@ -252,11 +295,17 @@ html {
   .about-text-hold h1 {
     font-size: 4rem;
     margin-bottom: 50px; }
+    @media screen and (max-width: 1250px) {
+      .about-text-hold h1 {
+        font-size: 3rem; } }
   .about-text-hold p {
     font-size: 1.8rem;
     width: 80%;
     margin: 0;
     line-height: 35px; }
+    @media screen and (max-width: 1250px) {
+      .about-text-hold p {
+        font-size: 1rem; } }
 
 .about-image-hold {
   width: 50%;
@@ -270,7 +319,8 @@ html {
   width: 80%;
   background-image: url("https://lh3.googleusercontent.com/fean3yyniud5o9YeIeXJte3ICnxndvJ2vw4XwS3RMi3xCyAyy8VBGbcL87KLY6w5cxy8OyiHY0Ok8WkbaUFKyNvBitxvhqaBT7A5fSZ7GtUPUAQq933xCddb3DSauSr_43jjdgMhq07NUp9ZEIvmsuN39xfOiawnLvwTU6F8VZCe5f_aV5zHZCk38xfpWzkgrewFmFlmTeo0vGaK6ZBYQaIuTWFl2Z_SF9I7Rk1-pOoHum8dwi-GU2VggcraAgq3lmoIV6VeOYmzPBSlb6UpBGEXzrsYZu0ix0hFdsgV0Y7XwcFYHryBFUMfdRKkJAnW3ceeZ3S3oUz3qx8t9Zaf9U7SyS8wzSxb1n--4urhdXYyj1lOltkKUarJcYp5tgDD-8Z-4Le294S9LSckds44IOvBGzVPd21SWrNacKa-o6wWdrPXZtCyn7U8qzkpCvQ0FFRXdah_F8RpfZfegX_-VfJ-yWCZA98ztN4vR0MTgvBcdLevR05iVgMkI5kwdc6jFDvEOv1tVlhTWiiDLGG3y6ZcoJLdRwRytQ-nulWs9-jgTaRsq4H2eFNL1wWiINZriV70tHGZQni0yQy70zCTTSPXO1SqVv3JzFmdD_e-JeqMavwlvuwxFrEtSB4Sfp4XOBPD8tnhR5GzX37qpQ1WjPvKc-MJkxtr=w703-h937-no");
   background-size: 100%;
-  background-position: center; }
+  background-position: center;
+  background-repeat: no-repeat; }
 
 .Stack {
   color: white;

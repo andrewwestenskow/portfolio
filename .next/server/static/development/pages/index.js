@@ -999,14 +999,14 @@ var Portfolio = function Portfolio() {
     __self: this
   }, "vote2play"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(nuka_carousel__WEBPACK_IMPORTED_MODULE_2___default.a, {
     width: "80%",
-    autoplay: "true",
-    autoplayInterval: "5000",
-    swiping: "true",
-    withoutControls: "true",
-    pauseOnHover: "true",
-    wrapAround: "true",
+    autoplay: true,
+    autoplayInterval: 5000,
+    swiping: true,
+    withoutControls: true,
+    pauseOnHover: true,
+    wrapAround: true,
     heightMode: "first",
-    speed: "1500",
+    speed: 1500,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 15
@@ -1231,14 +1231,14 @@ var Portfolio = function Portfolio() {
     __self: this
   }, "fin-s"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(nuka_carousel__WEBPACK_IMPORTED_MODULE_2___default.a, {
     width: "80%",
-    autoplay: "true",
-    autoplayInterval: "5000",
-    swiping: "true",
-    withoutControls: "true",
-    pauseOnHover: "true",
-    wrapAround: "true",
+    autoplay: true,
+    autoplayInterval: 5000,
+    swiping: true,
+    withoutControls: true,
+    pauseOnHover: true,
+    wrapAround: true,
     heightMode: "first",
-    speed: "1500",
+    speed: 1500,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 53
@@ -2388,10 +2388,10 @@ module.exports = __webpack_require__(/*! ./dist/client/link */ "./node_modules/n
 
 /***/ }),
 
-/***/ "./pages/index.jsx":
-/*!*************************!*\
-  !*** ./pages/index.jsx ***!
-  \*************************/
+/***/ "./pages/index.js":
+/*!************************!*\
+  !*** ./pages/index.js ***!
+  \************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -2409,7 +2409,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Components_Sections_Contact__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../Components/Sections/Contact */ "./Components/Sections/Contact.jsx");
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! next/head */ "next/head");
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(next_head__WEBPACK_IMPORTED_MODULE_8__);
-var _jsxFileName = "C:\\Users\\andre\\Development-Projects\\portfolio\\pages\\index.jsx";
+var _jsxFileName = "C:\\Users\\andre\\Development-Projects\\portfolio\\pages\\index.js";
 
 
 
@@ -2710,13 +2710,13 @@ module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAasAAAFACAYAAAAC
 /***/ }),
 
 /***/ 3:
-/*!*******************************!*\
-  !*** multi ./pages/index.jsx ***!
-  \*******************************/
+/*!******************************!*\
+  !*** multi ./pages/index.js ***!
+  \******************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\andre\Development-Projects\portfolio\pages\index.jsx */"./pages/index.jsx");
+module.exports = __webpack_require__(/*! C:\Users\andre\Development-Projects\portfolio\pages\index.js */"./pages/index.js");
 
 
 /***/ }),

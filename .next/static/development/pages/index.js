@@ -900,14 +900,14 @@ var Portfolio = function Portfolio() {
     __self: this
   }, "vote2play"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(nuka_carousel__WEBPACK_IMPORTED_MODULE_2__["default"], {
     width: "80%",
-    autoplay: "true",
-    autoplayInterval: "5000",
-    swiping: "true",
-    withoutControls: "true",
-    pauseOnHover: "true",
-    wrapAround: "true",
+    autoplay: true,
+    autoplayInterval: 5000,
+    swiping: true,
+    withoutControls: true,
+    pauseOnHover: true,
+    wrapAround: true,
     heightMode: "first",
-    speed: "1500",
+    speed: 1500,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 15
@@ -1132,14 +1132,14 @@ var Portfolio = function Portfolio() {
     __self: this
   }, "fin-s"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(nuka_carousel__WEBPACK_IMPORTED_MODULE_2__["default"], {
     width: "80%",
-    autoplay: "true",
-    autoplayInterval: "5000",
-    swiping: "true",
-    withoutControls: "true",
-    pauseOnHover: "true",
-    wrapAround: "true",
+    autoplay: true,
+    autoplayInterval: 5000,
+    swiping: true,
+    withoutControls: true,
+    pauseOnHover: true,
+    wrapAround: true,
     heightMode: "first",
-    speed: "1500",
+    speed: 1500,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 53
@@ -22210,20 +22210,20 @@ exports.formatWithValidation = formatWithValidation;
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=C%3A%5CUsers%5Candre%5CDevelopment-Projects%5Cportfolio%5Cpages%5Cindex.jsx!./":
-/*!****************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=C%3A%5CUsers%5Candre%5CDevelopment-Projects%5Cportfolio%5Cpages%5Cindex.jsx ***!
-  \****************************************************************************************************************************************************************************************/
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=C%3A%5CUsers%5Candre%5CDevelopment-Projects%5Cportfolio%5Cpages%5Cindex.js!./":
+/*!***************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=C%3A%5CUsers%5Candre%5CDevelopment-Projects%5Cportfolio%5Cpages%5Cindex.js ***!
+  \***************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 
     (window.__NEXT_P=window.__NEXT_P||[]).push(["/", function() {
-      var page = __webpack_require__(/*! ./pages/index.jsx */ "./pages/index.jsx")
+      var page = __webpack_require__(/*! ./pages/index.js */ "./pages/index.js")
       if(true) {
-        module.hot.accept(/*! ./pages/index.jsx */ "./pages/index.jsx", function() {
+        module.hot.accept(/*! ./pages/index.js */ "./pages/index.js", function() {
           if(!next.router.components["/"]) return
-          var updatedPage = __webpack_require__(/*! ./pages/index.jsx */ "./pages/index.jsx")
+          var updatedPage = __webpack_require__(/*! ./pages/index.js */ "./pages/index.js")
           next.router.update("/", updatedPage.default || updatedPage)
         })
       }
@@ -40524,10 +40524,10 @@ module.exports = function(module) {
 
 /***/ }),
 
-/***/ "./pages/index.jsx":
-/*!*************************!*\
-  !*** ./pages/index.jsx ***!
-  \*************************/
+/***/ "./pages/index.js":
+/*!************************!*\
+  !*** ./pages/index.js ***!
+  \************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -40545,7 +40545,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Components_Sections_Contact__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../Components/Sections/Contact */ "./Components/Sections/Contact.jsx");
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! next/head */ "./node_modules/next-server/dist/lib/head.js");
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(next_head__WEBPACK_IMPORTED_MODULE_8__);
-var _jsxFileName = "C:\\Users\\andre\\Development-Projects\\portfolio\\pages\\index.jsx";
+var _jsxFileName = "C:\\Users\\andre\\Development-Projects\\portfolio\\pages\\index.js";
 
 
 
@@ -40747,13 +40747,13 @@ module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAasAAAFACAYAAAAC
 /***/ }),
 
 /***/ 0:
-/*!********************************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=C%3A%5CUsers%5Candre%5CDevelopment-Projects%5Cportfolio%5Cpages%5Cindex.jsx ***!
-  \********************************************************************************************************************************************/
+/*!*******************************************************************************************************************************************!*\
+  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=C%3A%5CUsers%5Candre%5CDevelopment-Projects%5Cportfolio%5Cpages%5Cindex.js ***!
+  \*******************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=C%3A%5CUsers%5Candre%5CDevelopment-Projects%5Cportfolio%5Cpages%5Cindex.jsx! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=C%3A%5CUsers%5Candre%5CDevelopment-Projects%5Cportfolio%5Cpages%5Cindex.jsx!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=C%3A%5CUsers%5Candre%5CDevelopment-Projects%5Cportfolio%5Cpages%5Cindex.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=C%3A%5CUsers%5Candre%5CDevelopment-Projects%5Cportfolio%5Cpages%5Cindex.js!./");
 
 
 /***/ }),

@@ -1,5 +1,11 @@
 @import './Reset.scss';
 
+@mixin content-screen-resize{
+  @media screen and (max-width: 1300px) {
+    height: 120vh
+  }
+}
+
 #home{
   background: #252525;
   width: 100vw;
@@ -10,6 +16,14 @@
   width: 100vw;
   height: 100vh;
   background: #595959;
+  @include content-screen-resize
+}
+
+#portfolio{
+  background: #252525;
+  width: 100vw;
+  height: 100vh;
+  @include content-screen-resize
 }
 
 #stack{
@@ -18,11 +32,6 @@
   background: #595959;
 }
 
-#portfolio{
-  background: #252525;
-  width: 100vw;
-  height: 100vh;
-}
 
 #contact{
   background: #252525;

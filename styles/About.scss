@@ -26,12 +26,18 @@
   h1{
     font-size: 4rem;
     margin-bottom: 50px;
+    @media screen and (max-width: 1250px) {
+      font-size: 3rem;
+    }
   };
   p{
     font-size: 1.8rem;
     width: 80%;
     margin: 0;
     line-height: 35px;
+    @media screen and (max-width: 1250px) {
+      font-size: 1rem;
+    }
   }
 }
 
@@ -50,4 +56,5 @@
   background-image: url('https://lh3.googleusercontent.com/fean3yyniud5o9YeIeXJte3ICnxndvJ2vw4XwS3RMi3xCyAyy8VBGbcL87KLY6w5cxy8OyiHY0Ok8WkbaUFKyNvBitxvhqaBT7A5fSZ7GtUPUAQq933xCddb3DSauSr_43jjdgMhq07NUp9ZEIvmsuN39xfOiawnLvwTU6F8VZCe5f_aV5zHZCk38xfpWzkgrewFmFlmTeo0vGaK6ZBYQaIuTWFl2Z_SF9I7Rk1-pOoHum8dwi-GU2VggcraAgq3lmoIV6VeOYmzPBSlb6UpBGEXzrsYZu0ix0hFdsgV0Y7XwcFYHryBFUMfdRKkJAnW3ceeZ3S3oUz3qx8t9Zaf9U7SyS8wzSxb1n--4urhdXYyj1lOltkKUarJcYp5tgDD-8Z-4Le294S9LSckds44IOvBGzVPd21SWrNacKa-o6wWdrPXZtCyn7U8qzkpCvQ0FFRXdah_F8RpfZfegX_-VfJ-yWCZA98ztN4vR0MTgvBcdLevR05iVgMkI5kwdc6jFDvEOv1tVlhTWiiDLGG3y6ZcoJLdRwRytQ-nulWs9-jgTaRsq4H2eFNL1wWiINZriV70tHGZQni0yQy70zCTTSPXO1SqVv3JzFmdD_e-JeqMavwlvuwxFrEtSB4Sfp4XOBPD8tnhR5GzX37qpQ1WjPvKc-MJkxtr=w703-h937-no');
   background-size: 100%;
   background-position: center;
+  background-repeat: no-repeat;
 }

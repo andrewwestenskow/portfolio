@@ -1044,7 +1044,7 @@ var Portfolio = function Portfolio() {
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "carousel-image",
-    src: "https://socialplaylists.s3-us-west-1.amazonaws.com/Website+images/vote2play+group.png",
+    src: "https://socialplaylists.s3-us-west-1.amazonaws.com/Website+images/vote2play+dashboard.png",
     alt: "vote2play dashboard",
     __source: {
       fileName: _jsxFileName,

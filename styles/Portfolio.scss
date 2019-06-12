@@ -10,6 +10,10 @@
   width: 95%;
   height: 80%;
   display: flex;
+  @media screen and (max-width: 1100px) {
+    flex-direction: column;
+    align-items: center;
+  }
 }
 
 .portfolio-item{
@@ -20,6 +24,9 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  @media screen and (max-width: 1100px) {
+    width: 100%
+  }
 }
 
 .carousel-item{
@@ -33,10 +40,21 @@
 .carousel-image{
   height: 300px;
   margin: 25px 0;
+  @media screen and (max-width: 1100px) {
+    height: 200px;
+    // width: 100%;
+  }
+  @media screen and (max-width: 500px) {
+    height: 150px;
+    width: 100%;
+  }
 }
 
 .carousel-image-label{
-  margin-bottom: 25px;
+  padding-bottom: 25px;
+  @media screen and (max-width: 500px) {
+    font-size: 0.85rem
+  }
 }
 
 .portfolio-item-title{
@@ -48,4 +66,10 @@
   width: 80%;
   line-height: 25px;
   font-size: 1.3rem;
+  @media screen and (max-width: 1100px) {
+    font-size: 1rem;
+  }
+  @media screen and (max-width: 800px) {
+    font-size: 0.85rem;
+  }
 }

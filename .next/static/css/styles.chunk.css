@@ -154,9 +154,9 @@ html {
   width: 100vw;
   height: 100vh;
   background: #595959; }
-  @media screen and (max-width: 1300px) {
+  @media screen and (max-width: 800px) {
     #about {
-      height: 120vh; } }
+      height: 100vh; } }
 
 #portfolio {
   background: #252525;
@@ -165,6 +165,12 @@ html {
   @media screen and (max-width: 1300px) {
     #portfolio {
       height: 120vh; } }
+  @media screen and (max-width: 1100px) {
+    #portfolio {
+      height: 200vh; } }
+  @media screen and (max-width: 400px) {
+    #portfolio {
+      height: 220vh; } }
 
 #stack {
   width: 100vw;
@@ -298,6 +304,10 @@ html {
     @media screen and (max-width: 1250px) {
       .about-text-hold h1 {
         font-size: 3rem; } }
+    @media screen and (max-width: 500px) {
+      .about-text-hold h1 {
+        font-size: 2rem;
+        margin-bottom: 25px; } }
   .about-text-hold p {
     font-size: 1.8rem;
     width: 80%;
@@ -306,6 +316,13 @@ html {
     @media screen and (max-width: 1250px) {
       .about-text-hold p {
         font-size: 1rem; } }
+    @media screen and (max-width: 500px) {
+      .about-text-hold p {
+        font-size: 0.85rem; } }
+  @media screen and (max-width: 800px) {
+    .about-text-hold {
+      width: 100%;
+      margin-top: 15px; } }
 
 .about-image-hold {
   width: 50%;
@@ -313,6 +330,9 @@ html {
   display: flex;
   justify-content: center;
   align-items: center; }
+  @media screen and (max-width: 800px) {
+    .about-image-hold {
+      display: none; } }
 
 .about-image {
   height: 80%;
@@ -321,6 +341,9 @@ html {
   background-size: 100%;
   background-position: center;
   background-repeat: no-repeat; }
+  @media screen and (max-width: 800px) {
+    .about-image {
+      display: none; } }
 
 .Stack {
   color: white;
@@ -339,11 +362,18 @@ html {
   flex-wrap: wrap;
   justify-content: center;
   align-items: center; }
+  @media screen and (max-width: 900px) {
+    .stack-content {
+      width: 100%; } }
 
 .stack-img {
   width: 200px;
   height: 200px;
   padding: 0 25px; }
+  @media screen and (max-width: 900px) {
+    .stack-img {
+      width: 100px;
+      height: 100px; } }
 
 .stack-name-hold {
   height: 33%;
@@ -354,6 +384,9 @@ html {
 
 .stack-name {
   font-size: 2rem; }
+  @media screen and (max-width: 690px) {
+    .stack-name {
+      font-size: 1rem; } }
 
 .stack-image-hold {
   height: 66%;
@@ -364,6 +397,13 @@ html {
 
 .stack-image {
   width: 150px; }
+  @media screen and (max-width: 900px) {
+    .stack-image {
+      width: 100px;
+      margin-top: 35px; } }
+  @media screen and (max-width: 690px) {
+    .stack-image {
+      width: 75px; } }
 
 .Portfolio {
   color: white;
@@ -379,6 +419,10 @@ html {
   width: 95%;
   height: 80%;
   display: flex; }
+  @media screen and (max-width: 1100px) {
+    .portfolio-content {
+      flex-direction: column;
+      align-items: center; } }
 
 .portfolio-item {
   height: 100%;
@@ -387,6 +431,9 @@ html {
   justify-content: center;
   align-items: center;
   flex-direction: column; }
+  @media screen and (max-width: 1100px) {
+    .portfolio-item {
+      width: 100%; } }
 
 .carousel-item {
   height: 80%;
@@ -398,9 +445,19 @@ html {
 .carousel-image {
   height: 300px;
   margin: 25px 0; }
+  @media screen and (max-width: 1100px) {
+    .carousel-image {
+      height: 200px; } }
+  @media screen and (max-width: 500px) {
+    .carousel-image {
+      height: 150px;
+      width: 100%; } }
 
 .carousel-image-label {
-  margin-bottom: 25px; }
+  padding-bottom: 25px; }
+  @media screen and (max-width: 500px) {
+    .carousel-image-label {
+      font-size: 0.85rem; } }
 
 .portfolio-item-title {
   font-size: 3rem; }
@@ -410,6 +467,12 @@ html {
   width: 80%;
   line-height: 25px;
   font-size: 1.3rem; }
+  @media screen and (max-width: 1100px) {
+    .portfolio-item-list {
+      font-size: 1rem; } }
+  @media screen and (max-width: 800px) {
+    .portfolio-item-list {
+      font-size: 0.85rem; } }
 
 .Contact {
   color: white;
@@ -428,12 +491,18 @@ html {
   flex-wrap: wrap;
   justify-content: center;
   align-items: center; }
+  @media screen and (max-width: 700px) {
+    .contact-page {
+      height: 50%; } }
 
 .lets-chat {
   width: 100%;
   font-size: 5rem;
   text-align: center;
   margin-bottom: 25px; }
+  @media screen and (max-width: 700px) {
+    .lets-chat {
+      font-size: 3rem; } }
 
 .contact-content-hold {
   width: 100%;
@@ -446,6 +515,9 @@ html {
   flex-direction: column;
   justify-content: space-between;
   height: 55%; }
+  @media screen and (max-width: 700px) {
+    .contact-info {
+      height: 50%; } }
 
 .contact-info-line {
   display: flex;
@@ -454,6 +526,9 @@ html {
 .contact-info-icon {
   font-size: 3rem;
   margin-right: 25px; }
+  @media screen and (max-width: 700px) {
+    .contact-info-icon {
+      font-size: 2rem; } }
 
 .contact-info-text {
   font-size: 1.8rem;
@@ -462,6 +537,10 @@ html {
   padding-left: 25px;
   display: flex;
   align-items: center; }
+  @media screen and (max-width: 700px) {
+    .contact-info-text {
+      font-size: 1rem;
+      word-break: break-all; } }
 
 .contact-form-hold {
   width: 45%;

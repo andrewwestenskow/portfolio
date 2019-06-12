@@ -18,7 +18,7 @@ const Portfolio = () => {
               <p className='carousel-image-label'>vote2play home page</p>
             </div>
             <div className="carousel-item">
-              <img className='carousel-image' src="https://socialplaylists.s3-us-west-1.amazonaws.com/Website+images/vote2play+group.png" alt="vote2play dashboard"/>
+              <img className='carousel-image' src="https://socialplaylists.s3-us-west-1.amazonaws.com/Website+images/vote2play+dashboard.png" alt="vote2play dashboard"/>
               <p className='carousel-image-label'>User dashboard shows all groups and allows for joining new groups</p>
             </div>
             <div className="carousel-item">

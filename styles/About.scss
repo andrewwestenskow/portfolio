@@ -9,6 +9,7 @@
   width: 95%;
   height: 80%;
   display: flex;
+  
 }
 
 .about-text-hold{
@@ -29,6 +30,10 @@
     @media screen and (max-width: 1250px) {
       font-size: 3rem;
     }
+    @media screen and (max-width: 500px) {
+      font-size: 2rem;
+      margin-bottom: 25px;
+    }
   };
   p{
     font-size: 1.8rem;
@@ -38,6 +43,13 @@
     @media screen and (max-width: 1250px) {
       font-size: 1rem;
     }
+    @media screen and (max-width: 500px) {
+      font-size: 0.85rem;
+    }
+  }
+  @media screen and (max-width: 800px) {
+    width: 100%;
+    margin-top: 15px;
   }
 }
 
@@ -48,6 +60,9 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  @media screen and (max-width: 800px) {
+    display: none;
+  }
 }
 
 .about-image{
@@ -57,4 +72,7 @@
   background-size: 100%;
   background-position: center;
   background-repeat: no-repeat;
+  @media screen and (max-width: 800px) {
+    display: none;
+  }
 }

@@ -13,6 +13,9 @@
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
+  @media screen and (max-width: 700px) {
+    height: 50%;
+  }
 }
 
 .lets-chat{
@@ -20,6 +23,9 @@
   font-size: 5rem;
   text-align: center;
   margin-bottom: 25px;
+  @media screen and (max-width: 700px) {
+    font-size: 3rem;
+  }
 }
 
 .contact-content-hold{
@@ -34,6 +40,9 @@
   flex-direction: column;
   justify-content: space-between;
   height: 55%;
+  @media screen and (max-width: 700px) {
+    height: 50%;
+  }
 }
 
 .contact-info-line{
@@ -44,6 +53,9 @@
 .contact-info-icon{
   font-size: 3rem;
   margin-right: 25px;
+  @media screen and (max-width: 700px) {
+    font-size: 2rem;
+  }
 }
 
 .contact-info-text{
@@ -53,6 +65,10 @@
   padding-left: 25px;
   display: flex;
   align-items: center;
+  @media screen and (max-width: 700px) {
+    font-size: 1rem;
+    word-break: break-all;
+  }
 }
 
 .contact-form-hold{

@@ -3,6 +3,11 @@
   height: 200px;
   padding: 0 25px;
   // border: 1px solid white;
+  @media screen and (max-width: 900px) {
+    width: 100px;
+    height: 100px;
+  }
+  
 }
 
 .stack-name-hold{
@@ -15,6 +20,10 @@
 
 .stack-name{
   font-size: 2rem;
+  @media screen and (max-width: 690px) {
+    font-size: 1rem;
+    
+  }
 }
 
 .stack-image-hold{
@@ -27,4 +36,11 @@
 
 .stack-image{
   width: 150px;
+  @media screen and (max-width: 900px) {
+    width: 100px;
+    margin-top: 35px;
+  }
+  @media screen and (max-width: 690px) {
+    width: 75px
+  }
 }

@@ -161,7 +161,7 @@ html {
 #portfolio {
   background: #252525;
   width: 100vw;
-  height: 100vh; }
+  height: 120vh; }
   @media screen and (max-width: 1300px) {
     #portfolio {
       height: 120vh; } }
@@ -207,7 +207,7 @@ html {
 .home-content {
   display: flex;
   justify-content: space-around;
-  width: 60%;
+  width: 70%;
   line-height: 70px; }
   @media screen and (max-width: 1270px) {
     .home-content {
@@ -310,7 +310,7 @@ html {
         font-size: 2rem;
         margin-bottom: 25px; } }
   .about-text-hold p {
-    font-size: 1.8rem;
+    font-size: 1.5rem;
     width: 80%;
     margin: 0;
     line-height: 35px; }

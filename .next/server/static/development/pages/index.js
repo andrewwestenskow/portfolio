@@ -1417,7 +1417,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _src_assets_REACT_png__WEBPACK_IMPORTED_MODULE_10___default = /*#__PURE__*/__webpack_require__.n(_src_assets_REACT_png__WEBPACK_IMPORTED_MODULE_10__);
 /* harmony import */ var _src_assets_SASS_png__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ../../src/assets/SASS.png */ "./src/assets/SASS.png");
 /* harmony import */ var _src_assets_SASS_png__WEBPACK_IMPORTED_MODULE_11___default = /*#__PURE__*/__webpack_require__.n(_src_assets_SASS_png__WEBPACK_IMPORTED_MODULE_11__);
+/* harmony import */ var _src_assets_GIT_png__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ../../src/assets/GIT.png */ "./src/assets/GIT.png");
+/* harmony import */ var _src_assets_GIT_png__WEBPACK_IMPORTED_MODULE_12___default = /*#__PURE__*/__webpack_require__.n(_src_assets_GIT_png__WEBPACK_IMPORTED_MODULE_12__);
 var _jsxFileName = "C:\\Users\\andre\\Development-Projects\\portfolio\\Components\\Sections\\Stack.jsx";
+
 
 
 
@@ -1436,21 +1439,21 @@ var Stack = function Stack() {
     className: "Stack",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 17
+      lineNumber: 18
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
     className: "section-label",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 18
+      lineNumber: 19
     },
     __self: this
   }, "Stack"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "stack-content",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 21
+      lineNumber: 22
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
@@ -1458,7 +1461,7 @@ var Stack = function Stack() {
     name: "HTML5",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 22
+      lineNumber: 23
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
@@ -1466,7 +1469,7 @@ var Stack = function Stack() {
     name: "CSS3",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 23
+      lineNumber: 24
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
@@ -1474,7 +1477,7 @@ var Stack = function Stack() {
     name: "Sass",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 24
+      lineNumber: 25
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
@@ -1482,7 +1485,7 @@ var Stack = function Stack() {
     name: "Javascript",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 25
+      lineNumber: 26
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
@@ -1490,7 +1493,7 @@ var Stack = function Stack() {
     name: "React.js",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 26
+      lineNumber: 27
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
@@ -1498,7 +1501,7 @@ var Stack = function Stack() {
     name: "Next.js",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 27
+      lineNumber: 28
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
@@ -1506,7 +1509,7 @@ var Stack = function Stack() {
     name: "Node.js",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 28
+      lineNumber: 29
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
@@ -1514,7 +1517,7 @@ var Stack = function Stack() {
     name: "PostgreSQL",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 29
+      lineNumber: 30
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
@@ -1522,7 +1525,15 @@ var Stack = function Stack() {
     name: "MongoDB",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 30
+      lineNumber: 31
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
+    img: _src_assets_GIT_png__WEBPACK_IMPORTED_MODULE_12___default.a,
+    name: "Git",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 32
     },
     __self: this
   })));
@@ -1558,24 +1569,10 @@ var StackImg = function StackImg(props) {
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    className: "stack-name-hold",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 8
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
-    className: "stack-name",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 9
-    },
-    __self: this
-  }, props.name)), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "stack-image-hold",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 11
+      lineNumber: 8
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -1584,10 +1581,24 @@ var StackImg = function StackImg(props) {
     alt: props.name,
     __source: {
       fileName: _jsxFileName,
+      lineNumber: 9
+    },
+    __self: this
+  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "stack-name-hold",
+    __source: {
+      fileName: _jsxFileName,
       lineNumber: 12
     },
     __self: this
-  })));
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+    className: "stack-name",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 13
+    },
+    __self: this
+  }, props.name)));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (StackImg);
@@ -2519,6 +2530,17 @@ var Index = function Index() {
 /***/ (function(module, exports) {
 
 module.exports = "data:image/png;base64,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"
+
+/***/ }),
+
+/***/ "./src/assets/GIT.png":
+/*!****************************!*\
+  !*** ./src/assets/GIT.png ***!
+  \****************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAMAAADVRocKAAABJlBMVEVHcEzzVRj0UR/zUR3/SST0UR//VQD/ZjP1UR30UR70UR7/TRr0UR3/VSvvUCD0UR70UR70UR70UR70UR70UR70UR7uVSLtSST/VRz0UR70UR7wSx70UR7zUh7/YCD0UR7zUB7zUR/zUR7yURv0UR71UR70UR70UR/xVRz/RhfyTiH0UR7zUB/0UR70UR7rTifzUR/0UR71UB71UR7zURz0UR/1Uh7zUB31UR3zUR70UR7/AADyTRr0UB3zUh70Uh/0UR7zUh3zUh3zUR70Ux31Uh71UR70UR72Txz0UR71UB7zUh/zUR30UR72VRz0UR70UR7yUR70UR70Uh70UB71Uh30UR30UR70UR7zUx7zUR70Uh71UR30UB70UR/1Uh/0UB70UR4M8Hd+AAAAYXRSTlMAFdGuB6cDBa20owq/BhC98r7S10WIDw4JyncR/YAI8VZCsRPp8/jAEgsn2FOk5w0pimbcP3XbaU9V+gEUWVRa+T5Xm0dnxMk3uTOvx+wbs/s8zLKoNba8wSvG9GjLdGS74GteywAAAoRJREFUaN7t2VdD2zAQAGDTFCIcZxVKSKEQoJRSoJRuRumElu691/3/P1ESCFLkk+SzTk/4Xi3fh23lDklRVEQRRZyy2O4kPxeTzWD5y2vQi7gcKH8JjmP0bNj8YQQ1fwhhMD+/oOfnFtL5mYUNQEIwztahM5jA+QwhhZ2N7qsYOhfqLdU+HP2hoZ6h9rufJoxQa8s0IYSJtpqGX6i1T9KUel96+O6tRzfqbF964pmSpiTT3JvlEVqvBtIowvg0h9D6ob2KP/JazPCW1vf1r/lZXpzz/8VVktR0WZdXp7zn0vK39HzcUXjfqrG8hEz49/L6d8+6VGliv6gncsAFv8o3+RW7H7ZeyOrtVVsn/wEer5+zCDMHYIrpT7056idU34IluiPgvE+Pq34EJ+AjVOchA5BfcOXvA3kFZ/4TAC5GOfpD+SVkBo4EWn/YXgMCoAp6f4hxoAMkAP6a+8MuCiwRgXFzf2iiwCIRmDL3hwYKNIjAjFK+tGGzKJAQgavy1uvasDoKbBKB2+b+sIpPo5gGXLvSv3HhUqZpGpUFCYBm6/gftCTzT1mQALhzv3LYXx/czN4UnMIgAHB5bOwhqemMDNMAelNzCE7A3TTtggvI0pRt32GlO2DFL79F2Nob6T3jr3de+c1Cpz/gsV9+03cYlQO++C6a0Wd4qrQw70U5JrxRVof+i35EsNT/PEuctGCp/7kWaSnBUv/zLTN1wVz/8y6UdYFe/6kCvf6TvwO5/vvVVo5NL5fgv6lmFzg27WwCz9apWeDamjUJfFu/uMC5tYwJgvWgJS0I5oMcXRDsB0WDgghwEKUKIshBlxREqIO0OOxB3WHs1huN+mpURBFFnLb4DyMx4EU1tQR5AAAAAElFTkSuQmCC"
 
 /***/ }),
 

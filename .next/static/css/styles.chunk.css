@@ -154,9 +154,9 @@ html {
   width: 100vw;
   height: 100vh;
   background: #595959; }
-  @media screen and (max-width: 800px) {
+  @media screen and (max-width: 1300px) {
     #about {
-      height: 100vh; } }
+      height: 120vh; } }
 
 #portfolio {
   background: #252525;
@@ -201,7 +201,8 @@ html {
   right: 0;
   font-size: 3rem;
   margin: 25px;
-  align-self: flex-start; }
+  align-self: flex-start;
+  display: none; }
 
 .home-content {
   display: flex;
@@ -400,7 +401,7 @@ html {
   @media screen and (max-width: 900px) {
     .stack-image {
       width: 100px;
-      margin-top: 35px; } }
+      margin-bottom: 35px; } }
   @media screen and (max-width: 690px) {
     .stack-image {
       width: 75px; } }

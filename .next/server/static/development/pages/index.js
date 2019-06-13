@@ -969,32 +969,25 @@ var Portfolio = function Portfolio() {
       lineNumber: 8
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
-    className: "section-label",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 9
-    },
-    __self: this
-  }, "Portfolio"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-content",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 12
+      lineNumber: 9
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-item",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 13
+      lineNumber: 10
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "portfolio-item-title",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 14
+      lineNumber: 11
     },
     __self: this
   }, "vote2play"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(nuka_carousel__WEBPACK_IMPORTED_MODULE_2___default.a, {
@@ -1009,14 +1002,14 @@ var Portfolio = function Portfolio() {
     speed: 1500,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 15
+      lineNumber: 12
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "carousel-item",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 16
+      lineNumber: 13
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -1025,21 +1018,21 @@ var Portfolio = function Portfolio() {
     alt: "vote2play home page",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 17
+      lineNumber: 14
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "carousel-image-label",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 18
+      lineNumber: 15
     },
     __self: this
   }, "vote2play home page")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "carousel-item",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 20
+      lineNumber: 17
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -1048,21 +1041,21 @@ var Portfolio = function Portfolio() {
     alt: "vote2play dashboard",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 21
+      lineNumber: 18
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "carousel-image-label",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 22
+      lineNumber: 19
     },
     __self: this
   }, "User dashboard shows all groups and allows for joining new groups")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "carousel-item",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 24
+      lineNumber: 21
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -1071,21 +1064,21 @@ var Portfolio = function Portfolio() {
     alt: "vote2play group",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 25
+      lineNumber: 22
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "carousel-image-label",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 26
+      lineNumber: 23
     },
     __self: this
   }, "Host view plays media and shows additional controls")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "carousel-item",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 28
+      lineNumber: 25
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -1094,21 +1087,21 @@ var Portfolio = function Portfolio() {
     alt: "vote2play group",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 29
+      lineNumber: 26
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "carousel-image-label",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 30
+      lineNumber: 27
     },
     __self: this
   }, "Member view shows what is playing and allows for voting and tuning in")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "carousel-item",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 32
+      lineNumber: 29
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -1117,21 +1110,21 @@ var Portfolio = function Portfolio() {
     alt: "vote2play create groups",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 33
+      lineNumber: 30
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "carousel-image-label",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 34
+      lineNumber: 31
     },
     __self: this
   }, "Users can easily create new groups")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "carousel-item",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 36
+      lineNumber: 33
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -1140,57 +1133,57 @@ var Portfolio = function Portfolio() {
     alt: "vote2play profile",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 37
+      lineNumber: 34
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "carousel-image-label",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 38
+      lineNumber: 35
     },
     __self: this
   }, "Profile page allows users to edit their information and leave any unused groups"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
     className: "portfolio-item-list",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 41
+      lineNumber: 38
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 42
+      lineNumber: 39
     },
     __self: this
   }, "vote2play is a platform for collaborative playlist making and music listening"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 43
+      lineNumber: 40
     },
     __self: this
   }, "Playlists are made from YouTube links and can be added by listeners and voted on to determine the order they will play"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 44
+      lineNumber: 41
     },
     __self: this
   }, "By default, music only plays on host device but other members can tune in on their own devices"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 45
+      lineNumber: 42
     },
     __self: this
   }, "Music will always sync with the host device including pause, play, and seek functionality"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 46
+      lineNumber: 43
     },
     __self: this
   }, "Built using: React.js, Express, Socket.io, PostgreSQL, and Google's YouTube API"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 47
+      lineNumber: 44
     },
     __self: this
   }, "Live site: ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
@@ -1198,13 +1191,13 @@ var Portfolio = function Portfolio() {
     href: "http://www.vote2play.com",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 47
+      lineNumber: 44
     },
     __self: this
   }, "www.vote2play.com")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 48
+      lineNumber: 45
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
@@ -1212,21 +1205,21 @@ var Portfolio = function Portfolio() {
     href: "https://github.com/andrewwestenskow/vote2play",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 48
+      lineNumber: 45
     },
     __self: this
   }, "GitHub repo ")))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-item",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 51
+      lineNumber: 48
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "portfolio-item-title",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 52
+      lineNumber: 49
     },
     __self: this
   }, "fin-s"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(nuka_carousel__WEBPACK_IMPORTED_MODULE_2___default.a, {
@@ -1241,14 +1234,14 @@ var Portfolio = function Portfolio() {
     speed: 1500,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 53
+      lineNumber: 50
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "carousel-item",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 54
+      lineNumber: 51
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -1257,21 +1250,21 @@ var Portfolio = function Portfolio() {
     alt: "vote2play groups",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 55
+      lineNumber: 52
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "carousel-image-label",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 56
+      lineNumber: 53
     },
     __self: this
   }, "User dashboard displays all groups")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "carousel-item",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 58
+      lineNumber: 55
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -1280,21 +1273,21 @@ var Portfolio = function Portfolio() {
     alt: "vote2play playlist",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 59
+      lineNumber: 56
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "carousel-image-label",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 60
+      lineNumber: 57
     },
     __self: this
   }, "Playlist displays now playing and upcoming songs")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "carousel-item",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 62
+      lineNumber: 59
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -1303,57 +1296,57 @@ var Portfolio = function Portfolio() {
     alt: "vote2play create group",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 63
+      lineNumber: 60
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "carousel-image-label",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 64
+      lineNumber: 61
     },
     __self: this
   }, "Users can create new groups"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
     className: "portfolio-item-list",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 67
+      lineNumber: 64
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 68
+      lineNumber: 65
     },
     __self: this
   }, "fin-s is a financial tracker specifically designed to help users eliminate debt"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 69
+      lineNumber: 66
     },
     __self: this
   }, "Users incomes, debts, and expenses are input at sign-up and visualized in the dashboard"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 70
+      lineNumber: 67
     },
     __self: this
   }, "The dashboard view shows both a list and calendar view of upcoming incomes, debts, and expenses as well as an interactive graph which visualizes debt payoff with higher payments"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 71
+      lineNumber: 68
     },
     __self: this
   }, "The dashboard also provides a financial wellness to-do list designed to help users reach financial stability"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 72
+      lineNumber: 69
     },
     __self: this
   }, "Built using: React.js, Express, PostgreSQL, MongoDB, Chart.js, and fullcalendar"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 73
+      lineNumber: 70
     },
     __self: this
   }, "Live site: ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
@@ -1361,13 +1354,13 @@ var Portfolio = function Portfolio() {
     href: "http://www.fin-s.us",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 73
+      lineNumber: 70
     },
     __self: this
   }, "www.fin-s.us")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 74
+      lineNumber: 71
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
@@ -1375,7 +1368,7 @@ var Portfolio = function Portfolio() {
     href: "https://github.com/fin-s/fin-s",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 74
+      lineNumber: 71
     },
     __self: this
   }, "GitHub repo "))))));

@@ -6,9 +6,6 @@ import Carousel from 'nuka-carousel'
 const Portfolio = () => {
   return (
     <div className='Portfolio'>
-      <h1 className="section-label">
-        Portfolio
-      </h1>
       <div className="portfolio-content">
         <div className="portfolio-item">
           <h2 className='portfolio-item-title'>vote2play</h2>

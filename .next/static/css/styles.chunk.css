@@ -415,6 +415,10 @@ html {
   justify-content: center;
   height: 100%;
   width: calc(100% - 75px); }
+  @media screen and (max-width: 1100px) {
+    .Portfolio {
+      align-items: flex-start;
+      padding-top: 25px; } }
 
 .portfolio-content {
   width: 95%;

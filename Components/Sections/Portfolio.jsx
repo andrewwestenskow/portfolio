@@ -49,16 +49,20 @@ const Portfolio = () => {
           <h2 className="portfolio-item-title">fin-s</h2>
           <Carousel width='80%' autoplay={true} autoplayInterval={5000} swiping={true} withoutControls={true} pauseOnHover={true} wrapAround={true} heightMode='first' speed={1500}>
             <div className="carousel-item">
-              <img className='carousel-image' src="https://socialplaylists.s3-us-west-1.amazonaws.com/Hero+Images/groups+example.PNG" alt="vote2play groups"/>
-              <p className='carousel-image-label'>User dashboard displays all groups</p>
+              <img className='carousel-image' src="https://socialplaylists.s3-us-west-1.amazonaws.com/fins+images/fins+home.png"/>
+              <p className='carousel-image-label'>fin-s home page</p>
             </div>
             <div className="carousel-item">
-              <img className='carousel-image' src="https://socialplaylists.s3-us-west-1.amazonaws.com/Hero+Images/Playlist+example.PNG" alt="vote2play playlist"/>
-              <p className='carousel-image-label'>Playlist displays now playing and upcoming songs</p>
+              <img className='carousel-image' src="https://socialplaylists.s3-us-west-1.amazonaws.com/fins+images/fins+wizard.png"/>
+              <p className='carousel-image-label'>The wizard allows users to quickly add incomes, debts, and expenses</p>
             </div>
             <div className="carousel-item">
-              <img className='carousel-image' src="https://socialplaylists.s3-us-west-1.amazonaws.com/Hero+Images/create+group+example.PNG" alt="vote2play create group"/>
-              <p className='carousel-image-label'>Users can create new groups</p>
+              <img className='carousel-image' src="https://socialplaylists.s3-us-west-1.amazonaws.com/fins+images/fins+dashboard.png" alt="vote2play create group"/>
+              <p className='carousel-image-label'>The dashboard shows graph, calendar, and upcoming events</p>
+            </div>
+            <div className="carousel-item">
+              <img className='carousel-image' src="https://socialplaylists.s3-us-west-1.amazonaws.com/fins+images/fins+profile.png"/>
+              <p className='carousel-image-label'>Profile allows users to quickly manage information</p>
             </div>
           </Carousel>
           <ul className="portfolio-item-list">

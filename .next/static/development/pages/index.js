@@ -1147,8 +1147,7 @@ var Portfolio = function Portfolio() {
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "carousel-image",
-    src: "https://socialplaylists.s3-us-west-1.amazonaws.com/Hero+Images/groups+example.PNG",
-    alt: "vote2play groups",
+    src: "https://socialplaylists.s3-us-west-1.amazonaws.com/fins+images/fins+home.png",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 52
@@ -1161,7 +1160,7 @@ var Portfolio = function Portfolio() {
       lineNumber: 53
     },
     __self: this
-  }, "User dashboard displays all groups")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }, "fin-s home page")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "carousel-item",
     __source: {
       fileName: _jsxFileName,
@@ -1170,8 +1169,7 @@ var Portfolio = function Portfolio() {
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "carousel-image",
-    src: "https://socialplaylists.s3-us-west-1.amazonaws.com/Hero+Images/Playlist+example.PNG",
-    alt: "vote2play playlist",
+    src: "https://socialplaylists.s3-us-west-1.amazonaws.com/fins+images/fins+wizard.png",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 56
@@ -1184,7 +1182,7 @@ var Portfolio = function Portfolio() {
       lineNumber: 57
     },
     __self: this
-  }, "Playlist displays now playing and upcoming songs")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }, "The wizard allows users to quickly add incomes, debts, and expenses")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "carousel-item",
     __source: {
       fileName: _jsxFileName,
@@ -1193,7 +1191,7 @@ var Portfolio = function Portfolio() {
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "carousel-image",
-    src: "https://socialplaylists.s3-us-west-1.amazonaws.com/Hero+Images/create+group+example.PNG",
+    src: "https://socialplaylists.s3-us-west-1.amazonaws.com/fins+images/fins+dashboard.png",
     alt: "vote2play create group",
     __source: {
       fileName: _jsxFileName,
@@ -1207,47 +1205,69 @@ var Portfolio = function Portfolio() {
       lineNumber: 61
     },
     __self: this
-  }, "Users can create new groups"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
-    className: "portfolio-item-list",
+  }, "The dashboard shows graph, calendar, and upcoming events")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "carousel-item",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 63
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    className: "carousel-image",
+    src: "https://socialplaylists.s3-us-west-1.amazonaws.com/fins+images/fins+profile.png",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 64
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+    className: "carousel-image-label",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 65
     },
     __self: this
-  }, "fin-s is a financial tracker specifically designed to help users eliminate debt"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 66
-    },
-    __self: this
-  }, "Users incomes, debts, and expenses are input at sign-up and visualized in the dashboard"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 67
-    },
-    __self: this
-  }, "The dashboard view shows both a list and calendar view of upcoming incomes, debts, and expenses as well as an interactive graph which visualizes debt payoff with higher payments"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+  }, "Profile allows users to quickly manage information"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
+    className: "portfolio-item-list",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 68
     },
     __self: this
-  }, "The dashboard also provides a financial wellness to-do list designed to help users reach financial stability"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 69
     },
     __self: this
-  }, "Built using: React.js, Express, PostgreSQL, MongoDB, Chart.js, and fullcalendar"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+  }, "fin-s is a financial tracker specifically designed to help users eliminate debt"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 70
+    },
+    __self: this
+  }, "Users incomes, debts, and expenses are input at sign-up and visualized in the dashboard"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 71
+    },
+    __self: this
+  }, "The dashboard view shows both a list and calendar view of upcoming incomes, debts, and expenses as well as an interactive graph which visualizes debt payoff with higher payments"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 72
+    },
+    __self: this
+  }, "The dashboard also provides a financial wellness to-do list designed to help users reach financial stability"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 73
+    },
+    __self: this
+  }, "Built using: React.js, Express, PostgreSQL, MongoDB, Chart.js, and fullcalendar"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 74
     },
     __self: this
   }, "Live site: ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
@@ -1255,13 +1275,13 @@ var Portfolio = function Portfolio() {
     href: "http://www.fin-s.us",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 70
+      lineNumber: 74
     },
     __self: this
   }, "www.fin-s.us")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 71
+      lineNumber: 75
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
@@ -1269,7 +1289,7 @@ var Portfolio = function Portfolio() {
     href: "https://github.com/fin-s/fin-s",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 71
+      lineNumber: 75
     },
     __self: this
   }, "GitHub repo "))))));

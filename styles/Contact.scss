@@ -2,13 +2,14 @@
 
 .Contact{
   @include section-reset;
+  padding: 0;
   // flex-direction: column;
 }
 
 .contact-page{
   // border: 1px solid white;
   width: 95%;
-  height: 80%;
+  min-height: 80vh;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -39,7 +40,7 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  height: 55%;
+  min-height: 55vh;
   @media screen and (max-width: 700px) {
     height: 50%;
   }

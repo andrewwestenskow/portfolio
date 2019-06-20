@@ -145,36 +145,40 @@ html {
   html ::-webkit-scrollbar-corner {
     background: transparent; }
 
+a {
+  color: white; }
+
 #home {
   background: #252525;
   width: 100vw;
-  height: 100vh; }
+  min-height: 100vh; }
 
 #about {
   width: 100vw;
-  height: 100vh;
+  min-height: 100vh;
   background: #595959; }
   @media screen and (max-width: 1300px) {
     #about {
-      height: 120vh; } }
+      min-height: 120vh; } }
 
 #portfolio {
   background: #252525;
   width: 100vw;
-  height: 120vh; }
+  min-height: 120vh; }
   @media screen and (max-width: 1300px) {
     #portfolio {
-      height: 120vh; } }
+      min-height: 120vh; } }
   @media screen and (max-width: 1100px) {
     #portfolio {
-      height: 200vh; } }
+      min-height: 200vh; } }
   @media screen and (max-width: 400px) {
     #portfolio {
-      height: 220vh; } }
+      min-height: 220vh; } }
 
 #stack {
   width: 100vw;
-  height: 100vh;
+  min-height: 100vh;
+  overflow: hidden;
   background: #595959; }
 
 #contact {
@@ -189,7 +193,8 @@ html {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 100%;
+  min-height: 100vh;
+  padding: 15px 0;
   width: calc(100% - 75px); }
   @media screen and (max-width: 400px) {
     .Home {
@@ -281,7 +286,8 @@ html {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 100%;
+  min-height: 100vh;
+  padding: 15px 0;
   width: calc(100% - 75px); }
 
 .about-content {
@@ -336,15 +342,17 @@ html {
       display: none; } }
 
 .about-image {
-  height: 80%;
+  min-height: 80%;
   width: 80%;
-  background-image: url("https://lh3.googleusercontent.com/fean3yyniud5o9YeIeXJte3ICnxndvJ2vw4XwS3RMi3xCyAyy8VBGbcL87KLY6w5cxy8OyiHY0Ok8WkbaUFKyNvBitxvhqaBT7A5fSZ7GtUPUAQq933xCddb3DSauSr_43jjdgMhq07NUp9ZEIvmsuN39xfOiawnLvwTU6F8VZCe5f_aV5zHZCk38xfpWzkgrewFmFlmTeo0vGaK6ZBYQaIuTWFl2Z_SF9I7Rk1-pOoHum8dwi-GU2VggcraAgq3lmoIV6VeOYmzPBSlb6UpBGEXzrsYZu0ix0hFdsgV0Y7XwcFYHryBFUMfdRKkJAnW3ceeZ3S3oUz3qx8t9Zaf9U7SyS8wzSxb1n--4urhdXYyj1lOltkKUarJcYp5tgDD-8Z-4Le294S9LSckds44IOvBGzVPd21SWrNacKa-o6wWdrPXZtCyn7U8qzkpCvQ0FFRXdah_F8RpfZfegX_-VfJ-yWCZA98ztN4vR0MTgvBcdLevR05iVgMkI5kwdc6jFDvEOv1tVlhTWiiDLGG3y6ZcoJLdRwRytQ-nulWs9-jgTaRsq4H2eFNL1wWiINZriV70tHGZQni0yQy70zCTTSPXO1SqVv3JzFmdD_e-JeqMavwlvuwxFrEtSB4Sfp4XOBPD8tnhR5GzX37qpQ1WjPvKc-MJkxtr=w703-h937-no");
   background-size: 100%;
   background-position: center;
   background-repeat: no-repeat; }
   @media screen and (max-width: 800px) {
     .about-image {
       display: none; } }
+
+.image {
+  max-height: 750px; }
 
 .Stack {
   color: white;
@@ -353,7 +361,8 @@ html {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 100%;
+  min-height: 100vh;
+  padding: 15px 0;
   width: calc(100% - 75px); }
 
 .stack-content {
@@ -413,7 +422,8 @@ html {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 100%;
+  min-height: 100vh;
+  padding: 15px 0;
   width: calc(100% - 75px); }
   @media screen and (max-width: 1100px) {
     .Portfolio {
@@ -486,12 +496,14 @@ html {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 100%;
-  width: calc(100% - 75px); }
+  min-height: 100vh;
+  padding: 15px 0;
+  width: calc(100% - 75px);
+  padding: 0; }
 
 .contact-page {
   width: 95%;
-  height: 80%;
+  min-height: 80vh;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -519,7 +531,7 @@ html {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  height: 55%; }
+  min-height: 55vh; }
   @media screen and (max-width: 700px) {
     .contact-info {
       height: 50%; } }

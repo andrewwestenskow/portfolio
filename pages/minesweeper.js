@@ -21,7 +21,7 @@ class Minesweeper extends React.Component {
       <Layout>
         <div className='game-hold'>
           {this.state.loading && <Loading width={400} height={400} />}
-          <iframe onLoad={this.toggleLoad} src="http://104.248.216.64:6776/" frameBorder="0"></iframe>
+          <iframe onLoad={this.toggleLoad} src="https://104.248.216.64:6776/" frameBorder="0"></iframe>
         </div>
       </Layout>
     )

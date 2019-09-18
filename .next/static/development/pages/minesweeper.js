@@ -38245,7 +38245,7 @@ function (_React$Component) {
         __self: this
       }), react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("iframe", {
         onLoad: this.toggleLoad,
-        src: "https://104.248.216.64:6776/",
+        src: "https://minesweeper.westenskow.dev/",
         frameBorder: "0",
         __source: {
           fileName: _jsxFileName,

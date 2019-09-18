@@ -34,16 +34,26 @@
   @include content-screen-resize
 }
 
+#games{
+  width: 100vw;
+  min-height: 100vh;
+  background: #595959;
+  @media screen and (max-width: 1300px){
+    min-height: 120vh;
+  }
+}
+
 #stack{
   width: 100vw;
   min-height: 100vh;
   overflow: hidden;
-  background: #595959;
+  background: #252525;
 }
 
 
 #contact{
-  background: #252525;
+  
+  background: #595959;
   width: 100vw;
   height: 100vh;
 }

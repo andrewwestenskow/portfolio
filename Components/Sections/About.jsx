@@ -11,7 +11,7 @@ const About = () => {
       <div className="about-content">
         <div className="about-image-hold">
           <div className="about-image">
-            <img src="https://socialplaylists.s3-us-west-1.amazonaws.com/Website+images/andrew+africa.jpg" alt="Andrew" className='image'/>
+            <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.0-9/32202644_10215834164072275_2266568479639339008_n.jpg?_nc_cat=110&_nc_oc=AQnE-GGSram3SlLaj5bz1H64ObuP-rBGrgOc9Jx9SuSpnBzbd7w_coAs6M3VT8JtDyY&_nc_ht=scontent-lax3-2.xx&oh=c136cd9145f749da74ce17eef6e60f14&oe=5E3AF0C8" alt="Andrew" className='image'/>
           </div>
         </div>
         <div className="about-text-hold">

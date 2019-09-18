@@ -2,19 +2,19 @@ import React from 'react'
 import '../styles/Layout.scss'
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faHome, faUser, faLayerGroup, faDesktop, faEnvelopeOpenText, faEnvelope, faPhone } from '@fortawesome/free-solid-svg-icons'
+import { faHome, faUser, faLayerGroup, faDesktop, faEnvelopeOpenText, faEnvelope, faPhone, faGamepad } from '@fortawesome/free-solid-svg-icons'
 import { fab } from '@fortawesome/free-brands-svg-icons'
 import Link from 'next/link'
 
 const Layout = props => {
 
-  library.add(faHome, faUser, faLayerGroup, faDesktop, faEnvelopeOpenText, faEnvelope, faPhone, fab)
+  library.add(faHome, faUser, faLayerGroup, faDesktop, faEnvelopeOpenText, faEnvelope, faPhone, fab, faGamepad)
 
   return (
     <div className='Layout'>
       <div className="navbar">
         <nav className='nav'>
-          <Link href='#home'>
+          <Link href='/#home'>
             <div className='nav-label-hold'>
               <span className='nav-label'>Home</span>
               <div className="icon-hold">
@@ -22,7 +22,7 @@ const Layout = props => {
               </div>
             </div>
           </Link>
-          <Link href='#about'>
+          <Link href='/#about'>
             <div className='nav-label-hold'>
               <span className='nav-label'>About</span>
               <div className="icon-hold">
@@ -30,15 +30,23 @@ const Layout = props => {
               </div>
             </div>
           </Link>
-          <Link href='#portfolio'>
+          <Link href='/#portfolio'>
             <div className='nav-label-hold'>
-              <span className='nav-label'>Portfolio</span>
+              <span className='nav-label'>Projects</span>
               <div className="icon-hold">
                 <FontAwesomeIcon className='nav-icon' icon='desktop' />
               </div>
             </div>
           </Link>
-          <Link href='#stack'>
+          <Link href='/#games'>
+            <div className='nav-label-hold'>
+              <span className='nav-label'>Games</span>
+              <div className="icon-hold">
+                <FontAwesomeIcon className='nav-icon' icon='gamepad' />
+              </div>
+            </div>
+          </Link>
+          <Link href='/#stack'>
             <div className='nav-label-hold'>
               <span className='nav-label'>Stack</span>
               <div className="icon-hold">
@@ -46,7 +54,7 @@ const Layout = props => {
               </div>
             </div>
           </Link>
-          <Link href='#contact'>
+          <Link href='/#contact'>
             <div className='nav-label-hold'>
               <span className='nav-label'>Contact</span>
               <div className="icon-hold">

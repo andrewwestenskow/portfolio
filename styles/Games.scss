@@ -1,0 +1,5 @@
+@import './Mixins.scss';
+
+.Games{
+  @include section-reset
+}

@@ -126,7 +126,7 @@ var _jsxFileName = "C:\\Users\\andre\\Development-Projects\\portfolio\\Component
 
 
 var Layout = function Layout(props) {
-  _fortawesome_fontawesome_svg_core__WEBPACK_IMPORTED_MODULE_2__["library"].add(_fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_4__["faHome"], _fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_4__["faUser"], _fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_4__["faLayerGroup"], _fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_4__["faDesktop"], _fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_4__["faEnvelopeOpenText"], _fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_4__["faEnvelope"], _fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_4__["faPhone"], _fortawesome_free_brands_svg_icons__WEBPACK_IMPORTED_MODULE_5__["fab"]);
+  _fortawesome_fontawesome_svg_core__WEBPACK_IMPORTED_MODULE_2__["library"].add(_fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_4__["faHome"], _fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_4__["faUser"], _fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_4__["faLayerGroup"], _fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_4__["faDesktop"], _fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_4__["faEnvelopeOpenText"], _fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_4__["faEnvelope"], _fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_4__["faPhone"], _fortawesome_free_brands_svg_icons__WEBPACK_IMPORTED_MODULE_5__["fab"], _fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_4__["faGamepad"]);
   return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "Layout",
     __source: {
@@ -149,7 +149,7 @@ var Layout = function Layout(props) {
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_6___default.a, {
-    href: "#home",
+    href: "/#home",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 17
@@ -186,7 +186,7 @@ var Layout = function Layout(props) {
     },
     __self: this
   })))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_6___default.a, {
-    href: "#about",
+    href: "/#about",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 25
@@ -222,7 +222,7 @@ var Layout = function Layout(props) {
     },
     __self: this
   })))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_6___default.a, {
-    href: "#portfolio",
+    href: "/#portfolio",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 33
@@ -242,7 +242,7 @@ var Layout = function Layout(props) {
       lineNumber: 35
     },
     __self: this
-  }, "Portfolio"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }, "Projects"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "icon-hold",
     __source: {
       fileName: _jsxFileName,
@@ -258,7 +258,7 @@ var Layout = function Layout(props) {
     },
     __self: this
   })))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_6___default.a, {
-    href: "#stack",
+    href: "/#games",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 41
@@ -278,7 +278,7 @@ var Layout = function Layout(props) {
       lineNumber: 43
     },
     __self: this
-  }, "Stack"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }, "Games"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "icon-hold",
     __source: {
       fileName: _jsxFileName,
@@ -287,14 +287,14 @@ var Layout = function Layout(props) {
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FontAwesomeIcon"], {
     className: "nav-icon",
-    icon: "layer-group",
+    icon: "gamepad",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 45
     },
     __self: this
   })))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_6___default.a, {
-    href: "#contact",
+    href: "/#stack",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 49
@@ -314,7 +314,7 @@ var Layout = function Layout(props) {
       lineNumber: 51
     },
     __self: this
-  }, "Contact"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }, "Stack"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "icon-hold",
     __source: {
       fileName: _jsxFileName,
@@ -323,16 +323,52 @@ var Layout = function Layout(props) {
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FontAwesomeIcon"], {
     className: "nav-icon",
-    icon: "envelope-open-text",
+    icon: "layer-group",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 53
     },
     __self: this
-  })))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  })))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_6___default.a, {
+    href: "/#contact",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 57
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "nav-label-hold",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 58
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
+    className: "nav-label",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 59
+    },
+    __self: this
+  }, "Contact"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "icon-hold",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 60
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FontAwesomeIcon"], {
+    className: "nav-icon",
+    icon: "envelope-open-text",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 61
+    },
+    __self: this
+  })))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 67
     },
     __self: this
   }, props.children));
@@ -399,7 +435,7 @@ var About = function About() {
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "https://socialplaylists.s3-us-west-1.amazonaws.com/Website+images/andrew+africa.jpg",
+    src: "https://scontent-lax3-2.xx.fbcdn.net/v/t1.0-9/32202644_10215834164072275_2266568479639339008_n.jpg?_nc_cat=110&_nc_oc=AQnE-GGSram3SlLaj5bz1H64ObuP-rBGrgOc9Jx9SuSpnBzbd7w_coAs6M3VT8JtDyY&_nc_ht=scontent-lax3-2.xx&oh=c136cd9145f749da74ce17eef6e60f14&oe=5E3AF0C8",
     alt: "Andrew",
     className: "image",
     __source: {
@@ -760,6 +796,38 @@ function (_Component) {
 }(react__WEBPACK_IMPORTED_MODULE_7__["Component"]);
 
 /* harmony default export */ __webpack_exports__["default"] = (ContactForm);
+
+/***/ }),
+
+/***/ "./Components/Sections/Games.jsx":
+/*!***************************************!*\
+  !*** ./Components/Sections/Games.jsx ***!
+  \***************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _styles_Games_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../styles/Games.scss */ "./styles/Games.scss");
+/* harmony import */ var _styles_Games_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_styles_Games_scss__WEBPACK_IMPORTED_MODULE_1__);
+var _jsxFileName = "C:\\Users\\andre\\Development-Projects\\portfolio\\Components\\Sections\\Games.jsx";
+
+
+
+var Games = function Games(props) {
+  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "Games",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 7
+    },
+    __self: this
+  });
+};
+
+/* harmony default export */ __webpack_exports__["default"] = (Games);
 
 /***/ }),
 
@@ -2417,8 +2485,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Components_Sections_Stack__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../Components/Sections/Stack */ "./Components/Sections/Stack.jsx");
 /* harmony import */ var _Components_Sections_Portfolio__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../Components/Sections/Portfolio */ "./Components/Sections/Portfolio.jsx");
 /* harmony import */ var _Components_Sections_Contact__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../Components/Sections/Contact */ "./Components/Sections/Contact.jsx");
-/* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! next/head */ "next/head");
-/* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(next_head__WEBPACK_IMPORTED_MODULE_8__);
+/* harmony import */ var _Components_Sections_Games__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../Components/Sections/Games */ "./Components/Sections/Games.jsx");
+/* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! next/head */ "next/head");
+/* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(next_head__WEBPACK_IMPORTED_MODULE_9__);
 var _jsxFileName = "C:\\Users\\andre\\Development-Projects\\portfolio\\pages\\index.js";
 
 
@@ -2430,88 +2499,102 @@ var _jsxFileName = "C:\\Users\\andre\\Development-Projects\\portfolio\\pages\\in
 
 
 
+
 var Index = function Index() {
-  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_head__WEBPACK_IMPORTED_MODULE_8___default.a, {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 14
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("title", {
+  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_head__WEBPACK_IMPORTED_MODULE_9___default.a, {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 15
     },
     __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("title", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 16
+    },
+    __self: this
   }, "Andrew Westenskow")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Components_Layout__WEBPACK_IMPORTED_MODULE_1__["default"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 17
+      lineNumber: 18
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
     id: "home",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 18
+      lineNumber: 19
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Components_Sections_Home__WEBPACK_IMPORTED_MODULE_3__["default"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 19
+      lineNumber: 20
     },
     __self: this
   })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
     id: "about",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 21
+      lineNumber: 22
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Components_Sections_About__WEBPACK_IMPORTED_MODULE_4__["default"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 22
+      lineNumber: 23
     },
     __self: this
   })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
     id: "portfolio",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 24
+      lineNumber: 25
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Components_Sections_Portfolio__WEBPACK_IMPORTED_MODULE_6__["default"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 25
+      lineNumber: 26
+    },
+    __self: this
+  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
+    id: "games",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 28
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Components_Sections_Games__WEBPACK_IMPORTED_MODULE_8__["default"], {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 29
     },
     __self: this
   })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
     id: "stack",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 27
+      lineNumber: 31
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Components_Sections_Stack__WEBPACK_IMPORTED_MODULE_5__["default"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 28
+      lineNumber: 32
     },
     __self: this
   })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
     id: "contact",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 30
+      lineNumber: 34
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Components_Sections_Contact__WEBPACK_IMPORTED_MODULE_7__["default"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 31
+      lineNumber: 35
     },
     __self: this
   }))));
@@ -2657,6 +2740,17 @@ module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAasAAAFACAYAAAAC
 /*!*********************************!*\
   !*** ./styles/ContactForm.scss ***!
   \*********************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+
+
+/***/ }),
+
+/***/ "./styles/Games.scss":
+/*!***************************!*\
+  !*** ./styles/Games.scss ***!
+  \***************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 

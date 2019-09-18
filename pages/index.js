@@ -6,6 +6,7 @@ import About from '../Components/Sections/About'
 import Stack from '../Components/Sections/Stack'
 import Portfolio from '../Components/Sections/Portfolio'
 import Contact from '../Components/Sections/Contact'
+import Games from '../Components/Sections/Games'
 import Head from 'next/head'
 
 const Index = () => {
@@ -23,6 +24,9 @@ const Index = () => {
       </section>
       <section id='portfolio'>
         <Portfolio />
+      </section>
+      <section id='games'>
+        <Games/>
       </section>
       <section id='stack'>
         <Stack />

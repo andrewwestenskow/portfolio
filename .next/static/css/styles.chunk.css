@@ -599,7 +599,8 @@ a {
   padding: 15px 0;
   width: calc(100% - 75px);
   align-items: flex-start;
-  min-height: 0vh; }
+  min-height: 0vh;
+  position: relative; }
 
 .games-content {
   width: 95%;
@@ -616,6 +617,11 @@ a {
   .games-content .game-descriptions {
     font-size: 1.2rem;
     margin: 5px 0; }
+
+.disclaimer {
+  position: absolute;
+  bottom: 5px;
+  right: 5px; }
 
 
 /*# sourceMappingURL=styles.chunk.css.map*/

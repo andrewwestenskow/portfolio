@@ -4,6 +4,7 @@
   @include section-reset;
   align-items: flex-start;
   min-height: 0vh;
+  position: relative;
 }
 
 .games-content{
@@ -24,4 +25,10 @@
     font-size: 1.2rem;
     margin: 5px 0;
   }
+}
+
+.disclaimer{
+  position: absolute;
+  bottom: 5px;
+  right: 5px;
 }

@@ -936,13 +936,14 @@ var Games = function Games(props) {
       lineNumber: 26
     },
     __self: this
-  }, "here"), " to play.*"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "here"), " to play.*"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+    className: "disclaimer",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 29
+      lineNumber: 31
     },
     __self: this
-  }))));
+  }, "*Games only work on desktop"));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Games);

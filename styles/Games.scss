@@ -3,6 +3,7 @@
 .Games{
   @include section-reset;
   align-items: flex-start;
+  min-height: 0vh;
 }
 
 .games-content{
@@ -15,9 +16,12 @@
     align-items: center;
     
   }
-}
-
-.game-link{
-  cursor: pointer;
-  text-decoration: underline;
+  .game-link{
+    cursor: pointer;
+    text-decoration: underline;
+  }
+  .game-descriptions{
+    font-size: 1.2rem;
+    margin: 5px 0;
+  }
 }

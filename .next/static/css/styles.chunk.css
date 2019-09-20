@@ -5,6 +5,19 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Raleway&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Raleway&display=swap);
+* {
+  margin: 0;
+  box-sizing: border-box; }
+
+.game-hold {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden; }
+
+iframe {
+  min-width: 100%;
+  min-height: 100%; }
+
 .Layout {
   display: flex;
   width: 100vw;
@@ -178,7 +191,6 @@ a {
 
 #games {
   width: 100vw;
-  min-height: 100vh;
   background: #595959; }
   @media screen and (max-width: 1300px) {
     #games {
@@ -586,7 +598,8 @@ a {
   min-height: 100vh;
   padding: 15px 0;
   width: calc(100% - 75px);
-  align-items: flex-start; }
+  align-items: flex-start;
+  min-height: 0vh; }
 
 .games-content {
   width: 95%;
@@ -597,10 +610,12 @@ a {
     .games-content {
       flex-direction: column;
       align-items: center; } }
-
-.game-link {
-  cursor: pointer;
-  text-decoration: underline; }
+  .games-content .game-link {
+    cursor: pointer;
+    text-decoration: underline; }
+  .games-content .game-descriptions {
+    font-size: 1.2rem;
+    margin: 5px 0; }
 
 
 /*# sourceMappingURL=styles.chunk.css.map*/

@@ -11,6 +11,7 @@ import POSTGRES from '../../src/assets/POSTGRES.png'
 import REACT from '../../src/assets/REACT.png'
 import SASS from '../../src/assets/SASS.png'
 import GIT from '../../src/assets/GIT.png'
+import REDIS from '../../src/assets/REDIS.png'
 
 
 const Stack = () => {
@@ -29,6 +30,7 @@ const Stack = () => {
         <StackImg img={NODE} name='Node.js' />
         <StackImg img={POSTGRES} name='PostgreSQL' />
         <StackImg img={MONGO} name='MongoDB' />
+        <StackImg img={REDIS} name='Redis'/>
         <StackImg img={GIT} name='Git'/>
       </div>
     </div>

@@ -2,13 +2,13 @@ import React from 'react'
 import '../styles/Layout.scss'
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faHome, faUser, faLayerGroup, faDesktop, faEnvelopeOpenText, faEnvelope, faPhone, faGamepad } from '@fortawesome/free-solid-svg-icons'
+import { faHome, faUser, faLayerGroup, faDesktop, faEnvelopeOpenText, faEnvelope, faPhone, faGamepad, faMousePointer } from '@fortawesome/free-solid-svg-icons'
 import { fab } from '@fortawesome/free-brands-svg-icons'
 import Link from 'next/link'
 
 const Layout = props => {
 
-  library.add(faHome, faUser, faLayerGroup, faDesktop, faEnvelopeOpenText, faEnvelope, faPhone, fab, faGamepad)
+  library.add(faHome, faUser, faLayerGroup, faDesktop, faEnvelopeOpenText, faEnvelope, faPhone, fab, faGamepad, faMousePointer)
 
   return (
     <div className='Layout'>
@@ -40,9 +40,9 @@ const Layout = props => {
           </Link>
           <Link href='/#games'>
             <div className='nav-label-hold'>
-              <span className='nav-label'>Games</span>
+              <span className='nav-label'>Minis</span>
               <div className="icon-hold">
-                <FontAwesomeIcon className='nav-icon' icon='gamepad' />
+                <FontAwesomeIcon className='nav-icon' icon='mouse-pointer' />
               </div>
             </div>
           </Link>

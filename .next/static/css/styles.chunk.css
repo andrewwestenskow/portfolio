@@ -486,6 +486,9 @@ a {
 
 .portfolio-item-title {
   font-size: 3rem; }
+  @media screen and (max-width: 1100px) {
+    .portfolio-item-title {
+      text-align: center; } }
 
 .portfolio-item-list {
   list-style-type: disc;
@@ -598,6 +601,7 @@ a {
   flex-wrap: wrap; }
   @media screen and (max-width: 1100px) {
     .games-content {
+      padding-bottom: 50px;
       flex-direction: column;
       align-items: center; } }
   .games-content .game-link {
@@ -610,9 +614,6 @@ a {
   position: absolute;
   bottom: 5px;
   right: 5px; }
-  @media screen and (max-width: 1100px) {
-    .disclaimer {
-      padding-top: 50px; } }
 
 
 /*# sourceMappingURL=styles.chunk.css.map*/

@@ -841,147 +841,122 @@ var Games = function Games(props) {
       lineNumber: 9
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_2___default.a, {
-    href: "/minesweeper",
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
+    className: "portfolio-item-title game-link",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 10
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
-    className: "portfolio-item-title game-link",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 11
-    },
-    __self: this
-  }, "Minesweeper")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+  }, "Minesweeper"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "carousel-image",
     src: "https://i.imgur.com/QmtSXXq.png",
     alt: "",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 13
+      lineNumber: 11
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "game-descriptions",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 18
+      lineNumber: 16
     },
     __self: this
   }, "Minesweeper clone built using vanilla Javascript, HTML, and CSS"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "game-descriptions",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 21
+      lineNumber: 19
     },
     __self: this
   }, "Click ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_2___default.a, {
     href: "/minesweeper",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 22
+      lineNumber: 20
     },
     __self: this
   }, "here"), " to play.*")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-item",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 25
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_2___default.a, {
-    href: "/spaceinvaders",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 26
+      lineNumber: 23
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "portfolio-item-title game-link",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 27
+      lineNumber: 24
     },
     __self: this
-  }, "Space Invaders")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+  }, "Space Invaders"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "carousel-image",
     src: "https://i.imgur.com/kKfXrhp.png",
     alt: "",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 29
+      lineNumber: 25
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "game-descriptions",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 34
+      lineNumber: 30
     },
     __self: this
   }, "Space Invaders clone built using vanilla Javascript, HTML, and CSS"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "game-descriptions",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 37
+      lineNumber: 33
     },
     __self: this
   }, "Click ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_2___default.a, {
     href: "/spaceinvaders",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 38
+      lineNumber: 34
     },
     __self: this
   }, "here"), " to play.*")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-item",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 41
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-    target: "_blank",
-    style: {
-      textDecoration: 'none'
-    },
-    href: "https://www.31daysofoctober.com",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 42
+      lineNumber: 37
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "portfolio-item-title game-link",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 47
+      lineNumber: 38
     },
     __self: this
-  }, "31 Days of October")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+  }, "31 Days of October"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "carousel-image",
     src: "https://i.imgur.com/5h8dhki.png",
     alt: "",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 51
+      lineNumber: 40
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "game-descriptions",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 56
+      lineNumber: 45
     },
     __self: this
   }, "Static site built using Next.js for a month long horror film festival"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "game-descriptions",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 60
+      lineNumber: 49
     },
     __self: this
   }, "Click", ' ', react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
@@ -989,14 +964,14 @@ var Games = function Games(props) {
     href: "https://www.31daysofoctober.com",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 62
+      lineNumber: 51
     },
     __self: this
-  }, "here"), ' ', "to play.*"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "here"), ' ', "to explore."))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "disclaimer",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 69
+      lineNumber: 58
     },
     __self: this
   }, "*Games only work on desktop"));

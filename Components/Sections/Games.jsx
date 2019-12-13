@@ -7,9 +7,7 @@ const Games = props => {
     <div className="Games">
       <div className="games-content">
         <div className="portfolio-item">
-          <Link href="/minesweeper">
-            <h2 className="portfolio-item-title game-link">Minesweeper</h2>
-          </Link>
+          <h2 className="portfolio-item-title game-link">Minesweeper</h2>
           <img
             className="carousel-image"
             src="https://i.imgur.com/QmtSXXq.png"
@@ -23,9 +21,7 @@ const Games = props => {
           </p>
         </div>
         <div className="portfolio-item">
-          <Link href="/spaceinvaders">
-            <h2 className="portfolio-item-title game-link">Space Invaders</h2>
-          </Link>
+          <h2 className="portfolio-item-title game-link">Space Invaders</h2>
           <img
             className="carousel-image"
             src="https://i.imgur.com/kKfXrhp.png"
@@ -39,15 +35,8 @@ const Games = props => {
           </p>
         </div>
         <div className="portfolio-item">
-          <a
-            target="_blank"
-            style={{ textDecoration: 'none' }}
-            href="https://www.31daysofoctober.com"
-          >
-            <h2 className="portfolio-item-title game-link">
-              31 Days of October
-            </h2>
-          </a>
+          <h2 className="portfolio-item-title game-link">31 Days of October</h2>
+
           <img
             className="carousel-image"
             src="https://i.imgur.com/5h8dhki.png"
@@ -62,7 +51,7 @@ const Games = props => {
             <a target="_blank" href="https://www.31daysofoctober.com">
               here
             </a>{' '}
-            to play.*
+            to explore.
           </p>
         </div>
       </div>

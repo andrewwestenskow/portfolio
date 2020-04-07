@@ -19,7 +19,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _fortawesome_free_brands_svg_icons__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @fortawesome/free-brands-svg-icons */ "./node_modules/@fortawesome/free-brands-svg-icons/index.es.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_6__);
-var _jsxFileName = "C:\\Users\\andre\\Development-Projects\\portfolio\\Components\\Layout.jsx";
+var _this = undefined,
+    _jsxFileName = "C:\\Users\\andre\\development-projects\\portfolio\\Components\\Layout.jsx";
+
 
 
 
@@ -30,250 +32,284 @@ var _jsxFileName = "C:\\Users\\andre\\Development-Projects\\portfolio\\Component
 
 var Layout = function Layout(props) {
   _fortawesome_fontawesome_svg_core__WEBPACK_IMPORTED_MODULE_2__["library"].add(_fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_4__["faHome"], _fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_4__["faUser"], _fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_4__["faLayerGroup"], _fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_4__["faDesktop"], _fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_4__["faEnvelopeOpenText"], _fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_4__["faEnvelope"], _fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_4__["faPhone"], _fortawesome_free_brands_svg_icons__WEBPACK_IMPORTED_MODULE_5__["fab"], _fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_4__["faGamepad"], _fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_4__["faMousePointer"]);
-  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "Layout",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 14
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 14,
+      columnNumber: 5
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "navbar",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 15
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("nav", {
+      lineNumber: 15,
+      columnNumber: 7
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("nav", {
     className: "nav",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 16
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_6___default.a, {
+      lineNumber: 16,
+      columnNumber: 9
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_6___default.a, {
     href: "/#home",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 17
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 17,
+      columnNumber: 11
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "nav-label-hold",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 18
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
+      lineNumber: 18,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "nav-label",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 19
-    },
-    __self: this
-  }, "Home"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 19,
+      columnNumber: 15
+    }
+  }, "Home"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "icon-hold",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 20
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FontAwesomeIcon"], {
+      lineNumber: 20,
+      columnNumber: 15
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FontAwesomeIcon"], {
     id: "home-icon",
     className: "nav-icon",
     icon: "home",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 21
-    },
-    __self: this
-  })))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_6___default.a, {
+      lineNumber: 21,
+      columnNumber: 17
+    }
+  })))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_6___default.a, {
     href: "/#about",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 25
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 25,
+      columnNumber: 11
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "nav-label-hold",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 26
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
+      lineNumber: 26,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "nav-label",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 27
-    },
-    __self: this
-  }, "About"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 27,
+      columnNumber: 15
+    }
+  }, "About"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "icon-hold",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 28
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FontAwesomeIcon"], {
+      lineNumber: 28,
+      columnNumber: 15
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FontAwesomeIcon"], {
     className: "nav-icon",
     icon: "user",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 29
-    },
-    __self: this
-  })))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_6___default.a, {
+      lineNumber: 29,
+      columnNumber: 17
+    }
+  })))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_6___default.a, {
     href: "/#portfolio",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 33
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 33,
+      columnNumber: 11
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "nav-label-hold",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 34
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
+      lineNumber: 34,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "nav-label",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 35
-    },
-    __self: this
-  }, "Projects"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 35,
+      columnNumber: 15
+    }
+  }, "Projects"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "icon-hold",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 36
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FontAwesomeIcon"], {
+      lineNumber: 36,
+      columnNumber: 15
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FontAwesomeIcon"], {
     className: "nav-icon",
     icon: "desktop",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 37
-    },
-    __self: this
-  })))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_6___default.a, {
+      lineNumber: 37,
+      columnNumber: 17
+    }
+  })))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_6___default.a, {
     href: "/#games",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 41
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 41,
+      columnNumber: 11
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "nav-label-hold",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 42
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
+      lineNumber: 42,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "nav-label",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 43
-    },
-    __self: this
-  }, "Minis"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 43,
+      columnNumber: 15
+    }
+  }, "Minis"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "icon-hold",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 44
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FontAwesomeIcon"], {
+      lineNumber: 44,
+      columnNumber: 15
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FontAwesomeIcon"], {
     className: "nav-icon",
     icon: "mouse-pointer",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 45
-    },
-    __self: this
-  })))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_6___default.a, {
+      lineNumber: 45,
+      columnNumber: 17
+    }
+  })))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_6___default.a, {
     href: "/#stack",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 49
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 49,
+      columnNumber: 11
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "nav-label-hold",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 50
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
+      lineNumber: 50,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "nav-label",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 51
-    },
-    __self: this
-  }, "Stack"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 51,
+      columnNumber: 15
+    }
+  }, "Stack"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "icon-hold",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 52
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FontAwesomeIcon"], {
+      lineNumber: 52,
+      columnNumber: 15
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FontAwesomeIcon"], {
     className: "nav-icon",
     icon: "layer-group",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 53
-    },
-    __self: this
-  })))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_6___default.a, {
+      lineNumber: 53,
+      columnNumber: 17
+    }
+  })))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_6___default.a, {
     href: "/#contact",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 57
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 57,
+      columnNumber: 11
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "nav-label-hold",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 58
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
+      lineNumber: 58,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "nav-label",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 59
-    },
-    __self: this
-  }, "Contact"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 59,
+      columnNumber: 15
+    }
+  }, "Contact"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "icon-hold",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 60
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FontAwesomeIcon"], {
+      lineNumber: 60,
+      columnNumber: 15
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FontAwesomeIcon"], {
     className: "nav-icon",
     icon: "envelope-open-text",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 61
-    },
-    __self: this
-  })))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 61,
+      columnNumber: 17
+    }
+  })))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 67
-    },
-    __self: this
+      lineNumber: 67,
+      columnNumber: 7
+    }
   }, props.children));
 };
 
@@ -296,88 +332,101 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _styles_About_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_styles_About_scss__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "C:\\Users\\andre\\Development-Projects\\portfolio\\Components\\Sections\\About.jsx";
+var _this = undefined,
+    _jsxFileName = "C:\\Users\\andre\\development-projects\\portfolio\\Components\\Sections\\About.jsx";
+
 
 
 
 
 var About = function About() {
-  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "About",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 7
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+      lineNumber: 7,
+      columnNumber: 5
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
     className: "section-label",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 8
-    },
-    __self: this
-  }, "About"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 8,
+      columnNumber: 7
+    }
+  }, "About"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "about-content",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 11
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 9,
+      columnNumber: 7
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "about-image-hold",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 12
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 10,
+      columnNumber: 9
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "about-image",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 13
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "https://scontent-lax3-2.xx.fbcdn.net/v/t1.0-9/32202644_10215834164072275_2266568479639339008_n.jpg?_nc_cat=110&_nc_oc=AQnE-GGSram3SlLaj5bz1H64ObuP-rBGrgOc9Jx9SuSpnBzbd7w_coAs6M3VT8JtDyY&_nc_ht=scontent-lax3-2.xx&oh=c136cd9145f749da74ce17eef6e60f14&oe=5E3AF0C8",
+      lineNumber: 11,
+      columnNumber: 11
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: "https://i.imgur.com/EIz39j4.jpg",
     alt: "Andrew",
     className: "image",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 14
-    },
-    __self: this
-  }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 12,
+      columnNumber: 13
+    }
+  }))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "about-text-hold",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 17
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+      lineNumber: 19,
+      columnNumber: 9
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 18
-    },
-    __self: this
-  }, "Hi, I'm Andrew..."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("article", {
+      lineNumber: 20,
+      columnNumber: 11
+    }
+  }, "Hi, I'm Andrew..."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("article", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 19
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      lineNumber: 21,
+      columnNumber: 11
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 19
-    },
-    __self: this
-  }, "Soon after graduating with Bachelor's degrees in Russian and International Studies, I realized that field was not where I would work for the rest of my life.  I spent a few years working in logistics but always felt the call of the tech community.  I finally decided to dive in and have loved every minute of my time as a developer.  I love finding solutions to complex problems, coming up with the most efficient way to do things, and  building effective and efficient apps.  When I'm not coding I love to play the drums and watch movies.  I even host a podcast discussing film!  If you have any questions please don't hesitate to ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_2___default.a, {
+      lineNumber: 22,
+      columnNumber: 13
+    }
+  }, "Soon after graduating with Bachelor's degrees in Russian and International Studies, I realized that field was not where I would work for the rest of my life. I spent a few years working in logistics but always felt the call of the tech community. I finally decided to dive in and have loved every minute of my time as a developer. I love finding solutions to complex problems, coming up with the most efficient way to do things, and building effective and efficient apps. When I'm not coding I love to play the drums and watch movies. I even host a podcast discussing film! If you have any questions please don't hesitate to", ' ', /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_2___default.a, {
     href: "#contact",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 19
-    },
-    __self: this
+      lineNumber: 33,
+      columnNumber: 15
+    }
   }, "get in touch!"))))));
 };
 
@@ -400,149 +449,169 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _styles_Contact_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_styles_Contact_scss__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @fortawesome/react-fontawesome */ "./node_modules/@fortawesome/react-fontawesome/index.es.js");
 /* harmony import */ var _ContactForm__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./ContactForm */ "./Components/Sections/ContactForm.jsx");
-var _jsxFileName = "C:\\Users\\andre\\Development-Projects\\portfolio\\Components\\Sections\\Contact.jsx";
+var _this = undefined,
+    _jsxFileName = "C:\\Users\\andre\\development-projects\\portfolio\\Components\\Sections\\Contact.jsx";
+
 
 
 
 
 
 var Contact = function Contact() {
-  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "Contact",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 8
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+      lineNumber: 8,
+      columnNumber: 5
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
     className: "section-label",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 9
-    },
-    __self: this
-  }, "Contact"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 9,
+      columnNumber: 7
+    }
+  }, "Contact"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "contact-page",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 13
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 13,
+      columnNumber: 7
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "lets-chat",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 14
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+      lineNumber: 14,
+      columnNumber: 9
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 15
-    },
-    __self: this
-  }, "Let's chat!")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 15,
+      columnNumber: 11
+    }
+  }, "Let's chat!")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "contact-info",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 18
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 18,
+      columnNumber: 9
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "contact-info-line",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 19
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+      lineNumber: 19,
+      columnNumber: 11
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "mailto:andrew.westenskow@gmail.com?subject=Let's chat!",
     target: "_blank",
     className: "contact-info-text",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 20
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_2__["FontAwesomeIcon"], {
+      lineNumber: 20,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_2__["FontAwesomeIcon"], {
     className: "contact-info-icon",
     icon: "envelope",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 24
-    },
-    __self: this
-  }), "andrew.westenskow@gmail.com")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 24,
+      columnNumber: 15
+    }
+  }), "andrew.westenskow@gmail.com")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "contact-info-line",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 28
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+      lineNumber: 28,
+      columnNumber: 11
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "tel:385-290-8656",
     className: "contact-info-text",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 29
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_2__["FontAwesomeIcon"], {
+      lineNumber: 29,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_2__["FontAwesomeIcon"], {
     className: "contact-info-icon",
     icon: "phone",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 30
-    },
-    __self: this
-  }), "(385) 290-8656")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 30,
+      columnNumber: 15
+    }
+  }), "(385) 290-8656")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "contact-info-line",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 34
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+      lineNumber: 34,
+      columnNumber: 11
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     className: "contact-info-text",
     href: "https://www.linkedin.com/in/andrew-westenskow/",
     target: "_blank",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 35
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_2__["FontAwesomeIcon"], {
+      lineNumber: 35,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_2__["FontAwesomeIcon"], {
     className: "contact-info-icon",
     icon: ['fab', 'linkedin-in'],
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 36
-    },
-    __self: this
-  }), "https://www.linkedin.com/in/andrew-westenskow/")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 36,
+      columnNumber: 15
+    }
+  }), "https://www.linkedin.com/in/andrew-westenskow/")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "contact-info-line",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 40
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+      lineNumber: 40,
+      columnNumber: 11
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     target: "_blank",
     className: "contact-info-text",
     href: "https://github.com/andrewwestenskow",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 41
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_2__["FontAwesomeIcon"], {
+      lineNumber: 41,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_2__["FontAwesomeIcon"], {
     className: "contact-info-icon",
     icon: ['fab', 'github'],
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 42
-    },
-    __self: this
+      lineNumber: 42,
+      columnNumber: 15
+    }
   }), "https://github.com/andrewwestenskow")))));
 };
 
@@ -559,17 +628,19 @@ var Contact = function Contact() {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/classCallCheck */ "./node_modules/@babel/runtime-corejs2/helpers/esm/classCallCheck.js");
-/* harmony import */ var _babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/createClass */ "./node_modules/@babel/runtime-corejs2/helpers/esm/createClass.js");
-/* harmony import */ var _babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/possibleConstructorReturn */ "./node_modules/@babel/runtime-corejs2/helpers/esm/possibleConstructorReturn.js");
-/* harmony import */ var _babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/getPrototypeOf */ "./node_modules/@babel/runtime-corejs2/helpers/esm/getPrototypeOf.js");
-/* harmony import */ var _babel_runtime_corejs2_helpers_esm_assertThisInitialized__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/assertThisInitialized */ "./node_modules/@babel/runtime-corejs2/helpers/esm/assertThisInitialized.js");
-/* harmony import */ var _babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/inherits */ "./node_modules/@babel/runtime-corejs2/helpers/esm/inherits.js");
-/* harmony import */ var _babel_runtime_corejs2_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/defineProperty */ "./node_modules/@babel/runtime-corejs2/helpers/esm/defineProperty.js");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_7__);
-/* harmony import */ var _styles_ContactForm_scss__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../../styles/ContactForm.scss */ "./styles/ContactForm.scss");
-/* harmony import */ var _styles_ContactForm_scss__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(_styles_ContactForm_scss__WEBPACK_IMPORTED_MODULE_8__);
+/* harmony import */ var _babel_runtime_corejs2_core_js_reflect_construct__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime-corejs2/core-js/reflect/construct */ "./node_modules/@babel/runtime-corejs2/core-js/reflect/construct.js");
+/* harmony import */ var _babel_runtime_corejs2_core_js_reflect_construct__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_corejs2_core_js_reflect_construct__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/classCallCheck */ "./node_modules/@babel/runtime-corejs2/helpers/esm/classCallCheck.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/createClass */ "./node_modules/@babel/runtime-corejs2/helpers/esm/createClass.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_assertThisInitialized__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/assertThisInitialized */ "./node_modules/@babel/runtime-corejs2/helpers/esm/assertThisInitialized.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/inherits */ "./node_modules/@babel/runtime-corejs2/helpers/esm/inherits.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/possibleConstructorReturn */ "./node_modules/@babel/runtime-corejs2/helpers/esm/possibleConstructorReturn.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/getPrototypeOf */ "./node_modules/@babel/runtime-corejs2/helpers/esm/getPrototypeOf.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/defineProperty */ "./node_modules/@babel/runtime-corejs2/helpers/esm/defineProperty.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_8__);
+/* harmony import */ var _styles_ContactForm_scss__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../../styles/ContactForm.scss */ "./styles/ContactForm.scss");
+/* harmony import */ var _styles_ContactForm_scss__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(_styles_ContactForm_scss__WEBPACK_IMPORTED_MODULE_9__);
 
 
 
@@ -577,98 +648,108 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "C:\\Users\\andre\\Development-Projects\\portfolio\\Components\\Sections\\ContactForm.jsx";
+
+var _jsxFileName = "C:\\Users\\andre\\development-projects\\portfolio\\Components\\Sections\\ContactForm.jsx";
+
+function _createSuper(Derived) { return function () { var Super = Object(_babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_6__["default"])(Derived), result; if (_isNativeReflectConstruct()) { var NewTarget = Object(_babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_6__["default"])(this).constructor; result = _babel_runtime_corejs2_core_js_reflect_construct__WEBPACK_IMPORTED_MODULE_0___default()(Super, arguments, NewTarget); } else { result = Super.apply(this, arguments); } return Object(_babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_5__["default"])(this, result); }; }
+
+function _isNativeReflectConstruct() { if (typeof Reflect === "undefined" || !_babel_runtime_corejs2_core_js_reflect_construct__WEBPACK_IMPORTED_MODULE_0___default.a) return false; if (_babel_runtime_corejs2_core_js_reflect_construct__WEBPACK_IMPORTED_MODULE_0___default.a.sham) return false; if (typeof Proxy === "function") return true; try { Date.prototype.toString.call(_babel_runtime_corejs2_core_js_reflect_construct__WEBPACK_IMPORTED_MODULE_0___default()(Date, [], function () {})); return true; } catch (e) { return false; } }
 
 
 
-var ContactForm =
-/*#__PURE__*/
-function (_Component) {
-  Object(_babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_5__["default"])(ContactForm, _Component);
+
+var ContactForm = /*#__PURE__*/function (_Component) {
+  Object(_babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_4__["default"])(ContactForm, _Component);
+
+  var _super = _createSuper(ContactForm);
 
   function ContactForm() {
-    var _getPrototypeOf2;
-
     var _this;
 
-    Object(_babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_0__["default"])(this, ContactForm);
+    Object(_babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_1__["default"])(this, ContactForm);
 
     for (var _len = arguments.length, args = new Array(_len), _key = 0; _key < _len; _key++) {
       args[_key] = arguments[_key];
     }
 
-    _this = Object(_babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_2__["default"])(this, (_getPrototypeOf2 = Object(_babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_3__["default"])(ContactForm)).call.apply(_getPrototypeOf2, [this].concat(args)));
+    _this = _super.call.apply(_super, [this].concat(args));
 
-    Object(_babel_runtime_corejs2_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_6__["default"])(Object(_babel_runtime_corejs2_helpers_esm_assertThisInitialized__WEBPACK_IMPORTED_MODULE_4__["default"])(_this), "state", {
+    Object(_babel_runtime_corejs2_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_7__["default"])(Object(_babel_runtime_corejs2_helpers_esm_assertThisInitialized__WEBPACK_IMPORTED_MODULE_3__["default"])(_this), "state", {
       from: '',
       subject: '',
       body: ''
     });
 
-    Object(_babel_runtime_corejs2_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_6__["default"])(Object(_babel_runtime_corejs2_helpers_esm_assertThisInitialized__WEBPACK_IMPORTED_MODULE_4__["default"])(_this), "handleChange", function (e) {
-      _this.setState(Object(_babel_runtime_corejs2_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_6__["default"])({}, e.target.name, e.target.value));
+    Object(_babel_runtime_corejs2_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_7__["default"])(Object(_babel_runtime_corejs2_helpers_esm_assertThisInitialized__WEBPACK_IMPORTED_MODULE_3__["default"])(_this), "handleChange", function (e) {
+      _this.setState(Object(_babel_runtime_corejs2_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_7__["default"])({}, e.target.name, e.target.value));
     });
 
-    Object(_babel_runtime_corejs2_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_6__["default"])(Object(_babel_runtime_corejs2_helpers_esm_assertThisInitialized__WEBPACK_IMPORTED_MODULE_4__["default"])(_this), "handleSubmit", function () {});
+    Object(_babel_runtime_corejs2_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_7__["default"])(Object(_babel_runtime_corejs2_helpers_esm_assertThisInitialized__WEBPACK_IMPORTED_MODULE_3__["default"])(_this), "handleSubmit", function () {});
 
     return _this;
   }
 
-  Object(_babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_1__["default"])(ContactForm, [{
+  Object(_babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_2__["default"])(ContactForm, [{
     key: "render",
     value: function render() {
       var _this2 = this;
 
-      return react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("div", {
+      return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("div", {
+        __self: this,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 24
-        },
-        __self: this
-      }, react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("div", {
+          lineNumber: 24,
+          columnNumber: 7
+        }
+      }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("div", {
         className: "contact-form",
+        __self: this,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 25
-        },
-        __self: this
-      }, react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("p", {
+          lineNumber: 25,
+          columnNumber: 9
+        }
+      }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("p", {
+        __self: this,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 26
-        },
-        __self: this
-      }, "Your email"), react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("input", {
+          lineNumber: 26,
+          columnNumber: 11
+        }
+      }, "Your email"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("input", {
         onChange: function onChange(e) {
           return _this2.handleChange(e);
         },
         name: "from",
         type: "text",
         required: true,
+        __self: this,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 27
-        },
-        __self: this
-      }), react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("p", {
+          lineNumber: 27,
+          columnNumber: 11
+        }
+      }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("p", {
+        __self: this,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 31
-        },
-        __self: this
-      }, "Subject"), react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("input", {
+          lineNumber: 31,
+          columnNumber: 11
+        }
+      }, "Subject"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("input", {
         onChange: function onChange(e) {
           return _this2.handleChange(e);
         },
         name: "subject",
         type: "text",
         required: true,
+        __self: this,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 32
-        },
-        __self: this
-      }), react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("textarea", {
+          lineNumber: 32,
+          columnNumber: 11
+        }
+      }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("textarea", {
         onChange: function onChange(e) {
           return _this2.handleChange(e);
         },
@@ -677,25 +758,27 @@ function (_Component) {
         cols: "30",
         rows: "10",
         required: true,
+        __self: this,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 37
-        },
-        __self: this
-      }), react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("button", {
+          lineNumber: 37,
+          columnNumber: 11
+        }
+      }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("button", {
         onClick: this.handleSubmit,
         type: "submit",
+        __self: this,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 42
-        },
-        __self: this
+          lineNumber: 42,
+          columnNumber: 11
+        }
       }, "Send")));
     }
   }]);
 
   return ContactForm;
-}(react__WEBPACK_IMPORTED_MODULE_7__["Component"]);
+}(react__WEBPACK_IMPORTED_MODULE_8__["Component"]);
 
 /* harmony default export */ __webpack_exports__["default"] = (ContactForm);
 
@@ -716,166 +799,189 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _styles_Games_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_styles_Games_scss__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "C:\\Users\\andre\\Development-Projects\\portfolio\\Components\\Sections\\Games.jsx";
+var _this = undefined,
+    _jsxFileName = "C:\\Users\\andre\\development-projects\\portfolio\\Components\\Sections\\Games.jsx";
+
 
 
 
 
 var Games = function Games(props) {
-  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "Games",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 7
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 7,
+      columnNumber: 5
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "games-content",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 8
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 8,
+      columnNumber: 7
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-item",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 9
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
+      lineNumber: 9,
+      columnNumber: 9
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "portfolio-item-title game-link",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 10
-    },
-    __self: this
-  }, "Minesweeper"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+      lineNumber: 10,
+      columnNumber: 11
+    }
+  }, "Minesweeper"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "carousel-image",
     src: "https://i.imgur.com/QmtSXXq.png",
     alt: "",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 11
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      lineNumber: 11,
+      columnNumber: 11
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "game-descriptions",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 16
-    },
-    __self: this
-  }, "Minesweeper clone built using vanilla Javascript, HTML, and CSS"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      lineNumber: 16,
+      columnNumber: 11
+    }
+  }, "Minesweeper clone built using vanilla Javascript, HTML, and CSS"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "game-descriptions",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 19
-    },
-    __self: this
-  }, "Click ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_2___default.a, {
+      lineNumber: 19,
+      columnNumber: 11
+    }
+  }, "Click ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_2___default.a, {
     href: "/minesweeper",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 20
-    },
-    __self: this
-  }, "here"), " to play.*")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 20,
+      columnNumber: 19
+    }
+  }, "here"), " to play.*")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-item",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 23
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
+      lineNumber: 23,
+      columnNumber: 9
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "portfolio-item-title game-link",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 24
-    },
-    __self: this
-  }, "Space Invaders"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+      lineNumber: 24,
+      columnNumber: 11
+    }
+  }, "Space Invaders"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "carousel-image",
     src: "https://i.imgur.com/kKfXrhp.png",
     alt: "",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 25
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      lineNumber: 25,
+      columnNumber: 11
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "game-descriptions",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 30
-    },
-    __self: this
-  }, "Space Invaders clone built using vanilla Javascript, HTML, and CSS"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      lineNumber: 30,
+      columnNumber: 11
+    }
+  }, "Space Invaders clone built using vanilla Javascript, HTML, and CSS"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "game-descriptions",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 33
-    },
-    __self: this
-  }, "Click ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_2___default.a, {
+      lineNumber: 33,
+      columnNumber: 11
+    }
+  }, "Click ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_2___default.a, {
     href: "/spaceinvaders",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 34
-    },
-    __self: this
-  }, "here"), " to play.*")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 34,
+      columnNumber: 19
+    }
+  }, "here"), " to play.*")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-item",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 37
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
+      lineNumber: 37,
+      columnNumber: 9
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "portfolio-item-title game-link",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 38
-    },
-    __self: this
-  }, "31 Days of October"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+      lineNumber: 38,
+      columnNumber: 11
+    }
+  }, "31 Days of October"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "carousel-image",
     src: "https://i.imgur.com/5h8dhki.png",
     alt: "",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 40
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      lineNumber: 40,
+      columnNumber: 11
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "game-descriptions",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 45
-    },
-    __self: this
-  }, "Static site built using Next.js for a month long horror film festival"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      lineNumber: 45,
+      columnNumber: 11
+    }
+  }, "Static site built using Next.js for a month long horror film festival"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "game-descriptions",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 49
-    },
-    __self: this
-  }, "Click", ' ', react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+      lineNumber: 49,
+      columnNumber: 11
+    }
+  }, "Click", ' ', /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     target: "_blank",
     href: "https://www.31daysofoctober.com",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 51
-    },
-    __self: this
-  }, "here"), ' ', "to explore."))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      lineNumber: 51,
+      columnNumber: 13
+    }
+  }, "here"), ' ', "to explore."))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "disclaimer",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 58
-    },
-    __self: this
+      lineNumber: 58,
+      columnNumber: 7
+    }
   }, "*Games only work on desktop"));
 };
 
@@ -898,171 +1004,195 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _styles_Home_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_styles_Home_scss__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var react_typing_animation__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react-typing-animation */ "./node_modules/react-typing-animation/dist/index.js");
 /* harmony import */ var react_typing_animation__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react_typing_animation__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "C:\\Users\\andre\\Development-Projects\\portfolio\\Components\\Sections\\Home.jsx";
+var _this = undefined,
+    _jsxFileName = "C:\\Users\\andre\\development-projects\\portfolio\\Components\\Sections\\Home.jsx";
+
 
 
 
 
 var AnimatedTypingComponent = function AnimatedTypingComponent() {
-  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_typing_animation__WEBPACK_IMPORTED_MODULE_2___default.a, {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_typing_animation__WEBPACK_IMPORTED_MODULE_2___default.a, {
     startDelay: 1000,
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 6
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
+      lineNumber: 6,
+      columnNumber: 3
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "intro",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 7
-    },
-    __self: this
-  }, "movie lover"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_typing_animation__WEBPACK_IMPORTED_MODULE_2___default.a.Delay, {
+      lineNumber: 7,
+      columnNumber: 5
+    }
+  }, "movie lover"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_typing_animation__WEBPACK_IMPORTED_MODULE_2___default.a.Delay, {
     ms: 1500,
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 8
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_typing_animation__WEBPACK_IMPORTED_MODULE_2___default.a.Backspace, {
+      lineNumber: 8,
+      columnNumber: 5
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_typing_animation__WEBPACK_IMPORTED_MODULE_2___default.a.Backspace, {
     count: 20,
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 9
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
+      lineNumber: 9,
+      columnNumber: 5
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "intro",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 10
-    },
-    __self: this
-  }, "video gamer"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_typing_animation__WEBPACK_IMPORTED_MODULE_2___default.a.Delay, {
+      lineNumber: 10,
+      columnNumber: 5
+    }
+  }, "video gamer"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_typing_animation__WEBPACK_IMPORTED_MODULE_2___default.a.Delay, {
     ms: 1500,
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 11
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_typing_animation__WEBPACK_IMPORTED_MODULE_2___default.a.Backspace, {
+      lineNumber: 11,
+      columnNumber: 5
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_typing_animation__WEBPACK_IMPORTED_MODULE_2___default.a.Backspace, {
     count: 20,
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 12
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
+      lineNumber: 12,
+      columnNumber: 5
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "intro",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 13
-    },
-    __self: this
-  }, "drummer"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_typing_animation__WEBPACK_IMPORTED_MODULE_2___default.a.Delay, {
+      lineNumber: 13,
+      columnNumber: 5
+    }
+  }, "drummer"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_typing_animation__WEBPACK_IMPORTED_MODULE_2___default.a.Delay, {
     ms: 1500,
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 14
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_typing_animation__WEBPACK_IMPORTED_MODULE_2___default.a.Backspace, {
+      lineNumber: 14,
+      columnNumber: 5
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_typing_animation__WEBPACK_IMPORTED_MODULE_2___default.a.Backspace, {
     count: 20,
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 15
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
+      lineNumber: 15,
+      columnNumber: 5
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "intro",
     style: {
       textDecoration: 'underline'
     },
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 16
-    },
-    __self: this
-  }, "web developer"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_typing_animation__WEBPACK_IMPORTED_MODULE_2___default.a.Delay, {
+      lineNumber: 16,
+      columnNumber: 5
+    }
+  }, "web developer"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_typing_animation__WEBPACK_IMPORTED_MODULE_2___default.a.Delay, {
     ms: 100000000,
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 17
-    },
-    __self: this
+      lineNumber: 17,
+      columnNumber: 5
+    }
   }));
 };
 
 var Home = function Home() {
-  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "Home",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 23
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+      lineNumber: 23,
+      columnNumber: 5
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
     className: "section-label",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 24
-    },
-    __self: this
-  }, "Home"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 24,
+      columnNumber: 7
+    }
+  }, "Home"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "home-content",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 27
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 27,
+      columnNumber: 7
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "intro-hold",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 28
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+      lineNumber: 28,
+      columnNumber: 9
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
     className: "name",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 29
-    },
-    __self: this
-  }, "My name is ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+      lineNumber: 29,
+      columnNumber: 9
+    }
+  }, "My name is ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 29
-    },
-    __self: this
-  }), " Andrew Westenskow"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 29,
+      columnNumber: 41
+    }
+  }), " Andrew Westenskow"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "titles-hold",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 30
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
+      lineNumber: 30,
+      columnNumber: 11
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "intro-head",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 30
-    },
-    __self: this
-  }, "I am a"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(AnimatedTypingComponent, {
+      lineNumber: 30,
+      columnNumber: 40
+    }
+  }, "I am a"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(AnimatedTypingComponent, {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 31
-    },
-    __self: this
-  }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 31,
+      columnNumber: 11
+    }
+  }))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "photo-hold",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 33
-    },
-    __self: this
+      lineNumber: 33,
+      columnNumber: 9
+    }
   })));
 };
 
@@ -1084,41 +1214,47 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _styles_Portfolio_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../styles/Portfolio.scss */ "./styles/Portfolio.scss");
 /* harmony import */ var _styles_Portfolio_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_styles_Portfolio_scss__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var nuka_carousel__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! nuka-carousel */ "./node_modules/nuka-carousel/es/index.js");
-var _jsxFileName = "C:\\Users\\andre\\Development-Projects\\portfolio\\Components\\Sections\\Portfolio.jsx";
+var _this = undefined,
+    _jsxFileName = "C:\\Users\\andre\\development-projects\\portfolio\\Components\\Sections\\Portfolio.jsx";
+
 
 
 
 
 var Portfolio = function Portfolio() {
-  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "Portfolio",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 7
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 7,
+      columnNumber: 5
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-content",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 8
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 8,
+      columnNumber: 7
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-item",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 9
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
+      lineNumber: 9,
+      columnNumber: 9
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "portfolio-item-title",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 10
-    },
-    __self: this
-  }, "vote2play"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(nuka_carousel__WEBPACK_IMPORTED_MODULE_2__["default"], {
+      lineNumber: 10,
+      columnNumber: 11
+    }
+  }, "vote2play"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(nuka_carousel__WEBPACK_IMPORTED_MODULE_2__["default"], {
     width: "80%",
     autoplay: true,
     autoplayInterval: 5000,
@@ -1128,206 +1264,234 @@ var Portfolio = function Portfolio() {
     wrapAround: true,
     heightMode: "first",
     speed: 1500,
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 11
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 11,
+      columnNumber: 11
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "carousel-item",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 22
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+      lineNumber: 22,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "carousel-image",
     src: "https://media-exp1.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=axXkYnru%2FRsTFyGE4%2FI2swPzz%2BA%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWjoecPWe-eg8EATcSRQjQBkfu61EmbmG47ueYvqKIojjJOzLZP5agYUbhl4lWdI",
     alt: "vote2play home page",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 23
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      lineNumber: 23,
+      columnNumber: 15
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "carousel-image-label",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 28
-    },
-    __self: this
-  }, "vote2play home page")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 28,
+      columnNumber: 15
+    }
+  }, "vote2play home page")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "carousel-item",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 30
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+      lineNumber: 30,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "carousel-image",
     src: "https://media-exp1.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=TTztfjD3q%2FBXqDru9n2niPqemyw%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWjpeMGJf-b3rUAfLSxQjQBgeLm1ETjpE46-Ktm6eo1xgpTld5b5agYUbhl4lWdI",
     alt: "vote2play dashboard",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 31
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      lineNumber: 31,
+      columnNumber: 15
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "carousel-image-label",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 36
-    },
-    __self: this
-  }, "User dashboard shows all groups and allows for joining new groups")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 36,
+      columnNumber: 15
+    }
+  }, "User dashboard shows all groups and allows for joining new groups")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "carousel-item",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 41
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+      lineNumber: 41,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "carousel-image",
     src: "https://media-exp1.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=rf7b99%2BqTIWsw3%2B28bJ7nW7sRSs%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWjvL8HXf7uk90BFK3gFjQA2e-21ETPkFI7tf469et4kjZe3IcP5agYUbhl4lWdI",
     alt: "vote2play group",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 42
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      lineNumber: 42,
+      columnNumber: 15
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "carousel-image-label",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 47
-    },
-    __self: this
-  }, "Host view plays media and shows additional controls")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 47,
+      columnNumber: 15
+    }
+  }, "Host view plays media and shows additional controls")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "carousel-item",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 51
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+      lineNumber: 51,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "carousel-image",
     src: "https://media-exp1.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=J3bMulaLJ7xzGB7NDuL94CBIYhE%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWjteZLce-OgrUBELX4AjQA0fLm1SDjmFI6-fo25e4p5jJKwJpX5agYUbhl4lWdI",
     alt: "vote2play group",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 52
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      lineNumber: 52,
+      columnNumber: 15
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "carousel-image-label",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 57
-    },
-    __self: this
-  }, "Member view shows what is playing and allows for voting and tuning in")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 57,
+      columnNumber: 15
+    }
+  }, "Member view shows what is playing and allows for voting and tuning in")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "carousel-item",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 66
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+      lineNumber: 66,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "carousel-image",
     src: "https://media-exp1.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=IXw94lAotzvDZWkqD3moyW44mNc%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWjvccTdeeHzpUAXcCsGjQBkeOu1SWXkFo69f4zvdNR5icbtIZP5agYUbhl4lWdI",
     alt: "vote2play profile",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 67
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      lineNumber: 67,
+      columnNumber: 15
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "carousel-image-label",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 72
-    },
-    __self: this
-  }, "Profile page allows users to edit their information and leave any unused groups"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
+      lineNumber: 72,
+      columnNumber: 15
+    }
+  }, "Profile page allows users to edit their information and leave any unused groups"))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
     className: "portfolio-item-list",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 78
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+      lineNumber: 78,
+      columnNumber: 11
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 79
-    },
-    __self: this
-  }, "vote2play is a platform for collaborative playlist making and music listening"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+      lineNumber: 79,
+      columnNumber: 13
+    }
+  }, "vote2play is a platform for collaborative playlist making and music listening"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 83
-    },
-    __self: this
-  }, "Playlists are made from YouTube links and can be added by listeners and voted on to determine the order they will play"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+      lineNumber: 83,
+      columnNumber: 13
+    }
+  }, "Playlists are made from YouTube links and can be added by listeners and voted on to determine the order they will play"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 87
-    },
-    __self: this
-  }, "By default, music only plays on host device but other members can tune in on their own devices"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+      lineNumber: 87,
+      columnNumber: 13
+    }
+  }, "By default, music only plays on host device but other members can tune in on their own devices"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 91
-    },
-    __self: this
-  }, "Music will always sync with the host device including pause, play, and seek functionality"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+      lineNumber: 91,
+      columnNumber: 13
+    }
+  }, "Music will always sync with the host device including pause, play, and seek functionality"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 95
-    },
-    __self: this
-  }, "Built using: React.js, Express, Socket.io, PostgreSQL, and Google's YouTube API"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+      lineNumber: 95,
+      columnNumber: 13
+    }
+  }, "Built using: React.js, Express, Socket.io, PostgreSQL, and Google's YouTube API"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 99
-    },
-    __self: this
-  }, "Live site:", ' ', react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+      lineNumber: 99,
+      columnNumber: 13
+    }
+  }, "Live site:", ' ', /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     target: "_blank",
     href: "http://www.vote2play.com",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 101
-    },
-    __self: this
-  }, "www.vote2play.com")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+      lineNumber: 101,
+      columnNumber: 15
+    }
+  }, "www.vote2play.com")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 105
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+      lineNumber: 105,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     target: "_blank",
     href: "https://github.com/andrewwestenskow/vote2play",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 106
-    },
-    __self: this
-  }, "GitHub repo", ' ')))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 106,
+      columnNumber: 15
+    }
+  }, "GitHub repo", ' ')))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-item",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 115
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
+      lineNumber: 115,
+      columnNumber: 9
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "portfolio-item-title",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 116
-    },
-    __self: this
-  }, "fin-s"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(nuka_carousel__WEBPACK_IMPORTED_MODULE_2__["default"], {
+      lineNumber: 116,
+      columnNumber: 11
+    }
+  }, "fin-s"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(nuka_carousel__WEBPACK_IMPORTED_MODULE_2__["default"], {
     width: "80%",
     autoplay: true,
     autoplayInterval: 5000,
@@ -1337,180 +1501,205 @@ var Portfolio = function Portfolio() {
     wrapAround: true,
     heightMode: "first",
     speed: 1500,
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 117
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 117,
+      columnNumber: 11
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "carousel-item",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 128
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+      lineNumber: 128,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "carousel-image",
     src: "https://media-exp1.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=zGFxHTHEqMenuYcpHsb13%2BPOczU%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWjpe8XecOPzo0ASfysHjQBnLbu1EmWzFY69etznLtUijMXldcH5agYUbhl4lWdI",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 129
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      lineNumber: 129,
+      columnNumber: 15
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "carousel-image-label",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 133
-    },
-    __self: this
-  }, "fin-s home page")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 133,
+      columnNumber: 15
+    }
+  }, "fin-s home page")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "carousel-item",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 135
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+      lineNumber: 135,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "carousel-image",
     src: "https://media-exp1.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=5u%2FzRZrAzoCtaa7hJiZMexX4xXE%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWjgeMDfeLv1oEBEfiVQjQBjeui1EmXjEI6_Ko7oKIkj2p60cJT5agYUbhl4lWdI",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 136
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      lineNumber: 136,
+      columnNumber: 15
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "carousel-image-label",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 140
-    },
-    __self: this
-  }, "The wizard allows users to quickly add incomes, debts, and expenses")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 140,
+      columnNumber: 15
+    }
+  }, "The wizard allows users to quickly add incomes, debts, and expenses")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "carousel-item",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 145
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+      lineNumber: 145,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "carousel-image",
     src: "https://media-exp1.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=PVfS6W5RQms%2BXHe%2FZSbXiiBxsvc%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWjuccKJK7ekp0AWLCoEjQAxfOy1SGS3RI7qeN6-KI0gip7gIpP5agYUbhl4lWdI",
     alt: "vote2play create group",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 146
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      lineNumber: 146,
+      columnNumber: 15
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "carousel-image-label",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 151
-    },
-    __self: this
-  }, "The dashboard shows graph, calendar, and upcoming events")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 151,
+      columnNumber: 15
+    }
+  }, "The dashboard shows graph, calendar, and upcoming events")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "carousel-item",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 155
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+      lineNumber: 155,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "carousel-image",
     src: "https://media-exp1.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=2mEXudE2jHKLIvcdgyEIvxMZMtw%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWjof5PZfraipUAVKS4DjQBmf-u1ETi0EI69LoK9fd5zicKwIJX5agYUbhl4lWdI",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 156
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      lineNumber: 156,
+      columnNumber: 15
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "carousel-image-label",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 160
-    },
-    __self: this
-  }, "Profile allows users to quickly manage information"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
+      lineNumber: 160,
+      columnNumber: 15
+    }
+  }, "Profile allows users to quickly manage information"))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
     className: "portfolio-item-list",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 165
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+      lineNumber: 165,
+      columnNumber: 11
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 166
-    },
-    __self: this
-  }, "fin-s is a financial tracker specifically designed to help users eliminate debt"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+      lineNumber: 166,
+      columnNumber: 13
+    }
+  }, "fin-s is a financial tracker specifically designed to help users eliminate debt"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 170
-    },
-    __self: this
-  }, "Users incomes, debts, and expenses are input at sign-up and visualized in the dashboard"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+      lineNumber: 170,
+      columnNumber: 13
+    }
+  }, "Users incomes, debts, and expenses are input at sign-up and visualized in the dashboard"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 174
-    },
-    __self: this
-  }, "The dashboard view shows both a list and calendar view of upcoming incomes, debts, and expenses as well as an interactive graph which visualizes debt payoff with higher payments"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+      lineNumber: 174,
+      columnNumber: 13
+    }
+  }, "The dashboard view shows both a list and calendar view of upcoming incomes, debts, and expenses as well as an interactive graph which visualizes debt payoff with higher payments"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 179
-    },
-    __self: this
-  }, "The dashboard also provides a financial wellness to-do list designed to help users reach financial stability"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+      lineNumber: 179,
+      columnNumber: 13
+    }
+  }, "The dashboard also provides a financial wellness to-do list designed to help users reach financial stability"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 183
-    },
-    __self: this
-  }, "Built using: React.js, Express, PostgreSQL, MongoDB, Chart.js, and fullcalendar"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+      lineNumber: 183,
+      columnNumber: 13
+    }
+  }, "Built using: React.js, Express, PostgreSQL, MongoDB, Chart.js, and fullcalendar"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 187
-    },
-    __self: this
-  }, "Live site:", ' ', react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+      lineNumber: 187,
+      columnNumber: 13
+    }
+  }, "Live site:", ' ', /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     target: "_blank",
     href: "http://www.fin-s.us",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 189
-    },
-    __self: this
-  }, "www.fin-s.us")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+      lineNumber: 189,
+      columnNumber: 15
+    }
+  }, "www.fin-s.us")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 193
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+      lineNumber: 193,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     target: "_blank",
     href: "https://github.com/fin-s/fin-s",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 194
-    },
-    __self: this
-  }, "GitHub repo", ' ')))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 194,
+      columnNumber: 15
+    }
+  }, "GitHub repo", ' ')))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-item",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 200
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
+      lineNumber: 200,
+      columnNumber: 9
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "portfolio-item-title",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 201
-    },
-    __self: this
-  }, "Carve"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(nuka_carousel__WEBPACK_IMPORTED_MODULE_2__["default"], {
+      lineNumber: 201,
+      columnNumber: 11
+    }
+  }, "Carve"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(nuka_carousel__WEBPACK_IMPORTED_MODULE_2__["default"], {
     width: "80%",
     autoplay: true,
     autoplayInterval: 5000,
@@ -1520,181 +1709,206 @@ var Portfolio = function Portfolio() {
     wrapAround: true,
     heightMode: "first",
     speed: 1500,
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 202
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 202,
+      columnNumber: 11
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "carousel-item",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 213
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+      lineNumber: 213,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "carousel-image",
     src: "https://i.imgur.com/fgGZhOU.png",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 214
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      lineNumber: 214,
+      columnNumber: 15
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "carousel-image-label",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 218
-    },
-    __self: this
-  }, "Carve Dashboard")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 218,
+      columnNumber: 15
+    }
+  }, "Carve Dashboard")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "carousel-item",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 220
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+      lineNumber: 220,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "carousel-image",
     src: "https://i.imgur.com/E0ejIQz.png",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 221
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      lineNumber: 221,
+      columnNumber: 15
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "carousel-image-label",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 225
-    },
-    __self: this
-  }, "Spotify Library")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 225,
+      columnNumber: 15
+    }
+  }, "Spotify Library")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "carousel-item",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 227
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+      lineNumber: 227,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "carousel-image",
     src: "https://i.imgur.com/TUCyp6T.png",
     alt: "vote2play create group",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 228
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      lineNumber: 228,
+      columnNumber: 15
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "carousel-image-label",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 233
-    },
-    __self: this
-  }, "Artist view")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 233,
+      columnNumber: 15
+    }
+  }, "Artist view")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "carousel-item",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 235
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+      lineNumber: 235,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "carousel-image",
     src: "https://i.imgur.com/4SJANVh.png",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 236
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      lineNumber: 236,
+      columnNumber: 15
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "carousel-image-label",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 240
-    },
-    __self: this
-  }, "Album view")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 240,
+      columnNumber: 15
+    }
+  }, "Album view")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "carousel-item",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 242
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+      lineNumber: 242,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "carousel-image",
     src: "https://i.imgur.com/9RvmkSc.png",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 243
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      lineNumber: 243,
+      columnNumber: 15
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "carousel-image-label",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 247
-    },
-    __self: this
-  }, "Playlist view"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
+      lineNumber: 247,
+      columnNumber: 15
+    }
+  }, "Playlist view"))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
     className: "portfolio-item-list",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 250
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+      lineNumber: 250,
+      columnNumber: 11
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 251
-    },
-    __self: this
-  }, "Carve is a custom Spotify player designed for simplicity and ease of use."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+      lineNumber: 251,
+      columnNumber: 13
+    }
+  }, "Carve is a custom Spotify player designed for simplicity and ease of use."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 255
-    },
-    __self: this
-  }, "Contains all basic Spotify functionality."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+      lineNumber: 255,
+      columnNumber: 13
+    }
+  }, "Contains all basic Spotify functionality."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 256
-    },
-    __self: this
-  }, "Users can play music, add and remove albums or artists from library, and search for new music."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+      lineNumber: 256,
+      columnNumber: 13
+    }
+  }, "Users can play music, add and remove albums or artists from library, and search for new music."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 260
-    },
-    __self: this
-  }, "Built using: React.js with only functional components and hooks, Express, Spotify Web Playback SDK, Spotify Web API"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+      lineNumber: 260,
+      columnNumber: 13
+    }
+  }, "Built using: React.js with only functional components and hooks, Express, Spotify Web Playback SDK, Spotify Web API"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 264
-    },
-    __self: this
-  }, "Live site:", ' ', react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+      lineNumber: 264,
+      columnNumber: 13
+    }
+  }, "Live site:", ' ', /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     target: "_blank",
     href: "http://www.carve.westenskow.dev",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 266
-    },
-    __self: this
-  }, "carve.westenskow.dev")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+      lineNumber: 266,
+      columnNumber: 15
+    }
+  }, "carve.westenskow.dev")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 270
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+      lineNumber: 270,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     target: "_blank",
     href: "https://github.com/andrewwestenskow/slack-spotify",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 271
-    },
-    __self: this
+      lineNumber: 271,
+      columnNumber: 15
+    }
   }, "GitHub repo", ' '))))));
 };
 
@@ -1738,7 +1952,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _src_assets_GIT_png__WEBPACK_IMPORTED_MODULE_12___default = /*#__PURE__*/__webpack_require__.n(_src_assets_GIT_png__WEBPACK_IMPORTED_MODULE_12__);
 /* harmony import */ var _src_assets_REDIS_png__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ../../src/assets/REDIS.png */ "./src/assets/REDIS.png");
 /* harmony import */ var _src_assets_REDIS_png__WEBPACK_IMPORTED_MODULE_13___default = /*#__PURE__*/__webpack_require__.n(_src_assets_REDIS_png__WEBPACK_IMPORTED_MODULE_13__);
-var _jsxFileName = "C:\\Users\\andre\\Development-Projects\\portfolio\\Components\\Sections\\Stack.jsx";
+var _this = undefined,
+    _jsxFileName = "C:\\Users\\andre\\development-projects\\portfolio\\Components\\Sections\\Stack.jsx";
+
 
 
 
@@ -1755,115 +1971,129 @@ var _jsxFileName = "C:\\Users\\andre\\Development-Projects\\portfolio\\Component
 
 
 var Stack = function Stack() {
-  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "Stack",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 19
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+      lineNumber: 19,
+      columnNumber: 5
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
     className: "section-label",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 20
-    },
-    __self: this
-  }, "Stack"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 20,
+      columnNumber: 7
+    }
+  }, "Stack"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "stack-content",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 23
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
+      lineNumber: 23,
+      columnNumber: 7
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
     img: _src_assets_HTML_png__WEBPACK_IMPORTED_MODULE_3___default.a,
     name: "HTML5",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 24
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
+      lineNumber: 24,
+      columnNumber: 9
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
     img: _src_assets_CSS_png__WEBPACK_IMPORTED_MODULE_4___default.a,
     name: "CSS3",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 25
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
+      lineNumber: 25,
+      columnNumber: 9
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
     img: _src_assets_SASS_png__WEBPACK_IMPORTED_MODULE_11___default.a,
     name: "Sass",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 26
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
+      lineNumber: 26,
+      columnNumber: 9
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
     img: _src_assets_JAVASCRIPT_png__WEBPACK_IMPORTED_MODULE_5___default.a,
     name: "Javascript",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 27
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
+      lineNumber: 27,
+      columnNumber: 9
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
     img: _src_assets_REACT_png__WEBPACK_IMPORTED_MODULE_10___default.a,
     name: "React.js",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 28
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
+      lineNumber: 28,
+      columnNumber: 9
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
     img: _src_assets_NEXT_png__WEBPACK_IMPORTED_MODULE_7___default.a,
     name: "Next.js",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 29
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
+      lineNumber: 29,
+      columnNumber: 9
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
     img: _src_assets_NODE_png__WEBPACK_IMPORTED_MODULE_8___default.a,
     name: "Node.js",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 30
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
+      lineNumber: 30,
+      columnNumber: 9
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
     img: _src_assets_POSTGRES_png__WEBPACK_IMPORTED_MODULE_9___default.a,
     name: "PostgreSQL",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 31
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
+      lineNumber: 31,
+      columnNumber: 9
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
     img: _src_assets_MONGO_png__WEBPACK_IMPORTED_MODULE_6___default.a,
     name: "MongoDB",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 32
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
+      lineNumber: 32,
+      columnNumber: 9
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
     img: _src_assets_REDIS_png__WEBPACK_IMPORTED_MODULE_13___default.a,
     name: "Redis",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 33
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
+      lineNumber: 33,
+      columnNumber: 9
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
     img: _src_assets_GIT_png__WEBPACK_IMPORTED_MODULE_12___default.a,
     name: "Git",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 34
-    },
-    __self: this
+      lineNumber: 34,
+      columnNumber: 9
+    }
   })));
 };
 
@@ -1884,48 +2114,55 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _styles_StackImg_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../styles/StackImg.scss */ "./styles/StackImg.scss");
 /* harmony import */ var _styles_StackImg_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_styles_StackImg_scss__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "C:\\Users\\andre\\Development-Projects\\portfolio\\Components\\Sections\\StackImg.jsx";
+var _this = undefined,
+    _jsxFileName = "C:\\Users\\andre\\development-projects\\portfolio\\Components\\Sections\\StackImg.jsx";
+
 
 
 
 var StackImg = function StackImg(props) {
-  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "stack-img",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 7
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 7,
+      columnNumber: 5
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "stack-image-hold",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 8
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+      lineNumber: 8,
+      columnNumber: 7
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "stack-image",
     src: props.img,
     alt: props.name,
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 9
-    },
-    __self: this
-  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 9,
+      columnNumber: 9
+    }
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "stack-name-hold",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 12
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      lineNumber: 12,
+      columnNumber: 7
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "stack-name",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 13
-    },
-    __self: this
+      lineNumber: 13,
+      columnNumber: 9
+    }
   }, props.name)));
 };
 
@@ -3053,6 +3290,7 @@ var PREFIX_TO_STYLE = {
   'fas': 'solid',
   'far': 'regular',
   'fal': 'light',
+  'fad': 'duotone',
   'fab': 'brands',
   'fa': 'solid'
 };
@@ -3060,10 +3298,11 @@ var STYLE_TO_PREFIX = {
   'solid': 'fas',
   'regular': 'far',
   'light': 'fal',
+  'duotone': 'fad',
   'brands': 'fab'
 };
 var LAYERS_TEXT_CLASSNAME = 'fa-layers-text';
-var FONT_FAMILY_PATTERN = /Font Awesome 5 (Solid|Regular|Light|Brands|Free|Pro)/;
+var FONT_FAMILY_PATTERN = /Font Awesome 5 (Solid|Regular|Light|Duotone|Brands|Free|Pro)/;
 var FONT_WEIGHT_TO_PREFIX = {
   '900': 'fas',
   '400': 'far',
@@ -3073,7 +3312,13 @@ var FONT_WEIGHT_TO_PREFIX = {
 var oneToTen = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 var oneToTwenty = oneToTen.concat([11, 12, 13, 14, 15, 16, 17, 18, 19, 20]);
 var ATTRIBUTES_WATCHED_FOR_MUTATION = ['class', 'data-prefix', 'data-icon', 'data-fa-transform', 'data-fa-mask'];
-var RESERVED_CLASSES = ['xs', 'sm', 'lg', 'fw', 'ul', 'li', 'border', 'pull-left', 'pull-right', 'spin', 'pulse', 'rotate-90', 'rotate-180', 'rotate-270', 'flip-horizontal', 'flip-vertical', 'flip-both', 'stack', 'stack-1x', 'stack-2x', 'inverse', 'layers', 'layers-text', 'layers-counter'].concat(oneToTen.map(function (n) {
+var DUOTONE_CLASSES = {
+  GROUP: 'group',
+  SWAP_OPACITY: 'swap-opacity',
+  PRIMARY: 'primary',
+  SECONDARY: 'secondary'
+};
+var RESERVED_CLASSES = ['xs', 'sm', 'lg', 'fw', 'ul', 'li', 'border', 'pull-left', 'pull-right', 'spin', 'pulse', 'rotate-90', 'rotate-180', 'rotate-270', 'flip-horizontal', 'flip-vertical', 'flip-both', 'stack', 'stack-1x', 'stack-2x', 'inverse', 'layers', 'layers-text', 'layers-counter', DUOTONE_CLASSES.GROUP, DUOTONE_CLASSES.SWAP_OPACITY, DUOTONE_CLASSES.PRIMARY, DUOTONE_CLASSES.SECONDARY].concat(oneToTen.map(function (n) {
   return "".concat(n, "x");
 })).concat(oneToTwenty.map(function (n) {
   return "w-".concat(n);
@@ -3597,11 +3842,31 @@ var ALL_SPACE = {
   width: '100%',
   height: '100%'
 };
+
+function fillBlack(abstract) {
+  var force = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : true;
+
+  if (abstract.attributes && (abstract.attributes.fill || force)) {
+    abstract.attributes.fill = 'black';
+  }
+
+  return abstract;
+}
+
+function deGroup(abstract) {
+  if (abstract.tag === 'g') {
+    return abstract.children;
+  } else {
+    return [abstract];
+  }
+}
+
 function makeIconMasking (_ref) {
   var children = _ref.children,
       attributes = _ref.attributes,
       main = _ref.main,
       mask = _ref.mask,
+      explicitMaskId = _ref.maskId,
       transform = _ref.transform;
   var mainWidth = main.width,
       mainPath = main.icon;
@@ -3618,23 +3883,24 @@ function makeIconMasking (_ref) {
       fill: 'white'
     })
   };
+  var maskInnerGroupChildrenMixin = mainPath.children ? {
+    children: mainPath.children.map(fillBlack)
+  } : {};
   var maskInnerGroup = {
     tag: 'g',
     attributes: _objectSpread({}, trans.inner),
-    children: [{
-      tag: 'path',
-      attributes: _objectSpread({}, mainPath.attributes, trans.path, {
-        fill: 'black'
-      })
-    }]
+    children: [fillBlack(_objectSpread({
+      tag: mainPath.tag,
+      attributes: _objectSpread({}, mainPath.attributes, trans.path)
+    }, maskInnerGroupChildrenMixin))]
   };
   var maskOuterGroup = {
     tag: 'g',
     attributes: _objectSpread({}, trans.outer),
     children: [maskInnerGroup]
   };
-  var maskId = "mask-".concat(nextUniqueId());
-  var clipId = "clip-".concat(nextUniqueId());
+  var maskId = "mask-".concat(explicitMaskId || nextUniqueId());
+  var clipId = "clip-".concat(explicitMaskId || nextUniqueId());
   var maskTag = {
     tag: 'mask',
     attributes: _objectSpread({}, ALL_SPACE, {
@@ -3651,7 +3917,7 @@ function makeIconMasking (_ref) {
       attributes: {
         id: clipId
       },
-      children: [maskPath]
+      children: deGroup(maskPath)
     }, maskTag]
   };
   children.push(defs, {
@@ -3767,6 +4033,8 @@ function makeInlineSvgAbstract(params) {
       transform = params.transform,
       symbol = params.symbol,
       title = params.title,
+      maskId = params.maskId,
+      titleId = params.titleId,
       extra = params.extra,
       _params$watchable = params.watchable,
       watchable = _params$watchable === void 0 ? false : _params$watchable;
@@ -3798,7 +4066,7 @@ function makeInlineSvgAbstract(params) {
   if (title) content.children.push({
     tag: 'title',
     attributes: {
-      id: content.attributes['aria-labelledby'] || "title-".concat(nextUniqueId())
+      id: content.attributes['aria-labelledby'] || "title-".concat(titleId || nextUniqueId())
     },
     children: [title]
   });
@@ -3808,6 +4076,7 @@ function makeInlineSvgAbstract(params) {
     iconName: iconName,
     main: main,
     mask: mask,
+    maskId: maskId,
     transform: transform,
     symbol: symbol,
     styles: extra.styles
@@ -3926,7 +4195,7 @@ var p = config.measurePerformance && PERFORMANCE && PERFORMANCE.mark && PERFORMA
   mark: noop$1,
   measure: noop$1
 };
-var preamble = "FA \"5.8.2\"";
+var preamble = "FA \"5.13.0\"";
 
 var begin = function begin(name) {
   p.mark("".concat(preamble, " ").concat(name, " begins"));
@@ -4112,7 +4381,7 @@ function getCanonicalIcon(values) {
 
     if (styles$1[cls]) {
       acc.prefix = cls;
-    } else if (config.autoFetchSvg && ['fas', 'far', 'fal', 'fab', 'fa'].indexOf(cls) > -1) {
+    } else if (config.autoFetchSvg && ['fas', 'far', 'fal', 'fad', 'fab', 'fa'].indexOf(cls) > -1) {
       acc.prefix = cls;
     } else if (iconName) {
       var shim = acc.prefix === 'fa' ? byOldName(iconName) : {};
@@ -4192,6 +4461,7 @@ var mutators = {
 
     var forSvg = new RegExp("".concat(config.familyPrefix, "-.*"));
     delete abstract[0].attributes.style;
+    delete abstract[0].attributes.id;
     var splitClasses = abstract[0].attributes.class.split(' ').reduce(function (acc, cls) {
       if (cls === config.replacementClass || cls.match(forSvg)) {
         acc.toSvg.push(cls);
@@ -4430,10 +4700,11 @@ function attributesParser (node) {
     return acc;
   }, {});
   var title = node.getAttribute('title');
+  var titleId = node.getAttribute('data-fa-title-id');
 
   if (config.autoA11y) {
     if (title) {
-      extraAttributes['aria-labelledby'] = "".concat(config.replacementClass, "-title-").concat(nextUniqueId());
+      extraAttributes['aria-labelledby'] = "".concat(config.replacementClass, "-title-").concat(titleId || nextUniqueId());
     } else {
       extraAttributes['aria-hidden'] = 'true';
       extraAttributes['focusable'] = 'false';
@@ -4459,10 +4730,12 @@ function blankMeta() {
   return {
     iconName: null,
     title: null,
+    titleId: null,
     prefix: null,
     transform: meaninglessTransform,
     symbol: false,
     mask: null,
+    maskId: null,
     extra: {
       classes: [],
       styles: {},
@@ -4484,10 +4757,12 @@ function parseMeta(node) {
   return {
     iconName: iconName,
     title: node.getAttribute('title'),
+    titleId: node.getAttribute('data-fa-title-id'),
     prefix: prefix,
     transform: transform,
     symbol: symbol,
     mask: mask,
+    maskId: node.getAttribute('data-fa-mask-id'),
     extra: {
       classes: extraClasses,
       styles: extraStyles,
@@ -4575,6 +4850,55 @@ var missing = {
 };
 
 var styles$2 = namespace.styles;
+function asFoundIcon(icon) {
+  var width = icon[0];
+  var height = icon[1];
+
+  var _icon$slice = icon.slice(4),
+      _icon$slice2 = _slicedToArray(_icon$slice, 1),
+      vectorData = _icon$slice2[0];
+
+  var element = null;
+
+  if (Array.isArray(vectorData)) {
+    element = {
+      tag: 'g',
+      attributes: {
+        class: "".concat(config.familyPrefix, "-").concat(DUOTONE_CLASSES.GROUP)
+      },
+      children: [{
+        tag: 'path',
+        attributes: {
+          class: "".concat(config.familyPrefix, "-").concat(DUOTONE_CLASSES.SECONDARY),
+          fill: 'currentColor',
+          d: vectorData[0]
+        }
+      }, {
+        tag: 'path',
+        attributes: {
+          class: "".concat(config.familyPrefix, "-").concat(DUOTONE_CLASSES.PRIMARY),
+          fill: 'currentColor',
+          d: vectorData[1]
+        }
+      }]
+    };
+  } else {
+    element = {
+      tag: 'path',
+      attributes: {
+        fill: 'currentColor',
+        d: vectorData
+      }
+    };
+  }
+
+  return {
+    found: true,
+    width: width,
+    height: height,
+    icon: element
+  };
+}
 function findIcon(iconName, prefix) {
   return new picked(function (resolve, reject) {
     var val = {
@@ -4586,22 +4910,13 @@ function findIcon(iconName, prefix) {
 
     if (iconName && prefix && styles$2[prefix] && styles$2[prefix][iconName]) {
       var icon = styles$2[prefix][iconName];
-      var width = icon[0];
-      var height = icon[1];
-      var vectorData = icon.slice(4);
-      val = {
-        found: true,
-        width: width,
-        height: height,
-        icon: {
-          tag: 'path',
-          attributes: {
-            fill: 'currentColor',
-            d: vectorData[0]
-          }
-        }
-      };
-      return resolve(val);
+      return resolve(asFoundIcon(icon));
+    }
+
+    var headers = {};
+
+    if (_typeof(WINDOW.FontAwesomeKitConfig) === 'object' && typeof window.FontAwesomeKitConfig.token === 'string') {
+      headers['fa-kit-token'] = WINDOW.FontAwesomeKitConfig.token;
     }
 
     if (iconName && prefix && !config.showMissingIcons) {
@@ -4617,10 +4932,12 @@ var styles$3 = namespace.styles;
 function generateSvgReplacementMutation(node, nodeMeta) {
   var iconName = nodeMeta.iconName,
       title = nodeMeta.title,
+      titleId = nodeMeta.titleId,
       prefix = nodeMeta.prefix,
       transform = nodeMeta.transform,
       symbol = nodeMeta.symbol,
       mask = nodeMeta.mask,
+      maskId = nodeMeta.maskId,
       extra = nodeMeta.extra;
   return new picked(function (resolve, reject) {
     picked.all([findIcon(iconName, prefix), findIcon(mask.iconName, mask.prefix)]).then(function (_ref) {
@@ -4638,7 +4955,9 @@ function generateSvgReplacementMutation(node, nodeMeta) {
         transform: transform,
         symbol: symbol,
         mask: mask,
+        maskId: maskId,
         title: title,
+        titleId: titleId,
         extra: extra,
         watchable: true
       })]);
@@ -4779,6 +5098,7 @@ function replaceForPosition(node, position) {
     var styles = WINDOW.getComputedStyle(node, position);
     var fontFamily = styles.getPropertyValue('font-family').match(FONT_FAMILY_PATTERN);
     var fontWeight = styles.getPropertyValue('font-weight');
+    var content = styles.getPropertyValue('content');
 
     if (alreadyProcessedPseudoElement && !fontFamily) {
       // If we've already processed it but the current computed style does not result in a font-family,
@@ -4786,9 +5106,8 @@ function replaceForPosition(node, position) {
       // removed. So we now should delete the icon.
       node.removeChild(alreadyProcessedPseudoElement);
       return resolve();
-    } else if (fontFamily) {
-      var content = styles.getPropertyValue('content');
-      var prefix = ~['Light', 'Regular', 'Solid', 'Brands'].indexOf(fontFamily[1]) ? STYLE_TO_PREFIX[fontFamily[1].toLowerCase()] : FONT_WEIGHT_TO_PREFIX[fontWeight];
+    } else if (fontFamily && content !== 'none' && content !== '') {
+      var prefix = ~['Solid', 'Regular', 'Light', 'Duotone', 'Brands'].indexOf(fontFamily[1]) ? STYLE_TO_PREFIX[fontFamily[1].toLowerCase()] : FONT_WEIGHT_TO_PREFIX[fontWeight];
       var hexValue = toHex(content.length === 3 ? content.substr(1, 1) : content);
       var iconName = byUnicode(prefix, hexValue);
       var iconIdentifier = iconName; // Only convert the pseudo element in this :before/:after position into an icon if we haven't
@@ -4865,7 +5184,7 @@ function searchPseudoElements (root) {
   });
 }
 
-var baseStyles = "svg:not(:root).svg-inline--fa {\n  overflow: visible;\n}\n\n.svg-inline--fa {\n  display: inline-block;\n  font-size: inherit;\n  height: 1em;\n  overflow: visible;\n  vertical-align: -0.125em;\n}\n.svg-inline--fa.fa-lg {\n  vertical-align: -0.225em;\n}\n.svg-inline--fa.fa-w-1 {\n  width: 0.0625em;\n}\n.svg-inline--fa.fa-w-2 {\n  width: 0.125em;\n}\n.svg-inline--fa.fa-w-3 {\n  width: 0.1875em;\n}\n.svg-inline--fa.fa-w-4 {\n  width: 0.25em;\n}\n.svg-inline--fa.fa-w-5 {\n  width: 0.3125em;\n}\n.svg-inline--fa.fa-w-6 {\n  width: 0.375em;\n}\n.svg-inline--fa.fa-w-7 {\n  width: 0.4375em;\n}\n.svg-inline--fa.fa-w-8 {\n  width: 0.5em;\n}\n.svg-inline--fa.fa-w-9 {\n  width: 0.5625em;\n}\n.svg-inline--fa.fa-w-10 {\n  width: 0.625em;\n}\n.svg-inline--fa.fa-w-11 {\n  width: 0.6875em;\n}\n.svg-inline--fa.fa-w-12 {\n  width: 0.75em;\n}\n.svg-inline--fa.fa-w-13 {\n  width: 0.8125em;\n}\n.svg-inline--fa.fa-w-14 {\n  width: 0.875em;\n}\n.svg-inline--fa.fa-w-15 {\n  width: 0.9375em;\n}\n.svg-inline--fa.fa-w-16 {\n  width: 1em;\n}\n.svg-inline--fa.fa-w-17 {\n  width: 1.0625em;\n}\n.svg-inline--fa.fa-w-18 {\n  width: 1.125em;\n}\n.svg-inline--fa.fa-w-19 {\n  width: 1.1875em;\n}\n.svg-inline--fa.fa-w-20 {\n  width: 1.25em;\n}\n.svg-inline--fa.fa-pull-left {\n  margin-right: 0.3em;\n  width: auto;\n}\n.svg-inline--fa.fa-pull-right {\n  margin-left: 0.3em;\n  width: auto;\n}\n.svg-inline--fa.fa-border {\n  height: 1.5em;\n}\n.svg-inline--fa.fa-li {\n  width: 2em;\n}\n.svg-inline--fa.fa-fw {\n  width: 1.25em;\n}\n\n.fa-layers svg.svg-inline--fa {\n  bottom: 0;\n  left: 0;\n  margin: auto;\n  position: absolute;\n  right: 0;\n  top: 0;\n}\n\n.fa-layers {\n  display: inline-block;\n  height: 1em;\n  position: relative;\n  text-align: center;\n  vertical-align: -0.125em;\n  width: 1em;\n}\n.fa-layers svg.svg-inline--fa {\n  -webkit-transform-origin: center center;\n          transform-origin: center center;\n}\n\n.fa-layers-counter, .fa-layers-text {\n  display: inline-block;\n  position: absolute;\n  text-align: center;\n}\n\n.fa-layers-text {\n  left: 50%;\n  top: 50%;\n  -webkit-transform: translate(-50%, -50%);\n          transform: translate(-50%, -50%);\n  -webkit-transform-origin: center center;\n          transform-origin: center center;\n}\n\n.fa-layers-counter {\n  background-color: #ff253a;\n  border-radius: 1em;\n  -webkit-box-sizing: border-box;\n          box-sizing: border-box;\n  color: #fff;\n  height: 1.5em;\n  line-height: 1;\n  max-width: 5em;\n  min-width: 1.5em;\n  overflow: hidden;\n  padding: 0.25em;\n  right: 0;\n  text-overflow: ellipsis;\n  top: 0;\n  -webkit-transform: scale(0.25);\n          transform: scale(0.25);\n  -webkit-transform-origin: top right;\n          transform-origin: top right;\n}\n\n.fa-layers-bottom-right {\n  bottom: 0;\n  right: 0;\n  top: auto;\n  -webkit-transform: scale(0.25);\n          transform: scale(0.25);\n  -webkit-transform-origin: bottom right;\n          transform-origin: bottom right;\n}\n\n.fa-layers-bottom-left {\n  bottom: 0;\n  left: 0;\n  right: auto;\n  top: auto;\n  -webkit-transform: scale(0.25);\n          transform: scale(0.25);\n  -webkit-transform-origin: bottom left;\n          transform-origin: bottom left;\n}\n\n.fa-layers-top-right {\n  right: 0;\n  top: 0;\n  -webkit-transform: scale(0.25);\n          transform: scale(0.25);\n  -webkit-transform-origin: top right;\n          transform-origin: top right;\n}\n\n.fa-layers-top-left {\n  left: 0;\n  right: auto;\n  top: 0;\n  -webkit-transform: scale(0.25);\n          transform: scale(0.25);\n  -webkit-transform-origin: top left;\n          transform-origin: top left;\n}\n\n.fa-lg {\n  font-size: 1.3333333333em;\n  line-height: 0.75em;\n  vertical-align: -0.0667em;\n}\n\n.fa-xs {\n  font-size: 0.75em;\n}\n\n.fa-sm {\n  font-size: 0.875em;\n}\n\n.fa-1x {\n  font-size: 1em;\n}\n\n.fa-2x {\n  font-size: 2em;\n}\n\n.fa-3x {\n  font-size: 3em;\n}\n\n.fa-4x {\n  font-size: 4em;\n}\n\n.fa-5x {\n  font-size: 5em;\n}\n\n.fa-6x {\n  font-size: 6em;\n}\n\n.fa-7x {\n  font-size: 7em;\n}\n\n.fa-8x {\n  font-size: 8em;\n}\n\n.fa-9x {\n  font-size: 9em;\n}\n\n.fa-10x {\n  font-size: 10em;\n}\n\n.fa-fw {\n  text-align: center;\n  width: 1.25em;\n}\n\n.fa-ul {\n  list-style-type: none;\n  margin-left: 2.5em;\n  padding-left: 0;\n}\n.fa-ul > li {\n  position: relative;\n}\n\n.fa-li {\n  left: -2em;\n  position: absolute;\n  text-align: center;\n  width: 2em;\n  line-height: inherit;\n}\n\n.fa-border {\n  border: solid 0.08em #eee;\n  border-radius: 0.1em;\n  padding: 0.2em 0.25em 0.15em;\n}\n\n.fa-pull-left {\n  float: left;\n}\n\n.fa-pull-right {\n  float: right;\n}\n\n.fa.fa-pull-left,\n.fas.fa-pull-left,\n.far.fa-pull-left,\n.fal.fa-pull-left,\n.fab.fa-pull-left {\n  margin-right: 0.3em;\n}\n.fa.fa-pull-right,\n.fas.fa-pull-right,\n.far.fa-pull-right,\n.fal.fa-pull-right,\n.fab.fa-pull-right {\n  margin-left: 0.3em;\n}\n\n.fa-spin {\n  -webkit-animation: fa-spin 2s infinite linear;\n          animation: fa-spin 2s infinite linear;\n}\n\n.fa-pulse {\n  -webkit-animation: fa-spin 1s infinite steps(8);\n          animation: fa-spin 1s infinite steps(8);\n}\n\n@-webkit-keyframes fa-spin {\n  0% {\n    -webkit-transform: rotate(0deg);\n            transform: rotate(0deg);\n  }\n  100% {\n    -webkit-transform: rotate(360deg);\n            transform: rotate(360deg);\n  }\n}\n\n@keyframes fa-spin {\n  0% {\n    -webkit-transform: rotate(0deg);\n            transform: rotate(0deg);\n  }\n  100% {\n    -webkit-transform: rotate(360deg);\n            transform: rotate(360deg);\n  }\n}\n.fa-rotate-90 {\n  -ms-filter: \"progid:DXImageTransform.Microsoft.BasicImage(rotation=1)\";\n  -webkit-transform: rotate(90deg);\n          transform: rotate(90deg);\n}\n\n.fa-rotate-180 {\n  -ms-filter: \"progid:DXImageTransform.Microsoft.BasicImage(rotation=2)\";\n  -webkit-transform: rotate(180deg);\n          transform: rotate(180deg);\n}\n\n.fa-rotate-270 {\n  -ms-filter: \"progid:DXImageTransform.Microsoft.BasicImage(rotation=3)\";\n  -webkit-transform: rotate(270deg);\n          transform: rotate(270deg);\n}\n\n.fa-flip-horizontal {\n  -ms-filter: \"progid:DXImageTransform.Microsoft.BasicImage(rotation=0, mirror=1)\";\n  -webkit-transform: scale(-1, 1);\n          transform: scale(-1, 1);\n}\n\n.fa-flip-vertical {\n  -ms-filter: \"progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1)\";\n  -webkit-transform: scale(1, -1);\n          transform: scale(1, -1);\n}\n\n.fa-flip-both, .fa-flip-horizontal.fa-flip-vertical {\n  -ms-filter: \"progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1)\";\n  -webkit-transform: scale(-1, -1);\n          transform: scale(-1, -1);\n}\n\n:root .fa-rotate-90,\n:root .fa-rotate-180,\n:root .fa-rotate-270,\n:root .fa-flip-horizontal,\n:root .fa-flip-vertical,\n:root .fa-flip-both {\n  -webkit-filter: none;\n          filter: none;\n}\n\n.fa-stack {\n  display: inline-block;\n  height: 2em;\n  position: relative;\n  width: 2.5em;\n}\n\n.fa-stack-1x,\n.fa-stack-2x {\n  bottom: 0;\n  left: 0;\n  margin: auto;\n  position: absolute;\n  right: 0;\n  top: 0;\n}\n\n.svg-inline--fa.fa-stack-1x {\n  height: 1em;\n  width: 1.25em;\n}\n.svg-inline--fa.fa-stack-2x {\n  height: 2em;\n  width: 2.5em;\n}\n\n.fa-inverse {\n  color: #fff;\n}\n\n.sr-only {\n  border: 0;\n  clip: rect(0, 0, 0, 0);\n  height: 1px;\n  margin: -1px;\n  overflow: hidden;\n  padding: 0;\n  position: absolute;\n  width: 1px;\n}\n\n.sr-only-focusable:active, .sr-only-focusable:focus {\n  clip: auto;\n  height: auto;\n  margin: 0;\n  overflow: visible;\n  position: static;\n  width: auto;\n}";
+var baseStyles = "svg:not(:root).svg-inline--fa {\n  overflow: visible;\n}\n\n.svg-inline--fa {\n  display: inline-block;\n  font-size: inherit;\n  height: 1em;\n  overflow: visible;\n  vertical-align: -0.125em;\n}\n.svg-inline--fa.fa-lg {\n  vertical-align: -0.225em;\n}\n.svg-inline--fa.fa-w-1 {\n  width: 0.0625em;\n}\n.svg-inline--fa.fa-w-2 {\n  width: 0.125em;\n}\n.svg-inline--fa.fa-w-3 {\n  width: 0.1875em;\n}\n.svg-inline--fa.fa-w-4 {\n  width: 0.25em;\n}\n.svg-inline--fa.fa-w-5 {\n  width: 0.3125em;\n}\n.svg-inline--fa.fa-w-6 {\n  width: 0.375em;\n}\n.svg-inline--fa.fa-w-7 {\n  width: 0.4375em;\n}\n.svg-inline--fa.fa-w-8 {\n  width: 0.5em;\n}\n.svg-inline--fa.fa-w-9 {\n  width: 0.5625em;\n}\n.svg-inline--fa.fa-w-10 {\n  width: 0.625em;\n}\n.svg-inline--fa.fa-w-11 {\n  width: 0.6875em;\n}\n.svg-inline--fa.fa-w-12 {\n  width: 0.75em;\n}\n.svg-inline--fa.fa-w-13 {\n  width: 0.8125em;\n}\n.svg-inline--fa.fa-w-14 {\n  width: 0.875em;\n}\n.svg-inline--fa.fa-w-15 {\n  width: 0.9375em;\n}\n.svg-inline--fa.fa-w-16 {\n  width: 1em;\n}\n.svg-inline--fa.fa-w-17 {\n  width: 1.0625em;\n}\n.svg-inline--fa.fa-w-18 {\n  width: 1.125em;\n}\n.svg-inline--fa.fa-w-19 {\n  width: 1.1875em;\n}\n.svg-inline--fa.fa-w-20 {\n  width: 1.25em;\n}\n.svg-inline--fa.fa-pull-left {\n  margin-right: 0.3em;\n  width: auto;\n}\n.svg-inline--fa.fa-pull-right {\n  margin-left: 0.3em;\n  width: auto;\n}\n.svg-inline--fa.fa-border {\n  height: 1.5em;\n}\n.svg-inline--fa.fa-li {\n  width: 2em;\n}\n.svg-inline--fa.fa-fw {\n  width: 1.25em;\n}\n\n.fa-layers svg.svg-inline--fa {\n  bottom: 0;\n  left: 0;\n  margin: auto;\n  position: absolute;\n  right: 0;\n  top: 0;\n}\n\n.fa-layers {\n  display: inline-block;\n  height: 1em;\n  position: relative;\n  text-align: center;\n  vertical-align: -0.125em;\n  width: 1em;\n}\n.fa-layers svg.svg-inline--fa {\n  -webkit-transform-origin: center center;\n          transform-origin: center center;\n}\n\n.fa-layers-counter, .fa-layers-text {\n  display: inline-block;\n  position: absolute;\n  text-align: center;\n}\n\n.fa-layers-text {\n  left: 50%;\n  top: 50%;\n  -webkit-transform: translate(-50%, -50%);\n          transform: translate(-50%, -50%);\n  -webkit-transform-origin: center center;\n          transform-origin: center center;\n}\n\n.fa-layers-counter {\n  background-color: #ff253a;\n  border-radius: 1em;\n  -webkit-box-sizing: border-box;\n          box-sizing: border-box;\n  color: #fff;\n  height: 1.5em;\n  line-height: 1;\n  max-width: 5em;\n  min-width: 1.5em;\n  overflow: hidden;\n  padding: 0.25em;\n  right: 0;\n  text-overflow: ellipsis;\n  top: 0;\n  -webkit-transform: scale(0.25);\n          transform: scale(0.25);\n  -webkit-transform-origin: top right;\n          transform-origin: top right;\n}\n\n.fa-layers-bottom-right {\n  bottom: 0;\n  right: 0;\n  top: auto;\n  -webkit-transform: scale(0.25);\n          transform: scale(0.25);\n  -webkit-transform-origin: bottom right;\n          transform-origin: bottom right;\n}\n\n.fa-layers-bottom-left {\n  bottom: 0;\n  left: 0;\n  right: auto;\n  top: auto;\n  -webkit-transform: scale(0.25);\n          transform: scale(0.25);\n  -webkit-transform-origin: bottom left;\n          transform-origin: bottom left;\n}\n\n.fa-layers-top-right {\n  right: 0;\n  top: 0;\n  -webkit-transform: scale(0.25);\n          transform: scale(0.25);\n  -webkit-transform-origin: top right;\n          transform-origin: top right;\n}\n\n.fa-layers-top-left {\n  left: 0;\n  right: auto;\n  top: 0;\n  -webkit-transform: scale(0.25);\n          transform: scale(0.25);\n  -webkit-transform-origin: top left;\n          transform-origin: top left;\n}\n\n.fa-lg {\n  font-size: 1.3333333333em;\n  line-height: 0.75em;\n  vertical-align: -0.0667em;\n}\n\n.fa-xs {\n  font-size: 0.75em;\n}\n\n.fa-sm {\n  font-size: 0.875em;\n}\n\n.fa-1x {\n  font-size: 1em;\n}\n\n.fa-2x {\n  font-size: 2em;\n}\n\n.fa-3x {\n  font-size: 3em;\n}\n\n.fa-4x {\n  font-size: 4em;\n}\n\n.fa-5x {\n  font-size: 5em;\n}\n\n.fa-6x {\n  font-size: 6em;\n}\n\n.fa-7x {\n  font-size: 7em;\n}\n\n.fa-8x {\n  font-size: 8em;\n}\n\n.fa-9x {\n  font-size: 9em;\n}\n\n.fa-10x {\n  font-size: 10em;\n}\n\n.fa-fw {\n  text-align: center;\n  width: 1.25em;\n}\n\n.fa-ul {\n  list-style-type: none;\n  margin-left: 2.5em;\n  padding-left: 0;\n}\n.fa-ul > li {\n  position: relative;\n}\n\n.fa-li {\n  left: -2em;\n  position: absolute;\n  text-align: center;\n  width: 2em;\n  line-height: inherit;\n}\n\n.fa-border {\n  border: solid 0.08em #eee;\n  border-radius: 0.1em;\n  padding: 0.2em 0.25em 0.15em;\n}\n\n.fa-pull-left {\n  float: left;\n}\n\n.fa-pull-right {\n  float: right;\n}\n\n.fa.fa-pull-left,\n.fas.fa-pull-left,\n.far.fa-pull-left,\n.fal.fa-pull-left,\n.fab.fa-pull-left {\n  margin-right: 0.3em;\n}\n.fa.fa-pull-right,\n.fas.fa-pull-right,\n.far.fa-pull-right,\n.fal.fa-pull-right,\n.fab.fa-pull-right {\n  margin-left: 0.3em;\n}\n\n.fa-spin {\n  -webkit-animation: fa-spin 2s infinite linear;\n          animation: fa-spin 2s infinite linear;\n}\n\n.fa-pulse {\n  -webkit-animation: fa-spin 1s infinite steps(8);\n          animation: fa-spin 1s infinite steps(8);\n}\n\n@-webkit-keyframes fa-spin {\n  0% {\n    -webkit-transform: rotate(0deg);\n            transform: rotate(0deg);\n  }\n  100% {\n    -webkit-transform: rotate(360deg);\n            transform: rotate(360deg);\n  }\n}\n\n@keyframes fa-spin {\n  0% {\n    -webkit-transform: rotate(0deg);\n            transform: rotate(0deg);\n  }\n  100% {\n    -webkit-transform: rotate(360deg);\n            transform: rotate(360deg);\n  }\n}\n.fa-rotate-90 {\n  -ms-filter: \"progid:DXImageTransform.Microsoft.BasicImage(rotation=1)\";\n  -webkit-transform: rotate(90deg);\n          transform: rotate(90deg);\n}\n\n.fa-rotate-180 {\n  -ms-filter: \"progid:DXImageTransform.Microsoft.BasicImage(rotation=2)\";\n  -webkit-transform: rotate(180deg);\n          transform: rotate(180deg);\n}\n\n.fa-rotate-270 {\n  -ms-filter: \"progid:DXImageTransform.Microsoft.BasicImage(rotation=3)\";\n  -webkit-transform: rotate(270deg);\n          transform: rotate(270deg);\n}\n\n.fa-flip-horizontal {\n  -ms-filter: \"progid:DXImageTransform.Microsoft.BasicImage(rotation=0, mirror=1)\";\n  -webkit-transform: scale(-1, 1);\n          transform: scale(-1, 1);\n}\n\n.fa-flip-vertical {\n  -ms-filter: \"progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1)\";\n  -webkit-transform: scale(1, -1);\n          transform: scale(1, -1);\n}\n\n.fa-flip-both, .fa-flip-horizontal.fa-flip-vertical {\n  -ms-filter: \"progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1)\";\n  -webkit-transform: scale(-1, -1);\n          transform: scale(-1, -1);\n}\n\n:root .fa-rotate-90,\n:root .fa-rotate-180,\n:root .fa-rotate-270,\n:root .fa-flip-horizontal,\n:root .fa-flip-vertical,\n:root .fa-flip-both {\n  -webkit-filter: none;\n          filter: none;\n}\n\n.fa-stack {\n  display: inline-block;\n  height: 2em;\n  position: relative;\n  width: 2.5em;\n}\n\n.fa-stack-1x,\n.fa-stack-2x {\n  bottom: 0;\n  left: 0;\n  margin: auto;\n  position: absolute;\n  right: 0;\n  top: 0;\n}\n\n.svg-inline--fa.fa-stack-1x {\n  height: 1em;\n  width: 1.25em;\n}\n.svg-inline--fa.fa-stack-2x {\n  height: 2em;\n  width: 2.5em;\n}\n\n.fa-inverse {\n  color: #fff;\n}\n\n.sr-only {\n  border: 0;\n  clip: rect(0, 0, 0, 0);\n  height: 1px;\n  margin: -1px;\n  overflow: hidden;\n  padding: 0;\n  position: absolute;\n  width: 1px;\n}\n\n.sr-only-focusable:active, .sr-only-focusable:focus {\n  clip: auto;\n  height: auto;\n  margin: 0;\n  overflow: visible;\n  position: static;\n  width: auto;\n}\n\n.svg-inline--fa .fa-primary {\n  fill: var(--fa-primary-color, currentColor);\n  opacity: 1;\n  opacity: var(--fa-primary-opacity, 1);\n}\n\n.svg-inline--fa .fa-secondary {\n  fill: var(--fa-secondary-color, currentColor);\n  opacity: 0.4;\n  opacity: var(--fa-secondary-opacity, 0.4);\n}\n\n.svg-inline--fa.fa-swap-opacity .fa-primary {\n  opacity: 0.4;\n  opacity: var(--fa-secondary-opacity, 0.4);\n}\n\n.svg-inline--fa.fa-swap-opacity .fa-secondary {\n  opacity: 1;\n  opacity: var(--fa-primary-opacity, 1);\n}\n\n.svg-inline--fa mask .fa-primary,\n.svg-inline--fa mask .fa-secondary {\n  fill: black;\n}\n\n.fad.fa-inverse {\n  color: #fff;\n}";
 
 function css () {
   var dfp = DEFAULT_FAMILY_PREFIX;
@@ -4876,8 +5195,9 @@ function css () {
 
   if (fp !== dfp || rc !== drc) {
     var dPatt = new RegExp("\\.".concat(dfp, "\\-"), 'g');
+    var customPropPatt = new RegExp("\\--".concat(dfp, "\\-"), 'g');
     var rPatt = new RegExp("\\.".concat(drc), 'g');
-    s = s.replace(dPatt, ".".concat(fp, "-")).replace(rPatt, ".".concat(rc));
+    s = s.replace(dPatt, ".".concat(fp, "-")).replace(customPropPatt, "--".concat(fp, "-")).replace(rPatt, ".".concat(rc));
   }
 
   return s;
@@ -4933,24 +5253,6 @@ function () {
 
   return Library;
 }();
-
-function prepIcon(icon) {
-  var width = icon[0];
-  var height = icon[1];
-  var vectorData = icon.slice(4);
-  return {
-    found: true,
-    width: width,
-    height: height,
-    icon: {
-      tag: 'path',
-      attributes: {
-        fill: 'currentColor',
-        d: vectorData[0]
-      }
-    }
-  };
-}
 
 function ensureCss() {
   if (config.autoAddCss && !_cssInserted) {
@@ -5077,8 +5379,12 @@ var icon = resolveIcons(function (iconDefinition) {
       symbol = _params$symbol === void 0 ? false : _params$symbol,
       _params$mask = params.mask,
       mask = _params$mask === void 0 ? null : _params$mask,
+      _params$maskId = params.maskId,
+      maskId = _params$maskId === void 0 ? null : _params$maskId,
       _params$title = params.title,
       title = _params$title === void 0 ? null : _params$title,
+      _params$titleId = params.titleId,
+      titleId = _params$titleId === void 0 ? null : _params$titleId,
       _params$classes = params.classes,
       classes = _params$classes === void 0 ? [] : _params$classes,
       _params$attributes = params.attributes,
@@ -5096,7 +5402,7 @@ var icon = resolveIcons(function (iconDefinition) {
 
     if (config.autoA11y) {
       if (title) {
-        attributes['aria-labelledby'] = "".concat(config.replacementClass, "-title-").concat(nextUniqueId());
+        attributes['aria-labelledby'] = "".concat(config.replacementClass, "-title-").concat(titleId || nextUniqueId());
       } else {
         attributes['aria-hidden'] = 'true';
         attributes['focusable'] = 'false';
@@ -5105,8 +5411,8 @@ var icon = resolveIcons(function (iconDefinition) {
 
     return makeInlineSvgAbstract({
       icons: {
-        main: prepIcon(icon),
-        mask: mask ? prepIcon(mask.icon) : {
+        main: asFoundIcon(icon),
+        mask: mask ? asFoundIcon(mask.icon) : {
           found: false,
           width: null,
           height: null,
@@ -5118,6 +5424,8 @@ var icon = resolveIcons(function (iconDefinition) {
       transform: _objectSpread({}, meaninglessTransform, transform),
       symbol: symbol,
       title: title,
+      maskId: maskId,
+      titleId: titleId,
       extra: {
         attributes: attributes,
         styles: styles,
@@ -5182,6 +5490,9 @@ var counter = function counter(content) {
   });
 };
 var layer = function layer(assembler) {
+  var params = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : {};
+  var _params$classes4 = params.classes,
+      classes = _params$classes4 === void 0 ? [] : _params$classes4;
   return apiObject({
     type: 'layer'
   }, function () {
@@ -5195,7 +5506,7 @@ var layer = function layer(assembler) {
     return [{
       tag: 'span',
       attributes: {
-        class: "".concat(config.familyPrefix, "-layers")
+        class: ["".concat(config.familyPrefix, "-layers")].concat(_toConsumableArray(classes)).join(' ')
       },
       children: children
     }];
@@ -5234,7 +5545,7 @@ var autoReplace = function autoReplace() {
 /*!*********************************************************************!*\
   !*** ./node_modules/@fortawesome/free-brands-svg-icons/index.es.js ***!
   \*********************************************************************/
-/*! exports provided: fab, prefix, fa500px, faAccessibleIcon, faAccusoft, faAcquisitionsIncorporated, faAdn, faAdobe, faAdversal, faAffiliatetheme, faAirbnb, faAlgolia, faAlipay, faAmazon, faAmazonPay, faAmilia, faAndroid, faAngellist, faAngrycreative, faAngular, faAppStore, faAppStoreIos, faApper, faApple, faApplePay, faArtstation, faAsymmetrik, faAtlassian, faAudible, faAutoprefixer, faAvianex, faAviato, faAws, faBandcamp, faBattleNet, faBehance, faBehanceSquare, faBimobject, faBitbucket, faBitcoin, faBity, faBlackTie, faBlackberry, faBlogger, faBloggerB, faBluetooth, faBluetoothB, faBootstrap, faBtc, faBuffer, faBuromobelexperte, faBuysellads, faCanadianMapleLeaf, faCcAmazonPay, faCcAmex, faCcApplePay, faCcDinersClub, faCcDiscover, faCcJcb, faCcMastercard, faCcPaypal, faCcStripe, faCcVisa, faCentercode, faCentos, faChrome, faChromecast, faCloudscale, faCloudsmith, faCloudversify, faCodepen, faCodiepie, faConfluence, faConnectdevelop, faContao, faCpanel, faCreativeCommons, faCreativeCommonsBy, faCreativeCommonsNc, faCreativeCommonsNcEu, faCreativeCommonsNcJp, faCreativeCommonsNd, faCreativeCommonsPd, faCreativeCommonsPdAlt, faCreativeCommonsRemix, faCreativeCommonsSa, faCreativeCommonsSampling, faCreativeCommonsSamplingPlus, faCreativeCommonsShare, faCreativeCommonsZero, faCriticalRole, faCss3, faCss3Alt, faCuttlefish, faDAndD, faDAndDBeyond, faDashcube, faDelicious, faDeploydog, faDeskpro, faDev, faDeviantart, faDhl, faDiaspora, faDigg, faDigitalOcean, faDiscord, faDiscourse, faDochub, faDocker, faDraft2digital, faDribbble, faDribbbleSquare, faDropbox, faDrupal, faDyalog, faEarlybirds, faEbay, faEdge, faElementor, faEllo, faEmber, faEmpire, faEnvira, faErlang, faEthereum, faEtsy, faEvernote, faExpeditedssl, faFacebook, faFacebookF, faFacebookMessenger, faFacebookSquare, faFantasyFlightGames, faFedex, faFedora, faFigma, faFirefox, faFirstOrder, faFirstOrderAlt, faFirstdraft, faFlickr, faFlipboard, faFly, faFontAwesome, faFontAwesomeAlt, faFontAwesomeFlag, faFontAwesomeLogoFull, faFonticons, faFonticonsFi, faFortAwesome, faFortAwesomeAlt, faForumbee, faFoursquare, faFreeCodeCamp, faFreebsd, faFulcrum, faGalacticRepublic, faGalacticSenate, faGetPocket, faGg, faGgCircle, faGit, faGitAlt, faGitSquare, faGithub, faGithubAlt, faGithubSquare, faGitkraken, faGitlab, faGitter, faGlide, faGlideG, faGofore, faGoodreads, faGoodreadsG, faGoogle, faGoogleDrive, faGooglePlay, faGooglePlus, faGooglePlusG, faGooglePlusSquare, faGoogleWallet, faGratipay, faGrav, faGripfire, faGrunt, faGulp, faHackerNews, faHackerNewsSquare, faHackerrank, faHips, faHireAHelper, faHooli, faHornbill, faHotjar, faHouzz, faHtml5, faHubspot, faImdb, faInstagram, faIntercom, faInternetExplorer, faInvision, faIoxhost, faItchIo, faItunes, faItunesNote, faJava, faJediOrder, faJenkins, faJira, faJoget, faJoomla, faJs, faJsSquare, faJsfiddle, faKaggle, faKeybase, faKeycdn, faKickstarter, faKickstarterK, faKorvue, faLaravel, faLastfm, faLastfmSquare, faLeanpub, faLess, faLine, faLinkedin, faLinkedinIn, faLinode, faLinux, faLyft, faMagento, faMailchimp, faMandalorian, faMarkdown, faMastodon, faMaxcdn, faMedapps, faMedium, faMediumM, faMedrt, faMeetup, faMegaport, faMendeley, faMicrosoft, faMix, faMixcloud, faMizuni, faModx, faMonero, faNapster, faNeos, faNimblr, faNode, faNodeJs, faNpm, faNs8, faNutritionix, faOdnoklassniki, faOdnoklassnikiSquare, faOldRepublic, faOpencart, faOpenid, faOpera, faOptinMonster, faOsi, faPage4, faPagelines, faPalfed, faPatreon, faPaypal, faPennyArcade, faPeriscope, faPhabricator, faPhoenixFramework, faPhoenixSquadron, faPhp, faPiedPiper, faPiedPiperAlt, faPiedPiperHat, faPiedPiperPp, faPinterest, faPinterestP, faPinterestSquare, faPlaystation, faProductHunt, faPushed, faPython, faQq, faQuinscape, faQuora, faRProject, faRaspberryPi, faRavelry, faReact, faReacteurope, faReadme, faRebel, faRedRiver, faReddit, faRedditAlien, faRedditSquare, faRedhat, faRenren, faReplyd, faResearchgate, faResolving, faRev, faRocketchat, faRockrms, faSafari, faSalesforce, faSass, faSchlix, faScribd, faSearchengin, faSellcast, faSellsy, faServicestack, faShirtsinbulk, faShopware, faSimplybuilt, faSistrix, faSith, faSketch, faSkyatlas, faSkype, faSlack, faSlackHash, faSlideshare, faSnapchat, faSnapchatGhost, faSnapchatSquare, faSoundcloud, faSourcetree, faSpeakap, faSpeakerDeck, faSpotify, faSquarespace, faStackExchange, faStackOverflow, faStackpath, faStaylinked, faSteam, faSteamSquare, faSteamSymbol, faStickerMule, faStrava, faStripe, faStripeS, faStudiovinari, faStumbleupon, faStumbleuponCircle, faSuperpowers, faSupple, faSuse, faSymfony, faTeamspeak, faTelegram, faTelegramPlane, faTencentWeibo, faTheRedYeti, faThemeco, faThemeisle, faThinkPeaks, faTradeFederation, faTrello, faTripadvisor, faTumblr, faTumblrSquare, faTwitch, faTwitter, faTwitterSquare, faTypo3, faUber, faUbuntu, faUikit, faUniregistry, faUntappd, faUps, faUsb, faUsps, faUssunnah, faVaadin, faViacoin, faViadeo, faViadeoSquare, faViber, faVimeo, faVimeoSquare, faVimeoV, faVine, faVk, faVnv, faVuejs, faWaze, faWeebly, faWeibo, faWeixin, faWhatsapp, faWhatsappSquare, faWhmcs, faWikipediaW, faWindows, faWix, faWizardsOfTheCoast, faWolfPackBattalion, faWordpress, faWordpressSimple, faWpbeginner, faWpexplorer, faWpforms, faWpressr, faXbox, faXing, faXingSquare, faYCombinator, faYahoo, faYammer, faYandex, faYandexInternational, faYarn, faYelp, faYoast, faYoutube, faYoutubeSquare, faZhihu */
+/*! exports provided: fab, prefix, fa500px, faAccessibleIcon, faAccusoft, faAcquisitionsIncorporated, faAdn, faAdobe, faAdversal, faAffiliatetheme, faAirbnb, faAlgolia, faAlipay, faAmazon, faAmazonPay, faAmilia, faAndroid, faAngellist, faAngrycreative, faAngular, faAppStore, faAppStoreIos, faApper, faApple, faApplePay, faArtstation, faAsymmetrik, faAtlassian, faAudible, faAutoprefixer, faAvianex, faAviato, faAws, faBandcamp, faBattleNet, faBehance, faBehanceSquare, faBimobject, faBitbucket, faBitcoin, faBity, faBlackTie, faBlackberry, faBlogger, faBloggerB, faBluetooth, faBluetoothB, faBootstrap, faBtc, faBuffer, faBuromobelexperte, faBuyNLarge, faBuysellads, faCanadianMapleLeaf, faCcAmazonPay, faCcAmex, faCcApplePay, faCcDinersClub, faCcDiscover, faCcJcb, faCcMastercard, faCcPaypal, faCcStripe, faCcVisa, faCentercode, faCentos, faChrome, faChromecast, faCloudscale, faCloudsmith, faCloudversify, faCodepen, faCodiepie, faConfluence, faConnectdevelop, faContao, faCottonBureau, faCpanel, faCreativeCommons, faCreativeCommonsBy, faCreativeCommonsNc, faCreativeCommonsNcEu, faCreativeCommonsNcJp, faCreativeCommonsNd, faCreativeCommonsPd, faCreativeCommonsPdAlt, faCreativeCommonsRemix, faCreativeCommonsSa, faCreativeCommonsSampling, faCreativeCommonsSamplingPlus, faCreativeCommonsShare, faCreativeCommonsZero, faCriticalRole, faCss3, faCss3Alt, faCuttlefish, faDAndD, faDAndDBeyond, faDailymotion, faDashcube, faDelicious, faDeploydog, faDeskpro, faDev, faDeviantart, faDhl, faDiaspora, faDigg, faDigitalOcean, faDiscord, faDiscourse, faDochub, faDocker, faDraft2digital, faDribbble, faDribbbleSquare, faDropbox, faDrupal, faDyalog, faEarlybirds, faEbay, faEdge, faElementor, faEllo, faEmber, faEmpire, faEnvira, faErlang, faEthereum, faEtsy, faEvernote, faExpeditedssl, faFacebook, faFacebookF, faFacebookMessenger, faFacebookSquare, faFantasyFlightGames, faFedex, faFedora, faFigma, faFirefox, faFirefoxBrowser, faFirstOrder, faFirstOrderAlt, faFirstdraft, faFlickr, faFlipboard, faFly, faFontAwesome, faFontAwesomeAlt, faFontAwesomeFlag, faFontAwesomeLogoFull, faFonticons, faFonticonsFi, faFortAwesome, faFortAwesomeAlt, faForumbee, faFoursquare, faFreeCodeCamp, faFreebsd, faFulcrum, faGalacticRepublic, faGalacticSenate, faGetPocket, faGg, faGgCircle, faGit, faGitAlt, faGitSquare, faGithub, faGithubAlt, faGithubSquare, faGitkraken, faGitlab, faGitter, faGlide, faGlideG, faGofore, faGoodreads, faGoodreadsG, faGoogle, faGoogleDrive, faGooglePlay, faGooglePlus, faGooglePlusG, faGooglePlusSquare, faGoogleWallet, faGratipay, faGrav, faGripfire, faGrunt, faGulp, faHackerNews, faHackerNewsSquare, faHackerrank, faHips, faHireAHelper, faHooli, faHornbill, faHotjar, faHouzz, faHtml5, faHubspot, faIdeal, faImdb, faInstagram, faInstagramSquare, faIntercom, faInternetExplorer, faInvision, faIoxhost, faItchIo, faItunes, faItunesNote, faJava, faJediOrder, faJenkins, faJira, faJoget, faJoomla, faJs, faJsSquare, faJsfiddle, faKaggle, faKeybase, faKeycdn, faKickstarter, faKickstarterK, faKorvue, faLaravel, faLastfm, faLastfmSquare, faLeanpub, faLess, faLine, faLinkedin, faLinkedinIn, faLinode, faLinux, faLyft, faMagento, faMailchimp, faMandalorian, faMarkdown, faMastodon, faMaxcdn, faMdb, faMedapps, faMedium, faMediumM, faMedrt, faMeetup, faMegaport, faMendeley, faMicroblog, faMicrosoft, faMix, faMixcloud, faMixer, faMizuni, faModx, faMonero, faNapster, faNeos, faNimblr, faNode, faNodeJs, faNpm, faNs8, faNutritionix, faOdnoklassniki, faOdnoklassnikiSquare, faOldRepublic, faOpencart, faOpenid, faOpera, faOptinMonster, faOrcid, faOsi, faPage4, faPagelines, faPalfed, faPatreon, faPaypal, faPennyArcade, faPeriscope, faPhabricator, faPhoenixFramework, faPhoenixSquadron, faPhp, faPiedPiper, faPiedPiperAlt, faPiedPiperHat, faPiedPiperPp, faPiedPiperSquare, faPinterest, faPinterestP, faPinterestSquare, faPlaystation, faProductHunt, faPushed, faPython, faQq, faQuinscape, faQuora, faRProject, faRaspberryPi, faRavelry, faReact, faReacteurope, faReadme, faRebel, faRedRiver, faReddit, faRedditAlien, faRedditSquare, faRedhat, faRenren, faReplyd, faResearchgate, faResolving, faRev, faRocketchat, faRockrms, faSafari, faSalesforce, faSass, faSchlix, faScribd, faSearchengin, faSellcast, faSellsy, faServicestack, faShirtsinbulk, faShopify, faShopware, faSimplybuilt, faSistrix, faSith, faSketch, faSkyatlas, faSkype, faSlack, faSlackHash, faSlideshare, faSnapchat, faSnapchatGhost, faSnapchatSquare, faSoundcloud, faSourcetree, faSpeakap, faSpeakerDeck, faSpotify, faSquarespace, faStackExchange, faStackOverflow, faStackpath, faStaylinked, faSteam, faSteamSquare, faSteamSymbol, faStickerMule, faStrava, faStripe, faStripeS, faStudiovinari, faStumbleupon, faStumbleuponCircle, faSuperpowers, faSupple, faSuse, faSwift, faSymfony, faTeamspeak, faTelegram, faTelegramPlane, faTencentWeibo, faTheRedYeti, faThemeco, faThemeisle, faThinkPeaks, faTradeFederation, faTrello, faTripadvisor, faTumblr, faTumblrSquare, faTwitch, faTwitter, faTwitterSquare, faTypo3, faUber, faUbuntu, faUikit, faUmbraco, faUniregistry, faUnity, faUntappd, faUps, faUsb, faUsps, faUssunnah, faVaadin, faViacoin, faViadeo, faViadeoSquare, faViber, faVimeo, faVimeoSquare, faVimeoV, faVine, faVk, faVnv, faVuejs, faWaze, faWeebly, faWeibo, faWeixin, faWhatsapp, faWhatsappSquare, faWhmcs, faWikipediaW, faWindows, faWix, faWizardsOfTheCoast, faWolfPackBattalion, faWordpress, faWordpressSimple, faWpbeginner, faWpexplorer, faWpforms, faWpressr, faXbox, faXing, faXingSquare, faYCombinator, faYahoo, faYammer, faYandex, faYandexInternational, faYarn, faYelp, faYoast, faYoutube, faYoutubeSquare, faZhihu */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -5290,6 +5601,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faBtc", function() { return faBtc; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faBuffer", function() { return faBuffer; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faBuromobelexperte", function() { return faBuromobelexperte; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faBuyNLarge", function() { return faBuyNLarge; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faBuysellads", function() { return faBuysellads; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faCanadianMapleLeaf", function() { return faCanadianMapleLeaf; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faCcAmazonPay", function() { return faCcAmazonPay; });
@@ -5314,6 +5626,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faConfluence", function() { return faConfluence; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faConnectdevelop", function() { return faConnectdevelop; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faContao", function() { return faContao; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faCottonBureau", function() { return faCottonBureau; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faCpanel", function() { return faCpanel; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faCreativeCommons", function() { return faCreativeCommons; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faCreativeCommonsBy", function() { return faCreativeCommonsBy; });
@@ -5335,6 +5648,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faCuttlefish", function() { return faCuttlefish; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faDAndD", function() { return faDAndD; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faDAndDBeyond", function() { return faDAndDBeyond; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faDailymotion", function() { return faDailymotion; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faDashcube", function() { return faDashcube; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faDelicious", function() { return faDelicious; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faDeploydog", function() { return faDeploydog; });
@@ -5377,6 +5691,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faFedora", function() { return faFedora; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faFigma", function() { return faFigma; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faFirefox", function() { return faFirefox; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faFirefoxBrowser", function() { return faFirefoxBrowser; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faFirstOrder", function() { return faFirstOrder; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faFirstOrderAlt", function() { return faFirstOrderAlt; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faFirstdraft", function() { return faFirstdraft; });
@@ -5438,8 +5753,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faHouzz", function() { return faHouzz; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faHtml5", function() { return faHtml5; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faHubspot", function() { return faHubspot; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faIdeal", function() { return faIdeal; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faImdb", function() { return faImdb; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faInstagram", function() { return faInstagram; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faInstagramSquare", function() { return faInstagramSquare; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faIntercom", function() { return faIntercom; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faInternetExplorer", function() { return faInternetExplorer; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faInvision", function() { return faInvision; });
@@ -5479,6 +5796,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faMarkdown", function() { return faMarkdown; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faMastodon", function() { return faMastodon; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faMaxcdn", function() { return faMaxcdn; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faMdb", function() { return faMdb; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faMedapps", function() { return faMedapps; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faMedium", function() { return faMedium; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faMediumM", function() { return faMediumM; });
@@ -5486,9 +5804,11 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faMeetup", function() { return faMeetup; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faMegaport", function() { return faMegaport; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faMendeley", function() { return faMendeley; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faMicroblog", function() { return faMicroblog; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faMicrosoft", function() { return faMicrosoft; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faMix", function() { return faMix; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faMixcloud", function() { return faMixcloud; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faMixer", function() { return faMixer; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faMizuni", function() { return faMizuni; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faModx", function() { return faModx; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faMonero", function() { return faMonero; });
@@ -5507,6 +5827,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faOpenid", function() { return faOpenid; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faOpera", function() { return faOpera; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faOptinMonster", function() { return faOptinMonster; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faOrcid", function() { return faOrcid; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faOsi", function() { return faOsi; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faPage4", function() { return faPage4; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faPagelines", function() { return faPagelines; });
@@ -5523,6 +5844,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faPiedPiperAlt", function() { return faPiedPiperAlt; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faPiedPiperHat", function() { return faPiedPiperHat; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faPiedPiperPp", function() { return faPiedPiperPp; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faPiedPiperSquare", function() { return faPiedPiperSquare; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faPinterest", function() { return faPinterest; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faPinterestP", function() { return faPinterestP; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faPinterestSquare", function() { return faPinterestSquare; });
@@ -5562,6 +5884,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faSellsy", function() { return faSellsy; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faServicestack", function() { return faServicestack; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faShirtsinbulk", function() { return faShirtsinbulk; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faShopify", function() { return faShopify; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faShopware", function() { return faShopware; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faSimplybuilt", function() { return faSimplybuilt; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faSistrix", function() { return faSistrix; });
@@ -5598,6 +5921,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faSuperpowers", function() { return faSuperpowers; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faSupple", function() { return faSupple; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faSuse", function() { return faSuse; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faSwift", function() { return faSwift; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faSymfony", function() { return faSymfony; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faTeamspeak", function() { return faTeamspeak; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faTelegram", function() { return faTelegram; });
@@ -5619,7 +5943,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faUber", function() { return faUber; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faUbuntu", function() { return faUbuntu; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faUikit", function() { return faUikit; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faUmbraco", function() { return faUmbraco; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faUniregistry", function() { return faUniregistry; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faUnity", function() { return faUnity; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faUntappd", function() { return faUntappd; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faUps", function() { return faUps; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faUsb", function() { return faUsb; });
@@ -5743,7 +6069,7 @@ var faAmilia = {
 var faAndroid = {
   prefix: 'fab',
   iconName: 'android',
-  icon: [448, 512, [], "f17b", "M89.6 204.5v115.8c0 15.4-12.1 27.7-27.5 27.7-15.3 0-30.1-12.4-30.1-27.7V204.5c0-15.1 14.8-27.5 30.1-27.5 15.1 0 27.5 12.4 27.5 27.5zm10.8 157c0 16.4 13.2 29.6 29.6 29.6h19.9l.3 61.1c0 36.9 55.2 36.6 55.2 0v-61.1h37.2v61.1c0 36.7 55.5 36.8 55.5 0v-61.1h20.2c16.2 0 29.4-13.2 29.4-29.6V182.1H100.4v179.4zm248-189.1H99.3c0-42.8 25.6-80 63.6-99.4l-19.1-35.3c-2.8-4.9 4.3-8 6.7-3.8l19.4 35.6c34.9-15.5 75-14.7 108.3 0L297.5 34c2.5-4.3 9.5-1.1 6.7 3.8L285.1 73c37.7 19.4 63.3 56.6 63.3 99.4zm-170.7-55.5c0-5.7-4.6-10.5-10.5-10.5-5.7 0-10.2 4.8-10.2 10.5s4.6 10.5 10.2 10.5c5.9 0 10.5-4.8 10.5-10.5zm113.4 0c0-5.7-4.6-10.5-10.2-10.5-5.9 0-10.5 4.8-10.5 10.5s4.6 10.5 10.5 10.5c5.6 0 10.2-4.8 10.2-10.5zm94.8 60.1c-15.1 0-27.5 12.1-27.5 27.5v115.8c0 15.4 12.4 27.7 27.5 27.7 15.4 0 30.1-12.4 30.1-27.7V204.5c0-15.4-14.8-27.5-30.1-27.5z"]
+  icon: [576, 512, [], "f17b", "M420.55,301.93a24,24,0,1,1,24-24,24,24,0,0,1-24,24m-265.1,0a24,24,0,1,1,24-24,24,24,0,0,1-24,24m273.7-144.48,47.94-83a10,10,0,1,0-17.27-10h0l-48.54,84.07a301.25,301.25,0,0,0-246.56,0L116.18,64.45a10,10,0,1,0-17.27,10h0l47.94,83C64.53,202.22,8.24,285.55,0,384H576c-8.24-98.45-64.54-181.78-146.85-226.55"]
 };
 var faAngellist = {
   prefix: 'fab',
@@ -5915,6 +6241,11 @@ var faBuromobelexperte = {
   iconName: 'buromobelexperte',
   icon: [448, 512, [], "f37f", "M0 32v128h128V32H0zm120 120H8V40h112v112zm40-120v128h128V32H160zm120 120H168V40h112v112zm40-120v128h128V32H320zm120 120H328V40h112v112zM0 192v128h128V192H0zm120 120H8V200h112v112zm40-120v128h128V192H160zm120 120H168V200h112v112zm40-120v128h128V192H320zm120 120H328V200h112v112zM0 352v128h128V352H0zm120 120H8V360h112v112zm40-120v128h128V352H160zm120 120H168V360h112v112zm40-120v128h128V352H320z"]
 };
+var faBuyNLarge = {
+  prefix: 'fab',
+  iconName: 'buy-n-large',
+  icon: [576, 512, [], "f8a6", "M288 32C133.27 32 7.79 132.32 7.79 256S133.27 480 288 480s280.21-100.32 280.21-224S442.73 32 288 32zm-85.39 357.19L64.1 390.55l77.25-290.74h133.44c63.15 0 84.93 28.65 78 72.84a60.24 60.24 0 0 1-1.5 6.85 77.39 77.39 0 0 0-17.21-1.93c-42.35 0-76.69 33.88-76.69 75.65 0 37.14 27.14 68 62.93 74.45-18.24 37.16-56.16 60.92-117.71 61.52zM358 207.11h32l-22.16 90.31h-35.41l-11.19-35.63-7.83 35.63h-37.83l26.63-90.31h31.34l15 36.75zm145.86 182.08H306.79L322.63 328a78.8 78.8 0 0 0 11.47.83c42.34 0 76.69-33.87 76.69-75.65 0-32.65-21-60.46-50.38-71.06l21.33-82.35h92.5l-53.05 205.36h103.87zM211.7 269.39H187l-13.8 56.47h24.7c16.14 0 32.11-3.18 37.94-26.65 5.56-22.31-7.99-29.82-24.14-29.82zM233 170h-21.34L200 217.71h21.37c18 0 35.38-14.64 39.21-30.14C265.23 168.71 251.07 170 233 170z"]
+};
 var faBuysellads = {
   prefix: 'fab',
   iconName: 'buysellads',
@@ -6035,6 +6366,11 @@ var faContao = {
   iconName: 'contao',
   icon: [512, 512, [], "f26d", "M45.4 305c14.4 67.1 26.4 129 68.2 175H34c-18.7 0-34-15.2-34-34V66c0-18.7 15.2-34 34-34h57.7C77.9 44.6 65.6 59.2 54.8 75.6c-45.4 70-27 146.8-9.4 229.4zM478 32h-90.2c21.4 21.4 39.2 49.5 52.7 84.1l-137.1 29.3c-14.9-29-37.8-53.3-82.6-43.9-24.6 5.3-41 19.3-48.3 34.6-8.8 18.7-13.2 39.8 8.2 140.3 21.1 100.2 33.7 117.7 49.5 131.2 12.9 11.1 33.4 17 58.3 11.7 44.5-9.4 55.7-40.7 57.4-73.2l137.4-29.6c3.2 71.5-18.7 125.2-57.4 163.6H478c18.7 0 34-15.2 34-34V66c0-18.8-15.2-34-34-34z"]
 };
+var faCottonBureau = {
+  prefix: 'fab',
+  iconName: 'cotton-bureau',
+  icon: [512, 512, [], "f89e", "M474.31 330.41c-23.66 91.85-94.23 144.59-201.9 148.35V429.6c0-48 26.41-74.39 74.39-74.39 62 0 99.2-37.2 99.2-99.21 0-61.37-36.53-98.28-97.38-99.06-33-69.32-146.5-64.65-177.24 0C110.52 157.72 74 194.63 74 256c0 62.13 37.27 99.41 99.4 99.41 48 0 74.55 26.23 74.55 74.39V479c-134.43-5-211.1-85.07-211.1-223 0-141.82 81.35-223.2 223.2-223.2 114.77 0 189.84 53.2 214.69 148.81H500C473.88 71.51 388.22 8 259.82 8 105 8 12 101.19 12 255.82 12 411.14 105.19 504.34 259.82 504c128.27 0 213.87-63.81 239.67-173.59zM357 182.33c41.37 3.45 64.2 29 64.2 73.67 0 48-26.43 74.41-74.4 74.41-28.61 0-49.33-9.59-61.59-27.33 83.06-16.55 75.59-99.67 71.79-120.75zm-81.68 97.36c-2.46-10.34-16.33-87 56.23-97 2.27 10.09 16.52 87.11-56.26 97zM260 132c28.61 0 49 9.67 61.44 27.61-28.36 5.48-49.36 20.59-61.59 43.45-12.23-22.86-33.23-38-61.6-43.45 12.41-17.69 33.27-27.35 61.57-27.35zm-71.52 50.72c73.17 10.57 58.91 86.81 56.49 97-72.41-9.84-59-86.95-56.25-97zM173.2 330.41c-48 0-74.4-26.4-74.4-74.41 0-44.36 22.86-70 64.22-73.67-6.75 37.2-1.38 106.53 71.65 120.75-12.14 17.63-32.84 27.3-61.14 27.3zm53.21 12.39A80.8 80.8 0 0 0 260 309.25c7.77 14.49 19.33 25.54 33.82 33.55a80.28 80.28 0 0 0-33.58 33.83c-8-14.5-19.07-26.23-33.56-33.83z"]
+};
 var faCpanel = {
   prefix: 'fab',
   iconName: 'cpanel',
@@ -6139,6 +6475,11 @@ var faDAndDBeyond = {
   prefix: 'fab',
   iconName: 'd-and-d-beyond',
   icon: [640, 512, [], "f6ca", "M313.8 241.5c13.8 0 21-10.1 24.8-17.9-1-1.1-5-4.2-7.4-6.6-2.4 4.3-8.2 10.7-13.9 10.7-10.2 0-15.4-14.7-3.2-26.6-.5-.2-4.3-1.8-8 2.4 0-3 1-5.1 2.1-6.6-3.5 1.3-9.8 5.6-11.4 7.9.2-5.8 1.6-7.5.6-9l-.2-.2s-8.5 5.6-9.3 14.7c0 0 1.1-1.6 2.1-1.9.6-.3 1.3 0 .6 1.9-.2.6-5.8 15.7 5.1 26-.6-1.6-1.9-7.6 2.4-1.9-.3.1 5.8 7.1 15.7 7.1zm52.4-21.1c0-4-4.9-4.4-5.6-4.5 2 3.9.9 7.5.2 9 2.5-.4 5.4-1.6 5.4-4.5zm10.3 5.2c0-6.4-6.2-11.4-13.5-10.7 8 1.3 5.6 13.8-5 11.4 3.7-2.6 3.2-9.9-1.3-12.5 1.4 4.2-3 8.2-7.4 4.6-2.4-1.9-8-6.6-10.6-8.6-2.4-2.1-5.5-1-6.6-1.8-1.3-1.1-.5-3.8-2.2-5-1.6-.8-3-.3-4.8-1-1.6-.6-2.7-1.9-2.6-3.5-2.5 4.4 3.4 6.3 4.5 8.5 1 1.9-.8 4.8 4 8.5 14.8 11.6 9.1 8 10.4 18.1.6 4.3 4.2 6.7 6.4 7.4-2.1-1.9-2.9-6.4 0-9.3 0 13.9 19.2 13.3 23.1 6.4-2.4 1.1-7-.2-9-1.9 7.7 1 14.2-4.1 14.6-10.6zm-39.4-18.4c2 .8 1.6.7 6.4 4.5 10.2-24.5 21.7-15.7 22-15.5 2.2-1.9 9.8-3.8 13.8-2.7-2.4-2.7-7.5-6.2-13.3-6.2-4.7 0-7.4 2.2-8 1.3-.8-1.4 3.2-3.4 3.2-3.4-5.4.2-9.6 6.7-11.2 5.9-1.1-.5 1.4-3.7 1.4-3.7-5.1 2.9-9.3 9.1-10.2 13 4.6-5.8 13.8-9.8 19.7-9-10.5.5-19.5 9.7-23.8 15.8zm242.5 51.9c-20.7 0-40 1.3-50.3 2.1l7.4 8.2v77.2l-7.4 8.2c10.4.8 30.9 2.1 51.6 2.1 42.1 0 59.1-20.7 59.1-48.9 0-29.3-23.2-48.9-60.4-48.9zm-15.1 75.6v-53.3c30.1-3.3 46.8 3.8 46.8 26.3 0 25.6-21.4 30.2-46.8 27zM301.6 181c-1-3.4-.2-6.9 1.1-9.4 1 3 2.6 6.4 7.5 9-.5-2.4-.2-5.6.5-8-1.4-5.4 2.1-9.9 6.4-9.9 6.9 0 8.5 8.8 4.7 14.4 2.1 3.2 5.5 5.6 7.7 7.8 3.2-3.7 5.5-9.5 5.5-13.8 0-8.2-5.5-15.9-16.7-16.5-20-.9-20.2 16.6-20 18.9.5 5.2 3.4 7.8 3.3 7.5zm-.4 6c-.5 1.8-7 3.7-10.2 6.9 4.8-1 7-.2 7.8 1.8.5 1.4-.2 3.4-.5 5.6 1.6-1.8 7-5.5 11-6.2-1-.3-3.4-.8-4.3-.8 2.9-3.4 9.3-4.5 12.8-3.7-2.2-.2-6.7 1.1-8.5 2.6 1.6.3 3 .6 4.3 1.1-2.1.8-4.8 3.4-5.8 6.1 7-5 13.1 5.2 7 8.2.8.2 2.7 0 3.5-.5-.3 1.1-1.9 3-3 3.4 2.9 0 7-1.9 8.2-4.6 0 0-1.8.6-2.6-.2s.3-4.3.3-4.3c-2.3 2.9-3.4-1.3-1.3-4.2-1-.3-3.5-.6-4.6-.5 3.2-1.1 10.4-1.8 11.2-.3.6 1.1-1 3.4-1 3.4 4-.5 8.3 1.1 6.7 5.1 2.9-1.4 5.5-5.9 4.8-10.4-.3 1-1.6 2.4-2.9 2.7.2-1.4-1-2.2-1.9-2.6 1.7-9.6-14.6-14.2-14.1-23.9-1 1.3-1.8 5-.8 7.1 2.7 3.2 8.7 6.7 10.1 12.2-2.6-6.4-15.1-11.4-14.6-20.2-1.6 1.6-2.6 7.8-1.3 11 2.4 1.4 4.5 3.8 4.8 6.1-2.2-5.1-11.4-6.1-13.9-12.2-.6 2.2-.3 5 1 6.7 0 0-2.2-.8-7-.6 1.7.6 5.1 3.5 4.8 5.2zm25.9 7.4c-2.7 0-3.5-2.1-4.2-4.3 3.3 1.3 4.2 4.3 4.2 4.3zm38.9 3.7l-1-.6c-1.1-1-2.9-1.4-4.7-1.4-2.9 0-5.8 1.3-7.5 3.4-.8.8-1.4 1.8-2.1 2.6v15.7c3.5 2.6 7.1-2.9 3-7.2 1.5.3 4.6 2.7 5.1 3.2 0 0 2.6-.5 5-.5 2.1 0 3.9.3 5.6 1.1V196c-1.1.5-2.2 1-2.7 1.4zM79.9 305.9c17.2-4.6 16.2-18 16.2-19.9 0-20.6-24.1-25-37-25H3l8.3 8.6v29.5H0l11.4 14.6V346L3 354.6c61.7 0 73.8 1.5 86.4-5.9 6.7-4 9.9-9.8 9.9-17.6 0-5.1 2.6-18.8-19.4-25.2zm-41.3-27.5c20 0 29.6-.8 29.6 9.1v3c0 12.1-19 8.8-29.6 8.8zm0 59.2V315c12.2 0 32.7-2.3 32.7 8.8v4.5h.2c0 11.2-12.5 9.3-32.9 9.3zm101.2-19.3l23.1.2v-.2l14.1-21.2h-37.2v-14.9h52.4l-14.1-21v-.2l-73.5.2 7.4 8.2v77.1l-7.4 8.2h81.2l14.1-21.2-60.1.2zm214.7-60.1c-73.9 0-77.5 99.3-.3 99.3 77.9 0 74.1-99.3.3-99.3zm-.3 77.5c-37.4 0-36.9-55.3.2-55.3 36.8.1 38.8 55.3-.2 55.3zm-91.3-8.3l44.1-66.2h-41.7l6.1 7.2-20.5 37.2h-.3l-21-37.2 6.4-7.2h-44.9l44.1 65.8.2 19.4-7.7 8.2h42.6l-7.2-8.2zm-28.4-151.3c1.6 1.3 2.9 2.4 2.9 6.6v38.8c0 4.2-.8 5.3-2.7 6.4-.1.1-7.5 4.5-7.9 4.6h35.1c10 0 17.4-1.5 26-8.6-.6-5 .2-9.5.8-12 0-.2-1.8 1.4-2.7 3.5 0-5.7 1.6-15.4 9.6-20.5-.1 0-3.7-.8-9 1.1 2-3.1 10-7.9 10.4-7.9-8.2-26-38-22.9-32.2-22.9-30.9 0-32.6.3-39.9-4 .1.8.5 8.2 9.6 14.9zm21.5 5.5c4.6 0 23.1-3.3 23.1 17.3 0 20.7-18.4 17.3-23.1 17.3zm228.9 79.6l7 8.3V312h-.3c-5.4-14.4-42.3-41.5-45.2-50.9h-31.6l7.4 8.5v76.9l-7.2 8.3h39l-7.4-8.2v-47.4h.3c3.7 10.6 44.5 42.9 48.5 55.6h21.3v-85.2l7.4-8.3zm-106.7-96.1c-32.2 0-32.8.2-39.9-4 .1.7.5 8.3 9.6 14.9 3.1 2 2.9 4.3 2.9 9.5 1.8-1.1 3.8-2.2 6.1-3-1.1 1.1-2.7 2.7-3.5 4.5 1-1.1 7.5-5.1 14.6-3.5-1.6.3-4 1.1-6.1 2.9.1 0 2.1-1.1 7.5-.3v-4.3c4.7 0 23.1-3.4 23.1 17.3 0 20.5-18.5 17.3-19.7 17.3 5.7 4.4 5.8 12 2.2 16.3h.3c33.4 0 36.7-27.3 36.7-34 0-3.8-1.1-32-33.8-33.6z"]
+};
+var faDailymotion = {
+  prefix: 'fab',
+  iconName: 'dailymotion',
+  icon: [448, 512, [], "f952", "M298.93,267a48.4,48.4,0,0,0-24.36-6.21q-19.83,0-33.44,13.27t-13.61,33.42q0,21.16,13.28,34.6t33.43,13.44q20.5,0,34.11-13.78T322,307.47A47.13,47.13,0,0,0,315.9,284,44.13,44.13,0,0,0,298.93,267ZM0,32V480H448V32ZM374.71,405.26h-53.1V381.37h-.67q-15.79,26.2-55.78,26.2-27.56,0-48.89-13.1a88.29,88.29,0,0,1-32.94-35.77q-11.6-22.68-11.59-50.89,0-27.56,11.76-50.22a89.9,89.9,0,0,1,32.93-35.78q21.18-13.09,47.72-13.1a80.87,80.87,0,0,1,29.74,5.21q13.28,5.21,25,17V153l55.79-12.09Z"]
 };
 var faDashcube = {
   prefix: 'fab',
@@ -6253,7 +6594,7 @@ var faEbay = {
 var faEdge = {
   prefix: 'fab',
   iconName: 'edge',
-  icon: [512, 512, [], "f282", "M25.714 228.163c.111-.162.23-.323.342-.485-.021.162-.045.323-.065.485h-.277zm460.572 15.508c0-44.032-7.754-84.465-28.801-122.405C416.498 47.879 343.912 8.001 258.893 8.001 118.962 7.724 40.617 113.214 26.056 227.679c42.429-61.312 117.073-121.376 220.375-124.966 0 0 109.666 0 99.419 104.957H169.997c6.369-37.386 18.554-58.986 34.339-78.926-75.048 34.893-121.85 96.096-120.742 188.315.83 71.448 50.124 144.836 120.743 171.976 83.357 31.847 192.776 7.2 240.132-21.324V363.307c-80.864 56.494-270.871 60.925-272.255-67.572h314.073v-52.064z"]
+  icon: [512, 512, [], "f282", "M481.92,134.48C440.87,54.18,352.26,8,255.91,8,137.05,8,37.51,91.68,13.47,203.66c26-46.49,86.22-79.14,149.46-79.14,79.27,0,121.09,48.93,122.25,50.18,22,23.8,33,50.39,33,83.1,0,10.4-5.31,25.82-15.11,38.57-1.57,2-6.39,4.84-6.39,11,0,5.06,3.29,9.92,9.14,14,27.86,19.37,80.37,16.81,80.51,16.81A115.39,115.39,0,0,0,444.94,322a118.92,118.92,0,0,0,58.95-102.44C504.39,176.13,488.39,147.26,481.92,134.48ZM212.77,475.67a154.88,154.88,0,0,1-46.64-45c-32.94-47.42-34.24-95.6-20.1-136A155.5,155.5,0,0,1,203,215.75c59-45.2,94.84-5.65,99.06-1a80,80,0,0,0-4.89-10.14c-9.24-15.93-24-36.41-56.56-53.51-33.72-17.69-70.59-18.59-77.64-18.59-38.71,0-77.9,13-107.53,35.69C35.68,183.3,12.77,208.72,8.6,243c-1.08,12.31-2.75,62.8,23,118.27a248,248,0,0,0,248.3,141.61C241.78,496.26,214.05,476.24,212.77,475.67Zm250.72-98.33a7.76,7.76,0,0,0-7.92-.23,181.66,181.66,0,0,1-20.41,9.12,197.54,197.54,0,0,1-69.55,12.52c-91.67,0-171.52-63.06-171.52-144A61.12,61.12,0,0,1,200.61,228,168.72,168.72,0,0,0,161.85,278c-14.92,29.37-33,88.13,13.33,151.66,6.51,8.91,23,30,56,47.67,23.57,12.65,49,19.61,71.7,19.61,35.14,0,115.43-33.44,163-108.87A7.75,7.75,0,0,0,463.49,377.34Z"]
 };
 var faElementor = {
   prefix: 'fab',
@@ -6348,7 +6689,12 @@ var faFigma = {
 var faFirefox = {
   prefix: 'fab',
   iconName: 'firefox',
-  icon: [480, 512, [], "f269", "M478.1 235.3c-.7-4.5-1.4-7.1-1.4-7.1s-1.8 2-4.7 5.9c-.9-10.7-2.8-21.2-5.8-31.6-3.7-12.9-8.5-25.4-14.5-37.4-3.8-8-8.2-15.6-13.3-22.8-1.8-2.7-3.7-5.4-5.6-7.9-8.8-14.4-19-23.3-30.7-40-7.6-12.8-12.9-26.9-15.4-41.6-3.2 8.9-5.7 18-7.4 27.3-12.1-12.2-22.5-20.8-28.9-26.7C319.4 24.2 323 9.1 323 9.1S264.7 74.2 289.9 142c8.7 23 23.8 43.1 43.4 57.9 24.4 20.2 50.8 36 64.7 76.6-11.2-21.3-28.1-39.2-48.8-51.5 6.2 14.7 9.4 30.6 9.3 46.5 0 61-49.6 110.5-110.6 110.4-8.3 0-16.5-.9-24.5-2.8-9.5-1.8-18.7-4.9-27.4-9.3-12.9-7.8-24-18.1-32.8-30.3l-.2-.3 2 .7c4.6 1.6 9.2 2.8 14 3.7 18.7 4 38.3 1.7 55.6-6.6 17.5-9.7 28-16.9 36.6-14h.2c8.4 2.7 15-5.5 9-14-10.4-13.4-27.4-20-44.2-17-17.5 2.5-33.5 15-56.4 2.9-1.5-.8-2.9-1.6-4.3-2.5-1.6-.9 4.9 1.3 3.4.3-5-2.5-9.8-5.4-14.4-8.6-.3-.3 3.5 1.1 3.1.8-5.9-4-11-9.2-15-15.2-4.1-7.4-4.5-16.4-1-24.1 2.1-3.8 5.4-6.9 9.3-8.7 3 1.5 4.8 2.6 4.8 2.6s-1.3-2.5-2.1-3.8c.3-.1.5 0 .8-.2 2.6 1.1 8.3 4 11.4 5.8 2.1 1.1 3.8 2.7 5.2 4.7 0 0 1-.5.3-2.7-1.1-2.7-2.9-5-5.4-6.6h.2c2.3 1.2 4.5 2.6 6.6 4.1 1.9-4.4 2.8-9.2 2.6-14 .2-2.6-.2-5.3-1.1-7.8-.8-1.6.5-2.2 1.9-.5-.2-1.3-.7-2.5-1.2-3.7v-.1s.8-1.1 1.2-1.5c1-1 2.1-1.9 3.4-2.7 7.2-4.5 14.8-8.4 22.7-11.6 6.4-2.8 11.7-4.9 12.8-5.6 1.6-1 3.1-2.2 4.5-3.5 5.3-4.5 9-10.8 10.2-17.7.1-.9.2-1.8.3-2.8v-1.5c-.9-3.5-6.9-6.1-38.4-9.1-11.1-1.8-20-10.1-22.5-21.1v-.1c6-15.7 16.8-29.1 30.8-38.3.8-.7-3.2.2-2.4-.5 2.7-1.3 5.4-2.5 8.2-3.5 1.4-.6-6-3.4-12.6-2.7-4 .2-8 1.2-11.7 2.8 1.6-1.3 6.2-3.1 5.1-3.1-8.4 1.6-16.5 4.7-23.9 9 0-.8.1-1.5.5-2.2-5.9 2.5-11 6.5-15 11.5.1-.9.2-1.8.2-2.7-2.7 2-5.2 4.3-7.3 6.9l-.1.1c-17.4-6.7-36.3-8.3-54.6-4.7l-.2-.1h.2c-3.8-3.1-7.1-6.7-9.7-10.9l-.2.1-.4-.2c-1.2-1.8-2.4-3.8-3.7-6-.9-1.6-1.8-3.4-2.7-5.2 0-.1-.1-.2-.2-.2-.4 0-.6 1.7-.9 1.3v-.1c-3.2-8.3-4.7-17.2-4.4-26.2l-.2.1c-5.1 3.5-9 8.6-11.1 14.5-.9 2.1-1.6 3.3-2.2 4.5v-.5c.1-1.1.6-3.3.5-3.1s-.2.3-.3.4c-1.5 1.7-2.9 3.7-3.9 5.8-.9 1.9-1.7 3.9-2.3 5.9-.1.3 0-.3 0-1s.1-2 0-1.7l-.3.7c-6.7 14.9-10.9 30.8-12.4 47.1-.4 2.8-.6 5.6-.5 8.3v.2c-4.8 5.2-9 11-12.7 17.1-12.1 20.4-21.1 42.5-26.8 65.6 4-8.8 8.8-17.2 14.3-25.1C5.5 228.5 0 257.4 0 286.6c1.8-8.6 4.2-17 7-25.3-1.7 34.5 4.9 68.9 19.4 100.3 19.4 43.5 51.6 80 92.3 104.7 16.6 11.2 34.7 19.9 53.8 25.8 2.5.9 5.1 1.8 7.7 2.7-.8-.3-1.6-.7-2.4-1 22.6 6.8 46.2 10.3 69.8 10.3 83.7 0 111.3-31.9 113.8-35 4.1-3.7 7.5-8.2 9.9-13.3 1.6-.7 3.2-1.4 4.9-2.1l1-.5 1.9-.9c12.6-5.9 24.5-13.4 35.3-22.1 16.3-11.7 27.9-28.7 32.9-48.1 3-7.1 3.1-15 .4-22.2.9-1.4 1.7-2.8 2.7-4.3 18-28.9 28.2-61.9 29.6-95.9v-2.8c0-7.3-.6-14.5-1.9-21.6zm-299-97.6c-.4 1.1-.9 2.3-1.3 3.5.4-1.2.8-2.3 1.3-3.5z"]
+  icon: [512, 512, [], "f269", "M503.52,241.48c-.12-1.56-.24-3.12-.24-4.68v-.12l-.36-4.68v-.12a245.86,245.86,0,0,0-7.32-41.15c0-.12,0-.12-.12-.24l-1.08-4c-.12-.24-.12-.48-.24-.6-.36-1.2-.72-2.52-1.08-3.72-.12-.24-.12-.6-.24-.84-.36-1.2-.72-2.4-1.08-3.48-.12-.36-.24-.6-.36-1-.36-1.2-.72-2.28-1.2-3.48l-.36-1.08c-.36-1.08-.84-2.28-1.2-3.36a8.27,8.27,0,0,0-.36-1c-.48-1.08-.84-2.28-1.32-3.36-.12-.24-.24-.6-.36-.84-.48-1.2-1-2.28-1.44-3.48,0-.12-.12-.24-.12-.36-1.56-3.84-3.24-7.68-5-11.4l-.36-.72c-.48-1-.84-1.8-1.32-2.64-.24-.48-.48-1.08-.72-1.56-.36-.84-.84-1.56-1.2-2.4-.36-.6-.6-1.2-1-1.8s-.84-1.44-1.2-2.28c-.36-.6-.72-1.32-1.08-1.92s-.84-1.44-1.2-2.16a18.07,18.07,0,0,0-1.2-2c-.36-.72-.84-1.32-1.2-2s-.84-1.32-1.2-2-.84-1.32-1.2-1.92-.84-1.44-1.32-2.16a15.63,15.63,0,0,0-1.2-1.8L463.2,119a15.63,15.63,0,0,0-1.2-1.8c-.48-.72-1.08-1.56-1.56-2.28-.36-.48-.72-1.08-1.08-1.56l-1.8-2.52c-.36-.48-.6-.84-1-1.32-1-1.32-1.8-2.52-2.76-3.72a248.76,248.76,0,0,0-23.51-26.64A186.82,186.82,0,0,0,412,62.46c-4-3.48-8.16-6.72-12.48-9.84a162.49,162.49,0,0,0-24.6-15.12c-2.4-1.32-4.8-2.52-7.2-3.72a254,254,0,0,0-55.43-19.56c-1.92-.36-3.84-.84-5.64-1.2h-.12c-1-.12-1.8-.36-2.76-.48a236.35,236.35,0,0,0-38-4H255.14a234.62,234.62,0,0,0-45.48,5c-33.59,7.08-63.23,21.24-82.91,39-1.08,1-1.92,1.68-2.4,2.16l-.48.48H124l-.12.12.12-.12a.12.12,0,0,0,.12-.12l-.12.12a.42.42,0,0,1,.24-.12c14.64-8.76,34.92-16,49.44-19.56l5.88-1.44c.36-.12.84-.12,1.2-.24,1.68-.36,3.36-.72,5.16-1.08.24,0,.6-.12.84-.12C250.94,20.94,319.34,40.14,367,85.61a171.49,171.49,0,0,1,26.88,32.76c30.36,49.2,27.48,111.11,3.84,147.59-34.44,53-111.35,71.27-159,24.84a84.19,84.19,0,0,1-25.56-59,74.05,74.05,0,0,1,6.24-31c1.68-3.84,13.08-25.67,18.24-24.59-13.08-2.76-37.55,2.64-54.71,28.19-15.36,22.92-14.52,58.2-5,83.28a132.85,132.85,0,0,1-12.12-39.24c-12.24-82.55,43.31-153,94.31-170.51-27.48-24-96.47-22.31-147.71,15.36-29.88,22-51.23,53.16-62.51,90.36,1.68-20.88,9.6-52.08,25.8-83.88-17.16,8.88-39,37-49.8,62.88-15.6,37.43-21,82.19-16.08,124.79.36,3.24.72,6.36,1.08,9.6,19.92,117.11,122,206.38,244.78,206.38C392.77,503.42,504,392.19,504,255,503.88,250.48,503.76,245.92,503.52,241.48Z"]
+};
+var faFirefoxBrowser = {
+  prefix: 'fab',
+  iconName: 'firefox-browser',
+  icon: [512, 512, [], "f907", "M189.37,152.86Zm-58.74-29.37C130.79,123.5,130.71,123.5,130.63,123.49Zm351.42,45.35c-10.61-25.5-32.08-53-48.94-61.73,13.72,26.89,21.67,53.88,24.7,74,0,0,0,.14.05.41-27.58-68.75-74.35-96.47-112.55-156.83-1.93-3.05-3.86-6.11-5.74-9.33-1-1.65-1.86-3.34-2.69-5.05A44.88,44.88,0,0,1,333.24.69a.63.63,0,0,0-.55-.66.9.9,0,0,0-.46,0l-.12.07-.18.1.1-.14c-54.23,31.77-76.72,87.38-82.5,122.78a130,130,0,0,0-48.33,12.33,6.25,6.25,0,0,0-3.09,7.75,6.13,6.13,0,0,0,7.79,3.79l.52-.21a117.84,117.84,0,0,1,42.11-11l1.42-.1c2-.12,4-.2,6-.22A122.61,122.61,0,0,1,291,140c.67.2,1.32.42,2,.63,1.89.57,3.76,1.2,5.62,1.87,1.36.5,2.71,1,4.05,1.58,1.09.44,2.18.88,3.25,1.35q2.52,1.13,5,2.35c.75.37,1.5.74,2.25,1.13q2.4,1.26,4.74,2.63,1.51.87,3,1.8a124.89,124.89,0,0,1,42.66,44.13c-13-9.15-36.35-18.19-58.82-14.28,87.74,43.86,64.18,194.9-57.39,189.2a108.43,108.43,0,0,1-31.74-6.12c-2.42-.91-4.8-1.89-7.16-2.93-1.38-.63-2.76-1.27-4.12-2C174.5,346,149.9,316.92,146.83,281.59c0,0,11.25-41.95,80.62-41.95,7.5,0,28.93-20.92,29.33-27-.09-2-42.54-18.87-59.09-35.18-8.85-8.71-13.05-12.91-16.77-16.06a69.58,69.58,0,0,0-6.31-4.77A113.05,113.05,0,0,1,173.92,97c-25.06,11.41-44.55,29.45-58.71,45.37h-.12c-9.67-12.25-9-52.65-8.43-61.08-.12-.53-7.22,3.68-8.15,4.31a178.54,178.54,0,0,0-23.84,20.43A214,214,0,0,0,51.9,133.36l0,0a.08.08,0,0,1,0,0,205.84,205.84,0,0,0-32.73,73.9c-.06.27-2.33,10.21-4,22.48q-.42,2.87-.78,5.74c-.57,3.69-1,7.71-1.44,14,0,.24,0,.48-.05.72-.18,2.71-.34,5.41-.49,8.12,0,.41,0,.82,0,1.24,0,134.7,109.21,243.89,243.92,243.89,120.64,0,220.82-87.58,240.43-202.62.41-3.12.74-6.26,1.11-9.41,4.85-41.83-.54-85.79-15.82-122.55Z"]
 };
 var faFirstOrder = {
   prefix: 'fab',
@@ -6433,7 +6779,7 @@ var faFoursquare = {
 var faFreeCodeCamp = {
   prefix: 'fab',
   iconName: 'free-code-camp',
-  icon: [576, 512, [], "f2c5", "M69.3 144.5c-41 68.5-36.4 163 1 227C92.5 409.7 120 423.9 120 438c0 6.8-6 13-12.8 13C87.7 451 8 375.5 8 253.2c0-111.5 78-186 97.1-186 6 0 14.9 4.8 14.9 11.1 0 12.7-28.3 28.6-50.7 66.2zm195.8 213.8c4.5 1.8 12.3 5.2 12.3-1.2 0-2.7-2.2-2.9-4.3-3.6-8.5-3.4-14-7.7-19.1-15.2-8.2-12.1-10.1-24.2-10.1-38.6 0-32.1 44.2-37.9 44.2-70 0-12.3-7.7-15.9-7.7-19.3 0-2.2.7-2.2 2.9-2.2 8 0 19.1 13.3 22.5 19.8 2.2 4.6 2.4 6 2.4 11.1 0 7-.7 14.2-.7 21.3 0 27 31.9 19.8 31.9 6.8 0-6-3.6-11.6-3.6-17.4 0-.7 0-1.2.7-1.2 3.4 0 9.4 7.7 11.1 10.1 5.8 8.9 8.5 20.8 8.5 31.4 0 32.4-29.5 49-29.5 56 0 1 2.9 7.7 12.1 1.9 29.7-15.1 53.1-47.6 53.1-89.8 0-33.6-8.7-57.7-32.1-82.6-3.9-4.1-16.4-16.9-22.5-16.9-8.2 0 7.2 18.6 7.2 31.2 0 7.2-4.8 12.3-12.3 12.3-11.6 0-14.5-25.4-15.9-33.3-5.8-33.8-12.8-58.2-46.4-74.1-10.4-5-36.5-11.8-36.5-2.2 0 2.4 2.7 4.1 4.6 5.1 9.2 5.6 19.6 21.4 19.6 38.2 0 46.1-57.7 88.2-57.7 136.2-.2 40.3 28.1 72.6 65.3 86.2zM470.4 67c-6 0-14.4 6.5-14.4 12.6 0 8.7 12.1 19.6 17.6 25.4 81.6 85.1 78.6 214.3 17.6 291-7 8.9-35.3 35.3-35.3 43.5 0 5.1 8.2 11.4 13.2 11.4 25.4 0 98.8-80.8 98.8-185.7C568 145.9 491.8 67 470.4 67zm-42.3 323.1H167c-9.4 0-15.5 7.5-15.5 16.4 0 8.5 7 15.5 15.5 15.5h261.1c9.4 0 11.9-7.5 11.9-16.4 0-8.5-3.5-15.5-11.9-15.5z"]
+  icon: [576, 512, [], "f2c5", "M97.22,96.21c10.36-10.65,16-17.12,16-21.9,0-2.76-1.92-5.51-3.83-7.42A14.81,14.81,0,0,0,101,64.05c-8.48,0-20.92,8.79-35.84,25.69C23.68,137,2.51,182.81,3.37,250.34s17.47,117,54.06,161.87C76.22,435.86,90.62,448,100.9,448a13.55,13.55,0,0,0,8.37-3.84c1.91-2.76,3.81-5.63,3.81-8.38,0-5.63-3.86-12.2-13.2-20.55-44.45-42.33-67.32-97-67.48-165C32.25,188.8,54,137.83,97.22,96.21ZM239.47,420.07c.58.37.91.55.91.55Zm93.79.55.17-.13C333.24,420.62,333.17,420.67,333.26,420.62Zm3.13-158.18c-16.24-4.15,50.41-82.89-68.05-177.17,0,0,15.54,49.38-62.83,159.57-74.27,104.35,23.46,168.73,34,175.23-6.73-4.35-47.4-35.7,9.55-128.64,11-18.3,25.53-34.87,43.5-72.16,0,0,15.91,22.45,7.6,71.13C287.7,364,354,342.91,355,343.94c22.75,26.78-17.72,73.51-21.58,76.55,5.49-3.65,117.71-78,33-188.1C360.43,238.4,352.62,266.59,336.39,262.44ZM510.88,89.69C496,72.79,483.52,64,475,64a14.81,14.81,0,0,0-8.39,2.84c-1.91,1.91-3.83,4.66-3.83,7.42,0,4.78,5.6,11.26,16,21.9,43.23,41.61,65,92.59,64.82,154.06-.16,68-23,122.63-67.48,165-9.34,8.35-13.18,14.92-13.2,20.55,0,2.75,1.9,5.62,3.81,8.38A13.61,13.61,0,0,0,475.1,448c10.28,0,24.68-12.13,43.47-35.79,36.59-44.85,53.14-94.38,54.06-161.87S552.32,137,510.88,89.69Z"]
 };
 var faFreebsd = {
   prefix: 'fab',
@@ -6655,6 +7001,11 @@ var faHubspot = {
   iconName: 'hubspot',
   icon: [512, 512, [], "f3b2", "M267.4 211.6c-25.1 23.7-40.8 57.3-40.8 94.6 0 29.3 9.7 56.3 26 78L203.1 434c-4.4-1.6-9.1-2.5-14-2.5-10.8 0-20.9 4.2-28.5 11.8-7.6 7.6-11.8 17.8-11.8 28.6s4.2 20.9 11.8 28.5c7.6 7.6 17.8 11.6 28.5 11.6 10.8 0 20.9-3.9 28.6-11.6 7.6-7.6 11.8-17.8 11.8-28.5 0-4.2-.6-8.2-1.9-12.1l50-50.2c22 16.9 49.4 26.9 79.3 26.9 71.9 0 130-58.3 130-130.2 0-65.2-47.7-119.2-110.2-128.7V116c17.5-7.4 28.2-23.8 28.2-42.9 0-26.1-20.9-47.9-47-47.9S311.2 47 311.2 73.1c0 19.1 10.7 35.5 28.2 42.9v61.2c-15.2 2.1-29.6 6.7-42.7 13.6-27.6-20.9-117.5-85.7-168.9-124.8 1.2-4.4 2-9 2-13.8C129.8 23.4 106.3 0 77.4 0 48.6 0 25.2 23.4 25.2 52.2c0 28.9 23.4 52.3 52.2 52.3 9.8 0 18.9-2.9 26.8-7.6l163.2 114.7zm89.5 163.6c-38.1 0-69-30.9-69-69s30.9-69 69-69 69 30.9 69 69-30.9 69-69 69z"]
 };
+var faIdeal = {
+  prefix: 'fab',
+  iconName: 'ideal',
+  icon: [576, 512, [], "f913", "M125.61,165.48a49.07,49.07,0,1,0,49.06,49.06A49.08,49.08,0,0,0,125.61,165.48ZM86.15,425.84h78.94V285.32H86.15Zm151.46-211.6c0-20-10-22.53-18.74-22.53H204.82V237.5h14.05C228.62,237.5,237.61,234.69,237.61,214.24Zm201.69,46V168.93h22.75V237.5h33.69C486.5,113.08,388.61,86.19,299.67,86.19H204.84V169h14c25.6,0,41.5,17.35,41.5,45.26,0,28.81-15.52,46-41.5,46h-14V425.88h94.83c144.61,0,194.94-67.16,196.72-165.64Zm-109.75,0H273.3V169h54.43v22.73H296v10.58h30V225H296V237.5h33.51Zm74.66,0-5.16-17.67H369.31l-5.18,17.67H340.47L368,168.92h32.35l27.53,91.34ZM299.65,32H32V480H299.65c161.85,0,251-79.73,251-224.52C550.62,172,518,32,299.65,32Zm0,426.92H53.07V53.07H299.65c142.1,0,229.9,64.61,229.9,202.41C529.55,389.57,448.55,458.92,299.65,458.92Zm83.86-264.85L376,219.88H392.4l-7.52-25.81Z"]
+};
 var faImdb = {
   prefix: 'fab',
   iconName: 'imdb',
@@ -6664,6 +7015,11 @@ var faInstagram = {
   prefix: 'fab',
   iconName: 'instagram',
   icon: [448, 512, [], "f16d", "M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"]
+};
+var faInstagramSquare = {
+  prefix: 'fab',
+  iconName: 'instagram-square',
+  icon: [448, 512, [], "f955", "M224,202.66A53.34,53.34,0,1,0,277.36,256,53.38,53.38,0,0,0,224,202.66Zm124.71-41a54,54,0,0,0-30.41-30.41c-21-8.29-71-6.43-94.3-6.43s-73.25-1.93-94.31,6.43a54,54,0,0,0-30.41,30.41c-8.28,21-6.43,71.05-6.43,94.33S91,329.26,99.32,350.33a54,54,0,0,0,30.41,30.41c21,8.29,71,6.43,94.31,6.43s73.24,1.93,94.3-6.43a54,54,0,0,0,30.41-30.41c8.35-21,6.43-71.05,6.43-94.33S357.1,182.74,348.75,161.67ZM224,338a82,82,0,1,1,82-82A81.9,81.9,0,0,1,224,338Zm85.38-148.3a19.14,19.14,0,1,1,19.13-19.14A19.1,19.1,0,0,1,309.42,189.74ZM400,32H48A48,48,0,0,0,0,80V432a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V80A48,48,0,0,0,400,32ZM382.88,322c-1.29,25.63-7.14,48.34-25.85,67s-41.4,24.63-67,25.85c-26.41,1.49-105.59,1.49-132,0-25.63-1.29-48.26-7.15-67-25.85s-24.63-41.42-25.85-67c-1.49-26.42-1.49-105.61,0-132,1.29-25.63,7.07-48.34,25.85-67s41.47-24.56,67-25.78c26.41-1.49,105.59-1.49,132,0,25.63,1.29,48.33,7.15,67,25.85s24.63,41.42,25.85,67.05C384.37,216.44,384.37,295.56,382.88,322Z"]
 };
 var faIntercom = {
   prefix: 'fab',
@@ -6753,7 +7109,7 @@ var faKaggle = {
 var faKeybase = {
   prefix: 'fab',
   iconName: 'keybase',
-  icon: [448, 512, [], "f4f5", "M195.21 430.7a17.8 17.8 0 1 1-17.8-17.8 17.84 17.84 0 0 1 17.8 17.8zM288 412.8a17.8 17.8 0 1 0 17.8 17.8 17.84 17.84 0 0 0-17.8-17.8zm142.3-36c0 38.9-7.6 73.9-22.2 103h-27.3c23.5-38.7 30.5-94.8 22.4-134.3-16.1 29.5-52.1 38.6-85.9 28.8-127.8-37.5-192.5 19.7-234.6 50.3l18.9-59.3-39.9 42.3a173.31 173.31 0 0 0 31.2 72.3H64.11a197.27 197.27 0 0 1-22.2-51.3l-23.8 25.2c0-74.9-5.5-147.6 61.5-215.2a210.67 210.67 0 0 1 69.1-46.7c-6.8-13.5-9.5-29.2-7.8-46L121 144.7a32.68 32.68 0 0 1-30.6-34.4v-.1L92 84a32.75 32.75 0 0 1 32.5-30.6c1.3 0-.3-.1 28.2 1.7a32 32 0 0 1 22.8 11.4C182.61 56.1 190 46 200.11 32l20.6 12.1c-13.6 29-9.1 36.2-9 36.3 3.9 0 13.9-.5 32.4 5.7a76.19 76.19 0 0 1 46.1 102.3c19 6.1 51.3 19.9 82.4 51.8 36.6 37.6 57.7 87.4 57.7 136.6zM146 122.1a162.36 162.36 0 0 1 13.1-29.4c.1-2 2.2-13.1-7.8-13.8-28.5-1.8-26.3-1.6-26.7-1.6a8.57 8.57 0 0 0-8.6 8.1l-1.6 26.2a8.68 8.68 0 0 0 8.1 9.1zm25.8 61.8a52.3 52.3 0 0 0 22.3 20c0-21.2 28.5-41.9 52.8-17.5l8.4 10.3c20.8-18.8 19.4-45.3 12.1-60.9-13.8-29.1-46.9-32-54.3-31.7a24.24 24.24 0 0 1-23.7-15.3c-13.69 21.2-37.19 62.5-17.59 95.1zm82.9 68.4L235 268.4a4.46 4.46 0 0 0-.6 6.3l8.9 10.9a4.48 4.48 0 0 0 6.3.6l19.6-16 5.5 6.8c4.9 6 13.8-1.4 9-7.3-63.6-78.3-41.5-51.1-55.3-68.1-4.7-6-13.9 1.4-9 7.3 1.9 2.3 18.4 22.6 19.8 24.3l-9.6 7.9c-4.6 3.8 2.6 13.3 7.4 9.4l9.7-8 8 9.8zM373.11 278c-16.9-23.7-42.6-46.7-73.4-60.4a213.21 213.21 0 0 0-22.9-8.6 62.47 62.47 0 0 1-6.4 6.2l31.9 39.2a29.81 29.81 0 0 1-4.2 41.9c-1.3 1.1-13.1 10.7-29 4.9-2.9 2.3-10.1 9.9-22.2 9.9a28.42 28.42 0 0 1-22.1-10.5l-8.9-10.9a28.52 28.52 0 0 1-5-26.8 28.56 28.56 0 0 1-4.6-30c-7.2-1.3-26.7-6.2-42.7-21.4-55.8 20.7-88 64.4-101.3 91.2-14.9 30.2-18.8 60.9-19.9 90.2 8.2-8.7-3.9 4.1 114-120.9l-29.9 93.6c57.8-31.1 124-36 197.4-14.4 23.6 6.9 45.1 1.6 56-13.9 11.1-15.6 8.5-37.7-6.8-59.3zm-244.5-170.9l15.6 1 1-15.6-15.6-1z"]
+  icon: [448, 512, [], "f4f5", "M286.17 419a18 18 0 1 0 18 18 18 18 0 0 0-18-18zm111.92-147.6c-9.5-14.62-39.37-52.45-87.26-73.71q-9.1-4.06-18.38-7.27a78.43 78.43 0 0 0-47.88-104.13c-12.41-4.1-23.33-6-32.41-5.77-.6-2-1.89-11 9.4-35L198.66 32l-5.48 7.56c-8.69 12.06-16.92 23.55-24.34 34.89a51 51 0 0 0-8.29-1.25c-41.53-2.45-39-2.33-41.06-2.33-50.61 0-50.75 52.12-50.75 45.88l-2.36 36.68c-1.61 27 19.75 50.21 47.63 51.85l8.93.54a214 214 0 0 0-46.29 35.54C14 304.66 14 374 14 429.77v33.64l23.32-29.8a148.6 148.6 0 0 0 14.56 37.56c5.78 10.13 14.87 9.45 19.64 7.33 4.21-1.87 10-6.92 3.75-20.11a178.29 178.29 0 0 1-15.76-53.13l46.82-59.83-24.66 74.11c58.23-42.4 157.38-61.76 236.25-38.59 34.2 10.05 67.45.69 84.74-23.84.72-1 1.2-2.16 1.85-3.22a156.09 156.09 0 0 1 2.8 28.43c0 23.3-3.69 52.93-14.88 81.64-2.52 6.46 1.76 14.5 8.6 15.74 7.42 1.57 15.33-3.1 18.37-11.15C429 443 434 414 434 382.32c0-38.58-13-77.46-35.91-110.92zM142.37 128.58l-15.7-.93-1.39 21.79 13.13.78a93 93 0 0 0 .32 19.57l-22.38-1.34a12.28 12.28 0 0 1-11.76-12.79L107 119c1-12.17 13.87-11.27 13.26-11.32l29.11 1.73a144.35 144.35 0 0 0-7 19.17zm148.42 172.18a10.51 10.51 0 0 1-14.35-1.39l-9.68-11.49-34.42 27a8.09 8.09 0 0 1-11.13-1.08l-15.78-18.64a7.38 7.38 0 0 1 1.34-10.34l34.57-27.18-14.14-16.74-17.09 13.45a7.75 7.75 0 0 1-10.59-1s-3.72-4.42-3.8-4.53a7.38 7.38 0 0 1 1.37-10.34L214 225.19s-18.51-22-18.6-22.14a9.56 9.56 0 0 1 1.74-13.42 10.38 10.38 0 0 1 14.3 1.37l81.09 96.32a9.58 9.58 0 0 1-1.74 13.44zM187.44 419a18 18 0 1 0 18 18 18 18 0 0 0-18-18z"]
 };
 var faKeycdn = {
   prefix: 'fab',
@@ -6778,7 +7134,7 @@ var faKorvue = {
 var faLaravel = {
   prefix: 'fab',
   iconName: 'laravel',
-  icon: [640, 512, [], "f3bd", "M637.5 241.6c-4.2-4.8-62.8-78.1-73.1-90.5-10.3-12.4-15.4-10.2-21.7-9.3-6.4.9-80.5 13.4-89.1 14.8-8.6 1.5-14 4.9-8.7 12.3 4.7 6.6 53.4 75.7 64.2 90.9l-193.7 46.4L161.2 48.7c-6.1-9.1-7.4-12.3-21.4-11.6-14 .6-120.9 9.5-128.5 10.2-7.6.6-16 4-8.4 22s129 279.6 132.4 287.2c3.4 7.6 12.2 20 32.8 15 21.1-5.1 94.3-24.2 134.3-34.7 21.1 38.3 64.2 115.9 72.2 127 10.6 14.9 18 12.4 34.3 7.4 12.8-3.9 199.6-71.1 208-74.5 8.4-3.5 13.6-5.9 7.9-14.4-4.2-6.2-53.5-72.2-79.3-106.8 17.7-4.7 80.6-21.4 87.3-23.3 7.9-2 9-5.8 4.7-10.6zm-352.2 72c-2.3.5-110.8 26.5-116.6 27.8-5.8 1.3-5.8.7-6.5-1.3-.7-2-129-266.7-130.8-270-1.8-3.3-1.7-5.9 0-5.9s102.5-9 106-9.2c3.6-.2 3.2.6 4.5 2.8 0 0 142.2 245.4 144.6 249.7 2.6 4.3 1.1 5.6-1.2 6.1zm306 57.4c1.7 2.7 3.5 4.5-2 6.4-5.4 2-183.7 62.1-187.1 63.6-3.5 1.5-6.2 2-10.6-4.5s-62.4-106.8-62.4-106.8L518 280.6c4.7-1.5 6.2-2.5 9.2 2.2 2.9 4.8 62.4 85.5 64.1 88.2zm12.1-134.1c-4.2.9-73.6 18.1-73.6 18.1l-56.7-77.8c-1.6-2.3-2.9-4.5 1.1-5s68.4-12.2 71.3-12.8c2.9-.7 5.4-1.5 9 3.4 3.6 4.9 52.6 67 54.5 69.4 1.8 2.3-1.4 3.7-5.6 4.7z"]
+  icon: [512, 512, [], "f3bd", "M504.4,115.83a5.72,5.72,0,0,0-.28-.68,8.52,8.52,0,0,0-.53-1.25,6,6,0,0,0-.54-.71,9.36,9.36,0,0,0-.72-.94c-.23-.22-.52-.4-.77-.6a8.84,8.84,0,0,0-.9-.68L404.4,55.55a8,8,0,0,0-8,0L300.12,111h0a8.07,8.07,0,0,0-.88.69,7.68,7.68,0,0,0-.78.6,8.23,8.23,0,0,0-.72.93c-.17.24-.39.45-.54.71a9.7,9.7,0,0,0-.52,1.25c-.08.23-.21.44-.28.68a8.08,8.08,0,0,0-.28,2.08V223.18l-80.22,46.19V63.44a7.8,7.8,0,0,0-.28-2.09c-.06-.24-.2-.45-.28-.68a8.35,8.35,0,0,0-.52-1.24c-.14-.26-.37-.47-.54-.72a9.36,9.36,0,0,0-.72-.94,9.46,9.46,0,0,0-.78-.6,9.8,9.8,0,0,0-.88-.68h0L115.61,1.07a8,8,0,0,0-8,0L11.34,56.49h0a6.52,6.52,0,0,0-.88.69,7.81,7.81,0,0,0-.79.6,8.15,8.15,0,0,0-.71.93c-.18.25-.4.46-.55.72a7.88,7.88,0,0,0-.51,1.24,6.46,6.46,0,0,0-.29.67,8.18,8.18,0,0,0-.28,2.1v329.7a8,8,0,0,0,4,6.95l192.5,110.84a8.83,8.83,0,0,0,1.33.54c.21.08.41.2.63.26a7.92,7.92,0,0,0,4.1,0c.2-.05.37-.16.55-.22a8.6,8.6,0,0,0,1.4-.58L404.4,400.09a8,8,0,0,0,4-6.95V287.88l92.24-53.11a8,8,0,0,0,4-7V117.92A8.63,8.63,0,0,0,504.4,115.83ZM111.6,17.28h0l80.19,46.15-80.2,46.18L31.41,63.44Zm88.25,60V278.6l-46.53,26.79-33.69,19.4V123.5l46.53-26.79Zm0,412.78L23.37,388.5V77.32L57.06,96.7l46.52,26.8V338.68a6.94,6.94,0,0,0,.12.9,8,8,0,0,0,.16,1.18h0a5.92,5.92,0,0,0,.38.9,6.38,6.38,0,0,0,.42,1v0a8.54,8.54,0,0,0,.6.78,7.62,7.62,0,0,0,.66.84l0,0c.23.22.52.38.77.58a8.93,8.93,0,0,0,.86.66l0,0,0,0,92.19,52.18Zm8-106.17-80.06-45.32,84.09-48.41,92.26-53.11,80.13,46.13-58.8,33.56Zm184.52,4.57L215.88,490.11V397.8L346.6,323.2l45.77-26.15Zm0-119.13L358.68,250l-46.53-26.79V131.79l33.69,19.4L392.37,178Zm8-105.28-80.2-46.17,80.2-46.16,80.18,46.15Zm8,105.28V178L455,151.19l33.68-19.4v91.39h0Z"]
 };
 var faLastfm = {
   prefix: 'fab',
@@ -6860,6 +7216,11 @@ var faMaxcdn = {
   iconName: 'maxcdn',
   icon: [512, 512, [], "f136", "M461.1 442.7h-97.4L415.6 200c2.3-10.2.9-19.5-4.4-25.7-5-6.1-13.7-9.6-24.2-9.6h-49.3l-59.5 278h-97.4l59.5-278h-83.4l-59.5 278H0l59.5-278-44.6-95.4H387c39.4 0 75.3 16.3 98.3 44.9 23.3 28.6 31.8 67.4 23.6 105.9l-47.8 222.6z"]
 };
+var faMdb = {
+  prefix: 'fab',
+  iconName: 'mdb',
+  icon: [576, 512, [], "f8ca", "M17.37 160.41L7 352h43.91l5.59-79.83L84.43 352h44.71l25.54-77.43 4.79 77.43H205l-12.79-191.59H146.7L106 277.74 63.67 160.41zm281 0h-47.9V352h47.9s95 .8 94.2-95.79c-.78-94.21-94.18-95.78-94.18-95.78zm-1.2 146.46V204.78s46 4.27 46.8 50.57-46.78 51.54-46.78 51.54zm238.29-74.24a56.16 56.16 0 0 0 8-38.31c-5.34-35.76-55.08-34.32-55.08-34.32h-51.9v191.58H482s87 4.79 87-63.85c0-43.14-33.52-55.08-33.52-55.08zm-51.9-31.94s13.57-1.59 16 9.59c1.43 6.66-4 12-4 12h-12v-21.57zm-.1 109.46l.1-24.92V267h.08s41.58-4.73 41.19 22.43c-.33 25.65-41.35 20.74-41.35 20.74z"]
+};
 var faMedapps = {
   prefix: 'fab',
   iconName: 'medapps',
@@ -6895,6 +7256,11 @@ var faMendeley = {
   iconName: 'mendeley',
   icon: [640, 512, [], "f7b3", "M624.6 325.2c-12.3-12.4-29.7-19.2-48.4-17.2-43.3-1-49.7-34.9-37.5-98.8 22.8-57.5-14.9-131.5-87.4-130.8-77.4.7-81.7 82-130.9 82-48.1 0-54-81.3-130.9-82-72.9-.8-110.1 73.3-87.4 130.8 12.2 63.9 5.8 97.8-37.5 98.8-21.2-2.3-37 6.5-53 22.5-19.9 19.7-19.3 94.8 42.6 102.6 47.1 5.9 81.6-42.9 61.2-87.8-47.3-103.7 185.9-106.1 146.5-8.2-.1.1-.2.2-.3.4-26.8 42.8 6.8 97.4 58.8 95.2 52.1 2.1 85.4-52.6 58.8-95.2-.1-.2-.2-.3-.3-.4-39.4-97.9 193.8-95.5 146.5 8.2-4.6 10-6.7 21.3-5.7 33 4.9 53.4 68.7 74.1 104.9 35.2 17.8-14.8 23.1-65.6 0-88.3zm-303.9-19.1h-.6c-43.4 0-62.8-37.5-62.8-62.8 0-34.7 28.2-62.8 62.8-62.8h.6c34.7 0 62.8 28.1 62.8 62.8 0 25-19.2 62.8-62.8 62.8z"]
 };
+var faMicroblog = {
+  prefix: 'fab',
+  iconName: 'microblog',
+  icon: [448, 512, [], "f91a", "M399.36,362.23c29.49-34.69,47.1-78.34,47.1-125.79C446.46,123.49,346.86,32,224,32S1.54,123.49,1.54,236.44,101.14,440.87,224,440.87a239.28,239.28,0,0,0,79.44-13.44,7.18,7.18,0,0,1,8.12,2.56c18.58,25.09,47.61,42.74,79.89,49.92a4.42,4.42,0,0,0,5.22-3.43,4.37,4.37,0,0,0-.85-3.62,87,87,0,0,1,3.69-110.69ZM329.52,212.4l-57.3,43.49L293,324.75a6.5,6.5,0,0,1-9.94,7.22L224,290.92,164.94,332a6.51,6.51,0,0,1-9.95-7.22l20.79-68.86-57.3-43.49a6.5,6.5,0,0,1,3.8-11.68l71.88-1.51,23.66-67.92a6.5,6.5,0,0,1,12.28,0l23.66,67.92,71.88,1.51a6.5,6.5,0,0,1,3.88,11.68Z"]
+};
 var faMicrosoft = {
   prefix: 'fab',
   iconName: 'microsoft',
@@ -6909,6 +7275,11 @@ var faMixcloud = {
   prefix: 'fab',
   iconName: 'mixcloud',
   icon: [640, 512, [], "f289", "M424.43 219.729C416.124 134.727 344.135 68 256.919 68c-72.266 0-136.224 46.516-159.205 114.074-54.545 8.029-96.63 54.822-96.63 111.582 0 62.298 50.668 112.966 113.243 112.966h289.614c52.329 0 94.969-42.362 94.969-94.693 0-45.131-32.118-83.063-74.48-92.2zm-20.489 144.53H114.327c-39.04 0-70.881-31.564-70.881-70.604s31.841-70.604 70.881-70.604c18.827 0 36.548 7.475 49.838 20.766 19.963 19.963 50.133-10.227 30.18-30.18-14.675-14.398-32.672-24.365-52.053-29.349 19.935-44.3 64.79-73.926 114.628-73.926 69.496 0 125.979 56.483 125.979 125.702 0 13.568-2.215 26.857-6.369 39.594-8.943 27.517 32.133 38.939 40.147 13.29 2.769-8.306 4.984-16.889 6.369-25.472 19.381 7.476 33.502 26.303 33.502 48.453 0 28.795-23.535 52.33-52.607 52.33zm235.069-52.33c0 44.024-12.737 86.386-37.102 122.657-4.153 6.092-10.798 9.414-17.72 9.414-16.317 0-27.127-18.826-17.443-32.949 19.381-29.349 29.903-63.682 29.903-99.122s-10.521-69.773-29.903-98.845c-15.655-22.831 19.361-47.24 35.163-23.534 24.366 35.993 37.102 78.356 37.102 122.379zm-70.88 0c0 31.565-9.137 62.021-26.857 88.325-4.153 6.091-10.798 9.136-17.72 9.136-17.201 0-27.022-18.979-17.443-32.948 13.013-19.104 19.658-41.255 19.658-64.513 0-22.981-6.645-45.408-19.658-64.512-15.761-22.986 19.008-47.095 35.163-23.535 17.719 26.026 26.857 56.483 26.857 88.047z"]
+};
+var faMixer = {
+  prefix: 'fab',
+  iconName: 'mixer',
+  icon: [512, 512, [], "f956", "M114.57,76.07a45.71,45.71,0,0,0-67.51-6.41c-17.58,16.18-19,43.52-4.75,62.77l91.78,123L41.76,379.58c-14.23,19.25-13.11,46.59,4.74,62.77A45.71,45.71,0,0,0,114,435.94L242.89,262.7a12.14,12.14,0,0,0,0-14.23ZM470.24,379.58,377.91,255.45l91.78-123c14.22-19.25,12.83-46.59-4.75-62.77a45.71,45.71,0,0,0-67.51,6.41l-128,172.12a12.14,12.14,0,0,0,0,14.23L398,435.94a45.71,45.71,0,0,0,67.51,6.41C483.35,426.17,484.47,398.83,470.24,379.58Z"]
 };
 var faMizuni = {
   prefix: 'fab',
@@ -7000,6 +7371,11 @@ var faOptinMonster = {
   iconName: 'optin-monster',
   icon: [576, 512, [], "f23c", "M572.6 421.4c5.6-9.5 4.7-15.2-5.4-11.6-3-4.9-7-9.5-11.1-13.8 2.9-9.7-.7-14.2-10.8-9.2-4.6-3.2-10.3-6.5-15.9-9.2 0-15.1-11.6-11.6-17.6-5.7-10.4-1.5-18.7-.3-26.8 5.7.3-6.5.3-13 .3-19.7 12.6 0 40.2-11 45.9-36.2 1.4-6.8 1.6-13.8-.3-21.9-3-13.5-14.3-21.3-25.1-25.7-.8-5.9-7.6-14.3-14.9-15.9s-12.4 4.9-14.1 10.3c-8.5 0-19.2 2.8-21.1 8.4-5.4-.5-11.1-1.4-16.8-1.9 2.7-1.9 5.4-3.5 8.4-4.6 5.4-9.2 14.6-11.4 25.7-11.6V256c19.5-.5 43-5.9 53.8-18.1 12.7-13.8 14.6-37.3 12.4-55.1-2.4-17.3-9.7-37.6-24.6-48.1-8.4-5.9-21.6-.8-22.7 9.5-2.2 19.6 1.2 30-38.6 25.1-10.3-23.8-24.6-44.6-42.7-60C341 49.6 242.9 55.5 166.4 71.7c19.7 4.6 41.1 8.6 59.7 16.5-26.2 2.4-52.7 11.3-76.2 23.2-32.8 17-44 29.9-56.7 42.4 14.9-2.2 28.9-5.1 43.8-3.8-9.7 5.4-18.4 12.2-26.5 20-25.8.9-23.8-5.3-26.2-25.9-1.1-10.5-14.3-15.4-22.7-9.7-28.1 19.9-33.5 79.9-12.2 103.5 10.8 12.2 35.1 17.3 54.9 17.8-.3 1.1-.3 1.9-.3 2.7 10.8.5 19.5 2.7 24.6 11.6 3 1.1 5.7 2.7 8.1 4.6-5.4.5-11.1 1.4-16.5 1.9-3.3-6.6-13.7-8.1-21.1-8.1-1.6-5.7-6.5-12.2-14.1-10.3-6.8 1.9-14.1 10-14.9 15.9-22.5 9.5-30.1 26.8-25.1 47.6 5.3 24.8 33 36.2 45.9 36.2v19.7c-6.6-5-14.3-7.5-26.8-5.7-5.5-5.5-17.3-10.1-17.3 5.7-5.9 2.7-11.4 5.9-15.9 9.2-9.8-4.9-13.6-1.7-11.1 9.2-4.1 4.3-7.8 8.6-11.1 13.8-10.2-3.7-11 2.2-5.4 11.6-1.1 3.5-1.6 7-1.9 10.8-.5 31.6 44.6 64 73.5 65.1 17.3.5 34.6-8.4 43-23.5 113.2 4.9 226.7 4.1 340.2 0 8.1 15.1 25.4 24.3 42.7 23.5 29.2-1.1 74.3-33.5 73.5-65.1.2-3.7-.7-7.2-1.7-10.7zm-73.8-254c1.1-3 2.4-8.4 2.4-14.6 0-5.9 6.8-8.1 14.1-.8 11.1 11.6 14.9 40.5 13.8 51.1-4.1-13.6-13-29-30.3-35.7zm-4.6 6.7c19.5 6.2 28.6 27.6 29.7 48.9-1.1 2.7-3 5.4-4.9 7.6-5.7 5.9-15.4 10-26.2 12.2 4.3-21.3.3-47.3-12.7-63 4.9-.8 10.9-2.4 14.1-5.7zm-24.1 6.8c13.8 11.9 20 39.2 14.1 63.5-4.1.5-8.1.8-11.6.8-1.9-21.9-6.8-44-14.3-64.6 3.7.3 8.1.3 11.8.3zM47.5 203c-1.1-10.5 2.4-39.5 13.8-51.1 7-7.3 14.1-5.1 14.1.8 0 6.2 1.4 11.6 2.4 14.6-17.3 6.8-26.2 22.2-30.3 35.7zm9.7 27.6c-1.9-2.2-3.5-4.9-4.9-7.6 1.4-21.3 10.3-42.7 29.7-48.9 3.2 3.2 9.2 4.9 14.1 5.7-13 15.7-17 41.6-12.7 63-10.8-2.2-20.5-6-26.2-12.2zm47.9 14.6c-4.1 0-8.1-.3-12.7-.8-4.6-18.6-1.9-38.9 5.4-53v.3l12.2-5.1c4.9-1.9 9.7-3.8 14.9-4.9-10.7 19.7-17.4 41.3-19.8 63.5zm184-162.7c41.9 0 76.2 34 76.2 75.9 0 42.2-34.3 76.2-76.2 76.2s-76.2-34-76.2-76.2c0-41.8 34.3-75.9 76.2-75.9zm115.6 174.3c-.3 17.8-7 48.9-23 57-13.2 6.6-6.5-7.5-16.5-58.1 13.3.3 26.6.3 39.5 1.1zm-54-1.6c.8 4.9 3.8 40.3-1.6 41.9-11.6 3.5-40 4.3-51.1-1.1-4.1-3-4.6-35.9-4.3-41.1v.3c18.9-.3 38.1-.3 57 0zM278.3 309c-13 3.5-41.6 4.1-54.6-1.6-6.5-2.7-3.8-42.4-1.9-51.6 19.2-.5 38.4-.5 57.8-.8v.3c1.1 8.3 3.3 51.2-1.3 53.7zm-106.5-51.1c12.2-.8 24.6-1.4 36.8-1.6-2.4 15.4-3 43.5-4.9 52.2-1.1 6.8-4.3 6.8-9.7 4.3-21.9-9.8-27.6-35.2-22.2-54.9zm-35.4 31.3c7.8-1.1 15.7-1.9 23.5-2.7 1.6 6.2 3.8 11.9 7 17.6 10 17 44 35.7 45.1 7 6.2 14.9 40.8 12.2 54.9 10.8 15.7-1.4 23.8-1.4 26.8-14.3 12.4 4.3 30.8 4.1 44 3 11.3-.8 20.8-.5 24.6-8.9 1.1 5.1 1.9 11.6 4.6 16.8 10.8 21.3 37.3 1.4 46.8-31.6 8.6.8 17.6 1.9 26.5 2.7-.4 1.3-3.8 7.3 7.3 11.6-47.6 47-95.7 87.8-163.2 107-63.2-20.8-112.1-59.5-155.9-106.5 9.6-3.4 10.4-8.8 8-12.5zm-21.6 172.5c-3.8 17.8-21.9 29.7-39.7 28.9-19.2-.8-46.5-17-59.2-36.5-2.7-31.1 43.8-61.3 66.2-54.6 14.9 4.3 27.8 30.8 33.5 54 0 3-.3 5.7-.8 8.2zm-8.7-66c-.5-13.5-.5-27-.3-40.5h.3c2.7-1.6 5.7-3.8 7.8-6.5 6.5-1.6 13-5.1 15.1-9.2 3.3-7.1-7-7.5-5.4-12.4 2.7-1.1 5.7-2.2 7.8-3.5 29.2 29.2 58.6 56.5 97.3 77-36.8 11.3-72.4 27.6-105.9 47-1.2-18.6-7.7-35.9-16.7-51.9zm337.6 64.6c-103 3.5-206.2 4.1-309.4 0 0 .3 0 .3-.3.3v-.3h.3c35.1-21.6 72.2-39.2 112.4-50.8 11.6 5.1 23 9.5 34.9 13.2 2.2.8 2.2.8 4.3 0 14.3-4.1 28.4-9.2 42.2-15.4 41.5 11.7 78.8 31.7 115.6 53zm10.5-12.4c-35.9-19.5-73-35.9-111.9-47.6 38.1-20 71.9-47.3 103.5-76.7 2.2 1.4 4.6 2.4 7.6 3.2 0 .8.3 1.9.5 2.4-4.6 2.7-7.8 6.2-5.9 10.3 2.2 3.8 8.6 7.6 15.1 8.9 2.4 2.7 5.1 5.1 8.1 6.8 0 13.8-.3 27.6-.8 41.3l.3-.3c-9.3 15.9-15.5 37-16.5 51.7zm105.9 6.2c-12.7 19.5-40 35.7-59.2 36.5-19.3.9-40.5-13.2-40.5-37 5.7-23.2 18.9-49.7 33.5-54 22.7-6.9 69.2 23.4 66.2 54.5zM372.9 75.2c-3.8-72.1-100.8-79.7-126-23.5 44.6-24.3 90.3-15.7 126 23.5zM74.8 407.1c-15.7 1.6-49.5 25.4-49.5 43.2 0 11.6 15.7 19.5 32.2 14.9 12.2-3.2 31.1-17.6 35.9-27.3 6-11.6-3.7-32.7-18.6-30.8zm215.9-176.2c28.6 0 51.9-21.6 51.9-48.4 0-36.1-40.5-58.1-72.2-44.3 9.5 3 16.5 11.6 16.5 21.6 0 23.3-33.3 32-46.5 11.3-7.3 34.1 19.4 59.8 50.3 59.8zM68 474.1c.5 6.5 12.2 12.7 21.6 9.5 6.8-2.7 14.6-10.5 17.3-16.2 3-7-1.1-20-9.7-18.4-8.9 1.6-29.7 16.7-29.2 25.1zm433.2-67c-14.9-1.9-24.6 19.2-18.9 30.8 4.9 9.7 24.1 24.1 36.2 27.3 16.5 4.6 32.2-3.2 32.2-14.9 0-17.8-33.8-41.6-49.5-43.2zM478.8 449c-8.4-1.6-12.4 11.3-9.5 18.4 2.4 5.7 10.3 13.5 17.3 16.2 9.2 3.2 21.1-3 21.3-9.5.9-8.4-20.2-23.5-29.1-25.1z"]
 };
+var faOrcid = {
+  prefix: 'fab',
+  iconName: 'orcid',
+  icon: [512, 512, [], "f8d2", "M294.75 188.19h-45.92V342h47.47c67.62 0 83.12-51.34 83.12-76.91 0-41.64-26.54-76.9-84.67-76.9zM256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm-80.79 360.76h-29.84v-207.5h29.84zm-14.92-231.14a19.57 19.57 0 1 1 19.57-19.57 19.64 19.64 0 0 1-19.57 19.57zM300 369h-81V161.26h80.6c76.73 0 110.44 54.83 110.44 103.85C410 318.39 368.38 369 300 369z"]
+};
 var faOsi = {
   prefix: 'fab',
   iconName: 'osi',
@@ -7063,7 +7439,7 @@ var faPhp = {
 var faPiedPiper = {
   prefix: 'fab',
   iconName: 'pied-piper',
-  icon: [448, 512, [], "f2ae", "M32 419L0 479.2l.8-328C.8 85.3 54 32 120 32h327.2c-93 28.9-189.9 94.2-253.9 168.6C122.7 282 82.6 338 32 419M448 32S305.2 98.8 261.6 199.1c-23.2 53.6-28.9 118.1-71 158.6-28.9 27.8-69.8 38.2-105.3 56.3-23.2 12-66.4 40.5-84.9 66h328.4c66 0 119.3-53.3 119.3-119.2-.1 0-.1-328.8-.1-328.8z"]
+  icon: [480, 512, [], "f2ae", "M455.93,23.2C429.23,30,387.79,51.69,341.35,90.66A206,206,0,0,0,240,64C125.13,64,32,157.12,32,272s93.13,208,208,208,208-93.13,208-208a207.25,207.25,0,0,0-58.75-144.81,155.35,155.35,0,0,0-17,27.4A176.16,176.16,0,0,1,417.1,272c0,97.66-79.44,177.11-177.09,177.11a175.81,175.81,0,0,1-87.63-23.4c82.94-107.33,150.79-37.77,184.31-226.65,5.79-32.62,28-94.26,126.23-160.18C471,33.45,465.35,20.8,455.93,23.2ZM125,406.4A176.66,176.66,0,0,1,62.9,272C62.9,174.34,142.35,94.9,240,94.9a174,174,0,0,1,76.63,17.75C250.64,174.76,189.77,265.52,125,406.4Z"]
 };
 var faPiedPiperAlt = {
   prefix: 'fab',
@@ -7079,6 +7455,11 @@ var faPiedPiperPp = {
   prefix: 'fab',
   iconName: 'pied-piper-pp',
   icon: [448, 512, [], "f1a7", "M205.3 174.6c0 21.1-14.2 38.1-31.7 38.1-7.1 0-12.8-1.2-17.2-3.7v-68c4.4-2.7 10.1-4.2 17.2-4.2 17.5 0 31.7 16.9 31.7 37.8zm52.6 67c-7.1 0-12.8 1.5-17.2 4.2v68c4.4 2.5 10.1 3.7 17.2 3.7 17.4 0 31.7-16.9 31.7-37.8 0-21.1-14.3-38.1-31.7-38.1zM448 80v352c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V80c0-26.5 21.5-48 48-48h352c26.5 0 48 21.5 48 48zM185 255.1c41 0 74.2-35.6 74.2-79.6 0-44-33.2-79.6-74.2-79.6-12 0-24.1 3.2-34.6 8.8h-45.7V311l51.8-10.1v-50.6c8.6 3.1 18.1 4.8 28.5 4.8zm158.4 25.3c0-44-33.2-79.6-73.9-79.6-3.2 0-6.4.2-9.6.7-3.7 12.5-10.1 23.8-19.2 33.4-13.8 15-32.2 23.8-51.8 24.8V416l51.8-10.1v-50.6c8.6 3.2 18.2 4.7 28.7 4.7 40.8 0 74-35.6 74-79.6z"]
+};
+var faPiedPiperSquare = {
+  prefix: 'fab',
+  iconName: 'pied-piper-square',
+  icon: [448, 512, [], "f91e", "M32 419L0 479.2l.8-328C.8 85.3 54 32 120 32h327.2c-93 28.9-189.9 94.2-253.9 168.6C122.7 282 82.6 338 32 419M448 32S305.2 98.8 261.6 199.1c-23.2 53.6-28.9 118.1-71 158.6-28.9 27.8-69.8 38.2-105.3 56.3-23.2 12-66.4 40.5-84.9 66h328.4c66 0 119.3-53.3 119.3-119.2-.1 0-.1-328.8-.1-328.8z"]
 };
 var faPinterest = {
   prefix: 'fab',
@@ -7228,7 +7609,7 @@ var faRockrms = {
 var faSafari = {
   prefix: 'fab',
   iconName: 'safari',
-  icon: [512, 512, [], "f267", "M236.9 256.8c0-9.1 6.6-17.7 16.3-17.7 8.9 0 17.4 6.4 17.4 16.1 0 9.1-6.4 17.7-16.1 17.7-9 0-17.6-6.7-17.6-16.1zM504 256c0 137-111 248-248 248S8 393 8 256 119 8 256 8s248 111 248 248zm-26.6 0c0-122.3-99.1-221.4-221.4-221.4S34.6 133.7 34.6 256 133.7 477.4 256 477.4 477.4 378.3 477.4 256zm-72.5 96.6c0 3.6 13 10.2 16.3 12.2-27.4 41.5-69.8 71.4-117.9 83.3l-4.4-18.5c-.3-2.5-1.9-2.8-4.2-2.8-1.9 0-3 2.8-2.8 4.2l4.4 18.8c-13.3 2.8-26.8 4.2-40.4 4.2-36.3 0-72-10.2-103-29.1 1.7-2.8 12.2-18 12.2-20.2 0-1.9-1.7-3.6-3.6-3.6-3.9 0-12.2 16.6-14.7 19.9-41.8-27.7-72-70.6-83.6-119.6l19.1-4.2c2.2-.6 2.8-2.2 2.8-4.2 0-1.9-2.8-3-4.4-2.8L62 294.5c-2.5-12.7-3.9-25.5-3.9-38.5 0-37.1 10.5-73.6 30.2-104.9 2.8 1.7 16.1 10.8 18.3 10.8 1.9 0 3.6-1.4 3.6-3.3 0-3.9-14.7-11.3-18-13.6 28.2-41.2 71.1-70.9 119.8-81.9l4.2 18.5c.6 2.2 2.2 2.8 4.2 2.8s3-2.8 2.8-4.4L219 61.7c12.2-2.2 24.6-3.6 37.1-3.6 37.1 0 73.3 10.5 104.9 30.2-1.9 2.8-10.8 15.8-10.8 18 0 1.9 1.4 3.6 3.3 3.6 3.9 0 11.3-14.4 13.3-17.7 41 27.7 70.3 70 81.7 118.2l-15.5 3.3c-2.5.6-2.8 2.2-2.8 4.4 0 1.9 2.8 3 4.2 2.8l15.8-3.6c2.5 12.7 3.9 25.7 3.9 38.7 0 36.3-10 72-28.8 102.7-2.8-1.4-14.4-9.7-16.6-9.7-2.1 0-3.8 1.7-3.8 3.6zm-33.2-242.2c-13 12.2-134.2 123.7-137.6 129.5l-96.6 160.5c12.7-11.9 134.2-124 137.3-129.3l96.9-160.7z"]
+  icon: [512, 512, [], "f267", "M274.69,274.69l-37.38-37.38L166,346ZM256,8C119,8,8,119,8,256S119,504,256,504,504,393,504,256,393,8,256,8ZM411.85,182.79l14.78-6.13A8,8,0,0,1,437.08,181h0a8,8,0,0,1-4.33,10.46L418,197.57a8,8,0,0,1-10.45-4.33h0A8,8,0,0,1,411.85,182.79ZM314.43,94l6.12-14.78A8,8,0,0,1,331,74.92h0a8,8,0,0,1,4.33,10.45l-6.13,14.78a8,8,0,0,1-10.45,4.33h0A8,8,0,0,1,314.43,94ZM256,60h0a8,8,0,0,1,8,8V84a8,8,0,0,1-8,8h0a8,8,0,0,1-8-8V68A8,8,0,0,1,256,60ZM181,74.92a8,8,0,0,1,10.46,4.33L197.57,94a8,8,0,1,1-14.78,6.12l-6.13-14.78A8,8,0,0,1,181,74.92Zm-63.58,42.49h0a8,8,0,0,1,11.31,0L140,128.72A8,8,0,0,1,140,140h0a8,8,0,0,1-11.31,0l-11.31-11.31A8,8,0,0,1,117.41,117.41ZM60,256h0a8,8,0,0,1,8-8H84a8,8,0,0,1,8,8h0a8,8,0,0,1-8,8H68A8,8,0,0,1,60,256Zm40.15,73.21-14.78,6.13A8,8,0,0,1,74.92,331h0a8,8,0,0,1,4.33-10.46L94,314.43a8,8,0,0,1,10.45,4.33h0A8,8,0,0,1,100.15,329.21Zm4.33-136h0A8,8,0,0,1,94,197.57l-14.78-6.12A8,8,0,0,1,74.92,181h0a8,8,0,0,1,10.45-4.33l14.78,6.13A8,8,0,0,1,104.48,193.24ZM197.57,418l-6.12,14.78a8,8,0,0,1-14.79-6.12l6.13-14.78A8,8,0,1,1,197.57,418ZM264,444a8,8,0,0,1-8,8h0a8,8,0,0,1-8-8V428a8,8,0,0,1,8-8h0a8,8,0,0,1,8,8Zm67-6.92h0a8,8,0,0,1-10.46-4.33L314.43,418a8,8,0,0,1,4.33-10.45h0a8,8,0,0,1,10.45,4.33l6.13,14.78A8,8,0,0,1,331,437.08Zm63.58-42.49h0a8,8,0,0,1-11.31,0L372,383.28A8,8,0,0,1,372,372h0a8,8,0,0,1,11.31,0l11.31,11.31A8,8,0,0,1,394.59,394.59ZM286.25,286.25,110.34,401.66,225.75,225.75,401.66,110.34ZM437.08,331h0a8,8,0,0,1-10.45,4.33l-14.78-6.13a8,8,0,0,1-4.33-10.45h0A8,8,0,0,1,418,314.43l14.78,6.12A8,8,0,0,1,437.08,331ZM444,264H428a8,8,0,0,1-8-8h0a8,8,0,0,1,8-8h16a8,8,0,0,1,8,8h0A8,8,0,0,1,444,264Z"]
 };
 var faSalesforce = {
   prefix: 'fab',
@@ -7274,6 +7655,11 @@ var faShirtsinbulk = {
   prefix: 'fab',
   iconName: 'shirtsinbulk',
   icon: [448, 512, [], "f214", "M100 410.3l30.6 13.4 4.4-9.9-30.6-13.4zm39.4 17.5l30.6 13.4 4.4-9.9-30.6-13.4zm172.1-14l4.4 9.9 30.6-13.4-4.4-9.9zM179.1 445l30.3 13.7 4.4-9.9-30.3-13.4zM60.4 392.8L91 406.2l4.4-9.6-30.6-13.7zm211.4 38.5l4.4 9.9 30.6-13.4-4.4-9.9zm-39.3 17.5l4.4 9.9 30.6-13.7-4.4-9.6zm118.4-52.2l4.4 9.6 30.6-13.4-4.4-9.9zM170 46.6h-33.5v10.5H170zm-47.2 0H89.2v10.5h33.5zm-47.3 0H42.3v10.5h33.3zm141.5 0h-33.2v10.5H217zm94.5 0H278v10.5h33.5zm47.3 0h-33.5v10.5h33.5zm-94.6 0H231v10.5h33.2zm141.5 0h-33.3v10.5h33.3zM52.8 351.1H42v33.5h10.8zm70-215.9H89.2v10.5h33.5zm-70 10.6h22.8v-10.5H42v33.5h10.8zm168.9 228.6c50.5 0 91.3-40.8 91.3-91.3 0-50.2-40.8-91.3-91.3-91.3-50.2 0-91.3 41.1-91.3 91.3 0 50.5 41.1 91.3 91.3 91.3zm-48.2-111.1c0-25.4 29.5-31.8 49.6-31.8 16.9 0 29.2 5.8 44.3 12l-8.8 16.9h-.9c-6.4-9.9-24.8-13.1-35.6-13.1-9 0-29.8 1.8-29.8 14.9 0 21.6 78.5-10.2 78.5 37.9 0 25.4-31.5 31.2-51 31.2-18.1 0-32.4-2.9-47.2-12.2l9-18.4h.9c6.1 12.2 23.6 14.9 35.9 14.9 8.7 0 32.7-1.2 32.7-14.3 0-26.1-77.6 6.3-77.6-38zM52.8 178.4H42V212h10.8zm342.4 206.2H406v-33.5h-10.8zM52.8 307.9H42v33.5h10.8zM0 3.7v406l221.7 98.6L448 409.7V3.7zm418.8 387.1L222 476.5 29.2 390.8V120.7h389.7v270.1zm0-299.3H29.2V32.9h389.7v58.6zm-366 130.1H42v33.5h10.8zm0 43.2H42v33.5h10.8zM170 135.2h-33.5v10.5H170zm225.2 163.1H406v-33.5h-10.8zm0-43.2H406v-33.5h-10.8zM217 135.2h-33.2v10.5H217zM395.2 212H406v-33.5h-10.8zm0 129.5H406V308h-10.8zm-131-206.3H231v10.5h33.2zm47.3 0H278v10.5h33.5zm83.7 33.6H406v-33.5h-33.5v10.5h22.8zm-36.4-33.6h-33.5v10.5h33.5z"]
+};
+var faShopify = {
+  prefix: 'fab',
+  iconName: 'shopify',
+  icon: [448, 512, [], "f957", "M388.32,104.1a4.66,4.66,0,0,0-4.4-4c-2,0-37.23-.8-37.23-.8s-21.61-20.82-29.62-28.83V503.2L442.76,472S388.72,106.5,388.32,104.1ZM288.65,70.47a116.67,116.67,0,0,0-7.21-17.61C271,32.85,255.42,22,237,22a15,15,0,0,0-4,.4c-.4-.8-1.2-1.2-1.6-2C223.4,11.63,213,7.63,200.58,8c-24,.8-48,18-67.25,48.83-13.61,21.62-24,48.84-26.82,70.06-27.62,8.4-46.83,14.41-47.23,14.81-14,4.4-14.41,4.8-16,18-1.2,10-38,291.82-38,291.82L307.86,504V65.67a41.66,41.66,0,0,0-4.4.4S297.86,67.67,288.65,70.47ZM233.41,87.69c-16,4.8-33.63,10.4-50.84,15.61,4.8-18.82,14.41-37.63,25.62-50,4.4-4.4,10.41-9.61,17.21-12.81C232.21,54.86,233.81,74.48,233.41,87.69ZM200.58,24.44A27.49,27.49,0,0,1,215,28c-6.4,3.2-12.81,8.41-18.81,14.41-15.21,16.42-26.82,42-31.62,66.45-14.42,4.41-28.83,8.81-42,12.81C131.33,83.28,163.75,25.24,200.58,24.44ZM154.15,244.61c1.6,25.61,69.25,31.22,73.25,91.66,2.8,47.64-25.22,80.06-65.65,82.47-48.83,3.2-75.65-25.62-75.65-25.62l10.4-44s26.82,20.42,48.44,18.82c14-.8,19.22-12.41,18.81-20.42-2-33.62-57.24-31.62-60.84-86.86-3.2-46.44,27.22-93.27,94.47-97.68,26-1.6,39.23,4.81,39.23,4.81L221.4,225.39s-17.21-8-37.63-6.4C154.15,221,153.75,239.8,154.15,244.61ZM249.42,82.88c0-12-1.6-29.22-7.21-43.63,18.42,3.6,27.22,24,31.23,36.43Q262.63,78.68,249.42,82.88Z"]
 };
 var faShopware = {
   prefix: 'fab',
@@ -7455,6 +7841,11 @@ var faSuse = {
   iconName: 'suse',
   icon: [640, 512, [], "f7d6", "M471.08 102.66s-.3 18.3-.3 20.3c-9.1-3-74.4-24.1-135.7-26.3-51.9-1.8-122.8-4.3-223 57.3-19.4 12.4-73.9 46.1-99.6 109.7C7 277-.12 307 7 335.06a111 111 0 0 0 16.5 35.7c17.4 25 46.6 41.6 78.1 44.4 44.4 3.9 78.1-16 90-53.3 8.2-25.8 0-63.6-31.5-82.9-25.6-15.7-53.3-12.1-69.2-1.6-13.9 9.2-21.8 23.5-21.6 39.2.3 27.8 24.3 42.6 41.5 42.6a49 49 0 0 0 15.8-2.7c6.5-1.8 13.3-6.5 13.3-14.9 0-12.1-11.6-14.8-16.8-13.9-2.9.5-4.5 2-11.8 2.4-2-.2-12-3.1-12-14V316c.2-12.3 13.2-18 25.5-16.9 32.3 2.8 47.7 40.7 28.5 65.7-18.3 23.7-76.6 23.2-99.7-20.4-26-49.2 12.7-111.2 87-98.4 33.2 5.7 83.6 35.5 102.4 104.3h45.9c-5.7-17.6-8.9-68.3 42.7-68.3 56.7 0 63.9 39.9 79.8 68.3H460c-12.8-18.3-21.7-38.7-18.9-55.8 5.6-33.8 39.7-18.4 82.4-17.4 66.5.4 102.1-27 103.1-28 3.7-3.1 6.5-15.8 7-17.7 1.3-5.1-3.2-2.4-3.2-2.4-8.7 5.2-30.5 15.2-50.9 15.6-25.3.5-76.2-25.4-81.6-28.2-.3-.4.1 1.2-11-25.5 88.4 58.3 118.3 40.5 145.2 21.7.8-.6 4.3-2.9 3.6-5.7-13.8-48.1-22.4-62.7-34.5-69.6-37-21.6-125-34.7-129.2-35.3.1-.1-.9-.3-.9.7zm60.4 72.8a37.54 37.54 0 0 1 38.9-36.3c33.4 1.2 48.8 42.3 24.4 65.2-24.2 22.7-64.4 4.6-63.3-28.9zm38.6-25.3a26.27 26.27 0 1 0 25.4 27.2 26.19 26.19 0 0 0-25.4-27.2zm4.3 28.8c-15.4 0-15.4-15.6 0-15.6s15.4 15.64 0 15.64z"]
 };
+var faSwift = {
+  prefix: 'fab',
+  iconName: 'swift',
+  icon: [448, 512, [], "f8e1", "M448 156.09c0-4.51-.08-9-.2-13.52a196.31 196.31 0 0 0-2.58-29.42 99.62 99.62 0 0 0-9.22-28A94.08 94.08 0 0 0 394.84 44a99.17 99.17 0 0 0-28-9.22 195 195 0 0 0-29.43-2.59c-4.51-.12-9-.17-13.52-.2H124.14c-4.51 0-9 .08-13.52.2-2.45.07-4.91.15-7.37.27a171.68 171.68 0 0 0-22.06 2.32 103.06 103.06 0 0 0-21.21 6.1q-3.46 1.45-6.81 3.12a94.66 94.66 0 0 0-18.39 12.32c-1.88 1.61-3.69 3.28-5.43 5A93.86 93.86 0 0 0 12 85.17a99.45 99.45 0 0 0-9.22 28 196.31 196.31 0 0 0-2.54 29.4c-.13 4.51-.18 9-.21 13.52v199.83c0 4.51.08 9 .21 13.51a196.08 196.08 0 0 0 2.58 29.42 99.3 99.3 0 0 0 9.22 28A94.31 94.31 0 0 0 53.17 468a99.47 99.47 0 0 0 28 9.21 195 195 0 0 0 29.43 2.59c4.5.12 9 .17 13.52.2H323.91c4.51 0 9-.08 13.52-.2a196.59 196.59 0 0 0 29.44-2.59 99.57 99.57 0 0 0 28-9.21A94.22 94.22 0 0 0 436 426.84a99.3 99.3 0 0 0 9.22-28 194.79 194.79 0 0 0 2.59-29.42c.12-4.5.17-9 .2-13.51V172.14c-.01-5.35-.01-10.7-.01-16.05zm-69.88 241c-20-38.93-57.23-29.27-76.31-19.47-1.72 1-3.48 2-5.25 3l-.42.25c-39.5 21-92.53 22.54-145.85-.38A234.64 234.64 0 0 1 45 290.12a230.63 230.63 0 0 0 39.17 23.37c56.36 26.4 113 24.49 153 0-57-43.85-104.6-101-141.09-147.22a197.09 197.09 0 0 1-18.78-25.9c43.7 40 112.7 90.22 137.48 104.12-52.57-55.49-98.89-123.94-96.72-121.74 82.79 83.42 159.18 130.59 159.18 130.59 2.88 1.58 5 2.85 6.73 4a127.44 127.44 0 0 0 4.16-12.47c13.22-48.33-1.66-103.58-35.31-149.2C329.61 141.75 375 229.34 356.4 303.42c-.44 1.73-.95 3.4-1.44 5.09 38.52 47.4 28.04 98.17 23.13 88.59z"]
+};
 var faSymfony = {
   prefix: 'fab',
   iconName: 'symfony',
@@ -7528,7 +7919,7 @@ var faTumblrSquare = {
 var faTwitch = {
   prefix: 'fab',
   iconName: 'twitch',
-  icon: [448, 512, [], "f1e8", "M40.1 32L10 108.9v314.3h107V480h60.2l56.8-56.8h87l117-117V32H40.1zm357.8 254.1L331 353H224l-56.8 56.8V353H76.9V72.1h321v214zM331 149v116.9h-40.1V149H331zm-107 0v116.9h-40.1V149H224z"]
+  icon: [512, 512, [], "f1e8", "M391.17,103.47H352.54v109.7h38.63ZM285,103H246.37V212.75H285ZM120.83,0,24.31,91.42V420.58H140.14V512l96.53-91.42h77.25L487.69,256V0ZM449.07,237.75l-77.22,73.12H294.61l-67.6,64v-64H140.14V36.58H449.07Z"]
 };
 var faTwitter = {
   prefix: 'fab',
@@ -7560,10 +7951,20 @@ var faUikit = {
   iconName: 'uikit',
   icon: [448, 512, [], "f403", "M443.9 128v256L218 512 0 384V169.7l87.6 45.1v117l133.5 75.5 135.8-75.5v-151l-101.1-57.6 87.6-53.1L443.9 128zM308.6 49.1L223.8 0l-88.6 54.8 86 47.3 87.4-53z"]
 };
+var faUmbraco = {
+  prefix: 'fab',
+  iconName: 'umbraco',
+  icon: [510, 512, [], "f8e8", "M255.35 8C118.36 7.83 7.14 118.72 7 255.68c-.07 137 111 248.2 248 248.27 136.85 0 247.82-110.7 248-247.67S392.34 8.17 255.35 8zm145 266q-1.14 40.68-14 65t-43.51 35q-30.61 10.7-85.45 10.47h-4.6q-54.78.22-85.44-10.47t-43.52-35q-12.85-24.36-14-65a224.81 224.81 0 0 1 0-30.71 418.37 418.37 0 0 1 3.6-43.88c1.88-13.39 3.57-22.58 5.4-32 1-4.88 1.28-6.42 1.82-8.45a5.09 5.09 0 0 1 4.9-3.89h.69l32 5a5.07 5.07 0 0 1 4.16 5 5 5 0 0 1 0 .77l-1.7 8.78q-2.41 13.25-4.84 33.68a380.62 380.62 0 0 0-2.64 42.15q-.28 40.43 8.13 59.83a43.87 43.87 0 0 0 31.31 25.18A243 243 0 0 0 250 340.6h10.25a242.64 242.64 0 0 0 57.27-5.16 43.86 43.86 0 0 0 31.15-25.23q8.53-19.42 8.13-59.78a388 388 0 0 0-2.6-42.15q-2.48-20.38-4.89-33.68l-1.69-8.78a5 5 0 0 1 0-.77 5 5 0 0 1 4.2-5l32-5h.82a5 5 0 0 1 4.9 3.89c.55 2.05.81 3.57 1.83 8.45 1.82 9.62 3.52 18.78 5.39 32a415.71 415.71 0 0 1 3.61 43.88 228.06 228.06 0 0 1-.04 30.73z"]
+};
 var faUniregistry = {
   prefix: 'fab',
   iconName: 'uniregistry',
   icon: [384, 512, [], "f404", "M192 480c39.5 0 76.2-11.8 106.8-32.2H85.3C115.8 468.2 152.5 480 192 480zm-89.1-193.1v-12.4H0v12.4c0 2.5 0 5 .1 7.4h103.1c-.2-2.4-.3-4.9-.3-7.4zm20.5 57H8.5c2.6 8.5 5.8 16.8 9.6 24.8h138.3c-12.9-5.7-24.1-14.2-33-24.8zm-17.7-34.7H1.3c.9 7.6 2.2 15 3.9 22.3h109.7c-4-6.9-7.2-14.4-9.2-22.3zm-2.8-69.3H0v17.3h102.9zm0-173.2H0v4.9h102.9zm0-34.7H0v2.5h102.9zm0 69.3H0v7.4h102.9zm0 104H0v14.8h102.9zm0-69.3H0v9.9h102.9zm0 34.6H0V183h102.9zm166.2 160.9h109.7c1.8-7.3 3.1-14.7 3.9-22.3H278.3c-2.1 7.9-5.2 15.4-9.2 22.3zm12-185.7H384V136H281.1zm0 37.2H384v-12.4H281.1zm0-74.3H384v-7.4H281.1zm0-76.7v2.5H384V32zm-203 410.9h227.7c11.8-8.7 22.7-18.6 32.2-29.7H44.9c9.6 11 21.4 21 33.2 29.7zm203-371.3H384v-4.9H281.1zm0 148.5H384v-14.8H281.1zM38.8 405.7h305.3c6.7-8.5 12.6-17.6 17.8-27.2H23c5.2 9.6 9.2 18.7 15.8 27.2zm188.8-37.1H367c3.7-8 5.8-16.2 8.5-24.8h-115c-8.8 10.7-20.1 19.2-32.9 24.8zm53.5-81.7c0 2.5-.1 5-.4 7.4h103.1c.1-2.5.2-4.9.2-7.4v-12.4H281.1zm0-29.7H384v-17.3H281.1z"]
+};
+var faUnity = {
+  prefix: 'fab',
+  iconName: 'unity',
+  icon: [576, 512, [], "f949", "M498.11,206.4,445.31,14.72,248.2,66.08,219,116.14l-59.2-.43L15.54,256,159.82,396.32l59.17-.43,29.24,50,197.08,51.36,52.8-191.62-30-49.63ZM223.77,124.2,374.55,86.51,288,232.33H114.87Zm0,263.63L114.87,279.71H288l86.55,145.81Zm193,14L330.17,256l86.58-145.84L458.56,256Z"]
 };
 var faUntappd = {
   prefix: 'fab',
@@ -7860,6 +8261,7 @@ var _iconsCache = {
   faBtc: faBtc,
   faBuffer: faBuffer,
   faBuromobelexperte: faBuromobelexperte,
+  faBuyNLarge: faBuyNLarge,
   faBuysellads: faBuysellads,
   faCanadianMapleLeaf: faCanadianMapleLeaf,
   faCcAmazonPay: faCcAmazonPay,
@@ -7884,6 +8286,7 @@ var _iconsCache = {
   faConfluence: faConfluence,
   faConnectdevelop: faConnectdevelop,
   faContao: faContao,
+  faCottonBureau: faCottonBureau,
   faCpanel: faCpanel,
   faCreativeCommons: faCreativeCommons,
   faCreativeCommonsBy: faCreativeCommonsBy,
@@ -7905,6 +8308,7 @@ var _iconsCache = {
   faCuttlefish: faCuttlefish,
   faDAndD: faDAndD,
   faDAndDBeyond: faDAndDBeyond,
+  faDailymotion: faDailymotion,
   faDashcube: faDashcube,
   faDelicious: faDelicious,
   faDeploydog: faDeploydog,
@@ -7947,6 +8351,7 @@ var _iconsCache = {
   faFedora: faFedora,
   faFigma: faFigma,
   faFirefox: faFirefox,
+  faFirefoxBrowser: faFirefoxBrowser,
   faFirstOrder: faFirstOrder,
   faFirstOrderAlt: faFirstOrderAlt,
   faFirstdraft: faFirstdraft,
@@ -8008,8 +8413,10 @@ var _iconsCache = {
   faHouzz: faHouzz,
   faHtml5: faHtml5,
   faHubspot: faHubspot,
+  faIdeal: faIdeal,
   faImdb: faImdb,
   faInstagram: faInstagram,
+  faInstagramSquare: faInstagramSquare,
   faIntercom: faIntercom,
   faInternetExplorer: faInternetExplorer,
   faInvision: faInvision,
@@ -8049,6 +8456,7 @@ var _iconsCache = {
   faMarkdown: faMarkdown,
   faMastodon: faMastodon,
   faMaxcdn: faMaxcdn,
+  faMdb: faMdb,
   faMedapps: faMedapps,
   faMedium: faMedium,
   faMediumM: faMediumM,
@@ -8056,9 +8464,11 @@ var _iconsCache = {
   faMeetup: faMeetup,
   faMegaport: faMegaport,
   faMendeley: faMendeley,
+  faMicroblog: faMicroblog,
   faMicrosoft: faMicrosoft,
   faMix: faMix,
   faMixcloud: faMixcloud,
+  faMixer: faMixer,
   faMizuni: faMizuni,
   faModx: faModx,
   faMonero: faMonero,
@@ -8077,6 +8487,7 @@ var _iconsCache = {
   faOpenid: faOpenid,
   faOpera: faOpera,
   faOptinMonster: faOptinMonster,
+  faOrcid: faOrcid,
   faOsi: faOsi,
   faPage4: faPage4,
   faPagelines: faPagelines,
@@ -8093,6 +8504,7 @@ var _iconsCache = {
   faPiedPiperAlt: faPiedPiperAlt,
   faPiedPiperHat: faPiedPiperHat,
   faPiedPiperPp: faPiedPiperPp,
+  faPiedPiperSquare: faPiedPiperSquare,
   faPinterest: faPinterest,
   faPinterestP: faPinterestP,
   faPinterestSquare: faPinterestSquare,
@@ -8132,6 +8544,7 @@ var _iconsCache = {
   faSellsy: faSellsy,
   faServicestack: faServicestack,
   faShirtsinbulk: faShirtsinbulk,
+  faShopify: faShopify,
   faShopware: faShopware,
   faSimplybuilt: faSimplybuilt,
   faSistrix: faSistrix,
@@ -8168,6 +8581,7 @@ var _iconsCache = {
   faSuperpowers: faSuperpowers,
   faSupple: faSupple,
   faSuse: faSuse,
+  faSwift: faSwift,
   faSymfony: faSymfony,
   faTeamspeak: faTeamspeak,
   faTelegram: faTelegram,
@@ -8189,7 +8603,9 @@ var _iconsCache = {
   faUber: faUber,
   faUbuntu: faUbuntu,
   faUikit: faUikit,
+  faUmbraco: faUmbraco,
   faUniregistry: faUniregistry,
+  faUnity: faUnity,
   faUntappd: faUntappd,
   faUps: faUps,
   faUsb: faUsb,
@@ -8250,7 +8666,7 @@ var _iconsCache = {
 /*!********************************************************************!*\
   !*** ./node_modules/@fortawesome/free-solid-svg-icons/index.es.js ***!
   \********************************************************************/
-/*! exports provided: fas, prefix, faAd, faAddressBook, faAddressCard, faAdjust, faAirFreshener, faAlignCenter, faAlignJustify, faAlignLeft, faAlignRight, faAllergies, faAmbulance, faAmericanSignLanguageInterpreting, faAnchor, faAngleDoubleDown, faAngleDoubleLeft, faAngleDoubleRight, faAngleDoubleUp, faAngleDown, faAngleLeft, faAngleRight, faAngleUp, faAngry, faAnkh, faAppleAlt, faArchive, faArchway, faArrowAltCircleDown, faArrowAltCircleLeft, faArrowAltCircleRight, faArrowAltCircleUp, faArrowCircleDown, faArrowCircleLeft, faArrowCircleRight, faArrowCircleUp, faArrowDown, faArrowLeft, faArrowRight, faArrowUp, faArrowsAlt, faArrowsAltH, faArrowsAltV, faAssistiveListeningSystems, faAsterisk, faAt, faAtlas, faAtom, faAudioDescription, faAward, faBaby, faBabyCarriage, faBackspace, faBackward, faBacon, faBalanceScale, faBan, faBandAid, faBarcode, faBars, faBaseballBall, faBasketballBall, faBath, faBatteryEmpty, faBatteryFull, faBatteryHalf, faBatteryQuarter, faBatteryThreeQuarters, faBed, faBeer, faBell, faBellSlash, faBezierCurve, faBible, faBicycle, faBinoculars, faBiohazard, faBirthdayCake, faBlender, faBlenderPhone, faBlind, faBlog, faBold, faBolt, faBomb, faBone, faBong, faBook, faBookDead, faBookMedical, faBookOpen, faBookReader, faBookmark, faBowlingBall, faBox, faBoxOpen, faBoxes, faBraille, faBrain, faBreadSlice, faBriefcase, faBriefcaseMedical, faBroadcastTower, faBroom, faBrush, faBug, faBuilding, faBullhorn, faBullseye, faBurn, faBus, faBusAlt, faBusinessTime, faCalculator, faCalendar, faCalendarAlt, faCalendarCheck, faCalendarDay, faCalendarMinus, faCalendarPlus, faCalendarTimes, faCalendarWeek, faCamera, faCameraRetro, faCampground, faCandyCane, faCannabis, faCapsules, faCar, faCarAlt, faCarBattery, faCarCrash, faCarSide, faCaretDown, faCaretLeft, faCaretRight, faCaretSquareDown, faCaretSquareLeft, faCaretSquareRight, faCaretSquareUp, faCaretUp, faCarrot, faCartArrowDown, faCartPlus, faCashRegister, faCat, faCertificate, faChair, faChalkboard, faChalkboardTeacher, faChargingStation, faChartArea, faChartBar, faChartLine, faChartPie, faCheck, faCheckCircle, faCheckDouble, faCheckSquare, faCheese, faChess, faChessBishop, faChessBoard, faChessKing, faChessKnight, faChessPawn, faChessQueen, faChessRook, faChevronCircleDown, faChevronCircleLeft, faChevronCircleRight, faChevronCircleUp, faChevronDown, faChevronLeft, faChevronRight, faChevronUp, faChild, faChurch, faCircle, faCircleNotch, faCity, faClinicMedical, faClipboard, faClipboardCheck, faClipboardList, faClock, faClone, faClosedCaptioning, faCloud, faCloudDownloadAlt, faCloudMeatball, faCloudMoon, faCloudMoonRain, faCloudRain, faCloudShowersHeavy, faCloudSun, faCloudSunRain, faCloudUploadAlt, faCocktail, faCode, faCodeBranch, faCoffee, faCog, faCogs, faCoins, faColumns, faComment, faCommentAlt, faCommentDollar, faCommentDots, faCommentMedical, faCommentSlash, faComments, faCommentsDollar, faCompactDisc, faCompass, faCompress, faCompressArrowsAlt, faConciergeBell, faCookie, faCookieBite, faCopy, faCopyright, faCouch, faCreditCard, faCrop, faCropAlt, faCross, faCrosshairs, faCrow, faCrown, faCrutch, faCube, faCubes, faCut, faDatabase, faDeaf, faDemocrat, faDesktop, faDharmachakra, faDiagnoses, faDice, faDiceD20, faDiceD6, faDiceFive, faDiceFour, faDiceOne, faDiceSix, faDiceThree, faDiceTwo, faDigitalTachograph, faDirections, faDivide, faDizzy, faDna, faDog, faDollarSign, faDolly, faDollyFlatbed, faDonate, faDoorClosed, faDoorOpen, faDotCircle, faDove, faDownload, faDraftingCompass, faDragon, faDrawPolygon, faDrum, faDrumSteelpan, faDrumstickBite, faDumbbell, faDumpster, faDumpsterFire, faDungeon, faEdit, faEgg, faEject, faEllipsisH, faEllipsisV, faEnvelope, faEnvelopeOpen, faEnvelopeOpenText, faEnvelopeSquare, faEquals, faEraser, faEthernet, faEuroSign, faExchangeAlt, faExclamation, faExclamationCircle, faExclamationTriangle, faExpand, faExpandArrowsAlt, faExternalLinkAlt, faExternalLinkSquareAlt, faEye, faEyeDropper, faEyeSlash, faFastBackward, faFastForward, faFax, faFeather, faFeatherAlt, faFemale, faFighterJet, faFile, faFileAlt, faFileArchive, faFileAudio, faFileCode, faFileContract, faFileCsv, faFileDownload, faFileExcel, faFileExport, faFileImage, faFileImport, faFileInvoice, faFileInvoiceDollar, faFileMedical, faFileMedicalAlt, faFilePdf, faFilePowerpoint, faFilePrescription, faFileSignature, faFileUpload, faFileVideo, faFileWord, faFill, faFillDrip, faFilm, faFilter, faFingerprint, faFire, faFireAlt, faFireExtinguisher, faFirstAid, faFish, faFistRaised, faFlag, faFlagCheckered, faFlagUsa, faFlask, faFlushed, faFolder, faFolderMinus, faFolderOpen, faFolderPlus, faFont, faFontAwesomeLogoFull, faFootballBall, faForward, faFrog, faFrown, faFrownOpen, faFunnelDollar, faFutbol, faGamepad, faGasPump, faGavel, faGem, faGenderless, faGhost, faGift, faGifts, faGlassCheers, faGlassMartini, faGlassMartiniAlt, faGlassWhiskey, faGlasses, faGlobe, faGlobeAfrica, faGlobeAmericas, faGlobeAsia, faGlobeEurope, faGolfBall, faGopuram, faGraduationCap, faGreaterThan, faGreaterThanEqual, faGrimace, faGrin, faGrinAlt, faGrinBeam, faGrinBeamSweat, faGrinHearts, faGrinSquint, faGrinSquintTears, faGrinStars, faGrinTears, faGrinTongue, faGrinTongueSquint, faGrinTongueWink, faGrinWink, faGripHorizontal, faGripLines, faGripLinesVertical, faGripVertical, faGuitar, faHSquare, faHamburger, faHammer, faHamsa, faHandHolding, faHandHoldingHeart, faHandHoldingUsd, faHandLizard, faHandMiddleFinger, faHandPaper, faHandPeace, faHandPointDown, faHandPointLeft, faHandPointRight, faHandPointUp, faHandPointer, faHandRock, faHandScissors, faHandSpock, faHands, faHandsHelping, faHandshake, faHanukiah, faHardHat, faHashtag, faHatWizard, faHaykal, faHdd, faHeading, faHeadphones, faHeadphonesAlt, faHeadset, faHeart, faHeartBroken, faHeartbeat, faHelicopter, faHighlighter, faHiking, faHippo, faHistory, faHockeyPuck, faHollyBerry, faHome, faHorse, faHorseHead, faHospital, faHospitalAlt, faHospitalSymbol, faHotTub, faHotdog, faHotel, faHourglass, faHourglassEnd, faHourglassHalf, faHourglassStart, faHouseDamage, faHryvnia, faICursor, faIceCream, faIcicles, faIdBadge, faIdCard, faIdCardAlt, faIgloo, faImage, faImages, faInbox, faIndent, faIndustry, faInfinity, faInfo, faInfoCircle, faItalic, faJedi, faJoint, faJournalWhills, faKaaba, faKey, faKeyboard, faKhanda, faKiss, faKissBeam, faKissWinkHeart, faKiwiBird, faLandmark, faLanguage, faLaptop, faLaptopCode, faLaptopMedical, faLaugh, faLaughBeam, faLaughSquint, faLaughWink, faLayerGroup, faLeaf, faLemon, faLessThan, faLessThanEqual, faLevelDownAlt, faLevelUpAlt, faLifeRing, faLightbulb, faLink, faLiraSign, faList, faListAlt, faListOl, faListUl, faLocationArrow, faLock, faLockOpen, faLongArrowAltDown, faLongArrowAltLeft, faLongArrowAltRight, faLongArrowAltUp, faLowVision, faLuggageCart, faMagic, faMagnet, faMailBulk, faMale, faMap, faMapMarked, faMapMarkedAlt, faMapMarker, faMapMarkerAlt, faMapPin, faMapSigns, faMarker, faMars, faMarsDouble, faMarsStroke, faMarsStrokeH, faMarsStrokeV, faMask, faMedal, faMedkit, faMeh, faMehBlank, faMehRollingEyes, faMemory, faMenorah, faMercury, faMeteor, faMicrochip, faMicrophone, faMicrophoneAlt, faMicrophoneAltSlash, faMicrophoneSlash, faMicroscope, faMinus, faMinusCircle, faMinusSquare, faMitten, faMobile, faMobileAlt, faMoneyBill, faMoneyBillAlt, faMoneyBillWave, faMoneyBillWaveAlt, faMoneyCheck, faMoneyCheckAlt, faMonument, faMoon, faMortarPestle, faMosque, faMotorcycle, faMountain, faMousePointer, faMugHot, faMusic, faNetworkWired, faNeuter, faNewspaper, faNotEqual, faNotesMedical, faObjectGroup, faObjectUngroup, faOilCan, faOm, faOtter, faOutdent, faPager, faPaintBrush, faPaintRoller, faPalette, faPallet, faPaperPlane, faPaperclip, faParachuteBox, faParagraph, faParking, faPassport, faPastafarianism, faPaste, faPause, faPauseCircle, faPaw, faPeace, faPen, faPenAlt, faPenFancy, faPenNib, faPenSquare, faPencilAlt, faPencilRuler, faPeopleCarry, faPepperHot, faPercent, faPercentage, faPersonBooth, faPhone, faPhoneSlash, faPhoneSquare, faPhoneVolume, faPiggyBank, faPills, faPizzaSlice, faPlaceOfWorship, faPlane, faPlaneArrival, faPlaneDeparture, faPlay, faPlayCircle, faPlug, faPlus, faPlusCircle, faPlusSquare, faPodcast, faPoll, faPollH, faPoo, faPooStorm, faPoop, faPortrait, faPoundSign, faPowerOff, faPray, faPrayingHands, faPrescription, faPrescriptionBottle, faPrescriptionBottleAlt, faPrint, faProcedures, faProjectDiagram, faPuzzlePiece, faQrcode, faQuestion, faQuestionCircle, faQuidditch, faQuoteLeft, faQuoteRight, faQuran, faRadiation, faRadiationAlt, faRainbow, faRandom, faReceipt, faRecycle, faRedo, faRedoAlt, faRegistered, faReply, faReplyAll, faRepublican, faRestroom, faRetweet, faRibbon, faRing, faRoad, faRobot, faRocket, faRoute, faRss, faRssSquare, faRubleSign, faRuler, faRulerCombined, faRulerHorizontal, faRulerVertical, faRunning, faRupeeSign, faSadCry, faSadTear, faSatellite, faSatelliteDish, faSave, faSchool, faScrewdriver, faScroll, faSdCard, faSearch, faSearchDollar, faSearchLocation, faSearchMinus, faSearchPlus, faSeedling, faServer, faShapes, faShare, faShareAlt, faShareAltSquare, faShareSquare, faShekelSign, faShieldAlt, faShip, faShippingFast, faShoePrints, faShoppingBag, faShoppingBasket, faShoppingCart, faShower, faShuttleVan, faSign, faSignInAlt, faSignLanguage, faSignOutAlt, faSignal, faSignature, faSimCard, faSitemap, faSkating, faSkiing, faSkiingNordic, faSkull, faSkullCrossbones, faSlash, faSleigh, faSlidersH, faSmile, faSmileBeam, faSmileWink, faSmog, faSmoking, faSmokingBan, faSms, faSnowboarding, faSnowflake, faSnowman, faSnowplow, faSocks, faSolarPanel, faSort, faSortAlphaDown, faSortAlphaUp, faSortAmountDown, faSortAmountUp, faSortDown, faSortNumericDown, faSortNumericUp, faSortUp, faSpa, faSpaceShuttle, faSpider, faSpinner, faSplotch, faSprayCan, faSquare, faSquareFull, faSquareRootAlt, faStamp, faStar, faStarAndCrescent, faStarHalf, faStarHalfAlt, faStarOfDavid, faStarOfLife, faStepBackward, faStepForward, faStethoscope, faStickyNote, faStop, faStopCircle, faStopwatch, faStore, faStoreAlt, faStream, faStreetView, faStrikethrough, faStroopwafel, faSubscript, faSubway, faSuitcase, faSuitcaseRolling, faSun, faSuperscript, faSurprise, faSwatchbook, faSwimmer, faSwimmingPool, faSynagogue, faSync, faSyncAlt, faSyringe, faTable, faTableTennis, faTablet, faTabletAlt, faTablets, faTachometerAlt, faTag, faTags, faTape, faTasks, faTaxi, faTeeth, faTeethOpen, faTemperatureHigh, faTemperatureLow, faTenge, faTerminal, faTextHeight, faTextWidth, faTh, faThLarge, faThList, faTheaterMasks, faThermometer, faThermometerEmpty, faThermometerFull, faThermometerHalf, faThermometerQuarter, faThermometerThreeQuarters, faThumbsDown, faThumbsUp, faThumbtack, faTicketAlt, faTimes, faTimesCircle, faTint, faTintSlash, faTired, faToggleOff, faToggleOn, faToilet, faToiletPaper, faToolbox, faTools, faTooth, faTorah, faToriiGate, faTractor, faTrademark, faTrafficLight, faTrain, faTram, faTransgender, faTransgenderAlt, faTrash, faTrashAlt, faTrashRestore, faTrashRestoreAlt, faTree, faTrophy, faTruck, faTruckLoading, faTruckMonster, faTruckMoving, faTruckPickup, faTshirt, faTty, faTv, faUmbrella, faUmbrellaBeach, faUnderline, faUndo, faUndoAlt, faUniversalAccess, faUniversity, faUnlink, faUnlock, faUnlockAlt, faUpload, faUser, faUserAlt, faUserAltSlash, faUserAstronaut, faUserCheck, faUserCircle, faUserClock, faUserCog, faUserEdit, faUserFriends, faUserGraduate, faUserInjured, faUserLock, faUserMd, faUserMinus, faUserNinja, faUserNurse, faUserPlus, faUserSecret, faUserShield, faUserSlash, faUserTag, faUserTie, faUserTimes, faUsers, faUsersCog, faUtensilSpoon, faUtensils, faVectorSquare, faVenus, faVenusDouble, faVenusMars, faVial, faVials, faVideo, faVideoSlash, faVihara, faVolleyballBall, faVolumeDown, faVolumeMute, faVolumeOff, faVolumeUp, faVoteYea, faVrCardboard, faWalking, faWallet, faWarehouse, faWater, faWaveSquare, faWeight, faWeightHanging, faWheelchair, faWifi, faWind, faWindowClose, faWindowMaximize, faWindowMinimize, faWindowRestore, faWineBottle, faWineGlass, faWineGlassAlt, faWonSign, faWrench, faXRay, faYenSign, faYinYang */
+/*! exports provided: fas, prefix, faAd, faAddressBook, faAddressCard, faAdjust, faAirFreshener, faAlignCenter, faAlignJustify, faAlignLeft, faAlignRight, faAllergies, faAmbulance, faAmericanSignLanguageInterpreting, faAnchor, faAngleDoubleDown, faAngleDoubleLeft, faAngleDoubleRight, faAngleDoubleUp, faAngleDown, faAngleLeft, faAngleRight, faAngleUp, faAngry, faAnkh, faAppleAlt, faArchive, faArchway, faArrowAltCircleDown, faArrowAltCircleLeft, faArrowAltCircleRight, faArrowAltCircleUp, faArrowCircleDown, faArrowCircleLeft, faArrowCircleRight, faArrowCircleUp, faArrowDown, faArrowLeft, faArrowRight, faArrowUp, faArrowsAlt, faArrowsAltH, faArrowsAltV, faAssistiveListeningSystems, faAsterisk, faAt, faAtlas, faAtom, faAudioDescription, faAward, faBaby, faBabyCarriage, faBackspace, faBackward, faBacon, faBahai, faBalanceScale, faBalanceScaleLeft, faBalanceScaleRight, faBan, faBandAid, faBarcode, faBars, faBaseballBall, faBasketballBall, faBath, faBatteryEmpty, faBatteryFull, faBatteryHalf, faBatteryQuarter, faBatteryThreeQuarters, faBed, faBeer, faBell, faBellSlash, faBezierCurve, faBible, faBicycle, faBiking, faBinoculars, faBiohazard, faBirthdayCake, faBlender, faBlenderPhone, faBlind, faBlog, faBold, faBolt, faBomb, faBone, faBong, faBook, faBookDead, faBookMedical, faBookOpen, faBookReader, faBookmark, faBorderAll, faBorderNone, faBorderStyle, faBowlingBall, faBox, faBoxOpen, faBoxTissue, faBoxes, faBraille, faBrain, faBreadSlice, faBriefcase, faBriefcaseMedical, faBroadcastTower, faBroom, faBrush, faBug, faBuilding, faBullhorn, faBullseye, faBurn, faBus, faBusAlt, faBusinessTime, faCalculator, faCalendar, faCalendarAlt, faCalendarCheck, faCalendarDay, faCalendarMinus, faCalendarPlus, faCalendarTimes, faCalendarWeek, faCamera, faCameraRetro, faCampground, faCandyCane, faCannabis, faCapsules, faCar, faCarAlt, faCarBattery, faCarCrash, faCarSide, faCaravan, faCaretDown, faCaretLeft, faCaretRight, faCaretSquareDown, faCaretSquareLeft, faCaretSquareRight, faCaretSquareUp, faCaretUp, faCarrot, faCartArrowDown, faCartPlus, faCashRegister, faCat, faCertificate, faChair, faChalkboard, faChalkboardTeacher, faChargingStation, faChartArea, faChartBar, faChartLine, faChartPie, faCheck, faCheckCircle, faCheckDouble, faCheckSquare, faCheese, faChess, faChessBishop, faChessBoard, faChessKing, faChessKnight, faChessPawn, faChessQueen, faChessRook, faChevronCircleDown, faChevronCircleLeft, faChevronCircleRight, faChevronCircleUp, faChevronDown, faChevronLeft, faChevronRight, faChevronUp, faChild, faChurch, faCircle, faCircleNotch, faCity, faClinicMedical, faClipboard, faClipboardCheck, faClipboardList, faClock, faClone, faClosedCaptioning, faCloud, faCloudDownloadAlt, faCloudMeatball, faCloudMoon, faCloudMoonRain, faCloudRain, faCloudShowersHeavy, faCloudSun, faCloudSunRain, faCloudUploadAlt, faCocktail, faCode, faCodeBranch, faCoffee, faCog, faCogs, faCoins, faColumns, faComment, faCommentAlt, faCommentDollar, faCommentDots, faCommentMedical, faCommentSlash, faComments, faCommentsDollar, faCompactDisc, faCompass, faCompress, faCompressAlt, faCompressArrowsAlt, faConciergeBell, faCookie, faCookieBite, faCopy, faCopyright, faCouch, faCreditCard, faCrop, faCropAlt, faCross, faCrosshairs, faCrow, faCrown, faCrutch, faCube, faCubes, faCut, faDatabase, faDeaf, faDemocrat, faDesktop, faDharmachakra, faDiagnoses, faDice, faDiceD20, faDiceD6, faDiceFive, faDiceFour, faDiceOne, faDiceSix, faDiceThree, faDiceTwo, faDigitalTachograph, faDirections, faDisease, faDivide, faDizzy, faDna, faDog, faDollarSign, faDolly, faDollyFlatbed, faDonate, faDoorClosed, faDoorOpen, faDotCircle, faDove, faDownload, faDraftingCompass, faDragon, faDrawPolygon, faDrum, faDrumSteelpan, faDrumstickBite, faDumbbell, faDumpster, faDumpsterFire, faDungeon, faEdit, faEgg, faEject, faEllipsisH, faEllipsisV, faEnvelope, faEnvelopeOpen, faEnvelopeOpenText, faEnvelopeSquare, faEquals, faEraser, faEthernet, faEuroSign, faExchangeAlt, faExclamation, faExclamationCircle, faExclamationTriangle, faExpand, faExpandAlt, faExpandArrowsAlt, faExternalLinkAlt, faExternalLinkSquareAlt, faEye, faEyeDropper, faEyeSlash, faFan, faFastBackward, faFastForward, faFaucet, faFax, faFeather, faFeatherAlt, faFemale, faFighterJet, faFile, faFileAlt, faFileArchive, faFileAudio, faFileCode, faFileContract, faFileCsv, faFileDownload, faFileExcel, faFileExport, faFileImage, faFileImport, faFileInvoice, faFileInvoiceDollar, faFileMedical, faFileMedicalAlt, faFilePdf, faFilePowerpoint, faFilePrescription, faFileSignature, faFileUpload, faFileVideo, faFileWord, faFill, faFillDrip, faFilm, faFilter, faFingerprint, faFire, faFireAlt, faFireExtinguisher, faFirstAid, faFish, faFistRaised, faFlag, faFlagCheckered, faFlagUsa, faFlask, faFlushed, faFolder, faFolderMinus, faFolderOpen, faFolderPlus, faFont, faFontAwesomeLogoFull, faFootballBall, faForward, faFrog, faFrown, faFrownOpen, faFunnelDollar, faFutbol, faGamepad, faGasPump, faGavel, faGem, faGenderless, faGhost, faGift, faGifts, faGlassCheers, faGlassMartini, faGlassMartiniAlt, faGlassWhiskey, faGlasses, faGlobe, faGlobeAfrica, faGlobeAmericas, faGlobeAsia, faGlobeEurope, faGolfBall, faGopuram, faGraduationCap, faGreaterThan, faGreaterThanEqual, faGrimace, faGrin, faGrinAlt, faGrinBeam, faGrinBeamSweat, faGrinHearts, faGrinSquint, faGrinSquintTears, faGrinStars, faGrinTears, faGrinTongue, faGrinTongueSquint, faGrinTongueWink, faGrinWink, faGripHorizontal, faGripLines, faGripLinesVertical, faGripVertical, faGuitar, faHSquare, faHamburger, faHammer, faHamsa, faHandHolding, faHandHoldingHeart, faHandHoldingMedical, faHandHoldingUsd, faHandHoldingWater, faHandLizard, faHandMiddleFinger, faHandPaper, faHandPeace, faHandPointDown, faHandPointLeft, faHandPointRight, faHandPointUp, faHandPointer, faHandRock, faHandScissors, faHandSparkles, faHandSpock, faHands, faHandsHelping, faHandsWash, faHandshake, faHandshakeAltSlash, faHandshakeSlash, faHanukiah, faHardHat, faHashtag, faHatCowboy, faHatCowboySide, faHatWizard, faHdd, faHeadSideCough, faHeadSideCoughSlash, faHeadSideMask, faHeadSideVirus, faHeading, faHeadphones, faHeadphonesAlt, faHeadset, faHeart, faHeartBroken, faHeartbeat, faHelicopter, faHighlighter, faHiking, faHippo, faHistory, faHockeyPuck, faHollyBerry, faHome, faHorse, faHorseHead, faHospital, faHospitalAlt, faHospitalSymbol, faHospitalUser, faHotTub, faHotdog, faHotel, faHourglass, faHourglassEnd, faHourglassHalf, faHourglassStart, faHouseDamage, faHouseUser, faHryvnia, faICursor, faIceCream, faIcicles, faIcons, faIdBadge, faIdCard, faIdCardAlt, faIgloo, faImage, faImages, faInbox, faIndent, faIndustry, faInfinity, faInfo, faInfoCircle, faItalic, faJedi, faJoint, faJournalWhills, faKaaba, faKey, faKeyboard, faKhanda, faKiss, faKissBeam, faKissWinkHeart, faKiwiBird, faLandmark, faLanguage, faLaptop, faLaptopCode, faLaptopHouse, faLaptopMedical, faLaugh, faLaughBeam, faLaughSquint, faLaughWink, faLayerGroup, faLeaf, faLemon, faLessThan, faLessThanEqual, faLevelDownAlt, faLevelUpAlt, faLifeRing, faLightbulb, faLink, faLiraSign, faList, faListAlt, faListOl, faListUl, faLocationArrow, faLock, faLockOpen, faLongArrowAltDown, faLongArrowAltLeft, faLongArrowAltRight, faLongArrowAltUp, faLowVision, faLuggageCart, faLungs, faLungsVirus, faMagic, faMagnet, faMailBulk, faMale, faMap, faMapMarked, faMapMarkedAlt, faMapMarker, faMapMarkerAlt, faMapPin, faMapSigns, faMarker, faMars, faMarsDouble, faMarsStroke, faMarsStrokeH, faMarsStrokeV, faMask, faMedal, faMedkit, faMeh, faMehBlank, faMehRollingEyes, faMemory, faMenorah, faMercury, faMeteor, faMicrochip, faMicrophone, faMicrophoneAlt, faMicrophoneAltSlash, faMicrophoneSlash, faMicroscope, faMinus, faMinusCircle, faMinusSquare, faMitten, faMobile, faMobileAlt, faMoneyBill, faMoneyBillAlt, faMoneyBillWave, faMoneyBillWaveAlt, faMoneyCheck, faMoneyCheckAlt, faMonument, faMoon, faMortarPestle, faMosque, faMotorcycle, faMountain, faMouse, faMousePointer, faMugHot, faMusic, faNetworkWired, faNeuter, faNewspaper, faNotEqual, faNotesMedical, faObjectGroup, faObjectUngroup, faOilCan, faOm, faOtter, faOutdent, faPager, faPaintBrush, faPaintRoller, faPalette, faPallet, faPaperPlane, faPaperclip, faParachuteBox, faParagraph, faParking, faPassport, faPastafarianism, faPaste, faPause, faPauseCircle, faPaw, faPeace, faPen, faPenAlt, faPenFancy, faPenNib, faPenSquare, faPencilAlt, faPencilRuler, faPeopleArrows, faPeopleCarry, faPepperHot, faPercent, faPercentage, faPersonBooth, faPhone, faPhoneAlt, faPhoneSlash, faPhoneSquare, faPhoneSquareAlt, faPhoneVolume, faPhotoVideo, faPiggyBank, faPills, faPizzaSlice, faPlaceOfWorship, faPlane, faPlaneArrival, faPlaneDeparture, faPlaneSlash, faPlay, faPlayCircle, faPlug, faPlus, faPlusCircle, faPlusSquare, faPodcast, faPoll, faPollH, faPoo, faPooStorm, faPoop, faPortrait, faPoundSign, faPowerOff, faPray, faPrayingHands, faPrescription, faPrescriptionBottle, faPrescriptionBottleAlt, faPrint, faProcedures, faProjectDiagram, faPumpMedical, faPumpSoap, faPuzzlePiece, faQrcode, faQuestion, faQuestionCircle, faQuidditch, faQuoteLeft, faQuoteRight, faQuran, faRadiation, faRadiationAlt, faRainbow, faRandom, faReceipt, faRecordVinyl, faRecycle, faRedo, faRedoAlt, faRegistered, faRemoveFormat, faReply, faReplyAll, faRepublican, faRestroom, faRetweet, faRibbon, faRing, faRoad, faRobot, faRocket, faRoute, faRss, faRssSquare, faRubleSign, faRuler, faRulerCombined, faRulerHorizontal, faRulerVertical, faRunning, faRupeeSign, faSadCry, faSadTear, faSatellite, faSatelliteDish, faSave, faSchool, faScrewdriver, faScroll, faSdCard, faSearch, faSearchDollar, faSearchLocation, faSearchMinus, faSearchPlus, faSeedling, faServer, faShapes, faShare, faShareAlt, faShareAltSquare, faShareSquare, faShekelSign, faShieldAlt, faShieldVirus, faShip, faShippingFast, faShoePrints, faShoppingBag, faShoppingBasket, faShoppingCart, faShower, faShuttleVan, faSign, faSignInAlt, faSignLanguage, faSignOutAlt, faSignal, faSignature, faSimCard, faSitemap, faSkating, faSkiing, faSkiingNordic, faSkull, faSkullCrossbones, faSlash, faSleigh, faSlidersH, faSmile, faSmileBeam, faSmileWink, faSmog, faSmoking, faSmokingBan, faSms, faSnowboarding, faSnowflake, faSnowman, faSnowplow, faSoap, faSocks, faSolarPanel, faSort, faSortAlphaDown, faSortAlphaDownAlt, faSortAlphaUp, faSortAlphaUpAlt, faSortAmountDown, faSortAmountDownAlt, faSortAmountUp, faSortAmountUpAlt, faSortDown, faSortNumericDown, faSortNumericDownAlt, faSortNumericUp, faSortNumericUpAlt, faSortUp, faSpa, faSpaceShuttle, faSpellCheck, faSpider, faSpinner, faSplotch, faSprayCan, faSquare, faSquareFull, faSquareRootAlt, faStamp, faStar, faStarAndCrescent, faStarHalf, faStarHalfAlt, faStarOfDavid, faStarOfLife, faStepBackward, faStepForward, faStethoscope, faStickyNote, faStop, faStopCircle, faStopwatch, faStopwatch20, faStore, faStoreAlt, faStoreAltSlash, faStoreSlash, faStream, faStreetView, faStrikethrough, faStroopwafel, faSubscript, faSubway, faSuitcase, faSuitcaseRolling, faSun, faSuperscript, faSurprise, faSwatchbook, faSwimmer, faSwimmingPool, faSynagogue, faSync, faSyncAlt, faSyringe, faTable, faTableTennis, faTablet, faTabletAlt, faTablets, faTachometerAlt, faTag, faTags, faTape, faTasks, faTaxi, faTeeth, faTeethOpen, faTemperatureHigh, faTemperatureLow, faTenge, faTerminal, faTextHeight, faTextWidth, faTh, faThLarge, faThList, faTheaterMasks, faThermometer, faThermometerEmpty, faThermometerFull, faThermometerHalf, faThermometerQuarter, faThermometerThreeQuarters, faThumbsDown, faThumbsUp, faThumbtack, faTicketAlt, faTimes, faTimesCircle, faTint, faTintSlash, faTired, faToggleOff, faToggleOn, faToilet, faToiletPaper, faToiletPaperSlash, faToolbox, faTools, faTooth, faTorah, faToriiGate, faTractor, faTrademark, faTrafficLight, faTrailer, faTrain, faTram, faTransgender, faTransgenderAlt, faTrash, faTrashAlt, faTrashRestore, faTrashRestoreAlt, faTree, faTrophy, faTruck, faTruckLoading, faTruckMonster, faTruckMoving, faTruckPickup, faTshirt, faTty, faTv, faUmbrella, faUmbrellaBeach, faUnderline, faUndo, faUndoAlt, faUniversalAccess, faUniversity, faUnlink, faUnlock, faUnlockAlt, faUpload, faUser, faUserAlt, faUserAltSlash, faUserAstronaut, faUserCheck, faUserCircle, faUserClock, faUserCog, faUserEdit, faUserFriends, faUserGraduate, faUserInjured, faUserLock, faUserMd, faUserMinus, faUserNinja, faUserNurse, faUserPlus, faUserSecret, faUserShield, faUserSlash, faUserTag, faUserTie, faUserTimes, faUsers, faUsersCog, faUtensilSpoon, faUtensils, faVectorSquare, faVenus, faVenusDouble, faVenusMars, faVial, faVials, faVideo, faVideoSlash, faVihara, faVirus, faVirusSlash, faViruses, faVoicemail, faVolleyballBall, faVolumeDown, faVolumeMute, faVolumeOff, faVolumeUp, faVoteYea, faVrCardboard, faWalking, faWallet, faWarehouse, faWater, faWaveSquare, faWeight, faWeightHanging, faWheelchair, faWifi, faWind, faWindowClose, faWindowMaximize, faWindowMinimize, faWindowRestore, faWineBottle, faWineGlass, faWineGlassAlt, faWonSign, faWrench, faXRay, faYenSign, faYinYang */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -8310,7 +8726,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faBackspace", function() { return faBackspace; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faBackward", function() { return faBackward; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faBacon", function() { return faBacon; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faBahai", function() { return faBahai; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faBalanceScale", function() { return faBalanceScale; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faBalanceScaleLeft", function() { return faBalanceScaleLeft; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faBalanceScaleRight", function() { return faBalanceScaleRight; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faBan", function() { return faBan; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faBandAid", function() { return faBandAid; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faBarcode", function() { return faBarcode; });
@@ -8330,6 +8749,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faBezierCurve", function() { return faBezierCurve; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faBible", function() { return faBible; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faBicycle", function() { return faBicycle; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faBiking", function() { return faBiking; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faBinoculars", function() { return faBinoculars; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faBiohazard", function() { return faBiohazard; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faBirthdayCake", function() { return faBirthdayCake; });
@@ -8348,9 +8768,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faBookOpen", function() { return faBookOpen; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faBookReader", function() { return faBookReader; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faBookmark", function() { return faBookmark; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faBorderAll", function() { return faBorderAll; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faBorderNone", function() { return faBorderNone; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faBorderStyle", function() { return faBorderStyle; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faBowlingBall", function() { return faBowlingBall; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faBox", function() { return faBox; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faBoxOpen", function() { return faBoxOpen; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faBoxTissue", function() { return faBoxTissue; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faBoxes", function() { return faBoxes; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faBraille", function() { return faBraille; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faBrain", function() { return faBrain; });
@@ -8388,6 +8812,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faCarBattery", function() { return faCarBattery; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faCarCrash", function() { return faCarCrash; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faCarSide", function() { return faCarSide; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faCaravan", function() { return faCaravan; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faCaretDown", function() { return faCaretDown; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faCaretLeft", function() { return faCaretLeft; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faCaretRight", function() { return faCaretRight; });
@@ -8472,6 +8897,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faCompactDisc", function() { return faCompactDisc; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faCompass", function() { return faCompass; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faCompress", function() { return faCompress; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faCompressAlt", function() { return faCompressAlt; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faCompressArrowsAlt", function() { return faCompressArrowsAlt; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faConciergeBell", function() { return faConciergeBell; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faCookie", function() { return faCookie; });
@@ -8507,6 +8933,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faDiceTwo", function() { return faDiceTwo; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faDigitalTachograph", function() { return faDigitalTachograph; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faDirections", function() { return faDirections; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faDisease", function() { return faDisease; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faDivide", function() { return faDivide; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faDizzy", function() { return faDizzy; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faDna", function() { return faDna; });
@@ -8548,14 +8975,17 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faExclamationCircle", function() { return faExclamationCircle; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faExclamationTriangle", function() { return faExclamationTriangle; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faExpand", function() { return faExpand; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faExpandAlt", function() { return faExpandAlt; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faExpandArrowsAlt", function() { return faExpandArrowsAlt; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faExternalLinkAlt", function() { return faExternalLinkAlt; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faExternalLinkSquareAlt", function() { return faExternalLinkSquareAlt; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faEye", function() { return faEye; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faEyeDropper", function() { return faEyeDropper; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faEyeSlash", function() { return faEyeSlash; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faFan", function() { return faFan; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faFastBackward", function() { return faFastBackward; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faFastForward", function() { return faFastForward; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faFaucet", function() { return faFaucet; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faFax", function() { return faFax; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faFeather", function() { return faFeather; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faFeatherAlt", function() { return faFeatherAlt; });
@@ -8661,7 +9091,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faHamsa", function() { return faHamsa; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faHandHolding", function() { return faHandHolding; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faHandHoldingHeart", function() { return faHandHoldingHeart; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faHandHoldingMedical", function() { return faHandHoldingMedical; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faHandHoldingUsd", function() { return faHandHoldingUsd; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faHandHoldingWater", function() { return faHandHoldingWater; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faHandLizard", function() { return faHandLizard; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faHandMiddleFinger", function() { return faHandMiddleFinger; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faHandPaper", function() { return faHandPaper; });
@@ -8673,16 +9105,25 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faHandPointer", function() { return faHandPointer; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faHandRock", function() { return faHandRock; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faHandScissors", function() { return faHandScissors; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faHandSparkles", function() { return faHandSparkles; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faHandSpock", function() { return faHandSpock; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faHands", function() { return faHands; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faHandsHelping", function() { return faHandsHelping; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faHandsWash", function() { return faHandsWash; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faHandshake", function() { return faHandshake; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faHandshakeAltSlash", function() { return faHandshakeAltSlash; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faHandshakeSlash", function() { return faHandshakeSlash; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faHanukiah", function() { return faHanukiah; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faHardHat", function() { return faHardHat; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faHashtag", function() { return faHashtag; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faHatCowboy", function() { return faHatCowboy; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faHatCowboySide", function() { return faHatCowboySide; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faHatWizard", function() { return faHatWizard; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faHaykal", function() { return faHaykal; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faHdd", function() { return faHdd; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faHeadSideCough", function() { return faHeadSideCough; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faHeadSideCoughSlash", function() { return faHeadSideCoughSlash; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faHeadSideMask", function() { return faHeadSideMask; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faHeadSideVirus", function() { return faHeadSideVirus; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faHeading", function() { return faHeading; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faHeadphones", function() { return faHeadphones; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faHeadphonesAlt", function() { return faHeadphonesAlt; });
@@ -8703,6 +9144,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faHospital", function() { return faHospital; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faHospitalAlt", function() { return faHospitalAlt; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faHospitalSymbol", function() { return faHospitalSymbol; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faHospitalUser", function() { return faHospitalUser; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faHotTub", function() { return faHotTub; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faHotdog", function() { return faHotdog; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faHotel", function() { return faHotel; });
@@ -8711,10 +9153,12 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faHourglassHalf", function() { return faHourglassHalf; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faHourglassStart", function() { return faHourglassStart; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faHouseDamage", function() { return faHouseDamage; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faHouseUser", function() { return faHouseUser; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faHryvnia", function() { return faHryvnia; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faICursor", function() { return faICursor; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faIceCream", function() { return faIceCream; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faIcicles", function() { return faIcicles; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faIcons", function() { return faIcons; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faIdBadge", function() { return faIdBadge; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faIdCard", function() { return faIdCard; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faIdCardAlt", function() { return faIdCardAlt; });
@@ -8743,6 +9187,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faLanguage", function() { return faLanguage; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faLaptop", function() { return faLaptop; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faLaptopCode", function() { return faLaptopCode; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faLaptopHouse", function() { return faLaptopHouse; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faLaptopMedical", function() { return faLaptopMedical; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faLaugh", function() { return faLaugh; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faLaughBeam", function() { return faLaughBeam; });
@@ -8772,6 +9217,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faLongArrowAltUp", function() { return faLongArrowAltUp; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faLowVision", function() { return faLowVision; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faLuggageCart", function() { return faLuggageCart; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faLungs", function() { return faLungs; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faLungsVirus", function() { return faLungsVirus; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faMagic", function() { return faMagic; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faMagnet", function() { return faMagnet; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faMailBulk", function() { return faMailBulk; });
@@ -8823,6 +9270,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faMosque", function() { return faMosque; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faMotorcycle", function() { return faMotorcycle; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faMountain", function() { return faMountain; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faMouse", function() { return faMouse; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faMousePointer", function() { return faMousePointer; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faMugHot", function() { return faMugHot; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faMusic", function() { return faMusic; });
@@ -8861,15 +9309,19 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faPenSquare", function() { return faPenSquare; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faPencilAlt", function() { return faPencilAlt; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faPencilRuler", function() { return faPencilRuler; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faPeopleArrows", function() { return faPeopleArrows; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faPeopleCarry", function() { return faPeopleCarry; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faPepperHot", function() { return faPepperHot; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faPercent", function() { return faPercent; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faPercentage", function() { return faPercentage; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faPersonBooth", function() { return faPersonBooth; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faPhone", function() { return faPhone; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faPhoneAlt", function() { return faPhoneAlt; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faPhoneSlash", function() { return faPhoneSlash; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faPhoneSquare", function() { return faPhoneSquare; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faPhoneSquareAlt", function() { return faPhoneSquareAlt; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faPhoneVolume", function() { return faPhoneVolume; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faPhotoVideo", function() { return faPhotoVideo; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faPiggyBank", function() { return faPiggyBank; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faPills", function() { return faPills; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faPizzaSlice", function() { return faPizzaSlice; });
@@ -8877,6 +9329,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faPlane", function() { return faPlane; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faPlaneArrival", function() { return faPlaneArrival; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faPlaneDeparture", function() { return faPlaneDeparture; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faPlaneSlash", function() { return faPlaneSlash; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faPlay", function() { return faPlay; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faPlayCircle", function() { return faPlayCircle; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faPlug", function() { return faPlug; });
@@ -8900,6 +9353,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faPrint", function() { return faPrint; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faProcedures", function() { return faProcedures; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faProjectDiagram", function() { return faProjectDiagram; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faPumpMedical", function() { return faPumpMedical; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faPumpSoap", function() { return faPumpSoap; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faPuzzlePiece", function() { return faPuzzlePiece; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faQrcode", function() { return faQrcode; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faQuestion", function() { return faQuestion; });
@@ -8913,10 +9368,12 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faRainbow", function() { return faRainbow; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faRandom", function() { return faRandom; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faReceipt", function() { return faReceipt; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faRecordVinyl", function() { return faRecordVinyl; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faRecycle", function() { return faRecycle; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faRedo", function() { return faRedo; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faRedoAlt", function() { return faRedoAlt; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faRegistered", function() { return faRegistered; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faRemoveFormat", function() { return faRemoveFormat; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faReply", function() { return faReply; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faReplyAll", function() { return faReplyAll; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faRepublican", function() { return faRepublican; });
@@ -8960,6 +9417,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faShareSquare", function() { return faShareSquare; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faShekelSign", function() { return faShekelSign; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faShieldAlt", function() { return faShieldAlt; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faShieldVirus", function() { return faShieldVirus; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faShip", function() { return faShip; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faShippingFast", function() { return faShippingFast; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faShoePrints", function() { return faShoePrints; });
@@ -8995,19 +9453,27 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faSnowflake", function() { return faSnowflake; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faSnowman", function() { return faSnowman; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faSnowplow", function() { return faSnowplow; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faSoap", function() { return faSoap; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faSocks", function() { return faSocks; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faSolarPanel", function() { return faSolarPanel; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faSort", function() { return faSort; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faSortAlphaDown", function() { return faSortAlphaDown; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faSortAlphaDownAlt", function() { return faSortAlphaDownAlt; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faSortAlphaUp", function() { return faSortAlphaUp; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faSortAlphaUpAlt", function() { return faSortAlphaUpAlt; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faSortAmountDown", function() { return faSortAmountDown; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faSortAmountDownAlt", function() { return faSortAmountDownAlt; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faSortAmountUp", function() { return faSortAmountUp; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faSortAmountUpAlt", function() { return faSortAmountUpAlt; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faSortDown", function() { return faSortDown; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faSortNumericDown", function() { return faSortNumericDown; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faSortNumericDownAlt", function() { return faSortNumericDownAlt; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faSortNumericUp", function() { return faSortNumericUp; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faSortNumericUpAlt", function() { return faSortNumericUpAlt; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faSortUp", function() { return faSortUp; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faSpa", function() { return faSpa; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faSpaceShuttle", function() { return faSpaceShuttle; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faSpellCheck", function() { return faSpellCheck; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faSpider", function() { return faSpider; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faSpinner", function() { return faSpinner; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faSplotch", function() { return faSplotch; });
@@ -9029,8 +9495,11 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faStop", function() { return faStop; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faStopCircle", function() { return faStopCircle; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faStopwatch", function() { return faStopwatch; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faStopwatch20", function() { return faStopwatch20; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faStore", function() { return faStore; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faStoreAlt", function() { return faStoreAlt; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faStoreAltSlash", function() { return faStoreAltSlash; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faStoreSlash", function() { return faStoreSlash; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faStream", function() { return faStream; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faStreetView", function() { return faStreetView; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faStrikethrough", function() { return faStrikethrough; });
@@ -9091,6 +9560,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faToggleOn", function() { return faToggleOn; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faToilet", function() { return faToilet; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faToiletPaper", function() { return faToiletPaper; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faToiletPaperSlash", function() { return faToiletPaperSlash; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faToolbox", function() { return faToolbox; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faTools", function() { return faTools; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faTooth", function() { return faTooth; });
@@ -9099,6 +9569,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faTractor", function() { return faTractor; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faTrademark", function() { return faTrademark; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faTrafficLight", function() { return faTrafficLight; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faTrailer", function() { return faTrailer; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faTrain", function() { return faTrain; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faTram", function() { return faTram; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faTransgender", function() { return faTransgender; });
@@ -9165,6 +9636,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faVideo", function() { return faVideo; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faVideoSlash", function() { return faVideoSlash; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faVihara", function() { return faVihara; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faVirus", function() { return faVirus; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faVirusSlash", function() { return faVirusSlash; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faViruses", function() { return faViruses; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faVoicemail", function() { return faVoicemail; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faVolleyballBall", function() { return faVolleyballBall; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faVolumeDown", function() { return faVolumeDown; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "faVolumeMute", function() { return faVolumeMute; });
@@ -9223,22 +9698,22 @@ var faAirFreshener = {
 var faAlignCenter = {
   prefix: 'fas',
   iconName: 'align-center',
-  icon: [448, 512, [], "f037", "M352 44v40c0 8.837-7.163 16-16 16H112c-8.837 0-16-7.163-16-16V44c0-8.837 7.163-16 16-16h224c8.837 0 16 7.163 16 16zM16 228h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zm0 256h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zm320-200H112c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16h224c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16z"]
+  icon: [448, 512, [], "f037", "M432 160H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm0 256H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zM108.1 96h231.81A12.09 12.09 0 0 0 352 83.9V44.09A12.09 12.09 0 0 0 339.91 32H108.1A12.09 12.09 0 0 0 96 44.09V83.9A12.1 12.1 0 0 0 108.1 96zm231.81 256A12.09 12.09 0 0 0 352 339.9v-39.81A12.09 12.09 0 0 0 339.91 288H108.1A12.09 12.09 0 0 0 96 300.09v39.81a12.1 12.1 0 0 0 12.1 12.1z"]
 };
 var faAlignJustify = {
   prefix: 'fas',
   iconName: 'align-justify',
-  icon: [448, 512, [], "f039", "M0 84V44c0-8.837 7.163-16 16-16h416c8.837 0 16 7.163 16 16v40c0 8.837-7.163 16-16 16H16c-8.837 0-16-7.163-16-16zm16 144h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zm0 256h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zm0-128h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16z"]
+  icon: [448, 512, [], "f039", "M432 416H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm0-128H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm0-128H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm0-128H16A16 16 0 0 0 0 48v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16V48a16 16 0 0 0-16-16z"]
 };
 var faAlignLeft = {
   prefix: 'fas',
   iconName: 'align-left',
-  icon: [448, 512, [], "f036", "M288 44v40c0 8.837-7.163 16-16 16H16c-8.837 0-16-7.163-16-16V44c0-8.837 7.163-16 16-16h256c8.837 0 16 7.163 16 16zM0 172v40c0 8.837 7.163 16 16 16h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16zm16 312h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zm256-200H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16h256c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16z"]
+  icon: [448, 512, [], "f036", "M12.83 352h262.34A12.82 12.82 0 0 0 288 339.17v-38.34A12.82 12.82 0 0 0 275.17 288H12.83A12.82 12.82 0 0 0 0 300.83v38.34A12.82 12.82 0 0 0 12.83 352zm0-256h262.34A12.82 12.82 0 0 0 288 83.17V44.83A12.82 12.82 0 0 0 275.17 32H12.83A12.82 12.82 0 0 0 0 44.83v38.34A12.82 12.82 0 0 0 12.83 96zM432 160H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm0 256H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16z"]
 };
 var faAlignRight = {
   prefix: 'fas',
   iconName: 'align-right',
-  icon: [448, 512, [], "f038", "M160 84V44c0-8.837 7.163-16 16-16h256c8.837 0 16 7.163 16 16v40c0 8.837-7.163 16-16 16H176c-8.837 0-16-7.163-16-16zM16 228h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zm0 256h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zm160-128h256c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H176c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16z"]
+  icon: [448, 512, [], "f038", "M16 224h416a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16zm416 192H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm3.17-384H172.83A12.82 12.82 0 0 0 160 44.83v38.34A12.82 12.82 0 0 0 172.83 96h262.34A12.82 12.82 0 0 0 448 83.17V44.83A12.82 12.82 0 0 0 435.17 32zm0 256H172.83A12.82 12.82 0 0 0 160 300.83v38.34A12.82 12.82 0 0 0 172.83 352h262.34A12.82 12.82 0 0 0 448 339.17v-38.34A12.82 12.82 0 0 0 435.17 288z"]
 };
 var faAllergies = {
   prefix: 'fas',
@@ -9423,7 +9898,7 @@ var faAtlas = {
 var faAtom = {
   prefix: 'fas',
   iconName: 'atom',
-  icon: [448, 512, [], "f5d2", "M413.03 256c40.13-54.89 41.51-98.62 25.14-128-10.91-19.52-40.54-50.73-116.33-41.88C300.36 34.89 267.64 0 224 0s-76.36 34.89-97.84 86.12C50.43 77.34 20.73 108.48 9.83 128c-16.38 29.4-15 73.09 25.14 128-40.13 54.89-41.51 98.62-25.14 128 29.21 52.34 101.68 43.58 116.33 41.88C147.63 477.1 180.36 512 224 512s76.37-34.9 97.84-86.12c14.64 1.7 87.11 10.46 116.33-41.88 16.38-29.4 15-73.09-25.14-128zM63.38 352c-4.03-7.21-.19-24.8 14.95-48.29 6.96 6.53 14.2 12.89 21.87 19.18 1.71 13.71 4 27.08 6.76 40.08-24.56.89-39.89-4.37-43.58-10.97zm36.82-162.88c-7.66 6.29-14.9 12.65-21.87 19.18-15.13-23.5-18.97-41.09-14.95-48.3 3.41-6.14 16.39-11.47 37.92-11.47 1.71 0 3.87.3 5.69.37a472.191 472.191 0 0 0-6.79 40.22zM224 64c9.47 0 22.2 13.52 33.86 37.26-11.19 3.7-22.44 8-33.86 12.86-11.42-4.86-22.67-9.16-33.86-12.86C201.8 77.52 214.53 64 224 64zm0 384c-9.47 0-22.2-13.52-33.86-37.26 11.19-3.7 22.44-8 33.86-12.86 11.42 4.86 22.67 9.16 33.86 12.86C246.2 434.48 233.47 448 224 448zm62.5-157.33c-26.7 19.08-46.14 29.33-62.5 37.48-16.35-8.14-35.8-18.41-62.5-37.48-1.99-27.79-1.99-41.54 0-69.33 26.67-19.05 46.13-29.32 62.5-37.48 16.39 8.17 35.86 18.44 62.5 37.48 1.98 27.78 1.99 41.53 0 69.33zM384.62 352c-3.67 6.62-19 11.82-43.58 10.95 2.76-13 5.05-26.37 6.76-40.06 7.66-6.29 14.9-12.65 21.87-19.18 15.13 23.49 18.97 41.08 14.95 48.29zm-14.95-143.71c-6.96-6.53-14.2-12.89-21.87-19.18a473.535 473.535 0 0 0-6.79-40.22c1.82-.07 3.97-.37 5.69-.37 21.52 0 34.51 5.34 37.92 11.47 4.02 7.22.18 24.81-14.95 48.3zM224 224c-17.67 0-32 14.33-32 32s14.33 32 32 32 32-14.33 32-32-14.33-32-32-32z"]
+  icon: [448, 512, [], "f5d2", "M223.99908,224a32,32,0,1,0,32.00782,32A32.06431,32.06431,0,0,0,223.99908,224Zm214.172-96c-10.877-19.5-40.50979-50.75-116.27544-41.875C300.39168,34.875,267.63386,0,223.99908,0s-76.39066,34.875-97.89653,86.125C50.3369,77.375,20.706,108.5,9.82907,128-6.54984,157.375-5.17484,201.125,34.958,256-5.17484,310.875-6.54984,354.625,9.82907,384c29.13087,52.375,101.64652,43.625,116.27348,41.875C147.60842,477.125,180.36429,512,223.99908,512s76.3926-34.875,97.89652-86.125c14.62891,1.75,87.14456,10.5,116.27544-41.875C454.55,354.625,453.175,310.875,413.04017,256,453.175,201.125,454.55,157.375,438.171,128ZM63.33886,352c-4-7.25-.125-24.75,15.00391-48.25,6.87695,6.5,14.12891,12.875,21.88087,19.125,1.625,13.75,4,27.125,6.75,40.125C82.34472,363.875,67.09081,358.625,63.33886,352Zm36.88478-162.875c-7.752,6.25-15.00392,12.625-21.88087,19.125-15.12891-23.5-19.00392-41-15.00391-48.25,3.377-6.125,16.37891-11.5,37.88478-11.5,1.75,0,3.875.375,5.75.375C104.09864,162.25,101.84864,175.625,100.22364,189.125ZM223.99908,64c9.50195,0,22.25586,13.5,33.88282,37.25-11.252,3.75-22.50391,8-33.88282,12.875-11.377-4.875-22.62892-9.125-33.88283-12.875C201.74516,77.5,214.49712,64,223.99908,64Zm0,384c-9.502,0-22.25392-13.5-33.88283-37.25,11.25391-3.75,22.50587-8,33.88283-12.875C235.378,402.75,246.62994,407,257.8819,410.75,246.25494,434.5,233.501,448,223.99908,448Zm0-112a80,80,0,1,1,80-80A80.00023,80.00023,0,0,1,223.99908,336ZM384.6593,352c-3.625,6.625-19.00392,11.875-43.63479,11,2.752-13,5.127-26.375,6.752-40.125,7.75195-6.25,15.00391-12.625,21.87891-19.125C384.7843,327.25,388.6593,344.75,384.6593,352ZM369.65538,208.25c-6.875-6.5-14.127-12.875-21.87891-19.125-1.625-13.5-3.875-26.875-6.752-40.25,1.875,0,4.002-.375,5.752-.375,21.50391,0,34.50782,5.375,37.88283,11.5C388.6593,167.25,384.7843,184.75,369.65538,208.25Z"]
 };
 var faAudioDescription = {
   prefix: 'fas',
@@ -9460,10 +9935,25 @@ var faBacon = {
   iconName: 'bacon',
   icon: [576, 512, [], "f7e5", "M218.92 336.39c34.89-34.89 44.2-59.7 54.05-86 10.61-28.29 21.59-57.54 61.37-97.34s69.05-50.77 97.35-61.38c23.88-9 46.64-17.68 76.79-45.37L470.81 8.91a31 31 0 0 0-40.18-2.83c-13.64 10.1-25.15 14.39-41 20.3C247 79.52 209.26 191.29 200.65 214.1c-29.75 78.83-89.55 94.68-98.72 98.09-24.86 9.26-54.73 20.38-91.07 50.36C-3 374-3.63 395 9.07 407.61l35.76 35.51C80 410.52 107 400.15 133 390.39c26.27-9.84 51.06-19.12 85.92-54zm348-232l-35.75-35.51c-35.19 32.63-62.18 43-88.25 52.79-26.26 9.85-51.06 19.16-85.95 54s-44.19 59.69-54 86C292.33 290 281.34 319.22 241.55 359s-69 50.73-97.3 61.32c-23.86 9-46.61 17.66-76.72 45.33l37.68 37.43a31 31 0 0 0 40.18 2.82c13.6-10.06 25.09-14.34 40.94-20.24 142.2-53 180-164.1 188.94-187.69C405 219.18 464.8 203.3 474 199.86c24.87-9.27 54.74-20.4 91.11-50.41 13.89-11.4 14.52-32.45 1.82-45.05z"]
 };
+var faBahai = {
+  prefix: 'fas',
+  iconName: 'bahai',
+  icon: [512, 512, [], "f666", "M496.25 202.52l-110-15.44 41.82-104.34c6.67-16.64-11.6-32.18-26.59-22.63L307.44 120 273.35 12.82C270.64 4.27 263.32 0 256 0c-7.32 0-14.64 4.27-17.35 12.82l-34.09 107.19-94.04-59.89c-14.99-9.55-33.25 5.99-26.59 22.63l41.82 104.34-110 15.43c-17.54 2.46-21.68 26.27-6.03 34.67l98.16 52.66-74.48 83.54c-10.92 12.25-1.72 30.93 13.29 30.93 1.31 0 2.67-.14 4.07-.45l108.57-23.65-4.11 112.55c-.43 11.65 8.87 19.22 18.41 19.22 5.15 0 10.39-2.21 14.2-7.18l68.18-88.9 68.18 88.9c3.81 4.97 9.04 7.18 14.2 7.18 9.54 0 18.84-7.57 18.41-19.22l-4.11-112.55 108.57 23.65c17.36 3.76 29.21-17.2 17.35-30.49l-74.48-83.54 98.16-52.66c15.64-8.39 11.5-32.2-6.04-34.66zM338.51 311.68l-51.89-11.3 1.97 53.79L256 311.68l-32.59 42.49 1.96-53.79-51.89 11.3 35.6-39.93-46.92-25.17 52.57-7.38-19.99-49.87 44.95 28.62L256 166.72l16.29 51.23 44.95-28.62-19.99 49.87 52.57 7.38-46.92 25.17 35.61 39.93z"]
+};
 var faBalanceScale = {
   prefix: 'fas',
   iconName: 'balance-scale',
   icon: [640, 512, [], "f24e", "M256 336h-.02c0-16.18 1.34-8.73-85.05-181.51-17.65-35.29-68.19-35.36-85.87 0C-2.06 328.75.02 320.33.02 336H0c0 44.18 57.31 80 128 80s128-35.82 128-80zM128 176l72 144H56l72-144zm511.98 160c0-16.18 1.34-8.73-85.05-181.51-17.65-35.29-68.19-35.36-85.87 0-87.12 174.26-85.04 165.84-85.04 181.51H384c0 44.18 57.31 80 128 80s128-35.82 128-80h-.02zM440 320l72-144 72 144H440zm88 128H352V153.25c23.51-10.29 41.16-31.48 46.39-57.25H528c8.84 0 16-7.16 16-16V48c0-8.84-7.16-16-16-16H383.64C369.04 12.68 346.09 0 320 0s-49.04 12.68-63.64 32H112c-8.84 0-16 7.16-16 16v32c0 8.84 7.16 16 16 16h129.61c5.23 25.76 22.87 46.96 46.39 57.25V448H112c-8.84 0-16 7.16-16 16v32c0 8.84 7.16 16 16 16h416c8.84 0 16-7.16 16-16v-32c0-8.84-7.16-16-16-16z"]
+};
+var faBalanceScaleLeft = {
+  prefix: 'fas',
+  iconName: 'balance-scale-left',
+  icon: [640, 512, [], "f515", "M528 448H352V153.25c20.42-8.94 36.1-26.22 43.38-47.47l132-44.26c8.38-2.81 12.89-11.88 10.08-20.26l-10.17-30.34C524.48 2.54 515.41-1.97 507.03.84L389.11 40.37C375.3 16.36 349.69 0 320 0c-44.18 0-80 35.82-80 80 0 3.43.59 6.71 1.01 10.03l-128.39 43.05c-8.38 2.81-12.89 11.88-10.08 20.26l10.17 30.34c2.81 8.38 11.88 12.89 20.26 10.08l142.05-47.63c4.07 2.77 8.43 5.12 12.99 7.12V496c0 8.84 7.16 16 16 16h224c8.84 0 16-7.16 16-16v-32c-.01-8.84-7.17-16-16.01-16zm111.98-144c0-16.18 1.34-8.73-85.05-181.51-17.65-35.29-68.19-35.36-85.87 0-87.12 174.26-85.04 165.84-85.04 181.51H384c0 44.18 57.31 80 128 80s128-35.82 128-80h-.02zM440 288l72-144 72 144H440zm-269.07-37.51c-17.65-35.29-68.19-35.36-85.87 0C-2.06 424.75.02 416.33.02 432H0c0 44.18 57.31 80 128 80s128-35.82 128-80h-.02c0-16.18 1.34-8.73-85.05-181.51zM56 416l72-144 72 144H56z"]
+};
+var faBalanceScaleRight = {
+  prefix: 'fas',
+  iconName: 'balance-scale-right',
+  icon: [640, 512, [], "f516", "M96 464v32c0 8.84 7.16 16 16 16h224c8.84 0 16-7.16 16-16V153.25c4.56-2 8.92-4.35 12.99-7.12l142.05 47.63c8.38 2.81 17.45-1.71 20.26-10.08l10.17-30.34c2.81-8.38-1.71-17.45-10.08-20.26l-128.4-43.05c.42-3.32 1.01-6.6 1.01-10.03 0-44.18-35.82-80-80-80-29.69 0-55.3 16.36-69.11 40.37L132.96.83c-8.38-2.81-17.45 1.71-20.26 10.08l-10.17 30.34c-2.81 8.38 1.71 17.45 10.08 20.26l132 44.26c7.28 21.25 22.96 38.54 43.38 47.47V448H112c-8.84 0-16 7.16-16 16zM0 304c0 44.18 57.31 80 128 80s128-35.82 128-80h-.02c0-15.67 2.08-7.25-85.05-181.51-17.68-35.36-68.22-35.29-85.87 0C-1.32 295.27.02 287.82.02 304H0zm56-16l72-144 72 144H56zm328.02 144H384c0 44.18 57.31 80 128 80s128-35.82 128-80h-.02c0-15.67 2.08-7.25-85.05-181.51-17.68-35.36-68.22-35.29-85.87 0-86.38 172.78-85.04 165.33-85.04 181.51zM440 416l72-144 72 144H440z"]
 };
 var faBan = {
   prefix: 'fas',
@@ -9498,7 +9988,7 @@ var faBasketballBall = {
 var faBath = {
   prefix: 'fas',
   iconName: 'bath',
-  icon: [512, 512, [], "f2cd", "M488 256H80V112c0-17.645 14.355-32 32-32 11.351 0 21.332 5.945 27.015 14.88-16.492 25.207-14.687 59.576 6.838 83.035-4.176 4.713-4.021 11.916.491 16.428l11.314 11.314c4.686 4.686 12.284 4.686 16.971 0l95.03-95.029c4.686-4.686 4.686-12.284 0-16.971l-11.314-11.314c-4.512-4.512-11.715-4.666-16.428-.491-17.949-16.469-42.294-21.429-64.178-15.365C163.281 45.667 139.212 32 112 32c-44.112 0-80 35.888-80 80v144h-8c-13.255 0-24 10.745-24 24v16c0 13.255 10.745 24 24 24h8v32c0 28.43 12.362 53.969 32 71.547V456c0 13.255 10.745 24 24 24h16c13.255 0 24-10.745 24-24v-8h256v8c0 13.255 10.745 24 24 24h16c13.255 0 24-10.745 24-24v-32.453c19.638-17.578 32-43.117 32-71.547v-32h8c13.255 0 24-10.745 24-24v-16c0-13.255-10.745-24-24-24z"]
+  icon: [512, 512, [], "f2cd", "M32,384a95.4,95.4,0,0,0,32,71.09V496a16,16,0,0,0,16,16h32a16,16,0,0,0,16-16V480H384v16a16,16,0,0,0,16,16h32a16,16,0,0,0,16-16V455.09A95.4,95.4,0,0,0,480,384V336H32ZM496,256H80V69.25a21.26,21.26,0,0,1,36.28-15l19.27,19.26c-13.13,29.88-7.61,59.11,8.62,79.73l-.17.17A16,16,0,0,0,144,176l11.31,11.31a16,16,0,0,0,22.63,0L283.31,81.94a16,16,0,0,0,0-22.63L272,48a16,16,0,0,0-22.62,0l-.17.17c-20.62-16.23-49.83-21.75-79.73-8.62L150.22,20.28A69.25,69.25,0,0,0,32,69.25V256H16A16,16,0,0,0,0,272v16a16,16,0,0,0,16,16H496a16,16,0,0,0,16-16V272A16,16,0,0,0,496,256Z"]
 };
 var faBatteryEmpty = {
   prefix: 'fas',
@@ -9560,6 +10050,11 @@ var faBicycle = {
   iconName: 'bicycle',
   icon: [640, 512, [], "f206", "M512.509 192.001c-16.373-.064-32.03 2.955-46.436 8.495l-77.68-125.153A24 24 0 0 0 368.001 64h-64c-8.837 0-16 7.163-16 16v16c0 8.837 7.163 16 16 16h50.649l14.896 24H256.002v-16c0-8.837-7.163-16-16-16h-87.459c-13.441 0-24.777 10.999-24.536 24.437.232 13.044 10.876 23.563 23.995 23.563h48.726l-29.417 47.52c-13.433-4.83-27.904-7.483-42.992-7.52C58.094 191.83.412 249.012.002 319.236-.413 390.279 57.055 448 128.002 448c59.642 0 109.758-40.793 123.967-96h52.033a24 24 0 0 0 20.406-11.367L410.37 201.77l14.938 24.067c-25.455 23.448-41.385 57.081-41.307 94.437.145 68.833 57.899 127.051 126.729 127.719 70.606.685 128.181-55.803 129.255-125.996 1.086-70.941-56.526-129.72-127.476-129.996zM186.75 265.772c9.727 10.529 16.673 23.661 19.642 38.228h-43.306l23.664-38.228zM128.002 400c-44.112 0-80-35.888-80-80s35.888-80 80-80c5.869 0 11.586.653 17.099 1.859l-45.505 73.509C89.715 331.327 101.213 352 120.002 352h81.3c-12.37 28.225-40.562 48-73.3 48zm162.63-96h-35.624c-3.96-31.756-19.556-59.894-42.383-80.026L237.371 184h127.547l-74.286 120zm217.057 95.886c-41.036-2.165-74.049-35.692-75.627-76.755-.812-21.121 6.633-40.518 19.335-55.263l44.433 71.586c4.66 7.508 14.524 9.816 22.032 5.156l13.594-8.437c7.508-4.66 9.817-14.524 5.156-22.032l-44.468-71.643a79.901 79.901 0 0 1 19.858-2.497c44.112 0 80 35.888 80 80-.001 45.54-38.252 82.316-84.313 79.885z"]
 };
+var faBiking = {
+  prefix: 'fas',
+  iconName: 'biking',
+  icon: [640, 512, [], "f84a", "M400 96a48 48 0 1 0-48-48 48 48 0 0 0 48 48zm-4 121a31.9 31.9 0 0 0 20 7h64a32 32 0 0 0 0-64h-52.78L356 103a31.94 31.94 0 0 0-40.81.68l-112 96a32 32 0 0 0 3.08 50.92L288 305.12V416a32 32 0 0 0 64 0V288a32 32 0 0 0-14.25-26.62l-41.36-27.57 58.25-49.92zm116 39a128 128 0 1 0 128 128 128 128 0 0 0-128-128zm0 192a64 64 0 1 1 64-64 64 64 0 0 1-64 64zM128 256a128 128 0 1 0 128 128 128 128 0 0 0-128-128zm0 192a64 64 0 1 1 64-64 64 64 0 0 1-64 64z"]
+};
 var faBinoculars = {
   prefix: 'fas',
   iconName: 'binoculars',
@@ -9598,7 +10093,7 @@ var faBlog = {
 var faBold = {
   prefix: 'fas',
   iconName: 'bold',
-  icon: [384, 512, [], "f032", "M304.793 243.891c33.639-18.537 53.657-54.16 53.657-95.693 0-48.236-26.25-87.626-68.626-104.179C265.138 34.01 240.849 32 209.661 32H24c-8.837 0-16 7.163-16 16v33.049c0 8.837 7.163 16 16 16h33.113v318.53H24c-8.837 0-16 7.163-16 16V464c0 8.837 7.163 16 16 16h195.69c24.203 0 44.834-1.289 66.866-7.584C337.52 457.193 376 410.647 376 350.014c0-52.168-26.573-91.684-71.207-106.123zM142.217 100.809h67.444c16.294 0 27.536 2.019 37.525 6.717 15.828 8.479 24.906 26.502 24.906 49.446 0 35.029-20.32 56.79-53.029 56.79h-76.846V100.809zm112.642 305.475c-10.14 4.056-22.677 4.907-31.409 4.907h-81.233V281.943h84.367c39.645 0 63.057 25.38 63.057 63.057.001 28.425-13.66 52.483-34.782 61.284z"]
+  icon: [384, 512, [], "f032", "M333.49 238a122 122 0 0 0 27-65.21C367.87 96.49 308 32 233.42 32H34a16 16 0 0 0-16 16v48a16 16 0 0 0 16 16h31.87v288H34a16 16 0 0 0-16 16v48a16 16 0 0 0 16 16h209.32c70.8 0 134.14-51.75 141-122.4 4.74-48.45-16.39-92.06-50.83-119.6zM145.66 112h87.76a48 48 0 0 1 0 96h-87.76zm87.76 288h-87.76V288h87.76a56 56 0 0 1 0 112z"]
 };
 var faBolt = {
   prefix: 'fas',
@@ -9650,6 +10145,21 @@ var faBookmark = {
   iconName: 'bookmark',
   icon: [384, 512, [], "f02e", "M0 512V48C0 21.49 21.49 0 48 0h288c26.51 0 48 21.49 48 48v464L192 400 0 512z"]
 };
+var faBorderAll = {
+  prefix: 'fas',
+  iconName: 'border-all',
+  icon: [448, 512, [], "f84c", "M416 32H32A32 32 0 0 0 0 64v384a32 32 0 0 0 32 32h384a32 32 0 0 0 32-32V64a32 32 0 0 0-32-32zm-32 64v128H256V96zm-192 0v128H64V96zM64 416V288h128v128zm192 0V288h128v128z"]
+};
+var faBorderNone = {
+  prefix: 'fas',
+  iconName: 'border-none',
+  icon: [448, 512, [], "f850", "M240 224h-32a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h32a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm96 0h-32a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h32a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm96 0h-32a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h32a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm-288 0h-32a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h32a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm96 192h-32a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h32a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm96 0h-32a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h32a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm96 0h-32a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h32a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm0-96h-32a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h32a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm0-192h-32a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h32a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zM240 320h-32a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h32a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm0-192h-32a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h32a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm-96 288h-32a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h32a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm96-384h-32a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h32a16 16 0 0 0 16-16V48a16 16 0 0 0-16-16zm96 0h-32a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h32a16 16 0 0 0 16-16V48a16 16 0 0 0-16-16zm96 0h-32a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h32a16 16 0 0 0 16-16V48a16 16 0 0 0-16-16zM48 224H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h32a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm0 192H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h32a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm0-96H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h32a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm0-192H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h32a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm0-96H16A16 16 0 0 0 0 48v32a16 16 0 0 0 16 16h32a16 16 0 0 0 16-16V48a16 16 0 0 0-16-16zm96 0h-32a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h32a16 16 0 0 0 16-16V48a16 16 0 0 0-16-16z"]
+};
+var faBorderStyle = {
+  prefix: 'fas',
+  iconName: 'border-style',
+  icon: [448, 512, [], "f853", "M240 416h-32a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h32a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm-96 0h-32a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h32a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm192 0h-32a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h32a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm96-192h-32a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h32a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm0 96h-32a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h32a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm0 96h-32a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h32a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm0-288h-32a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h32a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm0-96H32A32 32 0 0 0 0 64v400a16 16 0 0 0 16 16h32a16 16 0 0 0 16-16V96h368a16 16 0 0 0 16-16V48a16 16 0 0 0-16-16z"]
+};
 var faBowlingBall = {
   prefix: 'fas',
   iconName: 'bowling-ball',
@@ -9665,6 +10175,11 @@ var faBoxOpen = {
   iconName: 'box-open',
   icon: [640, 512, [], "f49e", "M425.7 256c-16.9 0-32.8-9-41.4-23.4L320 126l-64.2 106.6c-8.7 14.5-24.6 23.5-41.5 23.5-4.5 0-9-.6-13.3-1.9L64 215v178c0 14.7 10 27.5 24.2 31l216.2 54.1c10.2 2.5 20.9 2.5 31 0L551.8 424c14.2-3.6 24.2-16.4 24.2-31V215l-137 39.1c-4.3 1.3-8.8 1.9-13.3 1.9zm212.6-112.2L586.8 41c-3.1-6.2-9.8-9.8-16.7-8.9L320 64l91.7 152.1c3.8 6.3 11.4 9.3 18.5 7.3l197.9-56.5c9.9-2.9 14.7-13.9 10.2-23.1zM53.2 41L1.7 143.8c-4.6 9.2.3 20.2 10.1 23l197.9 56.5c7.1 2 14.7-1 18.5-7.3L320 64 69.8 32.1c-6.9-.8-13.5 2.7-16.6 8.9z"]
 };
+var faBoxTissue = {
+  prefix: 'fas',
+  iconName: 'box-tissue',
+  icon: [512, 512, [], "f95b", "M383.88,287.82l64-192H338.47a70.2,70.2,0,0,1-66.59-48,70.21,70.21,0,0,0-66.6-48H63.88l64,288Zm-384,192a32,32,0,0,0,32,32h448a32,32,0,0,0,32-32v-64H-.12Zm480-256H438.94l-21.33,64h14.27a16,16,0,0,1,0,32h-352a16,16,0,1,1,0-32H95.09l-14.22-64h-49a32,32,0,0,0-32,32v128h512v-128A32,32,0,0,0,479.88,223.82Z"]
+};
 var faBoxes = {
   prefix: 'fas',
   iconName: 'boxes',
@@ -9678,7 +10193,7 @@ var faBraille = {
 var faBrain = {
   prefix: 'fas',
   iconName: 'brain',
-  icon: [576, 512, [], "f5dc", "M208 0c-29.87 0-54.74 20.55-61.8 48.22-.75-.02-1.45-.22-2.2-.22-35.34 0-64 28.65-64 64 0 4.84.64 9.51 1.66 14.04C52.54 138 32 166.57 32 200c0 12.58 3.16 24.32 8.34 34.91C16.34 248.72 0 274.33 0 304c0 33.34 20.42 61.88 49.42 73.89-.9 4.57-1.42 9.28-1.42 14.11 0 39.76 32.23 72 72 72 4.12 0 8.1-.55 12.03-1.21C141.61 491.31 168.25 512 200 512c39.77 0 72-32.24 72-72V205.45c-10.91 8.98-23.98 15.45-38.36 18.39-4.97 1.02-9.64-2.82-9.64-7.89v-16.18c0-3.57 2.35-6.78 5.8-7.66 24.2-6.16 42.2-27.95 42.2-54.04V64c0-35.35-28.66-64-64-64zm368 304c0-29.67-16.34-55.28-40.34-69.09 5.17-10.59 8.34-22.33 8.34-34.91 0-33.43-20.54-62-49.66-73.96 1.02-4.53 1.66-9.2 1.66-14.04 0-35.35-28.66-64-64-64-.75 0-1.45.2-2.2.22C422.74 20.55 397.87 0 368 0c-35.34 0-64 28.65-64 64v74.07c0 26.09 17.99 47.88 42.2 54.04 3.46.88 5.8 4.09 5.8 7.66v16.18c0 5.07-4.68 8.91-9.64 7.89-14.38-2.94-27.44-9.41-38.36-18.39V440c0 39.76 32.23 72 72 72 31.75 0 58.39-20.69 67.97-49.21 3.93.67 7.91 1.21 12.03 1.21 39.77 0 72-32.24 72-72 0-4.83-.52-9.54-1.42-14.11 29-12.01 49.42-40.55 49.42-73.89z"]
+  icon: [576, 512, [], "f5dc", "M208 0c-29.9 0-54.7 20.5-61.8 48.2-.8 0-1.4-.2-2.2-.2-35.3 0-64 28.7-64 64 0 4.8.6 9.5 1.7 14C52.5 138 32 166.6 32 200c0 12.6 3.2 24.3 8.3 34.9C16.3 248.7 0 274.3 0 304c0 33.3 20.4 61.9 49.4 73.9-.9 4.6-1.4 9.3-1.4 14.1 0 39.8 32.2 72 72 72 4.1 0 8.1-.5 12-1.2 9.6 28.5 36.2 49.2 68 49.2 39.8 0 72-32.2 72-72V64c0-35.3-28.7-64-64-64zm368 304c0-29.7-16.3-55.3-40.3-69.1 5.2-10.6 8.3-22.3 8.3-34.9 0-33.4-20.5-62-49.7-74 1-4.5 1.7-9.2 1.7-14 0-35.3-28.7-64-64-64-.8 0-1.5.2-2.2.2C422.7 20.5 397.9 0 368 0c-35.3 0-64 28.6-64 64v376c0 39.8 32.2 72 72 72 31.8 0 58.4-20.7 68-49.2 3.9.7 7.9 1.2 12 1.2 39.8 0 72-32.2 72-72 0-4.8-.5-9.5-1.4-14.1 29-12 49.4-40.6 49.4-73.9z"]
 };
 var faBreadSlice = {
   prefix: 'fas',
@@ -9850,6 +10365,11 @@ var faCarSide = {
   iconName: 'car-side',
   icon: [640, 512, [], "f5e4", "M544 192h-16L419.22 56.02A64.025 64.025 0 0 0 369.24 32H155.33c-26.17 0-49.7 15.93-59.42 40.23L48 194.26C20.44 201.4 0 226.21 0 256v112c0 8.84 7.16 16 16 16h48c0 53.02 42.98 96 96 96s96-42.98 96-96h128c0 53.02 42.98 96 96 96s96-42.98 96-96h48c8.84 0 16-7.16 16-16v-80c0-53.02-42.98-96-96-96zM160 432c-26.47 0-48-21.53-48-48s21.53-48 48-48 48 21.53 48 48-21.53 48-48 48zm72-240H116.93l38.4-96H232v96zm48 0V96h89.24l76.8 96H280zm200 240c-26.47 0-48-21.53-48-48s21.53-48 48-48 48 21.53 48 48-21.53 48-48 48z"]
 };
+var faCaravan = {
+  prefix: 'fas',
+  iconName: 'caravan',
+  icon: [640, 512, [], "f8ff", "M416,208a16,16,0,1,0,16,16A16,16,0,0,0,416,208ZM624,320H576V160A160,160,0,0,0,416,0H64A64,64,0,0,0,0,64V320a64,64,0,0,0,64,64H96a96,96,0,0,0,192,0H624a16,16,0,0,0,16-16V336A16,16,0,0,0,624,320ZM192,432a48,48,0,1,1,48-48A48.05,48.05,0,0,1,192,432Zm64-240a32,32,0,0,1-32,32H96a32,32,0,0,1-32-32V128A32,32,0,0,1,96,96H224a32,32,0,0,1,32,32ZM448,320H320V128a32,32,0,0,1,32-32h64a32,32,0,0,1,32,32Z"]
+};
 var faCaretDown = {
   prefix: 'fas',
   iconName: 'caret-down',
@@ -9988,42 +10508,42 @@ var faCheese = {
 var faChess = {
   prefix: 'fas',
   iconName: 'chess',
-  icon: [512, 512, [], "f439", "M76.1 210.2h103.7l34.6-95.1c2.8-7.8-3-16.1-11.3-16.1H152V68.8h21.6c3.3 0 6-2.7 6-6V40.4c0-3.3-2.7-6-6-6h-28.4V6c0-3.3-2.7-6-6-6h-22.4c-3.3 0-6 2.7-6 6v28.4H82.4c-3.3 0-6 2.7-6 6v22.4c0 3.3 2.7 6 6 6H104V99H52.8c-8.3 0-14.1 8.3-11.3 16.1zm237.2 90.7l24.9 17c.1 18.1-.2 63.9-11.9 114.5h147.5c-11.7-50.5-12-96.3-11.9-114.5l24.9-16.9c1.1-.7 1.7-1.9 1.7-3.2v-69.9c0-2.1-1.7-3.9-3.9-3.9h-27.7c-2.1 0-3.9 1.7-3.9 3.9v31.5h-22.7v-31.5c0-2.1-1.7-3.9-3.9-3.9h-52.9c-2.1 0-3.9 1.7-3.9 3.9v31.5h-22.7v-31.5c0-2.1-1.7-3.9-3.9-3.9h-27.7c-2.1 0-3.9 1.7-3.9 3.9v69.9c.2 1.2.8 2.4 1.9 3.1zm71.5 52c0-8.4 6.8-15.2 15.2-15.2s15.2 6.8 15.2 15.2v30.3h-30.3v-30.3zm119.8 117.2L491 459.4v-15.6c0-2.1-1.7-3.9-3.9-3.9H312.9c-2.1 0-3.9 1.7-3.9 3.9v15.6L295.3 470c-.9.7-1.5 1.9-1.5 3v35c0 2.1 1.7 3.9 3.9 3.9h204.5c2.1 0 3.9-1.7 3.9-3.9v-35c0-1.1-.5-2.2-1.5-2.9zm-259.8-10.8l-22.1-14.2V417c0-3.3-2.7-6-6-6H39.3c-3.3 0-6 2.7-6 6v28.1l-22.1 14.2c-1.7 1.1-2.8 3-2.8 5.1V506c0 3.3 2.7 6 6 6h227.2c3.3 0 6-2.7 6-6v-41.6c0-2.1-1-4-2.8-5.1zm-45-208.9c3.3 0 6-2.7 6-6v-20.8c0-3.3-2.7-6-6-6H56.2c-3.3 0-6 2.7-6 6v20.8c0 3.3 2.7 6 6 6H82c0 28.8 2.5 95.1-17.4 153.2h126.8c-19.6-57-17.4-121.5-17.4-153.2z"]
+  icon: [512, 512, [], "f439", "M74 208H64a16 16 0 0 0-16 16v16a16 16 0 0 0 16 16h15.94A535.78 535.78 0 0 1 64 384h128a535.78 535.78 0 0 1-15.94-128H192a16 16 0 0 0 16-16v-16a16 16 0 0 0-16-16h-10l33.89-90.38a16 16 0 0 0-15-21.62H144V64h24a8 8 0 0 0 8-8V40a8 8 0 0 0-8-8h-24V8a8 8 0 0 0-8-8h-16a8 8 0 0 0-8 8v24H88a8 8 0 0 0-8 8v16a8 8 0 0 0 8 8h24v32H55.09a16 16 0 0 0-15 21.62zm173.16 251.58L224 448v-16a16 16 0 0 0-16-16H48a16 16 0 0 0-16 16v16L8.85 459.58A16 16 0 0 0 0 473.89V496a16 16 0 0 0 16 16h224a16 16 0 0 0 16-16v-22.11a16 16 0 0 0-8.84-14.31zm92.77-157.78l-3.29 82.2h126.72l-3.29-82.21 24.6-20.79A32 32 0 0 0 496 256.54V198a6 6 0 0 0-6-6h-26.38a6 6 0 0 0-6 6v26h-24.71v-26a6 6 0 0 0-6-6H373.1a6 6 0 0 0-6 6v26h-24.71v-26a6 6 0 0 0-6-6H310a6 6 0 0 0-6 6v58.6a32 32 0 0 0 11.36 24.4zM384 304a16 16 0 0 1 32 0v32h-32zm119.16 155.58L480 448v-16a16 16 0 0 0-16-16H336a16 16 0 0 0-16 16v16l-23.15 11.58a16 16 0 0 0-8.85 14.31V496a16 16 0 0 0 16 16h192a16 16 0 0 0 16-16v-22.11a16 16 0 0 0-8.84-14.31z"]
 };
 var faChessBishop = {
   prefix: 'fas',
   iconName: 'chess-bishop',
-  icon: [320, 512, [], "f43a", "M123.158 77.881C107.369 72.53 96 57.597 96 40c0-22.091 17.909-40 40-40h47.796c22.091 0 40 17.909 40 40 0 17.541-11.295 32.434-27.005 37.829 23.993 16.657 48.577 46.839 68.703 82.05L144.929 280.443a6 6 0 0 0 0 8.485l14.142 14.142a6 6 0 0 0 8.485 0L280.9 189.726c17.758 38.297 29.371 79.443 29.371 114.273 0 53.786-22.897 75.788-58.446 86.033V448H68.174v-57.97C32.631 379.784 9.739 357.781 9.739 304c0-78.029 58.281-187.766 113.419-226.119zM320 500v-24c0-6.627-5.373-12-12-12H12c-6.627 0-12 5.373-12 12v24c0 6.627 5.373 12 12 12h296c6.627 0 12-5.373 12-12z"]
+  icon: [320, 512, [], "f43a", "M8 287.88c0 51.64 22.14 73.83 56 84.6V416h192v-43.52c33.86-10.77 56-33 56-84.6 0-30.61-10.73-67.1-26.69-102.56L185 285.65a8 8 0 0 1-11.31 0l-11.31-11.31a8 8 0 0 1 0-11.31L270.27 155.1c-20.8-37.91-46.47-72.1-70.87-92.59C213.4 59.09 224 47.05 224 32a32 32 0 0 0-32-32h-64a32 32 0 0 0-32 32c0 15 10.6 27.09 24.6 30.51C67.81 106.8 8 214.5 8 287.88zM304 448H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h288a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16z"]
 };
 var faChessBoard = {
   prefix: 'fas',
   iconName: 'chess-board',
-  icon: [512, 512, [], "f43c", "M192 256v64h64v-64zm320 64v-64h-64v64zM0 192v64h64v-64zm512 0v-64h-64v64zm0 256v-64h-64v64zM256 256h64v-64h-64zM0 512h64v-64H0zm128 0h64v-64h-64zM384 0h-64v64h64zM128 0H64v64h64zm128 512h64v-64h-64zM0 64v64h64V64zm0 256v64h64v-64zM256 0h-64v64h64zm128 512h64v-64h-64zM64 384v64h64v-64zm256 0v64h64v-64zm-64-192v-64h-64v64zm128 192h64v-64h-64zM128 256H64v64h64zm256 0h64v-64h-64zM512 0h-64v64h64zM128 128H64v64h64zm256-64v64h64V64zM192 384v64h64v-64zm-64-64v64h64v-64zm128 0v64h64v-64zm-64-128h-64v64h64zm128-64V64h-64v64zm-128 0V64h-64v64zm128 64h64v-64h-64zm0 128h64v-64h-64z"]
+  icon: [512, 512, [], "f43c", "M255.9.2h-64v64h64zM0 64.17v64h64v-64zM128 .2H64v64h64zm64 255.9v64h64v-64zM0 192.12v64h64v-64zM383.85.2h-64v64h64zm128 0h-64v64h64zM128 256.1H64v64h64zM511.8 448v-64h-64v64zm0-128v-64h-64v64zM383.85 512h64v-64h-64zm128-319.88v-64h-64v64zM128 512h64v-64h-64zM0 512h64v-64H0zm255.9 0h64v-64h-64zM0 320.07v64h64v-64zm319.88-191.92v-64h-64v64zm-64 128h64v-64h-64zm-64 128v64h64v-64zm128-64h64v-64h-64zm0-127.95h64v-64h-64zm0 191.93v64h64v-64zM64 384.05v64h64v-64zm128-255.9v-64h-64v64zm191.92 255.9h64v-64h-64zm-128-191.93v-64h-64v64zm128-127.95v64h64v-64zm-128 255.9v64h64v-64zm-64-127.95H128v64h64zm191.92 64h64v-64h-64zM128 128.15H64v64h64zm0 191.92v64h64v-64z"]
 };
 var faChessKing = {
   prefix: 'fas',
   iconName: 'chess-king',
-  icon: [448, 512, [], "f43f", "M416 476v24c0 6.627-5.373 12-12 12H44c-6.627 0-12-5.373-12-12v-24c0-6.627 5.373-12 12-12h360c6.627 0 12 5.373 12 12zm-8.033-324H248v-48h50a6 6 0 0 0 6-6V62a6 6 0 0 0-6-6h-50V6a6 6 0 0 0-6-6h-36a6 6 0 0 0-6 6v50h-50a6 6 0 0 0-6 6v36a6 6 0 0 0 6 6h50v48H40.033c-27.574 0-46.879 27.244-37.738 53.259L87.582 448h272.836l85.287-242.741C454.846 179.244 435.541 152 407.967 152z"]
+  icon: [448, 512, [], "f43f", "M400 448H48a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h352a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm16-288H256v-48h40a8 8 0 0 0 8-8V56a8 8 0 0 0-8-8h-40V8a8 8 0 0 0-8-8h-48a8 8 0 0 0-8 8v40h-40a8 8 0 0 0-8 8v48a8 8 0 0 0 8 8h40v48H32a32 32 0 0 0-30.52 41.54L74.56 416h298.88l73.08-214.46A32 32 0 0 0 416 160z"]
 };
 var faChessKnight = {
   prefix: 'fas',
   iconName: 'chess-knight',
-  icon: [384, 512, [], "f441", "M352 224v224H32v-46.557c0-30.302 17.12-58.003 44.223-71.554l57.243-28.622A48 48 0 0 0 160 258.334V208l-22.127 11.063a23.996 23.996 0 0 0-12.55 15.645l-11.835 47.338a12 12 0 0 1-7.185 8.231l-29.601 11.84a11.998 11.998 0 0 1-9.33-.176L7.126 275.167A12 12 0 0 1 0 264.201v-158.26c0-6.365 2.529-12.47 7.03-16.971L16 80 1.789 51.578A16.937 16.937 0 0 1 0 44c0-6.627 5.373-12 12-12h148c106.039 0 192 85.961 192 192zm20 240H12c-6.627 0-12 5.373-12 12v24c0 6.627 5.373 12 12 12h360c6.627 0 12-5.373 12-12v-24c0-6.627-5.373-12-12-12zM52 128c-11.046 0-20 8.954-20 20s8.954 20 20 20 20-8.954 20-20-8.954-20-20-20z"]
+  icon: [384, 512, [], "f441", "M19 272.47l40.63 18.06a32 32 0 0 0 24.88.47l12.78-5.12a32 32 0 0 0 18.76-20.5l9.22-30.65a24 24 0 0 1 12.55-15.65L159.94 208v50.33a48 48 0 0 1-26.53 42.94l-57.22 28.65A80 80 0 0 0 32 401.48V416h319.86V224c0-106-85.92-192-191.92-192H12A12 12 0 0 0 0 44a16.9 16.9 0 0 0 1.79 7.58L16 80l-9 9a24 24 0 0 0-7 17v137.21a32 32 0 0 0 19 29.26zM52 128a20 20 0 1 1-20 20 20 20 0 0 1 20-20zm316 320H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h352a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16z"]
 };
 var faChessPawn = {
   prefix: 'fas',
   iconName: 'chess-pawn',
-  icon: [320, 512, [], "f443", "M264 448H56s60-42.743 60-176H84c-6.627 0-12-5.373-12-12v-24c0-6.627 5.373-12 12-12h40.209C95.721 210.56 76 181.588 76 148c0-46.392 37.608-84 84-84s84 37.608 84 84c0 33.588-19.721 62.56-48.209 76H236c6.627 0 12 5.373 12 12v24c0 6.627-5.373 12-12 12h-32c0 133.257 60 176 60 176zm28 16H28c-6.627 0-12 5.373-12 12v24c0 6.627 5.373 12 12 12h264c6.627 0 12-5.373 12-12v-24c0-6.627-5.373-12-12-12z"]
+  icon: [320, 512, [], "f443", "M105.1 224H80a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h16v5.49c0 44-4.14 86.6-24 122.51h176c-19.89-35.91-24-78.51-24-122.51V288h16a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16h-25.1c29.39-18.38 49.1-50.78 49.1-88a104 104 0 0 0-208 0c0 37.22 19.71 69.62 49.1 88zM304 448H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h288a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16z"]
 };
 var faChessQueen = {
   prefix: 'fas',
   iconName: 'chess-queen',
-  icon: [512, 512, [], "f445", "M436 512H76c-6.627 0-12-5.373-12-12v-24c0-6.627 5.373-12 12-12h360c6.627 0 12 5.373 12 12v24c0 6.627-5.373 12-12 12zM255.579 0c-30.928 0-56 25.072-56 56s25.072 56 56 56 56-25.072 56-56-25.072-56-56-56zm204.568 154.634c-5.768-3.045-12.916-.932-16.082 4.77-8.616 15.516-22.747 37.801-44.065 37.801-28.714 0-30.625-19.804-31.686-57.542-.183-6.492-5.501-11.664-11.995-11.664h-41.006c-5.175 0-9.754 3.328-11.388 8.238-8.89 26.709-26.073 40.992-47.925 40.992s-39.034-14.283-47.925-40.992c-1.634-4.91-6.213-8.238-11.388-8.238h-41.005c-6.495 0-11.813 5.174-11.995 11.667-1.052 37.642-2.934 57.539-31.688 57.539-20.691 0-33.817-20.224-44.425-38.025-3.266-5.48-10.258-7.431-15.899-4.453l-39.179 20.679a12 12 0 0 0-5.51 15.145L112 448h288l105.014-257.448a12 12 0 0 0-5.51-15.145l-39.357-20.773z"]
+  icon: [512, 512, [], "f445", "M256 112a56 56 0 1 0-56-56 56 56 0 0 0 56 56zm176 336H80a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h352a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm72.87-263.84l-28.51-15.92c-7.44-5-16.91-2.46-22.29 4.68a47.59 47.59 0 0 1-47.23 18.23C383.7 186.86 368 164.93 368 141.4a13.4 13.4 0 0 0-13.4-13.4h-38.77c-6 0-11.61 4-12.86 9.91a48 48 0 0 1-93.94 0c-1.25-5.92-6.82-9.91-12.86-9.91H157.4a13.4 13.4 0 0 0-13.4 13.4c0 25.69-19 48.75-44.67 50.49a47.5 47.5 0 0 1-41.54-19.15c-5.28-7.09-14.73-9.45-22.09-4.54l-28.57 16a16 16 0 0 0-5.44 20.47L104.24 416h303.52l102.55-211.37a16 16 0 0 0-5.44-20.47z"]
 };
 var faChessRook = {
   prefix: 'fas',
   iconName: 'chess-rook',
-  icon: [384, 512, [], "f447", "M81.241 215.027C80.957 258.92 77.411 348.076 48 448h287.982c-29.4-99.604-32.936-188.912-33.221-232.975l45.418-42.312a11.998 11.998 0 0 0 3.82-8.78V44c0-6.627-5.373-12-12-12h-40c-6.627 0-12 5.373-12 12v44h-48V44c0-6.627-5.373-12-12-12h-72c-6.627 0-12 5.373-12 12v44H96V44c0-6.627-5.373-12-12-12H44c-6.627 0-12 5.373-12 12v119.932c0 3.33 1.384 6.51 3.82 8.78l45.421 42.315zM160 256c0-17.673 14.327-32 32-32 17.673 0 32 14.327 32 32v64.004h-64V256zm224 220v24c0 6.627-5.373 12-12 12H12c-6.627 0-12-5.373-12-12v-24c0-6.627 5.373-12 12-12h360c6.627 0 12 5.373 12 12z"]
+  icon: [384, 512, [], "f447", "M368 32h-56a16 16 0 0 0-16 16v48h-48V48a16 16 0 0 0-16-16h-80a16 16 0 0 0-16 16v48H88.1V48a16 16 0 0 0-16-16H16A16 16 0 0 0 0 48v176l64 32c0 48.33-1.54 95-13.21 160h282.42C321.54 351 320 303.72 320 256l64-32V48a16 16 0 0 0-16-16zM224 320h-64v-64a32 32 0 0 1 64 0zm144 128H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h352a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16z"]
 };
 var faChevronCircleDown = {
   prefix: 'fas',
@@ -10113,7 +10633,7 @@ var faClipboardList = {
 var faClock = {
   prefix: 'fas',
   iconName: 'clock',
-  icon: [512, 512, [], "f017", "M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm57.1 350.1L224.9 294c-3.1-2.3-4.9-5.9-4.9-9.7V116c0-6.6 5.4-12 12-12h48c6.6 0 12 5.4 12 12v137.7l63.5 46.2c5.4 3.9 6.5 11.4 2.6 16.8l-28.2 38.8c-3.9 5.3-11.4 6.5-16.8 2.6z"]
+  icon: [512, 512, [], "f017", "M256,8C119,8,8,119,8,256S119,504,256,504,504,393,504,256,393,8,256,8Zm92.49,313h0l-20,25a16,16,0,0,1-22.49,2.5h0l-67-49.72a40,40,0,0,1-15-31.23V112a16,16,0,0,1,16-16h32a16,16,0,0,1,16,16V256l58,42.5A16,16,0,0,1,348.49,321Z"]
 };
 var faClone = {
   prefix: 'fas',
@@ -10269,6 +10789,11 @@ var faCompress = {
   prefix: 'fas',
   iconName: 'compress',
   icon: [448, 512, [], "f066", "M436 192H312c-13.3 0-24-10.7-24-24V44c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v84h84c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12zm-276-24V44c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v84H12c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h124c13.3 0 24-10.7 24-24zm0 300V344c0-13.3-10.7-24-24-24H12c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h84v84c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm192 0v-84h84c6.6 0 12-5.4 12-12v-40c0-6.6-5.4-12-12-12H312c-13.3 0-24 10.7-24 24v124c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12z"]
+};
+var faCompressAlt = {
+  prefix: 'fas',
+  iconName: 'compress-alt',
+  icon: [448, 512, [], "f422", "M4.686 427.314L104 328l-32.922-31.029C55.958 281.851 66.666 256 88.048 256h112C213.303 256 224 266.745 224 280v112c0 21.382-25.803 32.09-40.922 16.971L152 376l-99.314 99.314c-6.248 6.248-16.379 6.248-22.627 0L4.686 449.941c-6.248-6.248-6.248-16.379 0-22.627zM443.314 84.686L344 184l32.922 31.029c15.12 15.12 4.412 40.971-16.97 40.971h-112C234.697 256 224 245.255 224 232V120c0-21.382 25.803-32.09 40.922-16.971L296 136l99.314-99.314c6.248-6.248 16.379-6.248 22.627 0l25.373 25.373c6.248 6.248 6.248 16.379 0 22.627z"]
 };
 var faCompressArrowsAlt = {
   prefix: 'fas',
@@ -10445,6 +10970,11 @@ var faDirections = {
   iconName: 'directions',
   icon: [512, 512, [], "f5eb", "M502.61 233.32L278.68 9.39c-12.52-12.52-32.83-12.52-45.36 0L9.39 233.32c-12.52 12.53-12.52 32.83 0 45.36l223.93 223.93c12.52 12.53 32.83 12.53 45.36 0l223.93-223.93c12.52-12.53 12.52-32.83 0-45.36zm-100.98 12.56l-84.21 77.73c-5.12 4.73-13.43 1.1-13.43-5.88V264h-96v64c0 4.42-3.58 8-8 8h-32c-4.42 0-8-3.58-8-8v-80c0-17.67 14.33-32 32-32h112v-53.73c0-6.97 8.3-10.61 13.43-5.88l84.21 77.73c3.43 3.17 3.43 8.59 0 11.76z"]
 };
+var faDisease = {
+  prefix: 'fas',
+  iconName: 'disease',
+  icon: [512, 512, [], "f7fa", "M472.29 195.9l-67.06-23c-19.28-6.6-33.54-20.92-38.14-38.31l-16-60.45c-11.58-43.77-76.57-57.13-110-22.62L195 99.24c-13.26 13.71-33.54 20.93-54.2 19.31l-71.9-5.62c-52-4.07-86.93 44.89-59 82.84l38.54 52.42c11.08 15.07 12.82 33.86 4.64 50.24l-28.43 57C4 396.67 47.46 440.29 98.11 429.23l70-15.28c20.11-4.39 41.45 0 57.07 11.73l54.32 40.83c39.32 29.56 101 7.57 104.45-37.22l4.7-61.86c1.35-17.8 12.8-33.87 30.63-43l62-31.74c44.84-22.96 39.55-80.17-8.99-96.79zM160 256a32 32 0 1 1 32-32 32 32 0 0 1-32 32zm128 96a32 32 0 1 1 32-32 32 32 0 0 1-32 32zm16-128a16 16 0 1 1 16-16 16 16 0 0 1-16 16z"]
+};
 var faDivide = {
   prefix: 'fas',
   iconName: 'divide',
@@ -10463,7 +10993,7 @@ var faDna = {
 var faDog = {
   prefix: 'fas',
   iconName: 'dog',
-  icon: [512, 512, [], "f6d3", "M496 96h-64l-7.16-14.31A32 32 0 0 0 396.22 64H342.6l-27.28-27.28C305.23 26.64 288 33.78 288 48.03v149.84l128 45.71V208h32c35.35 0 64-28.65 64-64v-32c0-8.84-7.16-16-16-16zm-112 48c-8.84 0-16-7.16-16-16s7.16-16 16-16 16 7.16 16 16-7.16 16-16 16zM96 224c-17.64 0-32-14.36-32-32 0-17.67-14.33-32-32-32S0 174.33 0 192c0 41.66 26.83 76.85 64 90.1V496c0 8.84 7.16 16 16 16h64c8.84 0 16-7.16 16-16V384h160v112c0 8.84 7.16 16 16 16h64c8.84 0 16-7.16 16-16V277.55L266.05 224H96z"]
+  icon: [576, 512, [], "f6d3", "M298.06,224,448,277.55V496a16,16,0,0,1-16,16H368a16,16,0,0,1-16-16V384H192V496a16,16,0,0,1-16,16H112a16,16,0,0,1-16-16V282.09C58.84,268.84,32,233.66,32,192a32,32,0,0,1,64,0,32.06,32.06,0,0,0,32,32ZM544,112v32a64,64,0,0,1-64,64H448v35.58L320,197.87V48c0-14.25,17.22-21.39,27.31-11.31L374.59,64h53.63c10.91,0,23.75,7.92,28.62,17.69L464,96h64A16,16,0,0,1,544,112Zm-112,0a16,16,0,1,0-16,16A16,16,0,0,0,432,112Z"]
 };
 var faDollarSign = {
   prefix: 'fas',
@@ -10528,7 +11058,7 @@ var faDrawPolygon = {
 var faDrum = {
   prefix: 'fas',
   iconName: 'drum',
-  icon: [576, 512, [], "f569", "M458.08 120.88l102.39-61.43c15.16-9.09 20.06-28.75 10.97-43.91C562.34.39 542.7-4.53 527.53 4.57l-160.69 96.41A629.32 629.32 0 0 0 288 96C128.94 96 0 153.31 0 224v160.83c0 30.46 24.03 58.4 64 80.37v-96.37c0-17.6 14.4-32 32-32s32 14.4 32 32v122.41c37.4 11.13 81 18.44 128 20.75V400.84c0-17.6 14.4-32 32-32s32 14.4 32 32V512c47-2.31 90.6-9.62 128-20.75V368.84c0-17.6 14.4-32 32-32s32 14.4 32 32v96.37c39.97-21.97 64-49.91 64-80.37V224.01c-.01-42.38-46.54-79.84-117.92-103.13zM288 304c-132.55 0-240-35.82-240-80s107.45-80 240-80c2.34 0 4.62.1 6.94.12l-87.41 52.44c-15.16 9.09-20.06 28.75-10.97 43.91 9.56 15.93 29.51 19.61 43.91 10.97l162.71-97.62C477.55 167.41 528 193.74 528 224.01 528 268.19 420.54 304 288 304z"]
+  icon: [512, 512, [], "f569", "M431.34 122.05l73.53-47.42a16 16 0 0 0 4.44-22.19l-8.87-13.31a16 16 0 0 0-22.19-4.44l-110.06 71C318.43 96.91 271.22 96 256 96 219.55 96 0 100.55 0 208.15v160.23c0 30.27 27.5 57.68 72 77.86v-101.9a24 24 0 1 1 48 0v118.93c33.05 9.11 71.07 15.06 112 16.73V376.39a24 24 0 1 1 48 0V480c40.93-1.67 78.95-7.62 112-16.73V344.34a24 24 0 1 1 48 0v101.9c44.5-20.18 72-47.59 72-77.86V208.15c0-43.32-35.76-69.76-80.66-86.1zM256 272.24c-114.88 0-208-28.69-208-64.09s93.12-64.08 208-64.08c17.15 0 33.73.71 49.68 1.91l-72.81 47a16 16 0 0 0-4.43 22.19l8.87 13.31a16 16 0 0 0 22.19 4.44l118.64-76.52C430.09 168 464 186.84 464 208.15c0 35.4-93.13 64.09-208 64.09z"]
 };
 var faDrumSteelpan = {
   prefix: 'fas',
@@ -10650,6 +11180,11 @@ var faExpand = {
   iconName: 'expand',
   icon: [448, 512, [], "f065", "M0 180V56c0-13.3 10.7-24 24-24h124c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12H64v84c0 6.6-5.4 12-12 12H12c-6.6 0-12-5.4-12-12zM288 44v40c0 6.6 5.4 12 12 12h84v84c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12V56c0-13.3-10.7-24-24-24H300c-6.6 0-12 5.4-12 12zm148 276h-40c-6.6 0-12 5.4-12 12v84h-84c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h124c13.3 0 24-10.7 24-24V332c0-6.6-5.4-12-12-12zM160 468v-40c0-6.6-5.4-12-12-12H64v-84c0-6.6-5.4-12-12-12H12c-6.6 0-12 5.4-12 12v124c0 13.3 10.7 24 24 24h124c6.6 0 12-5.4 12-12z"]
 };
+var faExpandAlt = {
+  prefix: 'fas',
+  iconName: 'expand-alt',
+  icon: [448, 512, [], "f424", "M212.686 315.314L120 408l32.922 31.029c15.12 15.12 4.412 40.971-16.97 40.971h-112C10.697 480 0 469.255 0 456V344c0-21.382 25.803-32.09 40.922-16.971L72 360l92.686-92.686c6.248-6.248 16.379-6.248 22.627 0l25.373 25.373c6.249 6.248 6.249 16.378 0 22.627zm22.628-118.628L328 104l-32.922-31.029C279.958 57.851 290.666 32 312.048 32h112C437.303 32 448 42.745 448 56v112c0 21.382-25.803 32.09-40.922 16.971L376 152l-92.686 92.686c-6.248 6.248-16.379 6.248-22.627 0l-25.373-25.373c-6.249-6.248-6.249-16.378 0-22.627z"]
+};
 var faExpandArrowsAlt = {
   prefix: 'fas',
   iconName: 'expand-arrows-alt',
@@ -10658,7 +11193,7 @@ var faExpandArrowsAlt = {
 var faExternalLinkAlt = {
   prefix: 'fas',
   iconName: 'external-link-alt',
-  icon: [576, 512, [], "f35d", "M576 24v127.984c0 21.461-25.96 31.98-40.971 16.971l-35.707-35.709-243.523 243.523c-9.373 9.373-24.568 9.373-33.941 0l-22.627-22.627c-9.373-9.373-9.373-24.569 0-33.941L442.756 76.676l-35.703-35.705C391.982 25.9 402.656 0 424.024 0H552c13.255 0 24 10.745 24 24zM407.029 270.794l-16 16A23.999 23.999 0 0 0 384 303.765V448H64V128h264a24.003 24.003 0 0 0 16.97-7.029l16-16C376.089 89.851 365.381 64 344 64H48C21.49 64 0 85.49 0 112v352c0 26.51 21.49 48 48 48h352c26.51 0 48-21.49 48-48V287.764c0-21.382-25.852-32.09-40.971-16.97z"]
+  icon: [512, 512, [], "f35d", "M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"]
 };
 var faExternalLinkSquareAlt = {
   prefix: 'fas',
@@ -10680,6 +11215,11 @@ var faEyeSlash = {
   iconName: 'eye-slash',
   icon: [640, 512, [], "f070", "M320 400c-75.85 0-137.25-58.71-142.9-133.11L72.2 185.82c-13.79 17.3-26.48 35.59-36.72 55.59a32.35 32.35 0 0 0 0 29.19C89.71 376.41 197.07 448 320 448c26.91 0 52.87-4 77.89-10.46L346 397.39a144.13 144.13 0 0 1-26 2.61zm313.82 58.1l-110.55-85.44a331.25 331.25 0 0 0 81.25-102.07 32.35 32.35 0 0 0 0-29.19C550.29 135.59 442.93 64 320 64a308.15 308.15 0 0 0-147.32 37.7L45.46 3.37A16 16 0 0 0 23 6.18L3.37 31.45A16 16 0 0 0 6.18 53.9l588.36 454.73a16 16 0 0 0 22.46-2.81l19.64-25.27a16 16 0 0 0-2.82-22.45zm-183.72-142l-39.3-30.38A94.75 94.75 0 0 0 416 256a94.76 94.76 0 0 0-121.31-92.21A47.65 47.65 0 0 1 304 192a46.64 46.64 0 0 1-1.54 10l-73.61-56.89A142.31 142.31 0 0 1 320 112a143.92 143.92 0 0 1 144 144c0 21.63-5.29 41.79-13.9 60.11z"]
 };
+var faFan = {
+  prefix: 'fas',
+  iconName: 'fan',
+  icon: [512, 512, [], "f863", "M352.57 128c-28.09 0-54.09 4.52-77.06 12.86l12.41-123.11C289 7.31 279.81-1.18 269.33.13 189.63 10.13 128 77.64 128 159.43c0 28.09 4.52 54.09 12.86 77.06L17.75 224.08C7.31 223-1.18 232.19.13 242.67c10 79.7 77.51 141.33 159.3 141.33 28.09 0 54.09-4.52 77.06-12.86l-12.41 123.11c-1.05 10.43 8.11 18.93 18.59 17.62 79.7-10 141.33-77.51 141.33-159.3 0-28.09-4.52-54.09-12.86-77.06l123.11 12.41c10.44 1.05 18.93-8.11 17.62-18.59-10-79.7-77.51-141.33-159.3-141.33zM256 288a32 32 0 1 1 32-32 32 32 0 0 1-32 32z"]
+};
 var faFastBackward = {
   prefix: 'fas',
   iconName: 'fast-backward',
@@ -10690,10 +11230,15 @@ var faFastForward = {
   iconName: 'fast-forward',
   icon: [512, 512, [], "f050", "M512 76v360c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12V284.1L276.5 440.6c-20.6 17.2-52.5 2.8-52.5-24.6V284.1L52.5 440.6C31.9 457.8 0 443.4 0 416V96c0-27.4 31.9-41.7 52.5-24.6L224 226.8V96c0-27.4 31.9-41.7 52.5-24.6L448 226.8V76c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12z"]
 };
+var faFaucet = {
+  prefix: 'fas',
+  iconName: 'faucet',
+  icon: [512, 512, [], "f905", "M352,256H313.39c-15.71-13.44-35.46-23.07-57.39-28V180.44l-32-3.38-32,3.38V228c-21.93,5-41.68,14.6-57.39,28H16A16,16,0,0,0,0,272v96a16,16,0,0,0,16,16h92.79C129.38,421.73,173,448,224,448s94.62-26.27,115.21-64H352a32,32,0,0,1,32,32,32,32,0,0,0,32,32h64a32,32,0,0,0,32-32A160,160,0,0,0,352,256ZM81.59,159.91l142.41-15,142.41,15c9.42,1,17.59-6.81,17.59-16.8V112.89c0-10-8.17-17.8-17.59-16.81L256,107.74V80a16,16,0,0,0-16-16H208a16,16,0,0,0-16,16v27.74L81.59,96.08C72.17,95.09,64,102.9,64,112.89v30.22C64,153.1,72.17,160.91,81.59,159.91Z"]
+};
 var faFax = {
   prefix: 'fas',
   iconName: 'fax',
-  icon: [512, 512, [], "f1ac", "M64 128H32c-17.67 0-32 14.33-32 32v320c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V160c0-17.67-14.33-32-32-32zm416 32V77.25c0-8.49-3.37-16.62-9.37-22.63L425.37 9.37c-6-6-14.14-9.37-22.63-9.37H160c-17.67 0-32 14.33-32 32v448c0 17.67 14.33 32 32 32h320c17.67 0 32-14.33 32-32V192c0-17.67-14.33-32-32-32zM288 432c0 8.84-7.16 16-16 16h-32c-8.84 0-16-7.16-16-16v-32c0-8.84 7.16-16 16-16h32c8.84 0 16 7.16 16 16v32zm0-128c0 8.84-7.16 16-16 16h-32c-8.84 0-16-7.16-16-16v-32c0-8.84 7.16-16 16-16h32c8.84 0 16 7.16 16 16v32zm128 128c0 8.84-7.16 16-16 16h-32c-8.84 0-16-7.16-16-16v-32c0-8.84 7.16-16 16-16h32c8.84 0 16 7.16 16 16v32zm0-128c0 8.84-7.16 16-16 16h-32c-8.84 0-16-7.16-16-16v-32c0-8.84 7.16-16 16-16h32c8.84 0 16 7.16 16 16v32zm16-112H176V48h208v32c0 8.84 7.16 16 16 16h32v96z"]
+  icon: [512, 512, [], "f1ac", "M480 160V77.25a32 32 0 0 0-9.38-22.63L425.37 9.37A32 32 0 0 0 402.75 0H160a32 32 0 0 0-32 32v448a32 32 0 0 0 32 32h320a32 32 0 0 0 32-32V192a32 32 0 0 0-32-32zM288 432a16 16 0 0 1-16 16h-32a16 16 0 0 1-16-16v-32a16 16 0 0 1 16-16h32a16 16 0 0 1 16 16zm0-128a16 16 0 0 1-16 16h-32a16 16 0 0 1-16-16v-32a16 16 0 0 1 16-16h32a16 16 0 0 1 16 16zm128 128a16 16 0 0 1-16 16h-32a16 16 0 0 1-16-16v-32a16 16 0 0 1 16-16h32a16 16 0 0 1 16 16zm0-128a16 16 0 0 1-16 16h-32a16 16 0 0 1-16-16v-32a16 16 0 0 1 16-16h32a16 16 0 0 1 16 16zm0-112H192V64h160v48a16 16 0 0 0 16 16h48zM64 128H32a32 32 0 0 0-32 32v320a32 32 0 0 0 32 32h32a32 32 0 0 0 32-32V160a32 32 0 0 0-32-32z"]
 };
 var faFeather = {
   prefix: 'fas',
@@ -10928,12 +11473,12 @@ var faFolderOpen = {
 var faFolderPlus = {
   prefix: 'fas',
   iconName: 'folder-plus',
-  icon: [512, 512, [], "f65e", "M464 128H272l-64-64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V176c0-26.51-21.49-48-48-48zm-96 168c0 8.84-7.16 16-16 16h-72v72c0 8.84-7.16 16-16 16h-16c-8.84 0-16-7.16-16-16v-72h-72c-8.84 0-16-7.16-16-16v-16c0-8.84 7.16-16 16-16h72v-72c0-8.84 7.16-16 16-16h16c8.84 0 16 7.16 16 16v72h72c8.84 0 16 7.16 16 16v16z"]
+  icon: [512, 512, [], "f65e", "M464,128H272L208,64H48A48,48,0,0,0,0,112V400a48,48,0,0,0,48,48H464a48,48,0,0,0,48-48V176A48,48,0,0,0,464,128ZM359.5,296a16,16,0,0,1-16,16h-64v64a16,16,0,0,1-16,16h-16a16,16,0,0,1-16-16V312h-64a16,16,0,0,1-16-16V280a16,16,0,0,1,16-16h64V200a16,16,0,0,1,16-16h16a16,16,0,0,1,16,16v64h64a16,16,0,0,1,16,16Z"]
 };
 var faFont = {
   prefix: 'fas',
   iconName: 'font',
-  icon: [448, 512, [], "f031", "M432 416h-26.7L275.5 42.7c-2.2-6.4-8.3-10.7-15.1-10.7h-72.8c-6.8 0-12.9 4.3-15.1 10.7L42.7 416H16c-8.8 0-16 7.2-16 16v32c0 8.8 7.2 16 16 16h136c8.8 0 16-7.2 16-16v-32c0-8.8-7.2-16-16-16h-24l26.6-80.8h138.2l26.6 80.8H296c-8.8 0-16 7.2-16 16v32c0 8.8 7.2 16 16 16h136c8.8 0 16-7.2 16-16v-32c0-8.8-7.2-16-16-16zM174.4 268.3l42-124.1c4.3-15.2 6.6-28.2 7.6-34.6.8 6.5 2.9 19.5 7.7 34.7l41.3 124z"]
+  icon: [448, 512, [], "f031", "M432 416h-23.41L277.88 53.69A32 32 0 0 0 247.58 32h-47.16a32 32 0 0 0-30.3 21.69L39.41 416H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h128a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16h-19.58l23.3-64h152.56l23.3 64H304a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h128a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zM176.85 272L224 142.51 271.15 272z"]
 };
 var faFontAwesomeLogoFull = {
   prefix: 'fas',
@@ -10978,7 +11523,7 @@ var faFutbol = {
 var faGamepad = {
   prefix: 'fas',
   iconName: 'gamepad',
-  icon: [640, 512, [], "f11b", "M480 96H160C71.6 96 0 167.6 0 256s71.6 160 160 160c44.8 0 85.2-18.4 114.2-48h91.5c29 29.6 69.5 48 114.2 48 88.4 0 160-71.6 160-160S568.4 96 480 96zM256 276c0 6.6-5.4 12-12 12h-52v52c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-52H76c-6.6 0-12-5.4-12-12v-40c0-6.6 5.4-12 12-12h52v-52c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v52h52c6.6 0 12 5.4 12 12v40zm184 68c-26.5 0-48-21.5-48-48s21.5-48 48-48 48 21.5 48 48-21.5 48-48 48zm80-80c-26.5 0-48-21.5-48-48s21.5-48 48-48 48 21.5 48 48-21.5 48-48 48z"]
+  icon: [640, 512, [], "f11b", "M480.07 96H160a160 160 0 1 0 114.24 272h91.52A160 160 0 1 0 480.07 96zM248 268a12 12 0 0 1-12 12h-52v52a12 12 0 0 1-12 12h-24a12 12 0 0 1-12-12v-52H84a12 12 0 0 1-12-12v-24a12 12 0 0 1 12-12h52v-52a12 12 0 0 1 12-12h24a12 12 0 0 1 12 12v52h52a12 12 0 0 1 12 12zm216 76a40 40 0 1 1 40-40 40 40 0 0 1-40 40zm64-96a40 40 0 1 1 40-40 40 40 0 0 1-40 40z"]
 };
 var faGasPump = {
   prefix: 'fas',
@@ -11183,7 +11728,7 @@ var faGripVertical = {
 var faGuitar = {
   prefix: 'fas',
   iconName: 'guitar',
-  icon: [512, 512, [], "f7a6", "M502.6 54.6L457.4 9.4c-12.5-12.5-32.8-12.5-45.3 0l-67.9 67.9c-12.5 12.5-12.5 32.8 0 45.3L290 176.7c-45.4-29-100.4-28.9-133.5 4.2-9.7 9.7-16.4 21.2-20.5 33.9-6.1 18.8-23.5 33.1-42.7 34.9-24 2.3-46.3 11.6-63.4 28.8C-16.3 324.6-8 407.6 48.2 463.8c56.2 56.2 139.2 64.4 185.3 18.3 17.2-17.1 26.5-39.4 28.8-63.5 1.8-19.1 16.1-36.6 34.9-42.7 12.7-4.1 24.2-10.8 33.9-20.5 33.1-33.1 33.1-88.1 4.2-133.5l54.2-54.2c12.5 12.5 32.8 12.5 45.3 0l67.9-67.9c12.4-12.4 12.4-32.7-.1-45.2zM208 352c-26.5 0-48-21.5-48-48s21.5-48 48-48 48 21.5 48 48-21.5 48-48 48z"]
+  icon: [512, 512, [], "f7a6", "M502.63 39L473 9.37a32 32 0 0 0-45.26 0L381.46 55.7a35.14 35.14 0 0 0-8.53 13.79L360.77 106l-76.26 76.26c-12.16-8.76-25.5-15.74-40.1-19.14-33.45-7.78-67-.88-89.88 22a82.45 82.45 0 0 0-20.24 33.47c-6 18.56-23.21 32.69-42.15 34.46-23.7 2.27-45.73 11.45-62.61 28.44C-16.11 327-7.9 409 47.58 464.45S185 528 230.56 482.52c17-16.88 26.16-38.9 28.45-62.71 1.76-18.85 15.89-36.13 34.43-42.14a82.6 82.6 0 0 0 33.48-20.25c22.87-22.88 29.74-56.36 22-89.75-3.39-14.64-10.37-28-19.16-40.2L406 151.23l36.48-12.16a35.14 35.14 0 0 0 13.79-8.53l46.33-46.32a32 32 0 0 0 .03-45.22zM208 352a48 48 0 1 1 48-48 48 48 0 0 1-48 48z"]
 };
 var faHSquare = {
   prefix: 'fas',
@@ -11215,10 +11760,20 @@ var faHandHoldingHeart = {
   iconName: 'hand-holding-heart',
   icon: [576, 512, [], "f4be", "M275.3 250.5c7 7.4 18.4 7.4 25.5 0l108.9-114.2c31.6-33.2 29.8-88.2-5.6-118.8-30.8-26.7-76.7-21.9-104.9 7.7L288 36.9l-11.1-11.6C248.7-4.4 202.8-9.2 172 17.5c-35.3 30.6-37.2 85.6-5.6 118.8l108.9 114.2zm290 77.6c-11.8-10.7-30.2-10-42.6 0L430.3 402c-11.3 9.1-25.4 14-40 14H272c-8.8 0-16-7.2-16-16s7.2-16 16-16h78.3c15.9 0 30.7-10.9 33.3-26.6 3.3-20-12.1-37.4-31.6-37.4H192c-27 0-53.1 9.3-74.1 26.3L71.4 384H16c-8.8 0-16 7.2-16 16v96c0 8.8 7.2 16 16 16h356.8c14.5 0 28.6-4.9 40-14L564 377c15.2-12.1 16.4-35.3 1.3-48.9z"]
 };
+var faHandHoldingMedical = {
+  prefix: 'fas',
+  iconName: 'hand-holding-medical',
+  icon: [576, 512, [], "f95c", "M159.88,175.82h64v64a16,16,0,0,0,16,16h64a16,16,0,0,0,16-16v-64h64a16,16,0,0,0,16-16v-64a16,16,0,0,0-16-16h-64v-64a16,16,0,0,0-16-16h-64a16,16,0,0,0-16,16v64h-64a16,16,0,0,0-16,16v64A16,16,0,0,0,159.88,175.82ZM568.07,336.13a39.91,39.91,0,0,0-55.93-8.47L392.47,415.84H271.86a16,16,0,0,1,0-32H350.1c16,0,30.75-10.87,33.37-26.61a32.06,32.06,0,0,0-31.62-37.38h-160a117.7,117.7,0,0,0-74.12,26.25l-46.5,37.74H15.87a16.11,16.11,0,0,0-16,16v96a16.11,16.11,0,0,0,16,16h347a104.8,104.8,0,0,0,61.7-20.27L559.6,392A40,40,0,0,0,568.07,336.13Z"]
+};
 var faHandHoldingUsd = {
   prefix: 'fas',
   iconName: 'hand-holding-usd',
-  icon: [544, 512, [], "f4c0", "M257.6 144.3l50 14.3c3.6 1 6.1 4.4 6.1 8.1 0 4.6-3.8 8.4-8.4 8.4h-32.8c-3.6 0-7.1-.8-10.3-2.2-4.8-2.2-10.4-1.7-14.1 2l-17.5 17.5c-5.3 5.3-4.7 14.3 1.5 18.4 9.5 6.3 20.3 10.1 31.8 11.5V240c0 8.8 7.2 16 16 16h16c8.8 0 16-7.2 16-16v-17.6c30.3-3.6 53.3-31 49.3-63-2.9-23-20.7-41.3-42.9-47.7l-50-14.3c-3.6-1-6.1-4.4-6.1-8.1 0-4.6 3.8-8.4 8.4-8.4h32.8c3.6 0 7.1.8 10.3 2.2 4.8 2.2 10.4 1.7 14.1-2l17.5-17.5c5.3-5.3 4.7-14.3-1.5-18.4-9.5-6.3-20.3-10.1-31.8-11.5V16c0-8.8-7.2-16-16-16h-16c-8.8 0-16 7.2-16 16v17.6c-30.3 3.6-53.3 31-49.3 63 2.9 23 20.7 41.3 42.9 47.7zm276.3 183.8c-11.2-10.7-28.5-10-40.3 0L406.4 402c-10.7 9.1-24 14-37.8 14H256.9c-8.3 0-15.1-7.2-15.1-16s6.8-16 15.1-16h73.9c15.1 0 29-10.9 31.4-26.6 3.1-20-11.5-37.4-29.8-37.4H181.3c-25.5 0-50.2 9.3-69.9 26.3L67.5 384H15.1C6.8 384 0 391.2 0 400v96c0 8.8 6.8 16 15.1 16H352c13.7 0 27-4.9 37.8-14l142.8-121c14.4-12.1 15.5-35.3 1.3-48.9z"]
+  icon: [576, 512, [], "f4c0", "M271.06,144.3l54.27,14.3a8.59,8.59,0,0,1,6.63,8.1c0,4.6-4.09,8.4-9.12,8.4h-35.6a30,30,0,0,1-11.19-2.2c-5.24-2.2-11.28-1.7-15.3,2l-19,17.5a11.68,11.68,0,0,0-2.25,2.66,11.42,11.42,0,0,0,3.88,15.74,83.77,83.77,0,0,0,34.51,11.5V240c0,8.8,7.83,16,17.37,16h17.37c9.55,0,17.38-7.2,17.38-16V222.4c32.93-3.6,57.84-31,53.5-63-3.15-23-22.46-41.3-46.56-47.7L282.68,97.4a8.59,8.59,0,0,1-6.63-8.1c0-4.6,4.09-8.4,9.12-8.4h35.6A30,30,0,0,1,332,83.1c5.23,2.2,11.28,1.7,15.3-2l19-17.5A11.31,11.31,0,0,0,368.47,61a11.43,11.43,0,0,0-3.84-15.78,83.82,83.82,0,0,0-34.52-11.5V16c0-8.8-7.82-16-17.37-16H295.37C285.82,0,278,7.2,278,16V33.6c-32.89,3.6-57.85,31-53.51,63C227.63,119.6,247,137.9,271.06,144.3ZM565.27,328.1c-11.8-10.7-30.2-10-42.6,0L430.27,402a63.64,63.64,0,0,1-40,14H272a16,16,0,0,1,0-32h78.29c15.9,0,30.71-10.9,33.25-26.6a31.2,31.2,0,0,0,.46-5.46A32,32,0,0,0,352,320H192a117.66,117.66,0,0,0-74.1,26.29L71.4,384H16A16,16,0,0,0,0,400v96a16,16,0,0,0,16,16H372.77a64,64,0,0,0,40-14L564,377a32,32,0,0,0,1.28-48.9Z"]
+};
+var faHandHoldingWater = {
+  prefix: 'fas',
+  iconName: 'hand-holding-water',
+  icon: [576, 512, [], "f4c1", "M288 256c53 0 96-42.1 96-94 0-40-57.1-120.7-83.2-155.6-6.4-8.5-19.2-8.5-25.6 0C249.1 41.3 192 122 192 162c0 51.9 43 94 96 94zm277.3 72.1c-11.8-10.7-30.2-10-42.6 0L430.3 402c-11.3 9.1-25.4 14-40 14H272c-8.8 0-16-7.2-16-16s7.2-16 16-16h78.3c15.9 0 30.7-10.9 33.3-26.6 3.3-20-12.1-37.4-31.6-37.4H192c-27 0-53.1 9.3-74.1 26.3L71.4 384H16c-8.8 0-16 7.2-16 16v96c0 8.8 7.2 16 16 16h356.8c14.5 0 28.6-4.9 40-14L564 377c15.2-12.1 16.4-35.3 1.3-48.9z"]
 };
 var faHandLizard = {
   prefix: 'fas',
@@ -11275,10 +11830,15 @@ var faHandScissors = {
   iconName: 'hand-scissors',
   icon: [512, 512, [], "f257", "M216 440c0-22.092 17.909-40 40-40v-8h-32c-22.091 0-40-17.908-40-40s17.909-40 40-40h32v-8H48c-26.51 0-48-21.49-48-48s21.49-48 48-48h208v-13.572l-177.551-69.74c-24.674-9.694-36.818-37.555-27.125-62.228 9.693-24.674 37.554-36.817 62.228-27.124l190.342 74.765 24.872-31.09c12.306-15.381 33.978-19.515 51.081-9.741l112 64A40.002 40.002 0 0 1 512 168v240c0 18.562-12.77 34.686-30.838 38.937l-136 32A39.982 39.982 0 0 1 336 480h-80c-22.091 0-40-17.908-40-40z"]
 };
+var faHandSparkles = {
+  prefix: 'fas',
+  iconName: 'hand-sparkles',
+  icon: [640, 512, [], "f95d", "M106.66,170.64l.09,0,49.55-20.65a7.32,7.32,0,0,0,3.68-6h0a7.29,7.29,0,0,0-3.68-6l-49.57-20.67-.07,0L86,67.68a6.66,6.66,0,0,0-11.92,0l-20.7,49.63-.05,0L3.7,138A7.29,7.29,0,0,0,0,144H0a7.32,7.32,0,0,0,3.68,6L53.27,170.6l.07,0L74,220.26a6.65,6.65,0,0,0,11.92,0l20.69-49.62ZM471.38,467.41l-1-.42-1-.5a38.67,38.67,0,0,1,0-69.14l1-.49,1-.43,37.49-15.63,15.63-37.48.41-1,.47-.95c3.85-7.74,10.58-13.63,18.35-17.34,0-1.33.25-2.69.27-4V144a32,32,0,0,0-64,0v72a8,8,0,0,1-8,8H456a8,8,0,0,1-8-8V64a32,32,0,0,0-64,0V216a8,8,0,0,1-8,8H360a8,8,0,0,1-8-8V32a32,32,0,0,0-64,0V216a8,8,0,0,1-8,8H264a8,8,0,0,1-8-8V64a32,32,0,0,0-64,0v241l-23.59-32.49a40,40,0,0,0-64.71,47.09L229.3,492.21A48.07,48.07,0,0,0,268.09,512H465.7c19.24,0,35.65-11.73,43.24-28.79l-.07-.17ZM349.79,339.52,320,351.93l-12.42,29.78a4,4,0,0,1-7.15,0L288,351.93l-29.79-12.41a4,4,0,0,1,0-7.16L288,319.94l12.42-29.78a4,4,0,0,1,7.15,0L320,319.94l29.79,12.42a4,4,0,0,1,0,7.16ZM640,431.91a7.28,7.28,0,0,0-3.68-6l-49.57-20.67-.07,0L566,355.63a6.66,6.66,0,0,0-11.92,0l-20.7,49.63-.05,0L483.7,426a7.28,7.28,0,0,0-3.68,6h0a7.29,7.29,0,0,0,3.68,5.95l49.57,20.67.07,0L554,508.21a6.65,6.65,0,0,0,11.92,0l20.69-49.62h0l.09,0,49.55-20.66a7.29,7.29,0,0,0,3.68-5.95h0Z"]
+};
 var faHandSpock = {
   prefix: 'fas',
   iconName: 'hand-spock',
-  icon: [512, 512, [], "f259", "M481.3 97.1c-21.5-5.1-43.1 8.2-48.2 29.6L402.3 256h-11.1l43.6-174.3c5.4-21.4-7.7-43.1-29.1-48.5s-43.1 7.7-48.5 29.1L308.8 256h-15.1L242 31.1c-5-21.6-26.4-35-48-30.1-21.5 4.9-35 26.4-30 47.9l47.6 207h-9.8L167 103.1c-4.9-21.5-26.3-35-47.9-30.1-21.5 4.9-35 26.3-30.1 47.9l39 171.6v79.4l-60.6-57c-16.1-15.1-41.4-14.4-56.5 1.7s-14.4 41.4 1.7 56.5L146.3 499c8.9 8.4 20.7 13 32.9 13h216.7c21.3 0 40-14 46-34.4l26.2-88.3c2.6-8.9 4-18 4-27.3v-42c0-7.5.9-15 2.6-22.2L511 145.3c5-21.5-8.3-43.1-29.7-48.2z"]
+  icon: [512, 512, [], "f259", "M510.9005,145.27027,442.604,432.09391A103.99507,103.99507,0,0,1,341.43745,512H214.074a135.96968,135.96968,0,0,1-93.18489-36.95291L12.59072,373.12723a39.992,39.992,0,0,1,54.8122-58.24988l60.59342,57.02528v0a283.24849,283.24849,0,0,0-11.6703-80.46734L73.63726,147.36011a40.00575,40.00575,0,1,1,76.71833-22.7187l37.15458,125.39477a8.33113,8.33113,0,0,0,16.05656-4.4414L153.26183,49.95406A39.99638,39.99638,0,1,1,230.73015,30.0166l56.09491,218.15825a10.42047,10.42047,0,0,0,20.30018-.501L344.80766,63.96966a40.052,40.052,0,0,1,51.30245-30.0893c19.86073,6.2998,30.86262,27.67378,26.67564,48.08487l-33.83869,164.966a7.55172,7.55172,0,0,0,14.74406,3.2666l29.3973-123.45874a39.99414,39.99414,0,1,1,77.81208,18.53121Z"]
 };
 var faHands = {
   prefix: 'fas',
@@ -11290,10 +11850,25 @@ var faHandsHelping = {
   iconName: 'hands-helping',
   icon: [640, 512, [], "f4c4", "M488 192H336v56c0 39.7-32.3 72-72 72s-72-32.3-72-72V126.4l-64.9 39C107.8 176.9 96 197.8 96 220.2v47.3l-80 46.2C.7 322.5-4.6 342.1 4.3 357.4l80 138.6c8.8 15.3 28.4 20.5 43.7 11.7L231.4 448H368c35.3 0 64-28.7 64-64h16c17.7 0 32-14.3 32-32v-64h8c13.3 0 24-10.7 24-24v-48c0-13.3-10.7-24-24-24zm147.7-37.4L555.7 16C546.9.7 527.3-4.5 512 4.3L408.6 64H306.4c-12 0-23.7 3.4-33.9 9.7L239 94.6c-9.4 5.8-15 16.1-15 27.1V248c0 22.1 17.9 40 40 40s40-17.9 40-40v-88h184c30.9 0 56 25.1 56 56v28.5l80-46.2c15.3-8.9 20.5-28.4 11.7-43.7z"]
 };
+var faHandsWash = {
+  prefix: 'fas',
+  iconName: 'hands-wash',
+  icon: [576, 512, [], "f95e", "M496,224a48,48,0,1,0-48-48A48,48,0,0,0,496,224ZM311.47,178.45A56.77,56.77,0,0,1,328,176a56,56,0,0,1,19,3.49l15.35-48.61A24,24,0,0,0,342,99.74c-11.53-1.35-22.21,6.44-25.71,17.51l-20.9,66.17ZM93.65,386.33c.8-.19,1.54-.54,2.35-.71V359.93a156,156,0,0,1,107.06-148l73.7-22.76L310.92,81.05a24,24,0,0,0-20.33-31.11c-11.53-1.34-22.22,6.45-25.72,17.52L231.42,173.88a8,8,0,0,1-15.26-4.83L259.53,31.26A24,24,0,0,0,239.2.15C227.67-1.19,217,6.6,213.49,17.66L165.56,169.37a8,8,0,1,1-15.26-4.82l38.56-122a24,24,0,0,0-20.33-31.11C157,10,146.32,17.83,142.82,28.9l-60,189.85L80.76,168.7A24,24,0,0,0,56.9,144.55c-13.23-.05-24.72,10.54-24.9,23.86V281.14A123.69,123.69,0,0,0,93.65,386.33ZM519.1,336H360a8,8,0,0,1,0-16H488a24,24,0,0,0,23.54-28.76C509.35,279.84,498.71,272,487.1,272H288l47.09-17.06a24,24,0,0,0-14.18-45.88L213.19,242.31A123.88,123.88,0,0,0,128,360v25.65a79.78,79.78,0,0,1,58,108.63A118.9,118.9,0,0,0,248,512H456a24,24,0,0,0,23.54-28.76C477.35,471.84,466.71,464,455.1,464H360a8,8,0,0,1,0-16H488a24,24,0,0,0,23.54-28.76C509.35,407.84,498.71,400,487.1,400H360a8,8,0,0,1,0-16H520a24,24,0,0,0,23.54-28.76C541.35,343.84,530.71,336,519.1,336ZM416,64a32,32,0,1,0-32-32A32,32,0,0,0,416,64ZM112,416a48,48,0,1,0,48,48A48,48,0,0,0,112,416Z"]
+};
 var faHandshake = {
   prefix: 'fas',
   iconName: 'handshake',
   icon: [640, 512, [], "f2b5", "M434.7 64h-85.9c-8 0-15.7 3-21.6 8.4l-98.3 90c-.1.1-.2.3-.3.4-16.6 15.6-16.3 40.5-2.1 56 12.7 13.9 39.4 17.6 56.1 2.7.1-.1.3-.1.4-.2l79.9-73.2c6.5-5.9 16.7-5.5 22.6 1 6 6.5 5.5 16.6-1 22.6l-26.1 23.9L504 313.8c2.9 2.4 5.5 5 7.9 7.7V128l-54.6-54.6c-5.9-6-14.1-9.4-22.6-9.4zM544 128.2v223.9c0 17.7 14.3 32 32 32h64V128.2h-96zm48 223.9c-8.8 0-16-7.2-16-16s7.2-16 16-16 16 7.2 16 16-7.2 16-16 16zM0 384h64c17.7 0 32-14.3 32-32V128.2H0V384zm48-63.9c8.8 0 16 7.2 16 16s-7.2 16-16 16-16-7.2-16-16c0-8.9 7.2-16 16-16zm435.9 18.6L334.6 217.5l-30 27.5c-29.7 27.1-75.2 24.5-101.7-4.4-26.9-29.4-24.8-74.9 4.4-101.7L289.1 64h-83.8c-8.5 0-16.6 3.4-22.6 9.4L128 128v223.9h18.3l90.5 81.9c27.4 22.3 67.7 18.1 90-9.3l.2-.2 17.9 15.5c15.9 13 39.4 10.5 52.3-5.4l31.4-38.6 5.4 4.4c13.7 11.1 33.9 9.1 45-4.7l9.5-11.7c11.2-13.8 9.1-33.9-4.6-45.1z"]
+};
+var faHandshakeAltSlash = {
+  prefix: 'fas',
+  iconName: 'handshake-alt-slash',
+  icon: [640, 512, [], "f95f", "M358.59,195.6,504.2,313.8a63.4,63.4,0,0,1,22.21,37.91H624a16.05,16.05,0,0,0,16-16V143.91A16,16,0,0,0,624,128H512L457.41,73.41A32,32,0,0,0,434.8,64H348.91a32,32,0,0,0-21.61,8.41l-88.12,80.68-25.69-19.85L289.09,64H205.3a32,32,0,0,0-22.6,9.41l-20.34,20.3L45.47,3.38A16,16,0,0,0,23,6.19L3.38,31.46A16,16,0,0,0,6.19,53.91L594.54,508.63A16,16,0,0,0,617,505.82l19.64-25.27a16,16,0,0,0-2.81-22.45L303.4,202.72l32.69-29.92,27-24.7a16,16,0,0,1,21.61,23.61ZM16,128A16.05,16.05,0,0,0,0,144V335.91a16,16,0,0,0,16,16H146.3l90.5,81.89a64,64,0,0,0,90-9.3l.2-.2,17.91,15.5a37.16,37.16,0,0,0,52.29-5.39l8.8-10.82L23.56,128Z"]
+};
+var faHandshakeSlash = {
+  prefix: 'fas',
+  iconName: 'handshake-slash',
+  icon: [640, 512, [], "f960", "M0,128.21V384H64a32,32,0,0,0,32-32V184L23.83,128.21ZM48,320.1a16,16,0,1,1-16,16A16,16,0,0,1,48,320.1Zm80,31.81h18.3l90.5,81.89a64,64,0,0,0,90-9.3l.2-.2,17.91,15.5a37.16,37.16,0,0,0,52.29-5.39l8.8-10.82L128,208.72Zm416-223.7V352.1a32,32,0,0,0,32,32h64V128.21ZM592,352.1a16,16,0,1,1,16-16A16,16,0,0,1,592,352.1ZM303.33,202.67l59.58-54.57a16,16,0,0,1,21.59,23.61L358.41,195.6,504,313.8a73.08,73.08,0,0,1,7.91,7.7V128L457.3,73.41A31.76,31.76,0,0,0,434.7,64H348.8a31.93,31.93,0,0,0-21.6,8.41l-88.07,80.64-25.64-19.81L289.09,64H205.3a32,32,0,0,0-22.6,9.41L162.36,93.72,45.47,3.38A16,16,0,0,0,23,6.19L3.38,31.46A16,16,0,0,0,6.19,53.91L594.53,508.63A16,16,0,0,0,617,505.82l19.65-25.27a16,16,0,0,0-2.82-22.45Z"]
 };
 var faHanukiah = {
   prefix: 'fas',
@@ -11310,25 +11885,50 @@ var faHashtag = {
   iconName: 'hashtag',
   icon: [448, 512, [], "f292", "M440.667 182.109l7.143-40c1.313-7.355-4.342-14.109-11.813-14.109h-74.81l14.623-81.891C377.123 38.754 371.468 32 363.997 32h-40.632a12 12 0 0 0-11.813 9.891L296.175 128H197.54l14.623-81.891C213.477 38.754 207.822 32 200.35 32h-40.632a12 12 0 0 0-11.813 9.891L132.528 128H53.432a12 12 0 0 0-11.813 9.891l-7.143 40C33.163 185.246 38.818 192 46.289 192h74.81L98.242 320H19.146a12 12 0 0 0-11.813 9.891l-7.143 40C-1.123 377.246 4.532 384 12.003 384h74.81L72.19 465.891C70.877 473.246 76.532 480 84.003 480h40.632a12 12 0 0 0 11.813-9.891L151.826 384h98.634l-14.623 81.891C234.523 473.246 240.178 480 247.65 480h40.632a12 12 0 0 0 11.813-9.891L315.472 384h79.096a12 12 0 0 0 11.813-9.891l7.143-40c1.313-7.355-4.342-14.109-11.813-14.109h-74.81l22.857-128h79.096a12 12 0 0 0 11.813-9.891zM261.889 320h-98.634l22.857-128h98.634l-22.857 128z"]
 };
+var faHatCowboy = {
+  prefix: 'fas',
+  iconName: 'hat-cowboy',
+  icon: [640, 512, [], "f8c0", "M490 296.9C480.51 239.51 450.51 64 392.3 64c-14 0-26.49 5.93-37 14a58.21 58.21 0 0 1-70.58 0c-10.51-8-23-14-37-14-58.2 0-88.2 175.47-97.71 232.88C188.81 309.47 243.73 320 320 320s131.23-10.51 170-23.1zm142.9-37.18a16 16 0 0 0-19.75 1.5c-1 .9-101.27 90.78-293.16 90.78-190.82 0-292.22-89.94-293.24-90.84A16 16 0 0 0 1 278.53C1.73 280.55 78.32 480 320 480s318.27-199.45 319-201.47a16 16 0 0 0-6.09-18.81z"]
+};
+var faHatCowboySide = {
+  prefix: 'fas',
+  iconName: 'hat-cowboy-side',
+  icon: [640, 512, [], "f8c1", "M260.8 291.06c-28.63-22.94-62-35.06-96.4-35.06C87 256 21.47 318.72 1.43 412.06c-3.55 16.6-.43 33.83 8.57 47.3C18.75 472.47 31.83 480 45.88 480H592c-103.21 0-155-37.07-233.19-104.46zm234.65-18.29L468.4 116.2A64 64 0 0 0 392 64.41L200.85 105a64 64 0 0 0-50.35 55.79L143.61 226c6.9-.83 13.7-2 20.79-2 41.79 0 82 14.55 117.29 42.82l98 84.48C450.76 412.54 494.9 448 592 448a48 48 0 0 0 48-48c0-25.39-29.6-119.33-144.55-127.23z"]
+};
 var faHatWizard = {
   prefix: 'fas',
   iconName: 'hat-wizard',
   icon: [512, 512, [], "f6e8", "M496 448H16c-8.84 0-16 7.16-16 16v32c0 8.84 7.16 16 16 16h480c8.84 0 16-7.16 16-16v-32c0-8.84-7.16-16-16-16zm-304-64l-64-32 64-32 32-64 32 64 64 32-64 32-16 32h208l-86.41-201.63a63.955 63.955 0 0 1-1.89-45.45L416 0 228.42 107.19a127.989 127.989 0 0 0-53.46 59.15L64 416h144l-16-32zm64-224l16-32 16 32 32 16-32 16-16 32-16-32-32-16 32-16z"]
-};
-var faHaykal = {
-  prefix: 'fas',
-  iconName: 'haykal',
-  icon: [512, 512, [], "f666", "M496.25 202.52l-110-15.44 41.82-104.34c6.67-16.64-11.6-32.18-26.59-22.63L307.44 120 273.35 12.82C270.64 4.27 263.32 0 256 0c-7.32 0-14.64 4.27-17.35 12.82l-34.09 107.19-94.04-59.89c-14.99-9.55-33.25 5.99-26.59 22.63l41.82 104.34-110 15.43c-17.54 2.46-21.68 26.27-6.03 34.67l98.16 52.66-74.48 83.54c-10.92 12.25-1.72 30.93 13.29 30.93 1.31 0 2.67-.14 4.07-.45l108.57-23.65-4.11 112.55c-.43 11.65 8.87 19.22 18.41 19.22 5.15 0 10.39-2.21 14.2-7.18l68.18-88.9 68.18 88.9c3.81 4.97 9.04 7.18 14.2 7.18 9.54 0 18.84-7.57 18.41-19.22l-4.11-112.55 108.57 23.65c17.36 3.76 29.21-17.2 17.35-30.49l-74.48-83.54 98.16-52.66c15.64-8.39 11.5-32.2-6.04-34.66zM338.51 311.68l-51.89-11.3 1.97 53.79L256 311.68l-32.59 42.49 1.96-53.79-51.89 11.3 35.6-39.93-46.92-25.17 52.57-7.38-19.99-49.87 44.95 28.62L256 166.72l16.29 51.23 44.95-28.62-19.99 49.87 52.57 7.38-46.92 25.17 35.61 39.93z"]
 };
 var faHdd = {
   prefix: 'fas',
   iconName: 'hdd',
   icon: [576, 512, [], "f0a0", "M576 304v96c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48v-96c0-26.51 21.49-48 48-48h480c26.51 0 48 21.49 48 48zm-48-80a79.557 79.557 0 0 1 30.777 6.165L462.25 85.374A48.003 48.003 0 0 0 422.311 64H153.689a48 48 0 0 0-39.938 21.374L17.223 230.165A79.557 79.557 0 0 1 48 224h480zm-48 96c-17.673 0-32 14.327-32 32s14.327 32 32 32 32-14.327 32-32-14.327-32-32-32zm-96 0c-17.673 0-32 14.327-32 32s14.327 32 32 32 32-14.327 32-32-14.327-32-32-32z"]
 };
+var faHeadSideCough = {
+  prefix: 'fas',
+  iconName: 'head-side-cough',
+  icon: [640, 512, [], "f961", "M616,304a24,24,0,1,0-24-24A24,24,0,0,0,616,304ZM552,416a24,24,0,1,0,24,24A24,24,0,0,0,552,416Zm-64-56a24,24,0,1,0,24,24A24,24,0,0,0,488,360ZM616,464a24,24,0,1,0,24,24A24,24,0,0,0,616,464Zm0-104a24,24,0,1,0,24,24A24,24,0,0,0,616,360Zm-64-40a24,24,0,1,0,24,24A24,24,0,0,0,552,320Zm-74.78-45c-21-47.12-48.5-151.75-73.12-186.75A208.13,208.13,0,0,0,234.1,0H192C86,0,0,86,0,192c0,56.75,24.75,107.62,64,142.88V512H288V480h64a64,64,0,0,0,64-64H320a32,32,0,0,1,0-64h96V320h32A32,32,0,0,0,477.22,275ZM288,224a32,32,0,1,1,32-32A32.07,32.07,0,0,1,288,224Z"]
+};
+var faHeadSideCoughSlash = {
+  prefix: 'fas',
+  iconName: 'head-side-cough-slash',
+  icon: [640, 512, [], "f962", "M454.11,319.21c19.56-3.81,31.62-25,23.11-44.21-21-47.12-48.5-151.75-73.12-186.75A208.13,208.13,0,0,0,234.1,0H192A190.64,190.64,0,0,0,84.18,33.3L45.46,3.38A16,16,0,0,0,23,6.19L3.37,31.46A16,16,0,0,0,6.18,53.91L594.53,508.63A16,16,0,0,0,617,505.82l19.64-25.27a16,16,0,0,0-2.81-22.45ZM313.39,210.45,263.61,172c5.88-7.14,14.43-12,24.36-12a32.06,32.06,0,0,1,32,32C320,199,317.24,205.17,313.39,210.45ZM616,304a24,24,0,1,0-24-24A24,24,0,0,0,616,304Zm-64,64a24,24,0,1,0-24-24A24,24,0,0,0,552,368ZM288,384a32,32,0,0,1,32-32h19.54L20.73,105.59A190.86,190.86,0,0,0,0,192c0,56.75,24.75,107.62,64,142.88V512H288V480h64a64,64,0,0,0,64-64H320A32,32,0,0,1,288,384Zm328-24a24,24,0,1,0,24,24A24,24,0,0,0,616,360Z"]
+};
+var faHeadSideMask = {
+  prefix: 'fas',
+  iconName: 'head-side-mask',
+  icon: [512, 512, [], "f963", "M.15,184.42C-2.17,244.21,23,298.06,64,334.88V512H224V316.51L3.67,156.25A182.28,182.28,0,0,0,.15,184.42ZM509.22,275c-21-47.12-48.5-151.75-73.12-186.75A208.11,208.11,0,0,0,266.11,0H200C117,0,42.48,50.57,13.25,123.65L239.21,288H511.76A31.35,31.35,0,0,0,509.22,275ZM320,224a32,32,0,1,1,32-32A32.07,32.07,0,0,1,320,224Zm16,144H496l16-48H256V512H401.88a64,64,0,0,0,60.71-43.76L464,464H336a16,16,0,0,1,0-32H474.67l10.67-32H336a16,16,0,0,1,0-32Z"]
+};
+var faHeadSideVirus = {
+  prefix: 'fas',
+  iconName: 'head-side-virus',
+  icon: [512, 512, [], "f964", "M272,240a16,16,0,1,0,16,16A16,16,0,0,0,272,240Zm-64-64a16,16,0,1,0,16,16A16,16,0,0,0,208,176Zm301.2,99c-20.93-47.12-48.43-151.73-73.07-186.75A207.9,207.9,0,0,0,266.09,0H192C86,0,0,86,0,192A191.23,191.23,0,0,0,64,334.81V512H320V448h64a64,64,0,0,0,64-64V320H480A32,32,0,0,0,509.2,275ZM368,240H355.88c-28.51,0-42.79,34.47-22.63,54.63l8.58,8.57a16,16,0,1,1-22.63,22.63l-8.57-8.58C290.47,297.09,256,311.37,256,339.88V352a16,16,0,0,1-32,0V339.88c0-28.51-34.47-42.79-54.63-22.63l-8.57,8.58a16,16,0,0,1-22.63-22.63l8.58-8.57c20.16-20.16,5.88-54.63-22.63-54.63H112a16,16,0,0,1,0-32h12.12c28.51,0,42.79-34.47,22.63-54.63l-8.58-8.57a16,16,0,0,1,22.63-22.63l8.57,8.58c20.16,20.16,54.63,5.88,54.63-22.63V96a16,16,0,0,1,32,0v12.12c0,28.51,34.47,42.79,54.63,22.63l8.57-8.58a16,16,0,0,1,22.63,22.63l-8.58,8.57C313.09,173.53,327.37,208,355.88,208H368a16,16,0,0,1,0,32Z"]
+};
 var faHeading = {
   prefix: 'fas',
   iconName: 'heading',
-  icon: [512, 512, [], "f1dc", "M496 80V48c0-8.837-7.163-16-16-16H320c-8.837 0-16 7.163-16 16v32c0 8.837 7.163 16 16 16h37.621v128H154.379V96H192c8.837 0 16-7.163 16-16V48c0-8.837-7.163-16-16-16H32c-8.837 0-16 7.163-16 16v32c0 8.837 7.163 16 16 16h37.275v320H32c-8.837 0-16 7.163-16 16v32c0 8.837 7.163 16 16 16h160c8.837 0 16-7.163 16-16v-32c0-8.837-7.163-16-16-16h-37.621V288H357.62v128H320c-8.837 0-16 7.163-16 16v32c0 8.837 7.163 16 16 16h160c8.837 0 16-7.163 16-16v-32c0-8.837-7.163-16-16-16h-37.275V96H480c8.837 0 16-7.163 16-16z"]
+  icon: [512, 512, [], "f1dc", "M448 96v320h32a16 16 0 0 1 16 16v32a16 16 0 0 1-16 16H320a16 16 0 0 1-16-16v-32a16 16 0 0 1 16-16h32V288H160v128h32a16 16 0 0 1 16 16v32a16 16 0 0 1-16 16H32a16 16 0 0 1-16-16v-32a16 16 0 0 1 16-16h32V96H32a16 16 0 0 1-16-16V48a16 16 0 0 1 16-16h160a16 16 0 0 1 16 16v32a16 16 0 0 1-16 16h-32v128h192V96h-32a16 16 0 0 1-16-16V48a16 16 0 0 1 16-16h160a16 16 0 0 1 16 16v32a16 16 0 0 1-16 16z"]
 };
 var faHeadphones = {
   prefix: 'fas',
@@ -11425,6 +12025,11 @@ var faHospitalSymbol = {
   iconName: 'hospital-symbol',
   icon: [512, 512, [], "f47e", "M256 0C114.6 0 0 114.6 0 256s114.6 256 256 256 256-114.6 256-256S397.4 0 256 0zm112 376c0 4.4-3.6 8-8 8h-48c-4.4 0-8-3.6-8-8v-88h-96v88c0 4.4-3.6 8-8 8h-48c-4.4 0-8-3.6-8-8V136c0-4.4 3.6-8 8-8h48c4.4 0 8 3.6 8 8v88h96v-88c0-4.4 3.6-8 8-8h48c4.4 0 8 3.6 8 8v240z"]
 };
+var faHospitalUser = {
+  prefix: 'fas',
+  iconName: 'hospital-user',
+  icon: [640, 512, [], "f80d", "M480 320a96 96 0 1 0-96-96 96 96 0 0 0 96 96zm48 32a22.88 22.88 0 0 0-7.06 1.09 124.76 124.76 0 0 1-81.89 0A22.82 22.82 0 0 0 432 352a112 112 0 0 0-112 112.62c.14 26.26 21.73 47.38 48 47.38h224c26.27 0 47.86-21.12 48-47.38A112 112 0 0 0 528 352zm-198.09 10.45A145.19 145.19 0 0 1 352 344.62V128a32 32 0 0 0-32-32h-32V32a32 32 0 0 0-32-32H96a32 32 0 0 0-32 32v64H32a32 32 0 0 0-32 32v368a16 16 0 0 0 16 16h288.31A78.62 78.62 0 0 1 288 464.79a143.06 143.06 0 0 1 41.91-102.34zM144 404a12 12 0 0 1-12 12H92a12 12 0 0 1-12-12v-40a12 12 0 0 1 12-12h40a12 12 0 0 1 12 12zm0-128a12 12 0 0 1-12 12H92a12 12 0 0 1-12-12v-40a12 12 0 0 1 12-12h40a12 12 0 0 1 12 12zm48-122a6 6 0 0 1-6 6h-20a6 6 0 0 1-6-6v-26h-26a6 6 0 0 1-6-6v-20a6 6 0 0 1 6-6h26V70a6 6 0 0 1 6-6h20a6 6 0 0 1 6 6v26h26a6 6 0 0 1 6 6v20a6 6 0 0 1-6 6h-26zm80 250a12 12 0 0 1-12 12h-40a12 12 0 0 1-12-12v-40a12 12 0 0 1 12-12h40a12 12 0 0 1 12 12zm0-128a12 12 0 0 1-12 12h-40a12 12 0 0 1-12-12v-40a12 12 0 0 1 12-12h40a12 12 0 0 1 12 12z"]
+};
 var faHotTub = {
   prefix: 'fas',
   iconName: 'hot-tub',
@@ -11465,6 +12070,11 @@ var faHouseDamage = {
   iconName: 'house-damage',
   icon: [576, 512, [], "f6f1", "M288 114.96L69.47 307.71c-1.62 1.46-3.69 2.14-5.47 3.35V496c0 8.84 7.16 16 16 16h149.23L192 439.19l104.11-64-60.16-119.22L384 392.75l-104.11 64L319.81 512H496c8.84 0 16-7.16 16-16V311.1c-1.7-1.16-3.72-1.82-5.26-3.2L288 114.96zm282.69 121.32L512 184.45V48c0-8.84-7.16-16-16-16h-64c-8.84 0-16 7.16-16 16v51.69L314.75 10.31C307.12 3.45 297.56.01 288 0s-19.1 3.41-26.7 10.27L5.31 236.28c-6.57 5.91-7.12 16.02-1.21 22.6l21.4 23.82c5.9 6.57 16.02 7.12 22.6 1.21L277.42 81.63c6.05-5.33 15.12-5.33 21.17 0L527.91 283.9c6.57 5.9 16.69 5.36 22.6-1.21l21.4-23.82c5.9-6.57 5.36-16.69-1.22-22.59z"]
 };
+var faHouseUser = {
+  prefix: 'fas',
+  iconName: 'house-user',
+  icon: [576, 512, [], "f965", "M570.69,236.27,512,184.44V48a16,16,0,0,0-16-16H432a16,16,0,0,0-16,16V99.67L314.78,10.3C308.5,4.61,296.53,0,288,0s-20.46,4.61-26.74,10.3l-256,226A18.27,18.27,0,0,0,0,248.2a18.64,18.64,0,0,0,4.09,10.71L25.5,282.7a21.14,21.14,0,0,0,12,5.3,21.67,21.67,0,0,0,10.69-4.11l15.9-14V480a32,32,0,0,0,32,32H480a32,32,0,0,0,32-32V269.88l15.91,14A21.94,21.94,0,0,0,538.63,288a20.89,20.89,0,0,0,11.87-5.31l21.41-23.81A21.64,21.64,0,0,0,576,248.19,21,21,0,0,0,570.69,236.27ZM288,176a64,64,0,1,1-64,64A64,64,0,0,1,288,176ZM400,448H176a16,16,0,0,1-16-16,96,96,0,0,1,96-96h64a96,96,0,0,1,96,96A16,16,0,0,1,400,448Z"]
+};
 var faHryvnia = {
   prefix: 'fas',
   iconName: 'hryvnia',
@@ -11484,6 +12094,11 @@ var faIcicles = {
   prefix: 'fas',
   iconName: 'icicles',
   icon: [512, 512, [], "f7ad", "M511.4 37.9C515.1 18.2 500 0 480 0H32C10.6 0-4.8 20.7 1.4 41.2l87.1 273.4c2.5 7.2 12.7 7.2 15.1 0L140 190.5l44.2 187.3c1.9 8.3 13.7 8.3 15.6 0l46.5-196.9 34.1 133.4c2.3 7.6 13 7.6 15.3 0l45.8-172.5 66.7 363.8c1.7 8.6 14 8.6 15.7 0l87.5-467.7z"]
+};
+var faIcons = {
+  prefix: 'fas',
+  iconName: 'icons',
+  icon: [512, 512, [], "f86d", "M116.65 219.35a15.68 15.68 0 0 0 22.65 0l96.75-99.83c28.15-29 26.5-77.1-4.91-103.88C203.75-7.7 163-3.5 137.86 22.44L128 32.58l-9.85-10.14C93.05-3.5 52.25-7.7 24.86 15.64c-31.41 26.78-33 74.85-5 103.88zm143.92 100.49h-48l-7.08-14.24a27.39 27.39 0 0 0-25.66-17.78h-71.71a27.39 27.39 0 0 0-25.66 17.78l-7 14.24h-48A27.45 27.45 0 0 0 0 347.3v137.25A27.44 27.44 0 0 0 27.43 512h233.14A27.45 27.45 0 0 0 288 484.55V347.3a27.45 27.45 0 0 0-27.43-27.46zM144 468a52 52 0 1 1 52-52 52 52 0 0 1-52 52zm355.4-115.9h-60.58l22.36-50.75c2.1-6.65-3.93-13.21-12.18-13.21h-75.59c-6.3 0-11.66 3.9-12.5 9.1l-16.8 106.93c-1 6.3 4.88 11.89 12.5 11.89h62.31l-24.2 83c-1.89 6.65 4.2 12.9 12.23 12.9a13.26 13.26 0 0 0 10.92-5.25l92.4-138.91c4.88-6.91-1.16-15.7-10.87-15.7zM478.08.33L329.51 23.17C314.87 25.42 304 38.92 304 54.83V161.6a83.25 83.25 0 0 0-16-1.7c-35.35 0-64 21.48-64 48s28.65 48 64 48c35.2 0 63.73-21.32 64-47.66V99.66l112-17.22v47.18a83.25 83.25 0 0 0-16-1.7c-35.35 0-64 21.48-64 48s28.65 48 64 48c35.2 0 63.73-21.32 64-47.66V32c0-19.48-16-34.42-33.92-31.67z"]
 };
 var faIdBadge = {
   prefix: 'fas',
@@ -11523,7 +12138,7 @@ var faInbox = {
 var faIndent = {
   prefix: 'fas',
   iconName: 'indent',
-  icon: [448, 512, [], "f03c", "M0 84V44c0-8.837 7.163-16 16-16h416c8.837 0 16 7.163 16 16v40c0 8.837-7.163 16-16 16H16c-8.837 0-16-7.163-16-16zm176 144h256c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H176c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zM16 484h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zm160-128h256c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H176c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zm-52.687-111.313l-96-95.984C17.266 138.652 0 145.776 0 160.016v191.975c0 14.329 17.325 21.304 27.313 11.313l96-95.992c6.249-6.247 6.249-16.377 0-22.625z"]
+  icon: [448, 512, [], "f03c", "M27.31 363.3l96-96a16 16 0 0 0 0-22.62l-96-96C17.27 138.66 0 145.78 0 160v192c0 14.31 17.33 21.3 27.31 11.3zM432 416H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm3.17-128H204.83A12.82 12.82 0 0 0 192 300.83v38.34A12.82 12.82 0 0 0 204.83 352h230.34A12.82 12.82 0 0 0 448 339.17v-38.34A12.82 12.82 0 0 0 435.17 288zm0-128H204.83A12.82 12.82 0 0 0 192 172.83v38.34A12.82 12.82 0 0 0 204.83 224h230.34A12.82 12.82 0 0 0 448 211.17v-38.34A12.82 12.82 0 0 0 435.17 160zM432 32H16A16 16 0 0 0 0 48v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16V48a16 16 0 0 0-16-16z"]
 };
 var faIndustry = {
   prefix: 'fas',
@@ -11548,12 +12163,12 @@ var faInfoCircle = {
 var faItalic = {
   prefix: 'fas',
   iconName: 'italic',
-  icon: [320, 512, [], "f033", "M204.758 416h-33.849l62.092-320h40.725a16 16 0 0 0 15.704-12.937l6.242-32C297.599 41.184 290.034 32 279.968 32H120.235a16 16 0 0 0-15.704 12.937l-6.242 32C96.362 86.816 103.927 96 113.993 96h33.846l-62.09 320H46.278a16 16 0 0 0-15.704 12.935l-6.245 32C22.402 470.815 29.967 480 40.034 480h158.479a16 16 0 0 0 15.704-12.935l6.245-32c1.927-9.88-5.638-19.065-15.704-19.065z"]
+  icon: [320, 512, [], "f033", "M320 48v32a16 16 0 0 1-16 16h-62.76l-80 320H208a16 16 0 0 1 16 16v32a16 16 0 0 1-16 16H16a16 16 0 0 1-16-16v-32a16 16 0 0 1 16-16h62.76l80-320H112a16 16 0 0 1-16-16V48a16 16 0 0 1 16-16h192a16 16 0 0 1 16 16z"]
 };
 var faJedi = {
   prefix: 'fas',
   iconName: 'jedi',
-  icon: [544, 512, [], "f669", "M479.99 352l58.88-58.87c3.29-16.8 5.13-34.12 5.13-51.86 0-5.81-.68-11.51-1.05-17.27H496l41.25-41.24c-14.5-64.79-52.43-123.05-107.91-162.27-2.77-1.96-5.97-2.99-9.25-2.99-5.37 0-10.41 2.71-13.49 7.24-3.05 4.49-3.64 9.99-1.61 15.09 6.55 16.46 9.86 33.73 9.86 51.31 0 45.12-21.03 86.57-57.69 113.73-4.02 2.98-6.46 7.5-6.7 12.4-.24 4.92 1.76 9.66 5.49 13.03 32.93 29.75 47.35 73.51 38.57 117.07-9.74 48.35-48.84 87.1-97.31 96.5l-2.5-65.34L321.88 397c2.98 2.06 7.39 1.69 10.02-.8a8.002 8.002 0 0 0 1.34-9.92l-20.11-33.73 42.07-8.72c3.7-.75 6.38-4.05 6.38-7.83 0-3.77-2.69-7.06-6.38-7.83l-42.07-8.73 20.13-33.77c1.92-3.23 1.34-7.31-1.38-9.91-2.7-2.55-6.97-2.89-10-.8l-30.39 20.67L279.96 7.7a7.964 7.964 0 0 0-8-7.7c-4.33 0-7.84 3.38-8 7.67l-11.52 287.97-30.39-20.66c-3.14-2.12-7.27-1.83-10 .78-2.72 2.59-3.3 6.67-1.36 9.94l20.11 33.73-42.07 8.73c-3.7.75-6.38 4.05-6.38 7.83s2.67 7.08 6.38 7.83l42.07 8.72-20.13 33.77c-1.92 3.23-1.34 7.33 1.39 9.94 2.59 2.45 7.03 2.75 10 .75l27.16-18.48-2.5 65.26c-56.94-11.64-99.89-61.89-99.89-121.92 0-35.08 14.62-67.6 41.17-91.58 3.72-3.36 5.72-8.11 5.48-13.01-.24-4.9-2.68-9.41-6.69-12.38-36.67-27.16-57.71-68.62-57.71-113.74 0-17.56 3.31-34.81 9.84-51.26 2.02-5.09 1.43-10.59-1.62-15.09-3.08-4.54-8.13-7.25-13.51-7.25-3.3 0-6.5 1.04-9.27 3-55.87 39.52-93.6 97.37-107.97 162.07L47.93 224H.72c-.63 9.92-.97 19.91-.5 29.99.62 13.43 2.54 26.53 5.11 39.41l58.6 58.6H24.02c41.25 90.23 131.13 154.94 235.1 159.71 4.3.2 8.59.29 12.85.29 110.34 0 205.35-65.83 247.98-160h-39.96z"]
+  icon: [576, 512, [], "f669", "M535.95308,352c-42.64069,94.17188-137.64086,160-247.9848,160q-6.39844,0-12.84377-.29688C171.15558,506.9375,81.26481,442.23438,40.01474,352H79.93668L21.3272,293.40625a264.82522,264.82522,0,0,1-5.10938-39.42187,273.6653,273.6653,0,0,1,.5-29.98438H63.93665L22.546,182.625A269.79782,269.79782,0,0,1,130.51489,20.54688a16.06393,16.06393,0,0,1,9.28127-3,16.36332,16.36332,0,0,1,13.5,7.25,16.02739,16.02739,0,0,1,1.625,15.09374,138.387,138.387,0,0,0-9.84376,51.26563c0,45.10937,21.04691,86.57813,57.71884,113.73437a16.29989,16.29989,0,0,1,1.20313,25.39063c-26.54692,23.98437-41.17194,56.5-41.17194,91.57813,0,60.03124,42.95319,110.28124,99.89079,121.92187l2.5-65.26563L238.062,397a8.33911,8.33911,0,0,1-10-.75,8.025,8.025,0,0,1-1.39063-9.9375l20.125-33.76562-42.06257-8.73438a7.9898,7.9898,0,0,1,0-15.65625l42.06257-8.71875-20.10941-33.73438a7.99122,7.99122,0,0,1,11.35939-10.71874L268.437,295.64062,279.95265,7.67188a7.97138,7.97138,0,0,1,8-7.67188h.04687a8.02064,8.02064,0,0,1,7.95314,7.70312L307.48394,295.625l30.39068-20.67188a8.08327,8.08327,0,0,1,10,.8125,7.99866,7.99866,0,0,1,1.39062,9.90626L329.12461,319.4375l42.07819,8.73438a7.99373,7.99373,0,0,1,0,15.65624l-42.07819,8.71876,20.1094,33.73437a7.97791,7.97791,0,0,1-1.32812,9.92187A8.25739,8.25739,0,0,1,337.87462,397L310.7027,378.53125l2.5,65.34375c48.48446-9.40625,87.57828-48.15625,97.31267-96.5A123.52652,123.52652,0,0,0,371.9528,230.29688a16.30634,16.30634,0,0,1,1.20313-25.42188c36.65631-27.17188,57.6876-68.60938,57.6876-113.73438a138.01689,138.01689,0,0,0-9.85939-51.3125,15.98132,15.98132,0,0,1,1.60937-15.09374,16.36914,16.36914,0,0,1,13.5-7.23438,16.02453,16.02453,0,0,1,9.25,2.98438A271.26947,271.26947,0,0,1,553.25,182.76562L511.99992,224h46.9532C559.3125,229.76562,560,235.45312,560,241.26562a270.092,270.092,0,0,1-5.125,51.85938L495.98427,352Z"]
 };
 var faJoint = {
   prefix: 'fas',
@@ -11563,7 +12178,7 @@ var faJoint = {
 var faJournalWhills = {
   prefix: 'fas',
   iconName: 'journal-whills',
-  icon: [448, 512, [], "f66a", "M448 358.4V25.6c0-16-9.6-25.6-25.6-25.6H96C41.6 0 0 41.6 0 96v320c0 54.4 41.6 96 96 96h326.4c12.8 0 25.6-9.6 25.6-25.6v-16c0-6.4-3.2-12.8-9.6-19.2-3.2-16-3.2-60.8 0-73.6 6.4-3.2 9.6-9.6 9.6-19.2zM133.08 144.39l21.26 21.26c1.56 1.56 3.61 2.34 5.66 2.34s4.09-.78 5.66-2.34c3.12-3.12 3.12-8.19 0-11.31l-26.42-26.42c10-20.9 26.24-37.97 46.37-49.26C179.62 88.4 176 99.74 176 112c0 19.96 9.33 37.57 23.66 49.31C190.01 171.37 184 184.96 184 200c0 26.94 19.04 49.4 44.38 54.76l1.36-32.71-10.37 7.04c-.69.45-1.47.69-2.25.69-1 0-1.98-.38-2.75-1.09a4.006 4.006 0 0 1-.69-4.95l8.54-14.31-17.91-3.72c-1.86-.39-3.19-2.03-3.19-3.92s1.33-3.53 3.19-3.92l17.91-3.72-8.54-14.31c-.95-1.61-.67-3.67.69-4.95 1.36-1.3 3.44-1.44 5-.41l12.01 8.16L236 71.83c.09-2.14 1.86-3.83 4-3.83s3.91 1.69 4 3.83l4.68 112.29 14.2-9.65a4.067 4.067 0 0 1 5 .41 4.006 4.006 0 0 1 .69 4.95l-8.54 14.31 17.91 3.72c1.86.39 3.19 2.03 3.19 3.92s-1.33 3.53-3.19 3.92l-17.91 3.72 8.54 14.31c.95 1.61.67 3.67-.69 4.95-.77.72-1.77 1.09-2.75 1.09-.78 0-1.56-.23-2.25-.69l-12.68-8.62 1.43 34.28C276.96 249.4 296 226.94 296 200c0-15.04-6.01-28.63-15.66-38.69C294.67 149.57 304 131.96 304 112c0-12.26-3.62-23.6-9.6-33.33 20.13 11.28 36.37 28.36 46.37 49.26l-26.42 26.42c-3.12 3.12-3.12 8.19 0 11.31 1.56 1.56 3.61 2.34 5.66 2.34s4.09-.78 5.66-2.34l21.26-21.26c2.97 10.08 5.07 20.55 5.07 31.6 0 .52-.14.99-.15 1.51l-37.11 32.47a7.975 7.975 0 0 0-.75 11.28 7.97 7.97 0 0 0 6.02 2.73c1.88 0 3.75-.66 5.27-1.98l23.59-20.64C337.32 250.96 293.09 288 240 288s-97.32-37.04-108.86-86.62l23.59 20.64A7.957 7.957 0 0 0 160 224c2.22 0 4.44-.92 6.02-2.73 2.92-3.33 2.58-8.38-.75-11.28l-37.11-32.47c-.01-.52-.15-.99-.15-1.51-.01-11.06 2.09-21.53 5.07-31.62zM380.8 448H96c-19.2 0-32-12.8-32-32s16-32 32-32h284.8v64z"]
+  icon: [448, 512, [], "f66a", "M438.40625,377.59375c-3.20313,12.8125-3.20313,57.60937,0,73.60937Q447.9922,460.78907,448,470.40625v16c0,16-12.79688,25.59375-25.59375,25.59375H96c-54.40625,0-96-41.59375-96-96V96C0,41.59375,41.59375,0,96,0H422.40625C438.40625,0,448,9.59375,448,25.59375v332.8125Q448,372.79688,438.40625,377.59375ZM380.79688,384H96c-16,0-32,12.79688-32,32s12.79688,32,32,32H380.79688ZM128.01562,176.01562c0,.51563.14063.98438.14063,1.5l37.10937,32.46876A7.99954,7.99954,0,0,1,160,224h-.01562a9.17678,9.17678,0,0,1-5.25-1.98438L131.14062,201.375C142.6875,250.95312,186.90625,288,240,288s97.3125-37.04688,108.875-86.625l-23.59375,20.64062a8.02516,8.02516,0,0,1-5.26563,1.96876H320a9.14641,9.14641,0,0,1-6.01562-2.71876A9.26508,9.26508,0,0,1,312,216a9.097,9.097,0,0,1,2.73438-6.01562l37.10937-32.46876c.01563-.53124.15625-1,.15625-1.51562,0-11.04688-2.09375-21.51562-5.06251-31.59375l-21.26562,21.25a8.00467,8.00467,0,0,1-11.32812-11.3125l26.42187-26.40625a111.81517,111.81517,0,0,0-46.35937-49.26562,63.02336,63.02336,0,0,1-14.0625,82.64062A55.83846,55.83846,0,0,1,251.625,254.73438l-1.42188-34.28126,12.67188,8.625a3.967,3.967,0,0,0,2.25.6875,3.98059,3.98059,0,0,0,3.43749-6.03124l-8.53124-14.3125,17.90625-3.71876a4.00647,4.00647,0,0,0,0-7.84374l-17.90625-3.71876,8.53124-14.3125a3.98059,3.98059,0,0,0-3.43749-6.03124,4.726,4.726,0,0,0-2.25.67187L248.6875,184.125,244,71.82812a4.00386,4.00386,0,0,0-8,0l-4.625,110.8125-12-8.15624a4.003,4.003,0,0,0-5.68751,5.35937l8.53126,14.3125L204.3125,197.875a3.99686,3.99686,0,0,0,0,7.82812l17.90625,3.73438-8.53126,14.29688a4.72469,4.72469,0,0,0-.56249,2.04687,4.59547,4.59547,0,0,0,1.25,2.90625,4.01059,4.01059,0,0,0,2.75,1.09375,4.09016,4.09016,0,0,0,2.25-.6875l10.35937-7.04687L228.375,254.76562a55.86414,55.86414,0,0,1-28.71875-93.45312,63.01119,63.01119,0,0,1-14.04688-82.65625,111.93158,111.93158,0,0,0-46.375,49.26563l26.42187,26.42187a7.99917,7.99917,0,0,1-11.3125,11.3125l-21.26563-21.26563C130.09375,154.48438,128,164.95312,128.01562,176.01562Z"]
 };
 var faKaaba = {
   prefix: 'fas',
@@ -11624,6 +12239,11 @@ var faLaptopCode = {
   prefix: 'fas',
   iconName: 'laptop-code',
   icon: [640, 512, [], "f5fc", "M255.03 261.65c6.25 6.25 16.38 6.25 22.63 0l11.31-11.31c6.25-6.25 6.25-16.38 0-22.63L253.25 192l35.71-35.72c6.25-6.25 6.25-16.38 0-22.63l-11.31-11.31c-6.25-6.25-16.38-6.25-22.63 0l-58.34 58.34c-6.25 6.25-6.25 16.38 0 22.63l58.35 58.34zm96.01-11.3l11.31 11.31c6.25 6.25 16.38 6.25 22.63 0l58.34-58.34c6.25-6.25 6.25-16.38 0-22.63l-58.34-58.34c-6.25-6.25-16.38-6.25-22.63 0l-11.31 11.31c-6.25 6.25-6.25 16.38 0 22.63L386.75 192l-35.71 35.72c-6.25 6.25-6.25 16.38 0 22.63zM624 416H381.54c-.74 19.81-14.71 32-32.74 32H288c-18.69 0-33.02-17.47-32.77-32H16c-8.8 0-16 7.2-16 16v16c0 35.2 28.8 64 64 64h512c35.2 0 64-28.8 64-64v-16c0-8.8-7.2-16-16-16zM576 48c0-26.4-21.6-48-48-48H112C85.6 0 64 21.6 64 48v336h512V48zm-64 272H128V64h384v256z"]
+};
+var faLaptopHouse = {
+  prefix: 'fas',
+  iconName: 'laptop-house',
+  icon: [640, 512, [], "f966", "M272,288H208a16,16,0,0,1-16-16V208a16,16,0,0,1,16-16h64a16,16,0,0,1,16,16v37.12C299.11,232.24,315,224,332.8,224H469.74l6.65-7.53A16.51,16.51,0,0,0,480,207a16.31,16.31,0,0,0-4.75-10.61L416,144V48a16,16,0,0,0-16-16H368a16,16,0,0,0-16,16V87.3L263.5,8.92C258,4,247.45,0,240.05,0s-17.93,4-23.47,8.92L4.78,196.42A16.15,16.15,0,0,0,0,207a16.4,16.4,0,0,0,3.55,9.39L22.34,237.7A16.22,16.22,0,0,0,33,242.48,16.51,16.51,0,0,0,42.34,239L64,219.88V384a32,32,0,0,0,32,32H272ZM629.33,448H592V288c0-17.67-12.89-32-28.8-32H332.8c-15.91,0-28.8,14.33-28.8,32V448H266.67A10.67,10.67,0,0,0,256,458.67v10.66A42.82,42.82,0,0,0,298.6,512H597.4A42.82,42.82,0,0,0,640,469.33V458.67A10.67,10.67,0,0,0,629.33,448ZM544,448H352V304H544Z"]
 };
 var faLaptopMedical = {
   prefix: 'fas',
@@ -11708,7 +12328,7 @@ var faLiraSign = {
 var faList = {
   prefix: 'fas',
   iconName: 'list',
-  icon: [512, 512, [], "f03a", "M128 116V76c0-8.837 7.163-16 16-16h352c8.837 0 16 7.163 16 16v40c0 8.837-7.163 16-16 16H144c-8.837 0-16-7.163-16-16zm16 176h352c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H144c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zm0 160h352c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H144c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zM16 144h64c8.837 0 16-7.163 16-16V64c0-8.837-7.163-16-16-16H16C7.163 48 0 55.163 0 64v64c0 8.837 7.163 16 16 16zm0 160h64c8.837 0 16-7.163 16-16v-64c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v64c0 8.837 7.163 16 16 16zm0 160h64c8.837 0 16-7.163 16-16v-64c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v64c0 8.837 7.163 16 16 16z"]
+  icon: [512, 512, [], "f03a", "M80 368H16a16 16 0 0 0-16 16v64a16 16 0 0 0 16 16h64a16 16 0 0 0 16-16v-64a16 16 0 0 0-16-16zm0-320H16A16 16 0 0 0 0 64v64a16 16 0 0 0 16 16h64a16 16 0 0 0 16-16V64a16 16 0 0 0-16-16zm0 160H16a16 16 0 0 0-16 16v64a16 16 0 0 0 16 16h64a16 16 0 0 0 16-16v-64a16 16 0 0 0-16-16zm416 176H176a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h320a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm0-320H176a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h320a16 16 0 0 0 16-16V80a16 16 0 0 0-16-16zm0 160H176a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h320a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16z"]
 };
 var faListAlt = {
   prefix: 'fas',
@@ -11718,12 +12338,12 @@ var faListAlt = {
 var faListOl = {
   prefix: 'fas',
   iconName: 'list-ol',
-  icon: [512, 512, [], "f0cb", "M3.263 139.527c0-7.477 3.917-11.572 11.573-11.572h15.131V88.078c0-5.163.534-10.503.534-10.503h-.356s-1.779 2.67-2.848 3.738c-4.451 4.273-10.504 4.451-15.666-1.068l-5.518-6.231c-5.342-5.341-4.984-11.216.534-16.379l21.72-19.938C32.815 33.602 36.732 32 42.785 32H54.89c7.656 0 11.749 3.916 11.749 11.572v84.384h15.488c7.655 0 11.572 4.094 11.572 11.572v8.901c0 7.477-3.917 11.572-11.572 11.572H14.836c-7.656 0-11.573-4.095-11.573-11.572v-8.902zM2.211 304.591c0-47.278 50.955-56.383 50.955-69.165 0-7.18-5.954-8.755-9.28-8.755-3.153 0-6.479 1.051-9.455 3.852-5.079 4.903-10.507 7.004-16.111 2.451l-8.579-6.829c-5.779-4.553-7.18-9.805-2.803-15.409C13.592 201.981 26.025 192 47.387 192c19.437 0 44.476 10.506 44.476 39.573 0 38.347-46.753 46.402-48.679 56.909h39.049c7.529 0 11.557 4.027 11.557 11.382v8.755c0 7.354-4.028 11.382-11.557 11.382h-67.94c-7.005 0-12.083-4.028-12.083-11.382v-4.028zM5.654 454.61l5.603-9.28c3.853-6.654 9.105-7.004 15.584-3.152 4.903 2.101 9.63 3.152 14.359 3.152 10.155 0 14.358-3.502 14.358-8.23 0-6.654-5.604-9.106-15.934-9.106h-4.728c-5.954 0-9.28-2.101-12.258-7.88l-1.05-1.926c-2.451-4.728-1.226-9.806 2.801-14.884l5.604-7.004c6.829-8.405 12.257-13.483 12.257-13.483v-.35s-4.203 1.051-12.608 1.051H16.685c-7.53 0-11.383-4.028-11.383-11.382v-8.755c0-7.53 3.853-11.382 11.383-11.382h58.484c7.529 0 11.382 4.027 11.382 11.382v3.327c0 5.778-1.401 9.806-5.079 14.183l-17.509 20.137c19.611 5.078 28.716 20.487 28.716 34.845 0 21.363-14.358 44.126-48.503 44.126-16.636 0-28.192-4.728-35.896-9.455-5.779-4.202-6.304-9.805-2.626-15.934zM144 132h352c8.837 0 16-7.163 16-16V76c0-8.837-7.163-16-16-16H144c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zm0 160h352c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H144c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zm0 160h352c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H144c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16z"]
+  icon: [512, 512, [], "f0cb", "M61.77 401l17.5-20.15a19.92 19.92 0 0 0 5.07-14.19v-3.31C84.34 356 80.5 352 73 352H16a8 8 0 0 0-8 8v16a8 8 0 0 0 8 8h22.83a157.41 157.41 0 0 0-11 12.31l-5.61 7c-4 5.07-5.25 10.13-2.8 14.88l1.05 1.93c3 5.76 6.29 7.88 12.25 7.88h4.73c10.33 0 15.94 2.44 15.94 9.09 0 4.72-4.2 8.22-14.36 8.22a41.54 41.54 0 0 1-15.47-3.12c-6.49-3.88-11.74-3.5-15.6 3.12l-5.59 9.31c-3.72 6.13-3.19 11.72 2.63 15.94 7.71 4.69 20.38 9.44 37 9.44 34.16 0 48.5-22.75 48.5-44.12-.03-14.38-9.12-29.76-28.73-34.88zM496 224H176a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h320a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm0-160H176a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h320a16 16 0 0 0 16-16V80a16 16 0 0 0-16-16zm0 320H176a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h320a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zM16 160h64a8 8 0 0 0 8-8v-16a8 8 0 0 0-8-8H64V40a8 8 0 0 0-8-8H32a8 8 0 0 0-7.14 4.42l-8 16A8 8 0 0 0 24 64h8v64H16a8 8 0 0 0-8 8v16a8 8 0 0 0 8 8zm-3.91 160H80a8 8 0 0 0 8-8v-16a8 8 0 0 0-8-8H41.32c3.29-10.29 48.34-18.68 48.34-56.44 0-29.06-25-39.56-44.47-39.56-21.36 0-33.8 10-40.46 18.75-4.37 5.59-3 10.84 2.8 15.37l8.58 6.88c5.61 4.56 11 2.47 16.12-2.44a13.44 13.44 0 0 1 9.46-3.84c3.33 0 9.28 1.56 9.28 8.75C51 248.19 0 257.31 0 304.59v4C0 316 5.08 320 12.09 320z"]
 };
 var faListUl = {
   prefix: 'fas',
   iconName: 'list-ul',
-  icon: [512, 512, [], "f0ca", "M96 96c0 26.51-21.49 48-48 48S0 122.51 0 96s21.49-48 48-48 48 21.49 48 48zM48 208c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.49-48-48-48zm0 160c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.49-48-48-48zm96-236h352c8.837 0 16-7.163 16-16V76c0-8.837-7.163-16-16-16H144c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zm0 160h352c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H144c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zm0 160h352c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H144c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16z"]
+  icon: [512, 512, [], "f0ca", "M48 48a48 48 0 1 0 48 48 48 48 0 0 0-48-48zm0 160a48 48 0 1 0 48 48 48 48 0 0 0-48-48zm0 160a48 48 0 1 0 48 48 48 48 0 0 0-48-48zm448 16H176a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h320a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm0-320H176a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h320a16 16 0 0 0 16-16V80a16 16 0 0 0-16-16zm0 160H176a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h320a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16z"]
 };
 var faLocationArrow = {
   prefix: 'fas',
@@ -11769,6 +12389,16 @@ var faLuggageCart = {
   prefix: 'fas',
   iconName: 'luggage-cart',
   icon: [640, 512, [], "f59d", "M224 320h32V96h-32c-17.67 0-32 14.33-32 32v160c0 17.67 14.33 32 32 32zm352-32V128c0-17.67-14.33-32-32-32h-32v224h32c17.67 0 32-14.33 32-32zm48 96H128V16c0-8.84-7.16-16-16-16H16C7.16 0 0 7.16 0 16v32c0 8.84 7.16 16 16 16h48v368c0 8.84 7.16 16 16 16h82.94c-1.79 5.03-2.94 10.36-2.94 16 0 26.51 21.49 48 48 48s48-21.49 48-48c0-5.64-1.15-10.97-2.94-16h197.88c-1.79 5.03-2.94 10.36-2.94 16 0 26.51 21.49 48 48 48s48-21.49 48-48c0-5.64-1.15-10.97-2.94-16H624c8.84 0 16-7.16 16-16v-32c0-8.84-7.16-16-16-16zM480 96V48c0-26.51-21.49-48-48-48h-96c-26.51 0-48 21.49-48 48v272h192V96zm-48 0h-96V48h96v48z"]
+};
+var faLungs = {
+  prefix: 'fas',
+  iconName: 'lungs',
+  icon: [640, 512, [], "f604", "M636.11 390.15C614.44 308.85 580.07 231 534.1 159.13 511.98 124.56 498.03 96 454.05 96 415.36 96 384 125.42 384 161.71v60.11l-32.88-21.92a15.996 15.996 0 0 1-7.12-13.31V16c0-8.84-7.16-16-16-16h-16c-8.84 0-16 7.16-16 16v170.59c0 5.35-2.67 10.34-7.12 13.31L256 221.82v-60.11C256 125.42 224.64 96 185.95 96c-43.98 0-57.93 28.56-80.05 63.13C59.93 231 25.56 308.85 3.89 390.15 1.3 399.84 0 409.79 0 419.78c0 61.23 62.48 105.44 125.24 88.62l59.5-15.95c42.18-11.3 71.26-47.47 71.26-88.62v-87.49l-85.84 57.23a7.992 7.992 0 0 1-11.09-2.22l-8.88-13.31a7.992 7.992 0 0 1 2.22-11.09L320 235.23l167.59 111.72a7.994 7.994 0 0 1 2.22 11.09l-8.88 13.31a7.994 7.994 0 0 1-11.09 2.22L384 316.34v87.49c0 41.15 29.08 77.31 71.26 88.62l59.5 15.95C577.52 525.22 640 481.01 640 419.78c0-9.99-1.3-19.94-3.89-29.63z"]
+};
+var faLungsVirus = {
+  prefix: 'fas',
+  iconName: 'lungs-virus',
+  icon: [640, 512, [], "f967", "M344,150.68V16A16,16,0,0,0,328,0H312a16,16,0,0,0-16,16V150.68a46.45,46.45,0,0,1,48,0ZM195.54,444.46a48.06,48.06,0,0,1,0-67.88l8.58-8.58H192a48,48,0,0,1,0-96h12.12l-8.58-8.57a48,48,0,0,1,60.46-74V161.75C256,125.38,224.62,96,186,96c-44,0-58,28.5-80.12,63.13a819.52,819.52,0,0,0-102,231A113.16,113.16,0,0,0,0,419.75C0,481,62.5,525.26,125.25,508.38l59.5-15.87a98.51,98.51,0,0,0,52.5-34.75,46.49,46.49,0,0,1-41.71-13.3Zm226.29-22.63a16,16,0,0,0,0-22.62l-8.58-8.58C393.09,370.47,407.37,336,435.88,336H448a16,16,0,0,0,0-32H435.88c-28.51,0-42.79-34.47-22.63-54.62l8.58-8.58a16,16,0,0,0-22.63-22.63l-8.57,8.58C370.47,246.91,336,232.63,336,204.12V192a16,16,0,0,0-32,0v12.12c0,28.51-34.47,42.79-54.63,22.63l-8.57-8.58a16,16,0,0,0-22.63,22.63l8.58,8.58c20.16,20.15,5.88,54.62-22.63,54.62H192a16,16,0,0,0,0,32h12.12c28.51,0,42.79,34.47,22.63,54.63l-8.58,8.58a16,16,0,1,0,22.63,22.62l8.57-8.57C269.53,393.1,304,407.38,304,435.88V448a16,16,0,0,0,32,0V435.88c0-28.5,34.47-42.78,54.63-22.62l8.57,8.57a16,16,0,0,0,22.63,0ZM288,304a16,16,0,1,1,16-16A16,16,0,0,1,288,304Zm64,64a16,16,0,1,1,16-16A16,16,0,0,1,352,368Zm284.12,22.13a819.52,819.52,0,0,0-102-231C512,124.5,498,96,454,96c-38.62,0-70,29.38-70,65.75v27.72a48,48,0,0,1,60.46,74L435.88,272H448a48,48,0,0,1,0,96H435.88l8.58,8.58a47.7,47.7,0,0,1-41.71,81.18,98.51,98.51,0,0,0,52.5,34.75l59.5,15.87C577.5,525.26,640,481,640,419.75A113.16,113.16,0,0,0,636.12,390.13Z"]
 };
 var faMagic = {
   prefix: 'fas',
@@ -11903,7 +12533,7 @@ var faMercury = {
 var faMeteor = {
   prefix: 'fas',
   iconName: 'meteor',
-  icon: [512, 512, [], "f753", "M491.2.7C452.5 12.3 379.4 35 303.5 62c-2.1-7-4-13.5-5.6-18.6-3-9.7-13.9-14.2-22.9-9.5C232.6 56 122.2 116.5 60.6 176.4c-1.1 1-2.5 2-3.5 3C19 217.4 0 267.3 0 317.2 0 367 19 416.9 57 455c38 38 87.9 57.1 137.8 57 49.9 0 99.8-19 137.9-57.1 1-1 2-2.4 3-3.5 59.8-61.6 120.4-172.1 142.5-214.4 4.7-9 .2-19.9-9.5-22.9-5.2-1.6-11.6-3.5-18.6-5.6 27-76 49.7-149 61.3-187.7C515 8.4 503.6-3 491.2.7zM192 448c-70.7 0-128-57.3-128-128s57.3-128 128-128 128 57.3 128 128-57.3 128-128 128zm-32-192c-17.7 0-32 14.3-32 32s14.3 32 32 32 32-14.3 32-32-14.3-32-32-32zm48 96c-8.8 0-16 7.2-16 16s7.2 16 16 16 16-7.2 16-16-7.2-16-16-16z"]
+  icon: [512, 512, [], "f753", "M511.328,20.8027c-11.60759,38.70264-34.30724,111.70173-61.30311,187.70077,6.99893,2.09372,13.4042,4,18.60653,5.59368a16.06158,16.06158,0,0,1,9.49854,22.906c-22.106,42.29635-82.69047,152.795-142.47819,214.40356-.99984,1.09373-1.99969,2.5-2.99954,3.49995A194.83046,194.83046,0,1,1,57.085,179.41009c.99985-1,2.40588-2,3.49947-3,61.59994-59.90549,171.97367-120.40473,214.37343-142.4982a16.058,16.058,0,0,1,22.90274,9.49988c1.59351,5.09368,3.49947,11.5936,5.5929,18.59351C379.34818,35.00565,452.43074,12.30281,491.12794.70921A16.18325,16.18325,0,0,1,511.328,20.8027ZM319.951,320.00207A127.98041,127.98041,0,1,0,191.97061,448.00046,127.97573,127.97573,0,0,0,319.951,320.00207Zm-127.98041-31.9996a31.9951,31.9951,0,1,1-31.9951-31.9996A31.959,31.959,0,0,1,191.97061,288.00247Zm31.9951,79.999a15.99755,15.99755,0,1,1-15.99755-15.9998A16.04975,16.04975,0,0,1,223.96571,368.00147Z"]
 };
 var faMicrochip = {
   prefix: 'fas',
@@ -12025,6 +12655,11 @@ var faMountain = {
   iconName: 'mountain',
   icon: [640, 512, [], "f6fc", "M634.92 462.7l-288-448C341.03 5.54 330.89 0 320 0s-21.03 5.54-26.92 14.7l-288 448a32.001 32.001 0 0 0-1.17 32.64A32.004 32.004 0 0 0 32 512h576c11.71 0 22.48-6.39 28.09-16.67a31.983 31.983 0 0 0-1.17-32.63zM320 91.18L405.39 224H320l-64 64-38.06-38.06L320 91.18z"]
 };
+var faMouse = {
+  prefix: 'fas',
+  iconName: 'mouse',
+  icon: [384, 512, [], "f8cc", "M0 352a160 160 0 0 0 160 160h64a160 160 0 0 0 160-160V224H0zM176 0h-16A160 160 0 0 0 0 160v32h176zm48 0h-16v192h176v-32A160 160 0 0 0 224 0z"]
+};
 var faMousePointer = {
   prefix: 'fas',
   iconName: 'mouse-pointer',
@@ -12038,7 +12673,7 @@ var faMugHot = {
 var faMusic = {
   prefix: 'fas',
   iconName: 'music',
-  icon: [512, 512, [], "f001", "M511.99 32.01c0-21.71-21.1-37.01-41.6-30.51L150.4 96c-13.3 4.2-22.4 16.5-22.4 30.5v261.42c-10.05-2.38-20.72-3.92-32-3.92-53.02 0-96 28.65-96 64s42.98 64 96 64 96-28.65 96-64V214.31l256-75.02v184.63c-10.05-2.38-20.72-3.92-32-3.92-53.02 0-96 28.65-96 64s42.98 64 96 64 96-28.65 96-64l-.01-351.99z"]
+  icon: [512, 512, [], "f001", "M470.38 1.51L150.41 96A32 32 0 0 0 128 126.51v261.41A139 139 0 0 0 96 384c-53 0-96 28.66-96 64s43 64 96 64 96-28.66 96-64V214.32l256-75v184.61a138.4 138.4 0 0 0-32-3.93c-53 0-96 28.66-96 64s43 64 96 64 96-28.65 96-64V32a32 32 0 0 0-41.62-30.49z"]
 };
 var faNetworkWired = {
   prefix: 'fas',
@@ -12093,7 +12728,7 @@ var faOtter = {
 var faOutdent = {
   prefix: 'fas',
   iconName: 'outdent',
-  icon: [448, 512, [], "f03b", "M0 84V44c0-8.837 7.163-16 16-16h416c8.837 0 16 7.163 16 16v40c0 8.837-7.163 16-16 16H16c-8.837 0-16-7.163-16-16zm208 144h224c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H208c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zM16 484h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zm192-128h224c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H208c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zM4.687 267.313l96 95.984C110.734 373.348 128 366.224 128 351.984V160.008c0-14.329-17.325-21.304-27.313-11.313l-96 95.992c-6.249 6.248-6.249 16.378 0 22.626z"]
+  icon: [448, 512, [], "f03b", "M100.69 363.29c10 10 27.31 2.93 27.31-11.31V160c0-14.32-17.33-21.31-27.31-11.31l-96 96a16 16 0 0 0 0 22.62zM432 416H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm3.17-128H204.83A12.82 12.82 0 0 0 192 300.83v38.34A12.82 12.82 0 0 0 204.83 352h230.34A12.82 12.82 0 0 0 448 339.17v-38.34A12.82 12.82 0 0 0 435.17 288zm0-128H204.83A12.82 12.82 0 0 0 192 172.83v38.34A12.82 12.82 0 0 0 204.83 224h230.34A12.82 12.82 0 0 0 448 211.17v-38.34A12.82 12.82 0 0 0 435.17 160zM432 32H16A16 16 0 0 0 0 48v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16V48a16 16 0 0 0-16-16z"]
 };
 var faPager = {
   prefix: 'fas',
@@ -12138,7 +12773,7 @@ var faParachuteBox = {
 var faParagraph = {
   prefix: 'fas',
   iconName: 'paragraph',
-  icon: [448, 512, [], "f1dd", "M408 32H177.531C88.948 32 16.045 103.335 16 191.918 15.956 280.321 87.607 352 176 352v104c0 13.255 10.745 24 24 24h32c13.255 0 24-10.745 24-24V112h32v344c0 13.255 10.745 24 24 24h32c13.255 0 24-10.745 24-24V112h40c13.255 0 24-10.745 24-24V56c0-13.255-10.745-24-24-24z"]
+  icon: [448, 512, [], "f1dd", "M448 48v32a16 16 0 0 1-16 16h-48v368a16 16 0 0 1-16 16h-32a16 16 0 0 1-16-16V96h-32v368a16 16 0 0 1-16 16h-32a16 16 0 0 1-16-16V352h-32a160 160 0 0 1 0-320h240a16 16 0 0 1 16 16z"]
 };
 var faParking = {
   prefix: 'fas',
@@ -12215,6 +12850,11 @@ var faPencilRuler = {
   iconName: 'pencil-ruler',
   icon: [512, 512, [], "f5ae", "M109.46 244.04l134.58-134.56-44.12-44.12-61.68 61.68a7.919 7.919 0 0 1-11.21 0l-11.21-11.21c-3.1-3.1-3.1-8.12 0-11.21l61.68-61.68-33.64-33.65C131.47-3.1 111.39-3.1 99 9.29L9.29 99c-12.38 12.39-12.39 32.47 0 44.86l100.17 100.18zm388.47-116.8c18.76-18.76 18.75-49.17 0-67.93l-45.25-45.25c-18.76-18.76-49.18-18.76-67.95 0l-46.02 46.01 113.2 113.2 46.02-46.03zM316.08 82.71l-297 296.96L.32 487.11c-2.53 14.49 10.09 27.11 24.59 24.56l107.45-18.84L429.28 195.9 316.08 82.71zm186.63 285.43l-33.64-33.64-61.68 61.68c-3.1 3.1-8.12 3.1-11.21 0l-11.21-11.21c-3.09-3.1-3.09-8.12 0-11.21l61.68-61.68-44.14-44.14L267.93 402.5l100.21 100.2c12.39 12.39 32.47 12.39 44.86 0l89.71-89.7c12.39-12.39 12.39-32.47 0-44.86z"]
 };
+var faPeopleArrows = {
+  prefix: 'fas',
+  iconName: 'people-arrows',
+  icon: [576, 512, [], "f968", "M96,128A64,64,0,1,0,32,64,64,64,0,0,0,96,128Zm0,176.08a44.11,44.11,0,0,1,13.64-32L181.77,204c1.65-1.55,3.77-2.31,5.61-3.57A63.91,63.91,0,0,0,128,160H64A64,64,0,0,0,0,224v96a32,32,0,0,0,32,32V480a32,32,0,0,0,32,32h64a32,32,0,0,0,32-32V383.61l-50.36-47.53A44.08,44.08,0,0,1,96,304.08ZM480,128a64,64,0,1,0-64-64A64,64,0,0,0,480,128Zm32,32H448a63.91,63.91,0,0,0-59.38,40.42c1.84,1.27,4,2,5.62,3.59l72.12,68.06a44.37,44.37,0,0,1,0,64L416,383.62V480a32,32,0,0,0,32,32h64a32,32,0,0,0,32-32V352a32,32,0,0,0,32-32V224A64,64,0,0,0,512,160ZM444.4,295.34l-72.12-68.06A12,12,0,0,0,352,236v36H224V236a12,12,0,0,0-20.28-8.73L131.6,295.34a12.4,12.4,0,0,0,0,17.47l72.12,68.07A12,12,0,0,0,224,372.14V336H352v36.14a12,12,0,0,0,20.28,8.74l72.12-68.07A12.4,12.4,0,0,0,444.4,295.34Z"]
+};
 var faPeopleCarry = {
   prefix: 'fas',
   iconName: 'people-carry',
@@ -12245,6 +12885,11 @@ var faPhone = {
   iconName: 'phone',
   icon: [512, 512, [], "f095", "M493.4 24.6l-104-24c-11.3-2.6-22.9 3.3-27.5 13.9l-48 112c-4.2 9.8-1.4 21.3 6.9 28l60.6 49.6c-36 76.7-98.9 140.5-177.2 177.2l-49.6-60.6c-6.8-8.3-18.2-11.1-28-6.9l-112 48C3.9 366.5-2 378.1.6 389.4l24 104C27.1 504.2 36.7 512 48 512c256.1 0 464-207.5 464-464 0-11.2-7.7-20.9-18.6-23.4z"]
 };
+var faPhoneAlt = {
+  prefix: 'fas',
+  iconName: 'phone-alt',
+  icon: [512, 512, [], "f879", "M497.39 361.8l-112-48a24 24 0 0 0-28 6.9l-49.6 60.6A370.66 370.66 0 0 1 130.6 204.11l60.6-49.6a23.94 23.94 0 0 0 6.9-28l-48-112A24.16 24.16 0 0 0 122.6.61l-104 24A24 24 0 0 0 0 48c0 256.5 207.9 464 464 464a24 24 0 0 0 23.4-18.6l24-104a24.29 24.29 0 0 0-14.01-27.6z"]
+};
 var faPhoneSlash = {
   prefix: 'fas',
   iconName: 'phone-slash',
@@ -12255,10 +12900,20 @@ var faPhoneSquare = {
   iconName: 'phone-square',
   icon: [448, 512, [], "f098", "M400 32H48C21.49 32 0 53.49 0 80v352c0 26.51 21.49 48 48 48h352c26.51 0 48-21.49 48-48V80c0-26.51-21.49-48-48-48zM94 416c-7.033 0-13.057-4.873-14.616-11.627l-14.998-65a15 15 0 0 1 8.707-17.16l69.998-29.999a15 15 0 0 1 17.518 4.289l30.997 37.885c48.944-22.963 88.297-62.858 110.781-110.78l-37.886-30.997a15.001 15.001 0 0 1-4.289-17.518l30-69.998a15 15 0 0 1 17.16-8.707l65 14.998A14.997 14.997 0 0 1 384 126c0 160.292-129.945 290-290 290z"]
 };
+var faPhoneSquareAlt = {
+  prefix: 'fas',
+  iconName: 'phone-square-alt',
+  icon: [448, 512, [], "f87b", "M400 32H48A48 48 0 0 0 0 80v352a48 48 0 0 0 48 48h352a48 48 0 0 0 48-48V80a48 48 0 0 0-48-48zm-16.39 307.37l-15 65A15 15 0 0 1 354 416C194 416 64 286.29 64 126a15.7 15.7 0 0 1 11.63-14.61l65-15A18.23 18.23 0 0 1 144 96a16.27 16.27 0 0 1 13.79 9.09l30 70A17.9 17.9 0 0 1 189 181a17 17 0 0 1-5.5 11.61l-37.89 31a231.91 231.91 0 0 0 110.78 110.78l31-37.89A17 17 0 0 1 299 291a17.85 17.85 0 0 1 5.91 1.21l70 30A16.25 16.25 0 0 1 384 336a17.41 17.41 0 0 1-.39 3.37z"]
+};
 var faPhoneVolume = {
   prefix: 'fas',
   iconName: 'phone-volume',
   icon: [384, 512, [], "f2a0", "M97.333 506.966c-129.874-129.874-129.681-340.252 0-469.933 5.698-5.698 14.527-6.632 21.263-2.422l64.817 40.513a17.187 17.187 0 0 1 6.849 20.958l-32.408 81.021a17.188 17.188 0 0 1-17.669 10.719l-55.81-5.58c-21.051 58.261-20.612 122.471 0 179.515l55.811-5.581a17.188 17.188 0 0 1 17.669 10.719l32.408 81.022a17.188 17.188 0 0 1-6.849 20.958l-64.817 40.513a17.19 17.19 0 0 1-21.264-2.422zM247.126 95.473c11.832 20.047 11.832 45.008 0 65.055-3.95 6.693-13.108 7.959-18.718 2.581l-5.975-5.726c-3.911-3.748-4.793-9.622-2.261-14.41a32.063 32.063 0 0 0 0-29.945c-2.533-4.788-1.65-10.662 2.261-14.41l5.975-5.726c5.61-5.378 14.768-4.112 18.718 2.581zm91.787-91.187c60.14 71.604 60.092 175.882 0 247.428-4.474 5.327-12.53 5.746-17.552.933l-5.798-5.557c-4.56-4.371-4.977-11.529-.93-16.379 49.687-59.538 49.646-145.933 0-205.422-4.047-4.85-3.631-12.008.93-16.379l5.798-5.557c5.022-4.813 13.078-4.394 17.552.933zm-45.972 44.941c36.05 46.322 36.108 111.149 0 157.546-4.39 5.641-12.697 6.251-17.856 1.304l-5.818-5.579c-4.4-4.219-4.998-11.095-1.285-15.931 26.536-34.564 26.534-82.572 0-117.134-3.713-4.836-3.115-11.711 1.285-15.931l5.818-5.579c5.159-4.947 13.466-4.337 17.856 1.304z"]
+};
+var faPhotoVideo = {
+  prefix: 'fas',
+  iconName: 'photo-video',
+  icon: [640, 512, [], "f87c", "M608 0H160a32 32 0 0 0-32 32v96h160V64h192v320h128a32 32 0 0 0 32-32V32a32 32 0 0 0-32-32zM232 103a9 9 0 0 1-9 9h-30a9 9 0 0 1-9-9V73a9 9 0 0 1 9-9h30a9 9 0 0 1 9 9zm352 208a9 9 0 0 1-9 9h-30a9 9 0 0 1-9-9v-30a9 9 0 0 1 9-9h30a9 9 0 0 1 9 9zm0-104a9 9 0 0 1-9 9h-30a9 9 0 0 1-9-9v-30a9 9 0 0 1 9-9h30a9 9 0 0 1 9 9zm0-104a9 9 0 0 1-9 9h-30a9 9 0 0 1-9-9V73a9 9 0 0 1 9-9h30a9 9 0 0 1 9 9zm-168 57H32a32 32 0 0 0-32 32v288a32 32 0 0 0 32 32h384a32 32 0 0 0 32-32V192a32 32 0 0 0-32-32zM96 224a32 32 0 1 1-32 32 32 32 0 0 1 32-32zm288 224H64v-32l64-64 32 32 128-128 96 96z"]
 };
 var faPiggyBank = {
   prefix: 'fas',
@@ -12295,6 +12950,11 @@ var faPlaneDeparture = {
   iconName: 'plane-departure',
   icon: [640, 512, [], "f5b0", "M624 448H16c-8.84 0-16 7.16-16 16v32c0 8.84 7.16 16 16 16h608c8.84 0 16-7.16 16-16v-32c0-8.84-7.16-16-16-16zM80.55 341.27c6.28 6.84 15.1 10.72 24.33 10.71l130.54-.18a65.62 65.62 0 0 0 29.64-7.12l290.96-147.65c26.74-13.57 50.71-32.94 67.02-58.31 18.31-28.48 20.3-49.09 13.07-63.65-7.21-14.57-24.74-25.27-58.25-27.45-29.85-1.94-59.54 5.92-86.28 19.48l-98.51 49.99-218.7-82.06a17.799 17.799 0 0 0-18-1.11L90.62 67.29c-10.67 5.41-13.25 19.65-5.17 28.53l156.22 98.1-103.21 52.38-72.35-36.47a17.804 17.804 0 0 0-16.07.02L9.91 230.22c-10.44 5.3-13.19 19.12-5.57 28.08l76.21 82.97z"]
 };
+var faPlaneSlash = {
+  prefix: 'fas',
+  iconName: 'plane-slash',
+  icon: [640, 512, [], "f969", "M32.48,147.88,64,256,32.48,364.13A16,16,0,0,0,48,384H88a16,16,0,0,0,12.8-6.41L144,320H246.85l-49,171.59A16,16,0,0,0,213.2,512h65.5a16,16,0,0,0,13.89-8.06l66.6-116.54L34.35,136.34A15.47,15.47,0,0,0,32.48,147.88ZM633.82,458.09,455.14,320H512c35.34,0,96-28.66,96-64s-60.66-64-96-64H397.7L292.61,8.06C290.06,3.61,283.84,0,278.71,0H213.2a16,16,0,0,0-15.38,20.39l36.94,129.29L45.46,3.38A16,16,0,0,0,23,6.19L3.37,31.45A16,16,0,0,0,6.18,53.91L594.54,508.63A16,16,0,0,0,617,505.81l19.64-25.26A16,16,0,0,0,633.82,458.09Z"]
+};
 var faPlay = {
   prefix: 'fas',
   iconName: 'play',
@@ -12308,7 +12968,7 @@ var faPlayCircle = {
 var faPlug = {
   prefix: 'fas',
   iconName: 'plug',
-  icon: [384, 512, [], "f1e6", "M256 144V32c0-17.673 14.327-32 32-32s32 14.327 32 32v112h-64zm112 16H16c-8.837 0-16 7.163-16 16v32c0 8.837 7.163 16 16 16h16v32c0 77.406 54.969 141.971 128 156.796V512h64v-99.204c73.031-14.825 128-79.39 128-156.796v-32h16c8.837 0 16-7.163 16-16v-32c0-8.837-7.163-16-16-16zm-240-16V32c0-17.673-14.327-32-32-32S64 14.327 64 32v112h64z"]
+  icon: [384, 512, [], "f1e6", "M320,32a32,32,0,0,0-64,0v96h64Zm48,128H16A16,16,0,0,0,0,176v32a16,16,0,0,0,16,16H32v32A160.07,160.07,0,0,0,160,412.8V512h64V412.8A160.07,160.07,0,0,0,352,256V224h16a16,16,0,0,0,16-16V176A16,16,0,0,0,368,160ZM128,32a32,32,0,0,0-64,0v96h64Z"]
 };
 var faPlus = {
   prefix: 'fas',
@@ -12410,6 +13070,16 @@ var faProjectDiagram = {
   iconName: 'project-diagram',
   icon: [640, 512, [], "f542", "M384 320H256c-17.67 0-32 14.33-32 32v128c0 17.67 14.33 32 32 32h128c17.67 0 32-14.33 32-32V352c0-17.67-14.33-32-32-32zM192 32c0-17.67-14.33-32-32-32H32C14.33 0 0 14.33 0 32v128c0 17.67 14.33 32 32 32h95.72l73.16 128.04C211.98 300.98 232.4 288 256 288h.28L192 175.51V128h224V64H192V32zM608 0H480c-17.67 0-32 14.33-32 32v128c0 17.67 14.33 32 32 32h128c17.67 0 32-14.33 32-32V32c0-17.67-14.33-32-32-32z"]
 };
+var faPumpMedical = {
+  prefix: 'fas',
+  iconName: 'pump-medical',
+  icon: [384, 512, [], "f96a", "M235.51,159.82H84.24A64,64,0,0,0,20.51,218L.14,442a64,64,0,0,0,63.74,69.8h192A64,64,0,0,0,319.61,442L299.24,218A64,64,0,0,0,235.51,159.82Zm4.37,173.33a13.35,13.35,0,0,1-13.34,13.34h-40v40a13.33,13.33,0,0,1-13.33,13.33H146.54a13.33,13.33,0,0,1-13.33-13.33v-40h-40a13.34,13.34,0,0,1-13.33-13.34V306.49a13.33,13.33,0,0,1,13.33-13.34h40v-40a13.33,13.33,0,0,1,13.33-13.33h26.67a13.33,13.33,0,0,1,13.33,13.33v40h40a13.34,13.34,0,0,1,13.34,13.34ZM379.19,93.88,335.87,50.56a64,64,0,0,0-45.24-18.74H223.88a32,32,0,0,0-32-32h-64a32,32,0,0,0-32,32v96h128v-32h66.75l43.31,43.31a16,16,0,0,0,22.63,0l22.62-22.62A16,16,0,0,0,379.19,93.88Z"]
+};
+var faPumpSoap = {
+  prefix: 'fas',
+  iconName: 'pump-soap',
+  icon: [384, 512, [], "f96b", "M235.63,160H84.37a64,64,0,0,0-63.74,58.21L.27,442.21A64,64,0,0,0,64,512H256a64,64,0,0,0,63.74-69.79l-20.36-224A64,64,0,0,0,235.63,160ZM160,416c-33.12,0-60-26.33-60-58.75,0-25,35.7-75.47,52-97.27A10,10,0,0,1,168,260c16.33,21.8,52,72.27,52,97.27C220,389.67,193.12,416,160,416ZM379.31,94.06,336,50.74A64,64,0,0,0,290.75,32H224A32,32,0,0,0,192,0H128A32,32,0,0,0,96,32v96H224V96h66.75l43.31,43.31a16,16,0,0,0,22.63,0l22.62-22.62A16,16,0,0,0,379.31,94.06Z"]
+};
 var faPuzzlePiece = {
   prefix: 'fas',
   iconName: 'puzzle-piece',
@@ -12475,6 +13145,11 @@ var faReceipt = {
   iconName: 'receipt',
   icon: [384, 512, [], "f543", "M358.4 3.2L320 48 265.6 3.2a15.9 15.9 0 0 0-19.2 0L192 48 137.6 3.2a15.9 15.9 0 0 0-19.2 0L64 48 25.6 3.2C15-4.7 0 2.8 0 16v480c0 13.2 15 20.7 25.6 12.8L64 464l54.4 44.8a15.9 15.9 0 0 0 19.2 0L192 464l54.4 44.8a15.9 15.9 0 0 0 19.2 0L320 464l38.4 44.8c10.5 7.9 25.6.4 25.6-12.8V16c0-13.2-15-20.7-25.6-12.8zM320 360c0 4.4-3.6 8-8 8H72c-4.4 0-8-3.6-8-8v-16c0-4.4 3.6-8 8-8h240c4.4 0 8 3.6 8 8v16zm0-96c0 4.4-3.6 8-8 8H72c-4.4 0-8-3.6-8-8v-16c0-4.4 3.6-8 8-8h240c4.4 0 8 3.6 8 8v16zm0-96c0 4.4-3.6 8-8 8H72c-4.4 0-8-3.6-8-8v-16c0-4.4 3.6-8 8-8h240c4.4 0 8 3.6 8 8v16z"]
 };
+var faRecordVinyl = {
+  prefix: 'fas',
+  iconName: 'record-vinyl',
+  icon: [512, 512, [], "f8d9", "M256 152a104 104 0 1 0 104 104 104 104 0 0 0-104-104zm0 128a24 24 0 1 1 24-24 24 24 0 0 1-24 24zm0-272C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm0 376a128 128 0 1 1 128-128 128 128 0 0 1-128 128z"]
+};
 var faRecycle = {
   prefix: 'fas',
   iconName: 'recycle',
@@ -12494,6 +13169,11 @@ var faRegistered = {
   prefix: 'fas',
   iconName: 'registered',
   icon: [512, 512, [], "f25d", "M285.363 207.475c0 18.6-9.831 28.431-28.431 28.431h-29.876v-56.14h23.378c28.668 0 34.929 8.773 34.929 27.709zM504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM363.411 360.414c-46.729-84.825-43.299-78.636-44.702-80.98 23.432-15.172 37.945-42.979 37.945-74.486 0-54.244-31.5-89.252-105.498-89.252h-70.667c-13.255 0-24 10.745-24 24V372c0 13.255 10.745 24 24 24h22.567c13.255 0 24-10.745 24-24v-71.663h25.556l44.129 82.937a24.001 24.001 0 0 0 21.188 12.727h24.464c18.261-.001 29.829-19.591 21.018-35.587z"]
+};
+var faRemoveFormat = {
+  prefix: 'fas',
+  iconName: 'remove-format',
+  icon: [640, 512, [], "f87d", "M336 416h-11.17l9.26-27.77L267 336.4 240.49 416H208a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h128a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm297.82 42.1L377 259.59 426.17 112H544v32a16 16 0 0 0 16 16h32a16 16 0 0 0 16-16V48a16 16 0 0 0-16-16H176a16 16 0 0 0-16 16v43.9L45.46 3.38A16 16 0 0 0 23 6.19L3.37 31.46a16 16 0 0 0 2.81 22.45l588.36 454.72a16 16 0 0 0 22.46-2.81l19.64-25.27a16 16 0 0 0-2.82-22.45zM309.91 207.76L224 141.36V112h117.83z"]
 };
 var faReply = {
   prefix: 'fas',
@@ -12538,12 +13218,12 @@ var faRoad = {
 var faRobot = {
   prefix: 'fas',
   iconName: 'robot',
-  icon: [640, 512, [], "f544", "M0 256v128c0 17.7 14.3 32 32 32h32V224H32c-17.7 0-32 14.3-32 32zM464 96H352V32c0-17.7-14.3-32-32-32s-32 14.3-32 32v64H176c-44.2 0-80 35.8-80 80v272c0 35.3 28.7 64 64 64h320c35.3 0 64-28.7 64-64V176c0-44.2-35.8-80-80-80zM256 416h-64v-32h64v32zm-32-120c-22.1 0-40-17.9-40-40s17.9-40 40-40 40 17.9 40 40-17.9 40-40 40zm128 120h-64v-32h64v32zm96 0h-64v-32h64v32zm-32-120c-22.1 0-40-17.9-40-40s17.9-40 40-40 40 17.9 40 40-17.9 40-40 40zm192-72h-32v192h32c17.7 0 32-14.3 32-32V256c0-17.7-14.3-32-32-32z"]
+  icon: [640, 512, [], "f544", "M32,224H64V416H32A31.96166,31.96166,0,0,1,0,384V256A31.96166,31.96166,0,0,1,32,224Zm512-48V448a64.06328,64.06328,0,0,1-64,64H160a64.06328,64.06328,0,0,1-64-64V176a79.974,79.974,0,0,1,80-80H288V32a32,32,0,0,1,64,0V96H464A79.974,79.974,0,0,1,544,176ZM264,256a40,40,0,1,0-40,40A39.997,39.997,0,0,0,264,256Zm-8,128H192v32h64Zm96,0H288v32h64ZM456,256a40,40,0,1,0-40,40A39.997,39.997,0,0,0,456,256Zm-8,128H384v32h64ZM640,256V384a31.96166,31.96166,0,0,1-32,32H576V224h32A31.96166,31.96166,0,0,1,640,256Z"]
 };
 var faRocket = {
   prefix: 'fas',
   iconName: 'rocket',
-  icon: [512, 512, [], "f135", "M505.05 19.1a15.89 15.89 0 0 0-12.2-12.2C460.65 0 435.46 0 410.36 0c-103.2 0-165.1 55.2-211.29 128H94.87A48 48 0 0 0 52 154.49l-49.42 98.8A24 24 0 0 0 24.07 288h103.77l-22.47 22.47a32 32 0 0 0 0 45.25l50.9 50.91a32 32 0 0 0 45.26 0L224 384.16V488a24 24 0 0 0 34.7 21.49l98.7-49.39a47.91 47.91 0 0 0 26.5-42.9V312.79c72.59-46.3 128-108.4 128-211.09.1-25.2.1-50.4-6.85-82.6zM384 168a40 40 0 1 1 40-40 40 40 0 0 1-40 40z"]
+  icon: [512, 512, [], "f135", "M505.12019,19.09375c-1.18945-5.53125-6.65819-11-12.207-12.1875C460.716,0,435.507,0,410.40747,0,307.17523,0,245.26909,55.20312,199.05238,128H94.83772c-16.34763.01562-35.55658,11.875-42.88664,26.48438L2.51562,253.29688A28.4,28.4,0,0,0,0,264a24.00867,24.00867,0,0,0,24.00582,24H127.81618l-22.47457,22.46875c-11.36521,11.36133-12.99607,32.25781,0,45.25L156.24582,406.625c11.15623,11.1875,32.15619,13.15625,45.27726,0l22.47457-22.46875V488a24.00867,24.00867,0,0,0,24.00581,24,28.55934,28.55934,0,0,0,10.707-2.51562l98.72834-49.39063c14.62888-7.29687,26.50776-26.5,26.50776-42.85937V312.79688c72.59753-46.3125,128.03493-108.40626,128.03493-211.09376C512.07526,76.5,512.07526,51.29688,505.12019,19.09375ZM384.04033,168A40,40,0,1,1,424.05,128,40.02322,40.02322,0,0,1,384.04033,168Z"]
 };
 var faRoute = {
   prefix: 'fas',
@@ -12608,12 +13288,12 @@ var faSadTear = {
 var faSatellite = {
   prefix: 'fas',
   iconName: 'satellite',
-  icon: [512, 512, [], "f7bf", "M502.7 265l-80.3-80.4 47.8-47.9c13.1-13.1 13.1-34.4 0-47.5l-47.5-47.5c-13.1-13.1-34.4-13.1-47.5 0l-47.8 47.9-80.3-80.3C240.8 3.1 232.7 0 224.5 0S208.2 3.1 202 9.3L105.3 106c-12.4 12.4-12.4 32.6 0 45.1l80.3 80.4-9.8 9.8C122.1 217 59.6 218.6 7.3 246.7c-8.5 4.6-9.6 16.4-2.8 23.2L112 377.4l-17.8 17.8c-2.6-.7-5-1.6-7.8-1.6-17.7 0-32 14.3-32 32s14.3 32 32 32 32-14.3 32-32c0-2.8-.9-5.2-1.6-7.8l17.8-17.8 107.5 107.5c6.8 6.8 18.7 5.7 23.2-2.8 28.1-52.3 29.7-114.8 5.4-168.5l9.9-9.9 80.3 80.4c6.2 6.2 14.4 9.3 22.5 9.3s16.3-3.1 22.5-9.3l96.7-96.7c12.5-12.4 12.5-32.6.1-45zm-352-136.5l73.8-73.8 68.9 68.9-73.8 73.8-68.9-68.9zm232.8 232.8l-68.9-68.9 73.8-73.8 68.9 68.9-73.8 73.8z"]
+  icon: [512, 512, [], "f7bf", "M502.60969,310.04206l-96.70393,96.71625a31.88151,31.88151,0,0,1-45.00765,0L280.572,326.34115l-9.89231,9.90759a190.56343,190.56343,0,0,1-5.40716,168.52287c-4.50077,8.50115-16.39342,9.59505-23.20707,2.79725L134.54715,400.05428l-17.7999,17.79929c.70324,2.60972,1.60965,5.00067,1.60965,7.79793a32.00544,32.00544,0,1,1-32.00544-32.00434c2.79735,0,5.18838.90637,7.7982,1.60959l17.7999-17.79929L4.43129,269.94287c-6.798-6.81342-5.70409-18.6119,2.79735-23.20627a190.58161,190.58161,0,0,1,168.52864-5.407l9.79854-9.79821-80.31053-80.41716a32.002,32.002,0,0,1,0-45.09987L201.96474,9.29814A31.62639,31.62639,0,0,1,224.46868,0a31.99951,31.99951,0,0,1,22.59759,9.29814l80.32615,80.30777,47.805-47.89713a33.6075,33.6075,0,0,1,47.50808,0l47.50807,47.50645a33.63308,33.63308,0,0,1,0,47.50644l-47.805,47.89713L502.71908,265.036A31.78938,31.78938,0,0,1,502.60969,310.04206ZM219.56159,197.433l73.82505-73.82252-68.918-68.9-73.80942,73.80689Zm237.74352,90.106-68.90233-68.9156-73.825,73.82252,68.918,68.9Z"]
 };
 var faSatelliteDish = {
   prefix: 'fas',
   iconName: 'satellite-dish',
-  icon: [512, 512, [], "f7c0", "M188.8 345.9l27.4-27.4c2.6.7 5 1.6 7.8 1.6 17.7 0 32-14.3 32-32s-14.3-32-32-32-32 14.3-32 32c0 2.8.9 5.2 1.6 7.8l-27.4 27.4L49.4 206.5c-7.3-7.3-20.1-6.1-25 3-41.8 77.8-29.9 176.7 35.7 242.3 65.6 65.6 164.6 77.5 242.3 35.7 9.2-4.9 10.4-17.7 3-25L188.8 345.9zM209 0c-9.2-.5-17 6.8-17 16v31.6c0 8.5 6.6 15.5 15 15.9 129.4 7 233.4 112 240.9 241.5.5 8.4 7.5 15 15.9 15h32.1c9.2 0 16.5-7.8 16-17C503.4 139.8 372.2 8.6 209 0zm.3 96c-9.3-.7-17.3 6.7-17.3 16.1v32.1c0 8.4 6.5 15.3 14.8 15.9 76.8 6.3 138 68.2 144.9 145.2.8 8.3 7.6 14.7 15.9 14.7h32.2c9.3 0 16.8-8 16.1-17.3-8.4-110.1-96.5-198.2-206.6-206.7z"]
+  icon: [512, 512, [], "f7c0", "M305.44954,462.59c7.39157,7.29792,6.18829,20.09661-3.00038,25.00356-77.713,41.80281-176.72559,29.9105-242.34331-35.7082C-5.49624,386.28227-17.404,287.362,24.41381,209.554c4.89125-9.095,17.68975-10.29834,25.00318-3.00043L166.22872,323.36708l27.39411-27.39452c-.68759-2.60974-1.594-5.00071-1.594-7.81361a32.00407,32.00407,0,1,1,32.00407,32.00455c-2.79723,0-5.20378-.89075-7.79786-1.594l-27.40974,27.41015ZM511.9758,303.06732a16.10336,16.10336,0,0,1-16.002,17.00242H463.86031a15.96956,15.96956,0,0,1-15.89265-15.00213C440.46671,175.5492,336.45348,70.53427,207.03078,63.53328a15.84486,15.84486,0,0,1-15.00191-15.90852V16.02652A16.09389,16.09389,0,0,1,209.031.02425C372.25491,8.61922,503.47472,139.841,511.9758,303.06732Zm-96.01221-.29692a16.21093,16.21093,0,0,1-16.11142,17.29934H367.645a16.06862,16.06862,0,0,1-15.89265-14.70522c-6.90712-77.01094-68.118-138.91037-144.92467-145.22376a15.94,15.94,0,0,1-14.79876-15.89289V112.13393a16.134,16.134,0,0,1,17.29908-16.096C319.45132,104.5391,407.55627,192.64538,415.96359,302.7704Z"]
 };
 var faSave = {
   prefix: 'fas',
@@ -12678,7 +13358,7 @@ var faServer = {
 var faShapes = {
   prefix: 'fas',
   iconName: 'shapes',
-  icon: [512, 512, [], "f61f", "M512 320v160c0 17.67-14.33 32-32 32H320c-17.67 0-32-14.33-32-32V320c0-17.67 14.33-32 32-32h160c17.67 0 32 14.33 32 32zm-384-64C57.31 256 0 313.31 0 384s57.31 128 128 128 128-57.31 128-128-57.31-128-128-128zm351.03-32c25.34 0 41.18-26.67 28.51-48L412.51 16c-12.67-21.33-44.35-21.33-57.02 0l-95.03 160c-12.67 21.33 3.17 48 28.51 48h190.06z"]
+  icon: [512, 512, [], "f61f", "M128,256A128,128,0,1,0,256,384,128,128,0,0,0,128,256Zm379-54.86L400.07,18.29a37.26,37.26,0,0,0-64.14,0L229,201.14C214.76,225.52,232.58,256,261.09,256H474.91C503.42,256,521.24,225.52,507,201.14ZM480,288H320a32,32,0,0,0-32,32V480a32,32,0,0,0,32,32H480a32,32,0,0,0,32-32V320A32,32,0,0,0,480,288Z"]
 };
 var faShare = {
   prefix: 'fas',
@@ -12709,6 +13389,11 @@ var faShieldAlt = {
   prefix: 'fas',
   iconName: 'shield-alt',
   icon: [512, 512, [], "f3ed", "M466.5 83.7l-192-80a48.15 48.15 0 0 0-36.9 0l-192 80C27.7 91.1 16 108.6 16 128c0 198.5 114.5 335.7 221.5 380.3 11.8 4.9 25.1 4.9 36.9 0C360.1 472.6 496 349.3 496 128c0-19.4-11.7-36.9-29.5-44.3zM256.1 446.3l-.1-381 175.9 73.3c-3.3 151.4-82.1 261.1-175.8 307.7z"]
+};
+var faShieldVirus = {
+  prefix: 'fas',
+  iconName: 'shield-virus',
+  icon: [512, 512, [], "f96c", "M224,192a16,16,0,1,0,16,16A16,16,0,0,0,224,192ZM466.5,83.68l-192-80A57.4,57.4,0,0,0,256.05,0a57.4,57.4,0,0,0-18.46,3.67l-192,80A47.93,47.93,0,0,0,16,128C16,326.5,130.5,463.72,237.5,508.32a48.09,48.09,0,0,0,36.91,0C360.09,472.61,496,349.3,496,128A48,48,0,0,0,466.5,83.68ZM384,256H371.88c-28.51,0-42.79,34.47-22.63,54.63l8.58,8.57a16,16,0,1,1-22.63,22.63l-8.57-8.58C306.47,313.09,272,327.37,272,355.88V368a16,16,0,0,1-32,0V355.88c0-28.51-34.47-42.79-54.63-22.63l-8.57,8.58a16,16,0,0,1-22.63-22.63l8.58-8.57c20.16-20.16,5.88-54.63-22.63-54.63H128a16,16,0,0,1,0-32h12.12c28.51,0,42.79-34.47,22.63-54.63l-8.58-8.57a16,16,0,0,1,22.63-22.63l8.57,8.58c20.16,20.16,54.63,5.88,54.63-22.63V112a16,16,0,0,1,32,0v12.12c0,28.51,34.47,42.79,54.63,22.63l8.57-8.58a16,16,0,0,1,22.63,22.63l-8.58,8.57C329.09,189.53,343.37,224,371.88,224H384a16,16,0,0,1,0,32Zm-96,0a16,16,0,1,0,16,16A16,16,0,0,0,288,256Z"]
 };
 var faShip = {
   prefix: 'fas',
@@ -12743,7 +13428,7 @@ var faShoppingCart = {
 var faShower = {
   prefix: 'fas',
   iconName: 'shower',
-  icon: [512, 512, [], "f2cc", "M389.66 135.6L231.6 293.66c-9.37 9.37-24.57 9.37-33.94 0l-11.32-11.32c-9.37-9.37-9.37-24.57 0-33.94l.11-.11c-34.03-40.21-35.16-98.94-3.39-140.38-11.97-7.55-26.14-11.91-41.3-11.91C98.88 96 64 130.88 64 173.76V480H0V173.76C0 95.59 63.59 32 141.76 32c36.93 0 70.61 14.2 95.86 37.42 35.9-11.51 76.5-4.5 106.67 21.03l.11-.11c9.37-9.37 24.57-9.37 33.94 0l11.32 11.32c9.37 9.37 9.37 24.57 0 33.94zM384 208c0 8.837-7.163 16-16 16s-16-7.163-16-16 7.163-16 16-16 16 7.163 16 16zm32 0c0-8.837 7.163-16 16-16s16 7.163 16 16-7.163 16-16 16-16-7.163-16-16zm96 0c0 8.837-7.163 16-16 16s-16-7.163-16-16 7.163-16 16-16 16 7.163 16 16zm-160 32c0 8.837-7.163 16-16 16s-16-7.163-16-16 7.163-16 16-16 16 7.163 16 16zm48-16c8.837 0 16 7.163 16 16s-7.163 16-16 16-16-7.163-16-16 7.163-16 16-16zm80 16c0 8.837-7.163 16-16 16s-16-7.163-16-16 7.163-16 16-16 16 7.163 16 16zm-160 32c0 8.837-7.163 16-16 16s-16-7.163-16-16 7.163-16 16-16 16 7.163 16 16zm32 0c0-8.837 7.163-16 16-16s16 7.163 16 16-7.163 16-16 16-16-7.163-16-16zm96 0c0 8.837-7.163 16-16 16s-16-7.163-16-16 7.163-16 16-16 16 7.163 16 16zm-128 32c0-8.837 7.163-16 16-16s16 7.163 16 16-7.163 16-16 16-16-7.163-16-16zm96 0c0 8.837-7.163 16-16 16s-16-7.163-16-16 7.163-16 16-16 16 7.163 16 16zm-96 32c0 8.837-7.163 16-16 16s-16-7.163-16-16 7.163-16 16-16 16 7.163 16 16zm64 0c0 8.837-7.163 16-16 16s-16-7.163-16-16 7.163-16 16-16 16 7.163 16 16zm-32 32c0 8.837-7.163 16-16 16s-16-7.163-16-16 7.163-16 16-16 16 7.163 16 16zm-32 32c0 8.837-7.163 16-16 16s-16-7.163-16-16 7.163-16 16-16 16 7.163 16 16z"]
+  icon: [512, 512, [], "f2cc", "M304,320a16,16,0,1,0,16,16A16,16,0,0,0,304,320Zm32-96a16,16,0,1,0,16,16A16,16,0,0,0,336,224Zm32,64a16,16,0,1,0-16-16A16,16,0,0,0,368,288Zm-32,32a16,16,0,1,0-16-16A16,16,0,0,0,336,320Zm-32-64a16,16,0,1,0,16,16A16,16,0,0,0,304,256Zm128-32a16,16,0,1,0-16-16A16,16,0,0,0,432,224Zm-48,16a16,16,0,1,0,16-16A16,16,0,0,0,384,240Zm-16-48a16,16,0,1,0,16,16A16,16,0,0,0,368,192Zm96,32a16,16,0,1,0,16,16A16,16,0,0,0,464,224Zm32-32a16,16,0,1,0,16,16A16,16,0,0,0,496,192Zm-64,64a16,16,0,1,0,16,16A16,16,0,0,0,432,256Zm-32,32a16,16,0,1,0,16,16A16,16,0,0,0,400,288Zm-64,64a16,16,0,1,0,16,16A16,16,0,0,0,336,352Zm-32,32a16,16,0,1,0,16,16A16,16,0,0,0,304,384Zm64-64a16,16,0,1,0,16,16A16,16,0,0,0,368,320Zm21.65-218.35-11.3-11.31a16,16,0,0,0-22.63,0L350.05,96A111.19,111.19,0,0,0,272,64c-19.24,0-37.08,5.3-52.9,13.85l-10-10A121.72,121.72,0,0,0,123.44,32C55.49,31.5,0,92.91,0,160.85V464a16,16,0,0,0,16,16H48a16,16,0,0,0,16-16V158.4c0-30.15,21-58.2,51-61.93a58.38,58.38,0,0,1,48.93,16.67l10,10C165.3,138.92,160,156.76,160,176a111.23,111.23,0,0,0,32,78.05l-5.66,5.67a16,16,0,0,0,0,22.62l11.3,11.31a16,16,0,0,0,22.63,0L389.65,124.28A16,16,0,0,0,389.65,101.65Z"]
 };
 var faShuttleVan = {
   prefix: 'fas',
@@ -12885,6 +13570,11 @@ var faSnowplow = {
   iconName: 'snowplow',
   icon: [640, 512, [], "f7d2", "M120 376c-13.3 0-24 10.7-24 24s10.7 24 24 24 24-10.7 24-24-10.7-24-24-24zm80 0c-13.3 0-24 10.7-24 24s10.7 24 24 24 24-10.7 24-24-10.7-24-24-24zm80 0c-13.3 0-24 10.7-24 24s10.7 24 24 24 24-10.7 24-24-10.7-24-24-24zm80 0c-13.3 0-24 10.7-24 24s10.7 24 24 24 24-10.7 24-24-10.7-24-24-24zm238.6 49.4c-14.5-14.5-22.6-34.1-22.6-54.6V269.2c0-20.5 8.1-40.1 22.6-54.6l36.7-36.7c6.2-6.2 6.2-16.4 0-22.6l-22.6-22.6c-6.2-6.2-16.4-6.2-22.6 0l-36.7 36.7c-26.5 26.5-41.4 62.4-41.4 99.9V288h-64v-50.9c0-8.7-1.8-17.2-5.2-25.2L364.5 29.1C356.9 11.4 339.6 0 320.3 0H176c-26.5 0-48 21.5-48 48v112h-16c-26.5 0-48 21.5-48 48v91.2C26.3 317.2 0 355.4 0 400c0 61.9 50.1 112 112 112h256c61.9 0 112-50.1 112-112 0-17.3-4.2-33.4-11.2-48H512v18.7c0 37.5 14.9 73.4 41.4 99.9l36.7 36.7c6.2 6.2 16.4 6.2 22.6 0l22.6-22.6c6.2-6.2 6.2-16.4 0-22.6l-36.7-36.7zM192 64h117.8l68.6 160H256l-64-64V64zm176 384H112c-26.5 0-48-21.5-48-48s21.5-48 48-48h256c26.5 0 48 21.5 48 48s-21.5 48-48 48z"]
 };
+var faSoap = {
+  prefix: 'fas',
+  iconName: 'soap',
+  icon: [512, 512, [], "f96e", "M416,192a95.42,95.42,0,0,1-30.94,70.21A95.8,95.8,0,0,1,352,448H160a96,96,0,0,1,0-192h88.91A95.3,95.3,0,0,1,224,192H96A96,96,0,0,0,0,288V416a96,96,0,0,0,96,96H416a96,96,0,0,0,96-96V288A96,96,0,0,0,416,192Zm-96,64a64,64,0,1,0-64-64A64,64,0,0,0,320,256ZM208,96a48,48,0,1,0-48-48A48,48,0,0,0,208,96ZM384,64a32,32,0,1,0-32-32A32,32,0,0,0,384,64ZM160,288a64,64,0,0,0,0,128H352a64,64,0,0,0,0-128Z"]
+};
 var faSocks = {
   prefix: 'fas',
   iconName: 'socks',
@@ -12903,22 +13593,42 @@ var faSort = {
 var faSortAlphaDown = {
   prefix: 'fas',
   iconName: 'sort-alpha-down',
-  icon: [448, 512, [], "f15d", "M400.7 427.1h-61.1c.7-1 1.5-2 2.3-3.1l67.5-95.7c1.4-2 2.2-4.4 2.2-6.9V300c0-6.6-5.4-12-12-12H274.5c-6.6 0-12 5.4-12 12v28.9c0 6.6 5.4 12 12 12H331c-.7 1-1.5 2-2.3 3.1l-67.2 95.2c-1.4 2-2.2 4.4-2.2 6.9V468c0 6.6 5.4 12 12 12h129.4c6.6 0 12-5.4 12-12v-28.9c0-6.7-5.4-12-12-12zM176 368h-48V48c0-8.8-7.2-16-16-16H80c-8.8 0-16 7.2-16 16v320H16c-14.2 0-21.4 17.2-11.3 27.3l80 80c6.2 6.2 16.4 6.2 22.6 0l80-80c10-10 2.9-27.3-11.3-27.3zm248.2-159.9l-57.1-168c-1.7-4.9-6.2-8.1-11.4-8.1h-39.6c-5.1 0-9.7 3.3-11.4 8.1l-57.1 168c-2.6 7.8 3.1 15.9 11.4 15.9h35.7c5.4 0 10.1-3.5 11.5-8.7l8.1-28.2h42.9l8.3 28.3A12 12 0 0 0 377 224h35.7c8.4 0 14.2-8.1 11.5-15.9zm-95-71.5l6.8-22.9 6.6 22.9z"]
+  icon: [448, 512, [], "f15d", "M176 352h-48V48a16 16 0 0 0-16-16H80a16 16 0 0 0-16 16v304H16c-14.19 0-21.36 17.24-11.29 27.31l80 96a16 16 0 0 0 22.62 0l80-96C197.35 369.26 190.22 352 176 352zm240-64H288a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h56l-61.26 70.45A32 32 0 0 0 272 446.37V464a16 16 0 0 0 16 16h128a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16h-56l61.26-70.45A32 32 0 0 0 432 321.63V304a16 16 0 0 0-16-16zm31.06-85.38l-59.27-160A16 16 0 0 0 372.72 32h-41.44a16 16 0 0 0-15.07 10.62l-59.27 160A16 16 0 0 0 272 224h24.83a16 16 0 0 0 15.23-11.08l4.42-12.92h71l4.41 12.92A16 16 0 0 0 407.16 224H432a16 16 0 0 0 15.06-21.38zM335.61 144L352 96l16.39 48z"]
+};
+var faSortAlphaDownAlt = {
+  prefix: 'fas',
+  iconName: 'sort-alpha-down-alt',
+  icon: [448, 512, [], "f881", "M176 352h-48V48a16 16 0 0 0-16-16H80a16 16 0 0 0-16 16v304H16c-14.19 0-21.36 17.24-11.29 27.31l80 96a16 16 0 0 0 22.62 0l80-96C197.35 369.26 190.22 352 176 352zm112-128h128a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16h-56l61.26-70.45A32 32 0 0 0 432 65.63V48a16 16 0 0 0-16-16H288a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h56l-61.26 70.45A32 32 0 0 0 272 190.37V208a16 16 0 0 0 16 16zm159.06 234.62l-59.27-160A16 16 0 0 0 372.72 288h-41.44a16 16 0 0 0-15.07 10.62l-59.27 160A16 16 0 0 0 272 480h24.83a16 16 0 0 0 15.23-11.08l4.42-12.92h71l4.41 12.92A16 16 0 0 0 407.16 480H432a16 16 0 0 0 15.06-21.38zM335.61 400L352 352l16.39 48z"]
 };
 var faSortAlphaUp = {
   prefix: 'fas',
   iconName: 'sort-alpha-up',
-  icon: [448, 512, [], "f15e", "M107.3 36.7c-6.2-6.2-16.4-6.2-22.6 0l-80 80c-10 10-2.9 27.3 11.3 27.3h48v320c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16V144h48c14.2 0 21.4-17.2 11.3-27.3zm293.4 390.4h-61.1c.7-1 1.5-2 2.3-3.1l67.5-95.7c1.4-2 2.2-4.4 2.2-6.9V300c0-6.6-5.4-12-12-12H274.5c-6.6 0-12 5.4-12 12v28.9c0 6.6 5.4 12 12 12H331c-.7 1-1.5 2-2.3 3.1l-67.2 95.2c-1.4 2-2.2 4.4-2.2 6.9V468c0 6.6 5.4 12 12 12h129.4c6.6 0 12-5.4 12-12v-28.9c0-6.7-5.4-12-12-12zm23.5-219l-57.1-168c-1.7-4.9-6.2-8.1-11.4-8.1h-39.6c-5.1 0-9.7 3.3-11.4 8.1l-57.1 168c-2.6 7.8 3.1 15.9 11.4 15.9h35.7c5.4 0 10.1-3.5 11.5-8.7l8.1-28.2h42.9l8.3 28.3A12 12 0 0 0 377 224h35.7c8.4 0 14.2-8.1 11.5-15.9zm-95-71.5l6.8-22.9 6.6 22.9z"]
+  icon: [448, 512, [], "f15e", "M16 160h48v304a16 16 0 0 0 16 16h32a16 16 0 0 0 16-16V160h48c14.21 0 21.38-17.24 11.31-27.31l-80-96a16 16 0 0 0-22.62 0l-80 96C-5.35 142.74 1.78 160 16 160zm400 128H288a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h56l-61.26 70.45A32 32 0 0 0 272 446.37V464a16 16 0 0 0 16 16h128a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16h-56l61.26-70.45A32 32 0 0 0 432 321.63V304a16 16 0 0 0-16-16zm31.06-85.38l-59.27-160A16 16 0 0 0 372.72 32h-41.44a16 16 0 0 0-15.07 10.62l-59.27 160A16 16 0 0 0 272 224h24.83a16 16 0 0 0 15.23-11.08l4.42-12.92h71l4.41 12.92A16 16 0 0 0 407.16 224H432a16 16 0 0 0 15.06-21.38zM335.61 144L352 96l16.39 48z"]
+};
+var faSortAlphaUpAlt = {
+  prefix: 'fas',
+  iconName: 'sort-alpha-up-alt',
+  icon: [448, 512, [], "f882", "M16 160h48v304a16 16 0 0 0 16 16h32a16 16 0 0 0 16-16V160h48c14.21 0 21.38-17.24 11.31-27.31l-80-96a16 16 0 0 0-22.62 0l-80 96C-5.35 142.74 1.78 160 16 160zm272 64h128a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16h-56l61.26-70.45A32 32 0 0 0 432 65.63V48a16 16 0 0 0-16-16H288a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h56l-61.26 70.45A32 32 0 0 0 272 190.37V208a16 16 0 0 0 16 16zm159.06 234.62l-59.27-160A16 16 0 0 0 372.72 288h-41.44a16 16 0 0 0-15.07 10.62l-59.27 160A16 16 0 0 0 272 480h24.83a16 16 0 0 0 15.23-11.08l4.42-12.92h71l4.41 12.92A16 16 0 0 0 407.16 480H432a16 16 0 0 0 15.06-21.38zM335.61 400L352 352l16.39 48z"]
 };
 var faSortAmountDown = {
   prefix: 'fas',
   iconName: 'sort-amount-down',
-  icon: [512, 512, [], "f160", "M187.298 395.314l-79.984 80.002c-6.248 6.247-16.383 6.245-22.627 0L4.705 395.314C-5.365 385.244 1.807 368 16.019 368H64V48c0-8.837 7.163-16 16-16h32c8.837 0 16 7.163 16 16v320h47.984c14.241 0 21.363 17.264 11.314 27.314zM240 96h256c8.837 0 16-7.163 16-16V48c0-8.837-7.163-16-16-16H240c-8.837 0-16 7.163-16 16v32c0 8.837 7.163 16 16 16zm-16 112v-32c0-8.837 7.163-16 16-16h192c8.837 0 16 7.163 16 16v32c0 8.837-7.163 16-16 16H240c-8.837 0-16-7.163-16-16zm0 256v-32c0-8.837 7.163-16 16-16h64c8.837 0 16 7.163 16 16v32c0 8.837-7.163 16-16 16h-64c-8.837 0-16-7.163-16-16zm0-128v-32c0-8.837 7.163-16 16-16h128c8.837 0 16 7.163 16 16v32c0 8.837-7.163 16-16 16H240c-8.837 0-16-7.163-16-16z"]
+  icon: [512, 512, [], "f160", "M304 416h-64a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h64a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm-128-64h-48V48a16 16 0 0 0-16-16H80a16 16 0 0 0-16 16v304H16c-14.19 0-21.37 17.24-11.29 27.31l80 96a16 16 0 0 0 22.62 0l80-96C197.35 369.26 190.22 352 176 352zm256-192H240a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h192a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm-64 128H240a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h128a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zM496 32H240a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h256a16 16 0 0 0 16-16V48a16 16 0 0 0-16-16z"]
+};
+var faSortAmountDownAlt = {
+  prefix: 'fas',
+  iconName: 'sort-amount-down-alt',
+  icon: [512, 512, [], "f884", "M240 96h64a16 16 0 0 0 16-16V48a16 16 0 0 0-16-16h-64a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16zm0 128h128a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16H240a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16zm256 192H240a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h256a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm-256-64h192a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16H240a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16zm-64 0h-48V48a16 16 0 0 0-16-16H80a16 16 0 0 0-16 16v304H16c-14.19 0-21.37 17.24-11.29 27.31l80 96a16 16 0 0 0 22.62 0l80-96C197.35 369.26 190.22 352 176 352z"]
 };
 var faSortAmountUp = {
   prefix: 'fas',
   iconName: 'sort-amount-up',
-  icon: [512, 512, [], "f161", "M4.702 116.686l79.984-80.002c6.248-6.247 16.383-6.245 22.627 0l79.981 80.002c10.07 10.07 2.899 27.314-11.314 27.314H128v320c0 8.837-7.163 16-16 16H80c-8.837 0-16-7.163-16-16V144H16.016c-14.241 0-21.363-17.264-11.314-27.314zM240 96h256c8.837 0 16-7.163 16-16V48c0-8.837-7.163-16-16-16H240c-8.837 0-16 7.163-16 16v32c0 8.837 7.163 16 16 16zm-16 112v-32c0-8.837 7.163-16 16-16h192c8.837 0 16 7.163 16 16v32c0 8.837-7.163 16-16 16H240c-8.837 0-16-7.163-16-16zm0 256v-32c0-8.837 7.163-16 16-16h64c8.837 0 16 7.163 16 16v32c0 8.837-7.163 16-16 16h-64c-8.837 0-16-7.163-16-16zm0-128v-32c0-8.837 7.163-16 16-16h128c8.837 0 16 7.163 16 16v32c0 8.837-7.163 16-16 16H240c-8.837 0-16-7.163-16-16z"]
+  icon: [512, 512, [], "f161", "M304 416h-64a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h64a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zM16 160h48v304a16 16 0 0 0 16 16h32a16 16 0 0 0 16-16V160h48c14.21 0 21.38-17.24 11.31-27.31l-80-96a16 16 0 0 0-22.62 0l-80 96C-5.35 142.74 1.77 160 16 160zm416 0H240a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h192a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm-64 128H240a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h128a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zM496 32H240a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h256a16 16 0 0 0 16-16V48a16 16 0 0 0-16-16z"]
+};
+var faSortAmountUpAlt = {
+  prefix: 'fas',
+  iconName: 'sort-amount-up-alt',
+  icon: [512, 512, [], "f885", "M240 96h64a16 16 0 0 0 16-16V48a16 16 0 0 0-16-16h-64a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16zm0 128h128a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16H240a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16zm256 192H240a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h256a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm-256-64h192a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16H240a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16zM16 160h48v304a16 16 0 0 0 16 16h32a16 16 0 0 0 16-16V160h48c14.21 0 21.39-17.24 11.31-27.31l-80-96a16 16 0 0 0-22.62 0l-80 96C-5.35 142.74 1.78 160 16 160z"]
 };
 var faSortDown = {
   prefix: 'fas',
@@ -12928,12 +13638,22 @@ var faSortDown = {
 var faSortNumericDown = {
   prefix: 'fas',
   iconName: 'sort-numeric-down',
-  icon: [448, 512, [], "f162", "M308.811 113.787l-19.448-20.795c-4.522-4.836-4.274-12.421.556-16.95l43.443-40.741a11.999 11.999 0 0 1 8.209-3.247h31.591c6.627 0 12 5.373 12 12v127.07h25.66c6.627 0 12 5.373 12 12v28.93c0 6.627-5.373 12-12 12H301.649c-6.627 0-12-5.373-12-12v-28.93c0-6.627 5.373-12 12-12h25.414v-57.938c-7.254 6.58-14.211 4.921-18.252.601zm-30.57 238.569c0-32.653 23.865-67.356 68.094-67.356 38.253 0 79.424 28.861 79.424 92.228 0 51.276-32.237 105.772-91.983 105.772-17.836 0-30.546-3.557-38.548-6.781-5.79-2.333-8.789-8.746-6.922-14.703l9.237-29.48c2.035-6.496 9.049-9.983 15.467-7.716 13.029 4.602 27.878 5.275 38.103-4.138-38.742 5.072-72.872-25.36-72.872-67.826zm92.273 19.338c0-22.285-15.302-36.505-25.835-36.505-8.642 0-13.164 7.965-13.164 15.832 0 5.669 1.815 24.168 25.168 24.168 9.973 0 13.377-2.154 13.744-2.731.021-.046.087-.291.087-.764zM175.984 368H128V48c0-8.837-7.163-16-16-16H80c-8.837 0-16 7.163-16 16v320H16.019c-14.212 0-21.384 17.244-11.314 27.314l79.981 80.002c6.245 6.245 16.38 6.247 22.627 0l79.984-80.002c10.05-10.05 2.928-27.314-11.313-27.314z"]
+  icon: [448, 512, [], "f162", "M304 96h16v64h-16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h96a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16h-16V48a16 16 0 0 0-16-16h-48a16 16 0 0 0-14.29 8.83l-16 32A16 16 0 0 0 304 96zm26.15 162.91a79 79 0 0 0-55 54.17c-14.25 51.05 21.21 97.77 68.85 102.53a84.07 84.07 0 0 1-20.85 12.91c-7.57 3.4-10.8 12.47-8.18 20.34l9.9 20c2.87 8.63 12.53 13.49 20.9 9.91 58-24.76 86.25-61.61 86.25-132V336c-.02-51.21-48.4-91.34-101.85-77.09zM352 356a20 20 0 1 1 20-20 20 20 0 0 1-20 20zm-176-4h-48V48a16 16 0 0 0-16-16H80a16 16 0 0 0-16 16v304H16c-14.19 0-21.36 17.24-11.29 27.31l80 96a16 16 0 0 0 22.62 0l80-96C197.35 369.26 190.22 352 176 352z"]
+};
+var faSortNumericDownAlt = {
+  prefix: 'fas',
+  iconName: 'sort-numeric-down-alt',
+  icon: [448, 512, [], "f886", "M176 352h-48V48a16 16 0 0 0-16-16H80a16 16 0 0 0-16 16v304H16c-14.19 0-21.36 17.24-11.29 27.31l80 96a16 16 0 0 0 22.62 0l80-96C197.35 369.26 190.22 352 176 352zm224 64h-16V304a16 16 0 0 0-16-16h-48a16 16 0 0 0-14.29 8.83l-16 32A16 16 0 0 0 304 352h16v64h-16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h96a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zM330.17 34.91a79 79 0 0 0-55 54.17c-14.27 51.05 21.19 97.77 68.83 102.53a84.07 84.07 0 0 1-20.85 12.91c-7.57 3.4-10.8 12.47-8.18 20.34l9.9 20c2.87 8.63 12.53 13.49 20.9 9.91 58-24.77 86.25-61.61 86.25-132V112c-.02-51.21-48.4-91.34-101.85-77.09zM352 132a20 20 0 1 1 20-20 20 20 0 0 1-20 20z"]
 };
 var faSortNumericUp = {
   prefix: 'fas',
   iconName: 'sort-numeric-up',
-  icon: [448, 512, [], "f163", "M308.811 113.787l-19.448-20.795c-4.522-4.836-4.274-12.421.556-16.95l43.443-40.741a11.999 11.999 0 0 1 8.209-3.247h31.591c6.627 0 12 5.373 12 12v127.07h25.66c6.627 0 12 5.373 12 12v28.93c0 6.627-5.373 12-12 12H301.649c-6.627 0-12-5.373-12-12v-28.93c0-6.627 5.373-12 12-12h25.414v-57.938c-7.254 6.58-14.211 4.921-18.252.601zm-30.57 238.569c0-32.653 23.865-67.356 68.094-67.356 38.253 0 79.424 28.861 79.424 92.228 0 51.276-32.237 105.772-91.983 105.772-17.836 0-30.546-3.557-38.548-6.781-5.79-2.333-8.789-8.746-6.922-14.703l9.237-29.48c2.035-6.496 9.049-9.983 15.467-7.716 13.029 4.602 27.878 5.275 38.103-4.138-38.742 5.072-72.872-25.36-72.872-67.826zm92.273 19.338c0-22.285-15.302-36.505-25.835-36.505-8.642 0-13.164 7.965-13.164 15.832 0 5.669 1.815 24.168 25.168 24.168 9.973 0 13.377-2.154 13.744-2.731.021-.046.087-.291.087-.764zM16.016 144H64v320c0 8.837 7.163 16 16 16h32c8.837 0 16-7.163 16-16V144h47.981c14.212 0 21.384-17.244 11.314-27.314l-79.981-80.002c-6.245-6.245-16.38-6.247-22.627 0L4.702 116.686C-5.347 126.736 1.775 144 16.016 144z"]
+  icon: [448, 512, [], "f163", "M330.17 258.91a79 79 0 0 0-55 54.17c-14.27 51.05 21.19 97.77 68.83 102.53a84.07 84.07 0 0 1-20.85 12.91c-7.57 3.4-10.8 12.47-8.18 20.34l9.9 20c2.87 8.63 12.53 13.49 20.9 9.91 58-24.76 86.25-61.61 86.25-132V336c-.02-51.21-48.4-91.34-101.85-77.09zM352 356a20 20 0 1 1 20-20 20 20 0 0 1-20 20zM304 96h16v64h-16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h96a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16h-16V48a16 16 0 0 0-16-16h-48a16 16 0 0 0-14.29 8.83l-16 32A16 16 0 0 0 304 96zM107.31 36.69a16 16 0 0 0-22.62 0l-80 96C-5.35 142.74 1.78 160 16 160h48v304a16 16 0 0 0 16 16h32a16 16 0 0 0 16-16V160h48c14.21 0 21.38-17.24 11.31-27.31z"]
+};
+var faSortNumericUpAlt = {
+  prefix: 'fas',
+  iconName: 'sort-numeric-up-alt',
+  icon: [448, 512, [], "f887", "M107.31 36.69a16 16 0 0 0-22.62 0l-80 96C-5.35 142.74 1.78 160 16 160h48v304a16 16 0 0 0 16 16h32a16 16 0 0 0 16-16V160h48c14.21 0 21.38-17.24 11.31-27.31zM400 416h-16V304a16 16 0 0 0-16-16h-48a16 16 0 0 0-14.29 8.83l-16 32A16 16 0 0 0 304 352h16v64h-16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h96a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zM330.17 34.91a79 79 0 0 0-55 54.17c-14.27 51.05 21.19 97.77 68.83 102.53a84.07 84.07 0 0 1-20.85 12.91c-7.57 3.4-10.8 12.47-8.18 20.34l9.9 20c2.87 8.63 12.53 13.49 20.9 9.91 58-24.77 86.25-61.61 86.25-132V112c-.02-51.21-48.4-91.34-101.85-77.09zM352 132a20 20 0 1 1 20-20 20 20 0 0 1-20 20z"]
 };
 var faSortUp = {
   prefix: 'fas',
@@ -12949,6 +13669,11 @@ var faSpaceShuttle = {
   prefix: 'fas',
   iconName: 'space-shuttle',
   icon: [640, 512, [], "f197", "M592.604 208.244C559.735 192.836 515.777 184 472 184H186.327c-4.952-6.555-10.585-11.978-16.72-16H376C229.157 137.747 219.403 32 96.003 32H96v128H80V32c-26.51 0-48 28.654-48 64v64c-23.197 0-32 10.032-32 24v40c0 13.983 8.819 24 32 24v16c-23.197 0-32 10.032-32 24v40c0 13.983 8.819 24 32 24v64c0 35.346 21.49 64 48 64V352h16v128h.003c123.4 0 133.154-105.747 279.997-136H169.606c6.135-4.022 11.768-9.445 16.72-16H472c43.777 0 87.735-8.836 120.604-24.244C622.282 289.845 640 271.992 640 256s-17.718-33.845-47.396-47.756zM488 296a8 8 0 0 1-8-8v-64a8 8 0 0 1 8-8c31.909 0 31.942 80 0 80z"]
+};
+var faSpellCheck = {
+  prefix: 'fas',
+  iconName: 'spell-check',
+  icon: [576, 512, [], "f891", "M272 256h91.36c43.2 0 82-32.2 84.51-75.34a79.82 79.82 0 0 0-25.26-63.07 79.81 79.81 0 0 0 9.06-44.91C427.9 30.57 389.3 0 347 0h-75a16 16 0 0 0-16 16v224a16 16 0 0 0 16 16zm40-200h40a24 24 0 0 1 0 48h-40zm0 96h56a24 24 0 0 1 0 48h-56zM155.12 22.25A32 32 0 0 0 124.64 0H99.36a32 32 0 0 0-30.48 22.25L.59 235.73A16 16 0 0 0 16 256h24.93a16 16 0 0 0 15.42-11.73L68.29 208h87.42l11.94 36.27A16 16 0 0 0 183.07 256H208a16 16 0 0 0 15.42-20.27zM89.37 144L112 75.3l22.63 68.7zm482 132.48l-45.21-45.3a15.88 15.88 0 0 0-22.59 0l-151.5 151.5-55.41-55.5a15.88 15.88 0 0 0-22.59 0l-45.3 45.3a16 16 0 0 0 0 22.59l112 112.21a15.89 15.89 0 0 0 22.6 0l208-208.21a16 16 0 0 0-.02-22.59z"]
 };
 var faSpider = {
   prefix: 'fas',
@@ -13055,6 +13780,11 @@ var faStopwatch = {
   iconName: 'stopwatch',
   icon: [448, 512, [], "f2f2", "M432 304c0 114.9-93.1 208-208 208S16 418.9 16 304c0-104 76.3-190.2 176-205.5V64h-28c-6.6 0-12-5.4-12-12V12c0-6.6 5.4-12 12-12h120c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-28v34.5c37.5 5.8 71.7 21.6 99.7 44.6l27.5-27.5c4.7-4.7 12.3-4.7 17 0l28.3 28.3c4.7 4.7 4.7 12.3 0 17l-29.4 29.4-.6.6C419.7 223.3 432 262.2 432 304zm-176 36V188.5c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12V340c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12z"]
 };
+var faStopwatch20 = {
+  prefix: 'fas',
+  iconName: 'stopwatch-20',
+  icon: [448, 512, [], "f96f", "M398.5,190.91l.59-.61,26.59-26.58a16,16,0,0,0,0-22.63L403,118.41a16,16,0,0,0-22.63,0l-24.68,24.68A206.68,206.68,0,0,0,256,98.5V64h32a16,16,0,0,0,16-16V16A16,16,0,0,0,288,0H160a16.05,16.05,0,0,0-16,16V48a16.05,16.05,0,0,0,16,16h32V98.5A207.92,207.92,0,0,0,16.09,297.57C12.64,411.5,106.76,510.22,220.72,512,337.13,513.77,432,420,432,304A206,206,0,0,0,398.5,190.91ZM204.37,377.55a8.2,8.2,0,0,1,8.32,8.07v22.31a8.2,8.2,0,0,1-8.32,8.07H121.52a16.46,16.46,0,0,1-16.61-17.62c2.78-35.22,14.67-57.41,38.45-91.37,20.42-29.19,27.1-37.32,27.1-62.34,0-16.92-1.79-24.27-12.21-24.27-9.39,0-12.69,7.4-12.69,22.68v5.23a8.2,8.2,0,0,1-8.33,8.07h-24.9a8.2,8.2,0,0,1-8.33-8.07v-4.07c0-27.3,8.48-60.24,56.43-60.24,43,0,55.57,25.85,55.57,61,0,35.58-12.44,51.21-34.35,81.31-11.56,15-24.61,35.57-26.41,51.2ZM344,352.32c0,35.16-12.3,63.68-57.23,63.68C243.19,416,232,386.48,232,352.55V247.22c0-40.73,19.58-63.22,56.2-63.22C325,184,344,206.64,344,245.3ZM287.87,221.73c-9.41,0-13.23,7.5-13.23,20V357.68c0,13.11,3.59,20.59,13.23,20.59s13-8,13-21.27V241.06C300.89,229.79,297.88,221.73,287.87,221.73Z"]
+};
 var faStore = {
   prefix: 'fas',
   iconName: 'store',
@@ -13064,6 +13794,16 @@ var faStoreAlt = {
   prefix: 'fas',
   iconName: 'store-alt',
   icon: [640, 512, [], "f54f", "M320 384H128V224H64v256c0 17.7 14.3 32 32 32h256c17.7 0 32-14.3 32-32V224h-64v160zm314.6-241.8l-85.3-128c-6-8.9-16-14.2-26.7-14.2H117.4c-10.7 0-20.7 5.3-26.6 14.2l-85.3 128c-14.2 21.3 1 49.8 26.6 49.8H608c25.5 0 40.7-28.5 26.6-49.8zM512 496c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16V224h-64v272z"]
+};
+var faStoreAltSlash = {
+  prefix: 'fas',
+  iconName: 'store-alt-slash',
+  icon: [640, 512, [], "f970", "M17.89,123.62,5.51,142.2c-14.2,21.3,1,49.8,26.59,49.8h74.26ZM576,413.42V224H512V364L384,265V224H330.92l-41.4-32H608c25.5,0,40.7-28.5,26.59-49.8l-85.29-128A32.18,32.18,0,0,0,522.6,0H117.42A31.87,31.87,0,0,0,90.81,14.2l-10.66,16L45.46,3.38A16,16,0,0,0,23,6.19L3.37,31.46A16,16,0,0,0,6.18,53.91L594.53,508.63A16,16,0,0,0,617,505.81l19.64-25.26a16,16,0,0,0-2.81-22.45ZM320,384H128V224H64V480a32,32,0,0,0,32,32H352a32,32,0,0,0,32-32V406.59l-64-49.47Z"]
+};
+var faStoreSlash = {
+  prefix: 'fas',
+  iconName: 'store-slash',
+  icon: [640, 512, [], "f971", "M121.51,384V284.2a119.43,119.43,0,0,1-28,3.8,123.46,123.46,0,0,1-17.1-1.2,114.88,114.88,0,0,1-15.58-3.6V480c0,17.7,13.59,32,30.4,32H505.75L348.42,384Zm-28-128.09c25.1,0,47.29-10.72,64-27.24L24,120.05c-30.52,53.39-2.45,126.53,56.49,135A95.68,95.68,0,0,0,93.48,255.91ZM602.13,458.09,547.2,413.41V283.2a93.5,93.5,0,0,1-15.57,3.6,127.31,127.31,0,0,1-17.29,1.2,114.89,114.89,0,0,1-28-3.8v79.68L348.52,251.77a88.06,88.06,0,0,0,25.41,4.14c28.11,0,53-13,70.11-33.11,17.19,20.11,42.08,33.11,70.11,33.11a94.31,94.31,0,0,0,13-.91c59.66-8.41,88-82.8,56.06-136.4L521.55,15A30.1,30.1,0,0,0,495.81,0H112A30.11,30.11,0,0,0,86.27,15L76.88,30.78,43.19,3.38A14.68,14.68,0,0,0,21.86,6.19L3.2,31.45A16.58,16.58,0,0,0,5.87,53.91L564.81,508.63a14.69,14.69,0,0,0,21.33-2.82l18.66-25.26A16.58,16.58,0,0,0,602.13,458.09Z"]
 };
 var faStream = {
   prefix: 'fas',
@@ -13078,7 +13818,7 @@ var faStreetView = {
 var faStrikethrough = {
   prefix: 'fas',
   iconName: 'strikethrough',
-  icon: [512, 512, [], "f0cc", "M496 288H16c-8.837 0-16-7.163-16-16v-32c0-8.837 7.163-16 16-16h480c8.837 0 16 7.163 16 16v32c0 8.837-7.163 16-16 16zm-214.666 16c27.258 12.937 46.524 28.683 46.524 56.243 0 33.108-28.977 53.676-75.621 53.676-32.325 0-76.874-12.08-76.874-44.271V368c0-8.837-7.164-16-16-16H113.75c-8.836 0-16 7.163-16 16v19.204c0 66.845 77.717 101.82 154.487 101.82 88.578 0 162.013-45.438 162.013-134.424 0-19.815-3.618-36.417-10.143-50.6H281.334zm-30.952-96c-32.422-13.505-56.836-28.946-56.836-59.683 0-33.92 30.901-47.406 64.962-47.406 42.647 0 64.962 16.593 64.962 32.985V136c0 8.837 7.164 16 16 16h45.613c8.836 0 16-7.163 16-16v-30.318c0-52.438-71.725-79.875-142.575-79.875-85.203 0-150.726 40.972-150.726 125.646 0 22.71 4.665 41.176 12.777 56.547h129.823z"]
+  icon: [512, 512, [], "f0cc", "M496 224H293.9l-87.17-26.83A43.55 43.55 0 0 1 219.55 112h66.79A49.89 49.89 0 0 1 331 139.58a16 16 0 0 0 21.46 7.15l42.94-21.47a16 16 0 0 0 7.16-21.46l-.53-1A128 128 0 0 0 287.51 32h-68a123.68 123.68 0 0 0-123 135.64c2 20.89 10.1 39.83 21.78 56.36H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h480a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm-180.24 96A43 43 0 0 1 336 356.45 43.59 43.59 0 0 1 292.45 400h-66.79A49.89 49.89 0 0 1 181 372.42a16 16 0 0 0-21.46-7.15l-42.94 21.47a16 16 0 0 0-7.16 21.46l.53 1A128 128 0 0 0 224.49 480h68a123.68 123.68 0 0 0 123-135.64 114.25 114.25 0 0 0-5.34-24.36z"]
 };
 var faStroopwafel = {
   prefix: 'fas',
@@ -13088,7 +13828,7 @@ var faStroopwafel = {
 var faSubscript = {
   prefix: 'fas',
   iconName: 'subscript',
-  icon: [512, 512, [], "f12c", "M272 32h-67.8c-5.5 0-10.7 2.9-13.6 7.6l-40.3 65c-2.3 3.6-4.5 7.3-6.2 10.5-1.7-3.2-3.7-6.8-5.7-10.4L98.5 39.6c-2.9-4.7-8.1-7.6-13.6-7.6H16C7.2 32 0 39.2 0 48v32c0 8.8 7.2 16 16 16h30.1l52.8 77.3L42.3 256H16c-8.8 0-16 7.2-16 16v32c0 8.8 7.2 16 16 16h64c5.5 0 10.7-2.9 13.6-7.6l44.7-72.1c2.2-3.6 4.2-7.3 5.9-10.6 1.8 3.2 3.9 6.9 6.2 10.2l45.7 72.6c2.9 4.7 8 7.5 13.5 7.5H272c8.8 0 16-7.2 16-16v-32c0-8.8-7.2-16-16-16h-22l-58.6-84.3L244 96h28c8.8 0 16-7.2 16-16V48c0-8.8-7.2-16-16-16zm224 384H395.2c3.5-10.5 18.8-21.3 36.3-32.4 16.6-10.6 35.5-22.6 50.3-38.9 17.5-19.1 25.9-40.2 25.9-64.6 0-60.6-50.7-88.1-97.8-88.1-42.5 0-76.4 22-94.4 50.4-4.7 7.3-2.6 17 4.6 21.9l30.3 20.3c7 4.7 16.5 3.1 21.6-3.6 8-10.4 18.8-18.2 31.7-18.2 19.4 0 26.3 12.9 26.3 23.9 0 36.2-119.4 57-119.4 160 0 6.7.6 13 1.4 19.3 1.1 8 7.8 13.9 15.9 13.9H496c8.8 0 16-7.2 16-16v-32c0-8.7-7.2-15.9-16-15.9z"]
+  icon: [512, 512, [], "f12c", "M496 448h-16V304a16 16 0 0 0-16-16h-48a16 16 0 0 0-14.29 8.83l-16 32A16 16 0 0 0 400 352h16v96h-16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h96a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zM336 64h-67a16 16 0 0 0-13.14 6.87l-79.9 115-79.9-115A16 16 0 0 0 83 64H16A16 16 0 0 0 0 80v48a16 16 0 0 0 16 16h33.48l77.81 112-77.81 112H16a16 16 0 0 0-16 16v48a16 16 0 0 0 16 16h67a16 16 0 0 0 13.14-6.87l79.9-115 79.9 115A16 16 0 0 0 269 448h67a16 16 0 0 0 16-16v-48a16 16 0 0 0-16-16h-33.48l-77.81-112 77.81-112H336a16 16 0 0 0 16-16V80a16 16 0 0 0-16-16z"]
 };
 var faSubway = {
   prefix: 'fas',
@@ -13113,7 +13853,7 @@ var faSun = {
 var faSuperscript = {
   prefix: 'fas',
   iconName: 'superscript',
-  icon: [512, 512, [], "f12b", "M272 192h-67.8c-5.5 0-10.7 2.9-13.6 7.6l-40.3 65c-2.3 3.6-4.5 7.3-6.2 10.5-1.7-3.2-3.7-6.8-5.7-10.4l-39.9-65.1c-2.9-4.7-8.1-7.6-13.6-7.6H16c-8.8 0-16 7.2-16 16v32c0 8.8 7.2 16 16 16h30.1l52.8 77.3L42.3 416H16c-8.8 0-16 7.2-16 16v32c0 8.8 7.2 16 16 16h64c5.5 0 10.7-2.9 13.6-7.6l44.7-72.1c2.2-3.6 4.2-7.3 5.9-10.6 1.8 3.2 3.9 6.9 6.2 10.2l45.7 72.6c2.9 4.7 8 7.5 13.5 7.5H272c8.8 0 16-7.2 16-16v-32c0-8.8-7.2-16-16-16h-22l-58.6-84.3L244 256h28c8.8 0 16-7.2 16-16v-32c0-8.8-7.2-16-16-16zm224 64H395.2c3.5-10.5 18.8-21.3 36.3-32.4 16.6-10.6 35.5-22.6 50.3-38.9 17.5-19.1 25.9-40.2 25.9-64.6 0-60.6-50.7-88.1-97.8-88.1-42.5 0-76.4 22-94.4 50.4-4.7 7.3-2.6 17 4.6 21.9l30.3 20.3c7 4.7 16.5 3.1 21.6-3.6 8-10.4 18.8-18.2 31.7-18.2 19.4 0 26.3 12.9 26.3 23.9 0 36.2-119.4 57-119.4 160 0 6.7.6 13 1.4 19.3 1.1 8 7.8 13.9 15.9 13.9H496c8.8 0 16-7.2 16-16v-32c0-8.7-7.2-15.9-16-15.9z"]
+  icon: [512, 512, [], "f12b", "M496 160h-16V16a16 16 0 0 0-16-16h-48a16 16 0 0 0-14.29 8.83l-16 32A16 16 0 0 0 400 64h16v96h-16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h96a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zM336 64h-67a16 16 0 0 0-13.14 6.87l-79.9 115-79.9-115A16 16 0 0 0 83 64H16A16 16 0 0 0 0 80v48a16 16 0 0 0 16 16h33.48l77.81 112-77.81 112H16a16 16 0 0 0-16 16v48a16 16 0 0 0 16 16h67a16 16 0 0 0 13.14-6.87l79.9-115 79.9 115A16 16 0 0 0 269 448h67a16 16 0 0 0 16-16v-48a16 16 0 0 0-16-16h-33.48l-77.81-112 77.81-112H336a16 16 0 0 0 16-16V80a16 16 0 0 0-16-16z"]
 };
 var faSurprise = {
   prefix: 'fas',
@@ -13123,7 +13863,7 @@ var faSurprise = {
 var faSwatchbook = {
   prefix: 'fas',
   iconName: 'swatchbook',
-  icon: [511, 512, [], "f5c3", "M479.06 320H372.29L186.15 506.51c-2.06 2.07-4.49 3.58-6.67 5.49h299.58c17.64 0 31.94-14.33 31.94-32V352c0-17.67-14.3-32-31.94-32zm-44.5-152.9l-90.33-90.51c-12.47-12.5-32.69-12.5-45.17 0l-75.5 75.65V416c0 2.96-.67 5.73-.87 8.64l211.87-212.28c12.47-12.5 12.47-32.77 0-45.26zM191.62 32c0-17.67-14.3-32-31.94-32H31.94C14.3 0 0 14.33 0 32v384c0 53.02 42.9 96 95.81 96s95.81-42.98 95.81-96V32zM95.81 440c-13.23 0-23.95-10.75-23.95-24 0-13.26 10.73-24 23.95-24s23.95 10.74 23.95 24c.01 13.25-10.72 24-23.95 24zm31.94-184H63.88v-64h63.88v64zm0-128H63.88V64h63.88v64z"]
+  icon: [512, 512, [], "f5c3", "M434.66,167.71h0L344.5,77.36a31.83,31.83,0,0,0-45-.07h0l-.07.07L224,152.88V424L434.66,212.9A32,32,0,0,0,434.66,167.71ZM480,320H373.09L186.68,506.51c-2.06,2.07-4.5,3.58-6.68,5.49H480a32,32,0,0,0,32-32V352A32,32,0,0,0,480,320ZM192,32A32,32,0,0,0,160,0H32A32,32,0,0,0,0,32V416a96,96,0,0,0,192,0ZM96,440a24,24,0,1,1,24-24A24,24,0,0,1,96,440Zm32-184H64V192h64Zm0-128H64V64h64Z"]
 };
 var faSwimmer = {
   prefix: 'fas',
@@ -13203,7 +13943,7 @@ var faTape = {
 var faTasks = {
   prefix: 'fas',
   iconName: 'tasks',
-  icon: [512, 512, [], "f0ae", "M208 132h288c8.8 0 16-7.2 16-16V76c0-8.8-7.2-16-16-16H208c-8.8 0-16 7.2-16 16v40c0 8.8 7.2 16 16 16zm0 160h288c8.8 0 16-7.2 16-16v-40c0-8.8-7.2-16-16-16H208c-8.8 0-16 7.2-16 16v40c0 8.8 7.2 16 16 16zm0 160h288c8.8 0 16-7.2 16-16v-40c0-8.8-7.2-16-16-16H208c-8.8 0-16 7.2-16 16v40c0 8.8 7.2 16 16 16zM64 368c-26.5 0-48.6 21.5-48.6 48s22.1 48 48.6 48 48-21.5 48-48-21.5-48-48-48zm92.5-299l-72.2 72.2-15.6 15.6c-4.7 4.7-12.9 4.7-17.6 0L3.5 109.4c-4.7-4.7-4.7-12.3 0-17l15.7-15.7c4.7-4.7 12.3-4.7 17 0l22.7 22.1 63.7-63.3c4.7-4.7 12.3-4.7 17 0l17 16.5c4.6 4.7 4.6 12.3-.1 17zm0 159.6l-72.2 72.2-15.7 15.7c-4.7 4.7-12.9 4.7-17.6 0L3.5 269c-4.7-4.7-4.7-12.3 0-17l15.7-15.7c4.7-4.7 12.3-4.7 17 0l22.7 22.1 63.7-63.7c4.7-4.7 12.3-4.7 17 0l17 17c4.6 4.6 4.6 12.2-.1 16.9z"]
+  icon: [512, 512, [], "f0ae", "M139.61 35.5a12 12 0 0 0-17 0L58.93 98.81l-22.7-22.12a12 12 0 0 0-17 0L3.53 92.41a12 12 0 0 0 0 17l47.59 47.4a12.78 12.78 0 0 0 17.61 0l15.59-15.62L156.52 69a12.09 12.09 0 0 0 .09-17zm0 159.19a12 12 0 0 0-17 0l-63.68 63.72-22.7-22.1a12 12 0 0 0-17 0L3.53 252a12 12 0 0 0 0 17L51 316.5a12.77 12.77 0 0 0 17.6 0l15.7-15.69 72.2-72.22a12 12 0 0 0 .09-16.9zM64 368c-26.49 0-48.59 21.5-48.59 48S37.53 464 64 464a48 48 0 0 0 0-96zm432 16H208a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h288a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm0-320H208a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h288a16 16 0 0 0 16-16V80a16 16 0 0 0-16-16zm0 160H208a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h288a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16z"]
 };
 var faTaxi = {
   prefix: 'fas',
@@ -13243,12 +13983,12 @@ var faTerminal = {
 var faTextHeight = {
   prefix: 'fas',
   iconName: 'text-height',
-  icon: [576, 512, [], "f034", "M16 32h288c8.837 0 16 7.163 16 16v96c0 8.837-7.163 16-16 16h-35.496c-8.837 0-16-7.163-16-16V96h-54.761v320H232c8.837 0 16 7.163 16 16v32c0 8.837-7.163 16-16 16H88c-8.837 0-16-7.163-16-16v-32c0-8.837 7.163-16 16-16h34.257V96H67.496v48c0 8.837-7.163 16-16 16H16c-8.837 0-16-7.163-16-16V48c0-8.837 7.163-16 16-16zm475.308 4.685l79.995 80.001C581.309 126.693 574.297 144 559.99 144H512v224h48c15.639 0 20.635 17.991 11.313 27.314l-79.995 80.001c-6.247 6.247-16.381 6.245-22.626 0l-79.995-80.001C378.691 385.307 385.703 368 400.01 368H448V144h-48c-15.639 0-20.635-17.991-11.313-27.314l79.995-80.001c6.247-6.248 16.381-6.245 22.626 0z"]
+  icon: [576, 512, [], "f034", "M304 32H16A16 16 0 0 0 0 48v96a16 16 0 0 0 16 16h32a16 16 0 0 0 16-16v-32h56v304H80a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h160a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16h-40V112h56v32a16 16 0 0 0 16 16h32a16 16 0 0 0 16-16V48a16 16 0 0 0-16-16zm256 336h-48V144h48c14.31 0 21.33-17.31 11.31-27.31l-80-80a16 16 0 0 0-22.62 0l-80 80C379.36 126 384.36 144 400 144h48v224h-48c-14.31 0-21.32 17.31-11.31 27.31l80 80a16 16 0 0 0 22.62 0l80-80C580.64 386 575.64 368 560 368z"]
 };
 var faTextWidth = {
   prefix: 'fas',
   iconName: 'text-width',
-  icon: [448, 512, [], "f035", "M16 32h416c8.837 0 16 7.163 16 16v96c0 8.837-7.163 16-16 16h-35.496c-8.837 0-16-7.163-16-16V96H261.743v128H296c8.837 0 16 7.163 16 16v32c0 8.837-7.163 16-16 16H152c-8.837 0-16-7.163-16-16v-32c0-8.837 7.163-16 16-16h34.257V96H67.496v48c0 8.837-7.163 16-16 16H16c-8.837 0-16-7.163-16-16V48c0-8.837 7.163-16 16-16zm427.315 340.682l-80.001-79.995C353.991 283.365 336 288.362 336 304v48H112v-47.99c0-14.307-17.307-21.319-27.314-11.313L4.685 372.692c-6.245 6.245-6.247 16.379 0 22.626l80.001 79.995C94.009 484.635 112 479.638 112 464v-48h224v47.99c0 14.307 17.307 21.319 27.314 11.313l80.001-79.995c6.245-6.245 6.248-16.379 0-22.626z"]
+  icon: [448, 512, [], "f035", "M432 32H16A16 16 0 0 0 0 48v80a16 16 0 0 0 16 16h32a16 16 0 0 0 16-16v-16h120v112h-24a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h128a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16h-24V112h120v16a16 16 0 0 0 16 16h32a16 16 0 0 0 16-16V48a16 16 0 0 0-16-16zm-68.69 260.69C354 283.36 336 288.36 336 304v48H112v-48c0-14.31-17.31-21.32-27.31-11.31l-80 80a16 16 0 0 0 0 22.62l80 80C94 484.64 112 479.64 112 464v-48h224v48c0 14.31 17.31 21.33 27.31 11.31l80-80a16 16 0 0 0 0-22.62z"]
 };
 var faTh = {
   prefix: 'fas',
@@ -13365,6 +14105,11 @@ var faToiletPaper = {
   iconName: 'toilet-paper',
   icon: [576, 512, [], "f71e", "M128 0C74.98 0 32 85.96 32 192v172.07c0 41.12-9.8 62.77-31.17 126.87C-2.62 501.3 5.09 512 16.01 512h280.92c13.77 0 26-8.81 30.36-21.88 12.83-38.48 24.71-72.4 24.71-126.05V192c0-83.6 23.67-153.52 60.44-192H128zM96 224c-8.84 0-16-7.16-16-16s7.16-16 16-16 16 7.16 16 16-7.16 16-16 16zm64 0c-8.84 0-16-7.16-16-16s7.16-16 16-16 16 7.16 16 16-7.16 16-16 16zm64 0c-8.84 0-16-7.16-16-16s7.16-16 16-16 16 7.16 16 16-7.16 16-16 16zm64 0c-8.84 0-16-7.16-16-16s7.16-16 16-16 16 7.16 16 16-7.16 16-16 16zM480 0c-53.02 0-96 85.96-96 192s42.98 192 96 192 96-85.96 96-192S533.02 0 480 0zm0 256c-17.67 0-32-28.65-32-64s14.33-64 32-64 32 28.65 32 64-14.33 64-32 64z"]
 };
+var faToiletPaperSlash = {
+  prefix: 'fas',
+  iconName: 'toilet-paper-slash',
+  icon: [640, 512, [], "f972", "M64,192V364.13c0,41.12-9.75,62.75-31.12,126.87A16,16,0,0,0,48,512H328.86a31.87,31.87,0,0,0,30.38-21.87c9.31-27.83,18-53.35,22.18-85.55l-316-244.25C64.53,170.66,64,181.19,64,192ZM633.82,458.09l-102-78.81C575.28,360.91,608,284.32,608,192,608,86,565,0,512,0s-96,86-96,192c0,42,7,80.4,18.43,112L384,265V192c0-83.62,23.63-153.5,60.5-192H160c-23.33,0-44.63,16.83-61.26,44.53L45.46,3.38A16,16,0,0,0,23,6.19L3.37,31.45A16,16,0,0,0,6.18,53.91L594.54,508.63A16,16,0,0,0,617,505.81l19.64-25.26A16,16,0,0,0,633.82,458.09ZM512,256c-17.63,0-32-28.62-32-64s14.37-64,32-64,32,28.63,32,64S529.62,256,512,256Z"]
+};
 var faToolbox = {
   prefix: 'fas',
   iconName: 'toolbox',
@@ -13383,7 +14128,7 @@ var faTooth = {
 var faTorah = {
   prefix: 'fas',
   iconName: 'torah',
-  icon: [640, 512, [], "f6a0", "M48 0A48.05 48.05 0 0 0 0 48v64a16 16 0 0 0 16 16h80V48A48.05 48.05 0 0 0 48 0zm347.14 228.56h34.91l-17.47-29.17zm-59.09 52.07l16.78-28.07h-33.58zM242 228.56h34.9l-17.48-29.19zm188-105.12h-34.9l17.48 29.19zM256 412.57V352h288V96a96.1 96.1 0 0 0-96-96H111.59A79.24 79.24 0 0 1 128 48v368a64 64 0 0 0 74.75 63.12C234.22 474 256 444.46 256 412.57zm-38.59-303a20.11 20.11 0 0 1 17.5-10.15h56.3L318.8 53.3a20 20 0 0 1 17.25-9.82 19.66 19.66 0 0 1 17 9.68l27.7 46.28h56.36a20 20 0 0 1 17.14 30.29L426.57 176l27.79 46.43a19.6 19.6 0 0 1 .23 20 20.11 20.11 0 0 1-17.5 10.15h-56.3L353.2 298.7a20 20 0 0 1-17.2 9.82 19.66 19.66 0 0 1-17-9.68l-27.7-46.28h-56.39a20 20 0 0 1-17.14-30.29L245.43 176l-27.79-46.43a19.6 19.6 0 0 1-.23-19.98zM624 384H288v32a96.11 96.11 0 0 1-96 96h336a112 112 0 0 0 112-112 16 16 0 0 0-16-16zM276.86 123.44H242l17.47 29.17zM336 71.38l-16.83 28.06h33.58zm-31.12 157.18h62.3L398.59 176l-31.47-52.58h-62.3L273.41 176z"]
+  icon: [640, 512, [], "f6a0", "M320.05 366.48l17.72-29.64h-35.46zm99.21-166H382.4l18.46 30.82zM48 0C21.49 0 0 14.33 0 32v448c0 17.67 21.49 32 48 32s48-14.33 48-32V32C96 14.33 74.51 0 48 0zm172.74 311.5h36.85l-18.46-30.82zm161.71 0h36.86l-18.45-30.8zM128 464h384V48H128zm66.77-278.13a21.22 21.22 0 0 1 18.48-10.71h59.45l29.13-48.71a21.13 21.13 0 0 1 18.22-10.37A20.76 20.76 0 0 1 338 126.29l29.25 48.86h59.52a21.12 21.12 0 0 1 18.1 32L415.63 256 445 305a20.69 20.69 0 0 1 .24 21.12 21.25 21.25 0 0 1-18.48 10.72h-59.47l-29.13 48.7a21.13 21.13 0 0 1-18.16 10.4 20.79 20.79 0 0 1-18-10.22l-29.25-48.88h-59.5a21.11 21.11 0 0 1-18.1-32L224.36 256 195 207a20.7 20.7 0 0 1-.23-21.13zM592 0c-26.51 0-48 14.33-48 32v448c0 17.67 21.49 32 48 32s48-14.33 48-32V32c0-17.67-21.49-32-48-32zM320 145.53l-17.78 29.62h35.46zm-62.45 55h-36.81l18.44 30.8zm29.58 111h65.79L386.09 256l-33.23-55.52h-65.79L253.9 256z"]
 };
 var faToriiGate = {
   prefix: 'fas',
@@ -13404,6 +14149,11 @@ var faTrafficLight = {
   prefix: 'fas',
   iconName: 'traffic-light',
   icon: [384, 512, [], "f637", "M384 192h-64v-37.88c37.2-13.22 64-48.38 64-90.12h-64V32c0-17.67-14.33-32-32-32H96C78.33 0 64 14.33 64 32v32H0c0 41.74 26.8 76.9 64 90.12V192H0c0 41.74 26.8 76.9 64 90.12V320H0c0 42.84 28.25 78.69 66.99 91.05C79.42 468.72 130.6 512 192 512s112.58-43.28 125.01-100.95C355.75 398.69 384 362.84 384 320h-64v-37.88c37.2-13.22 64-48.38 64-90.12zM192 416c-26.51 0-48-21.49-48-48s21.49-48 48-48 48 21.49 48 48-21.49 48-48 48zm0-128c-26.51 0-48-21.49-48-48s21.49-48 48-48 48 21.49 48 48-21.49 48-48 48zm0-128c-26.51 0-48-21.49-48-48s21.49-48 48-48 48 21.49 48 48-21.49 48-48 48z"]
+};
+var faTrailer = {
+  prefix: 'fas',
+  iconName: 'trailer',
+  icon: [640, 512, [], "f941", "M624,320H544V80a16,16,0,0,0-16-16H16A16,16,0,0,0,0,80V368a16,16,0,0,0,16,16H65.61c7.83-54.21,54-96,110.39-96s102.56,41.79,110.39,96H624a16,16,0,0,0,16-16V336A16,16,0,0,0,624,320ZM96,243.68a176.29,176.29,0,0,0-32,20.71V136a8,8,0,0,1,8-8H88a8,8,0,0,1,8,8Zm96-18.54c-5.31-.49-10.57-1.14-16-1.14s-10.69.65-16,1.14V136a8,8,0,0,1,8-8h16a8,8,0,0,1,8,8Zm96,39.25a176.29,176.29,0,0,0-32-20.71V136a8,8,0,0,1,8-8h16a8,8,0,0,1,8,8ZM384,320H352V136a8,8,0,0,1,8-8h16a8,8,0,0,1,8,8Zm96,0H448V136a8,8,0,0,1,8-8h16a8,8,0,0,1,8,8Zm-304,0a80,80,0,1,0,80,80A80,80,0,0,0,176,320Zm0,112a32,32,0,1,1,32-32A32,32,0,0,1,176,432Z"]
 };
 var faTrain = {
   prefix: 'fas',
@@ -13493,7 +14243,7 @@ var faTty = {
 var faTv = {
   prefix: 'fas',
   iconName: 'tv',
-  icon: [640, 512, [], "f26c", "M592 0H48C21.5 0 0 21.5 0 48v320c0 26.5 21.5 48 48 48h245.1v32h-160c-17.7 0-32 14.3-32 32s14.3 32 32 32h384c17.7 0 32-14.3 32-32s-14.3-32-32-32h-160v-32H592c26.5 0 48-21.5 48-48V48c0-26.5-21.5-48-48-48zm-16 352H64V64h512v288z"]
+  icon: [640, 512, [], "f26c", "M592 0H48A48 48 0 0 0 0 48v320a48 48 0 0 0 48 48h240v32H112a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16H352v-32h240a48 48 0 0 0 48-48V48a48 48 0 0 0-48-48zm-16 352H64V64h512z"]
 };
 var faUmbrella = {
   prefix: 'fas',
@@ -13508,7 +14258,7 @@ var faUmbrellaBeach = {
 var faUnderline = {
   prefix: 'fas',
   iconName: 'underline',
-  icon: [448, 512, [], "f0cd", "M224.264 388.24c-91.669 0-156.603-51.165-156.603-151.392V64H39.37c-8.837 0-16-7.163-16-16V16c0-8.837 7.163-16 16-16h137.39c8.837 0 16 7.163 16 16v32c0 8.837-7.163 16-16 16h-28.813v172.848c0 53.699 28.314 79.444 76.317 79.444 46.966 0 75.796-25.434 75.796-79.965V64h-28.291c-8.837 0-16-7.163-16-16V16c0-8.837 7.163-16 16-16h136.868c8.837 0 16 7.163 16 16v32c0 8.837-7.163 16-16 16h-28.291v172.848c0 99.405-64.881 151.392-156.082 151.392zM16 448h416c8.837 0 16 7.163 16 16v32c0 8.837-7.163 16-16 16H16c-8.837 0-16-7.163-16-16v-32c0-8.837 7.163-16 16-16z"]
+  icon: [448, 512, [], "f0cd", "M32 64h32v160c0 88.22 71.78 160 160 160s160-71.78 160-160V64h32a16 16 0 0 0 16-16V16a16 16 0 0 0-16-16H272a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h32v160a80 80 0 0 1-160 0V64h32a16 16 0 0 0 16-16V16a16 16 0 0 0-16-16H32a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16zm400 384H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16z"]
 };
 var faUndo = {
   prefix: 'fas',
@@ -13613,7 +14363,7 @@ var faUserInjured = {
 var faUserLock = {
   prefix: 'fas',
   iconName: 'user-lock',
-  icon: [640, 512, [], "f502", "M320 320c0-11.1 3.1-21.4 8.1-30.5-4.8-.5-9.5-1.5-14.5-1.5h-16.7c-22.2 10.2-46.9 16-72.9 16s-50.6-5.8-72.9-16h-16.7C60.2 288 0 348.2 0 422.4V464c0 26.5 21.5 48 48 48h280.9c-5.5-9.5-8.9-20.3-8.9-32V320zm-96-64c70.7 0 128-57.3 128-128S294.7 0 224 0 96 57.3 96 128s57.3 128 128 128zm384 32h-32v-48c0-44.2-35.8-80-80-80s-80 35.8-80 80v48h-32c-17.7 0-32 14.3-32 32v160c0 17.7 14.3 32 32 32h224c17.7 0 32-14.3 32-32V320c0-17.7-14.3-32-32-32zm-80 0h-64v-48c0-17.6 14.4-32 32-32s32 14.4 32 32v48z"]
+  icon: [640, 512, [], "f502", "M224 256A128 128 0 1 0 96 128a128 128 0 0 0 128 128zm96 64a63.08 63.08 0 0 1 8.1-30.5c-4.8-.5-9.5-1.5-14.5-1.5h-16.7a174.08 174.08 0 0 1-145.8 0h-16.7A134.43 134.43 0 0 0 0 422.4V464a48 48 0 0 0 48 48h280.9a63.54 63.54 0 0 1-8.9-32zm288-32h-32v-80a80 80 0 0 0-160 0v80h-32a32 32 0 0 0-32 32v160a32 32 0 0 0 32 32h224a32 32 0 0 0 32-32V320a32 32 0 0 0-32-32zM496 432a32 32 0 1 1 32-32 32 32 0 0 1-32 32zm32-144h-64v-80a32 32 0 0 1 64 0z"]
 };
 var faUserMd = {
   prefix: 'fas',
@@ -13633,7 +14383,7 @@ var faUserNinja = {
 var faUserNurse = {
   prefix: 'fas',
   iconName: 'user-nurse',
-  icon: [448, 512, [], "f82f", "M57.78 288h82.36c22.51 19.68 51.62 32 83.86 32s61.35-12.32 83.86-32h82.36a16 16 0 0 0 14.28-23.18c-15.23-29.85-31.28-62.23-42.15-95.54C354.78 146.09 352 121.59 352 97.2V48L224 0 96 48v49.2c0 24.39-2.75 48.89-10.33 72.08C74.78 202.59 58.73 235 43.5 264.82A16 16 0 0 0 57.78 288zM184 71.67a5 5 0 0 1 5-5h21.67V45a5 5 0 0 1 5-5h16.66a5 5 0 0 1 5 5v21.67H259a5 5 0 0 1 5 5v16.66a5 5 0 0 1-5 5h-21.67V115a5 5 0 0 1-5 5h-16.66a5 5 0 0 1-5-5V93.33H189a5 5 0 0 1-5-5zM144 160h160v32a80 80 0 0 1-160 0zm175.41 160L224 415.39 128.59 320C57.1 323.1 0 381.6 0 453.79A58.21 58.21 0 0 0 58.21 512h331.58A58.21 58.21 0 0 0 448 453.79C448 381.6 390.9 323.1 319.41 320z"]
+  icon: [448, 512, [], "f82f", "M319.41,320,224,415.39,128.59,320C57.1,323.1,0,381.6,0,453.79A58.21,58.21,0,0,0,58.21,512H389.79A58.21,58.21,0,0,0,448,453.79C448,381.6,390.9,323.1,319.41,320ZM224,304A128,128,0,0,0,352,176V65.82a32,32,0,0,0-20.76-30L246.47,4.07a64,64,0,0,0-44.94,0L116.76,35.86A32,32,0,0,0,96,65.82V176A128,128,0,0,0,224,304ZM184,71.67a5,5,0,0,1,5-5h21.67V45a5,5,0,0,1,5-5h16.66a5,5,0,0,1,5,5V66.67H259a5,5,0,0,1,5,5V88.33a5,5,0,0,1-5,5H237.33V115a5,5,0,0,1-5,5H215.67a5,5,0,0,1-5-5V93.33H189a5,5,0,0,1-5-5ZM144,160H304v16a80,80,0,0,1-160,0Z"]
 };
 var faUserPlus = {
   prefix: 'fas',
@@ -13734,6 +14484,26 @@ var faVihara = {
   prefix: 'fas',
   iconName: 'vihara',
   icon: [640, 512, [], "f6a7", "M632.88 400.71L544 352v-64l55.16-17.69c11.79-5.9 11.79-22.72 0-28.62L480 192v-64l27.31-16.3c7.72-7.72 5.61-20.74-4.16-25.62L320 0 136.85 86.07c-9.77 4.88-11.88 17.9-4.16 25.62L160 128v64L40.84 241.69c-11.79 5.9-11.79 22.72 0 28.62L96 288v64L7.12 400.71c-5.42 3.62-7.7 9.63-7 15.29.62 5.01 3.57 9.75 8.72 12.33L64 448v48c0 8.84 7.16 16 16 16h32c8.84 0 16-7.16 16-16v-48h160v48c0 8.84 7.16 16 16 16h32c8.84 0 16-7.16 16-16v-48h160v48c0 8.84 7.16 16 16 16h32c8.84 0 16-7.16 16-16v-48l55.15-19.67c5.16-2.58 8.1-7.32 8.72-12.33.71-5.67-1.57-11.68-6.99-15.29zM224 128h192v64H224v-64zm-64 224v-64h320v64H160z"]
+};
+var faVirus = {
+  prefix: 'fas',
+  iconName: 'virus',
+  icon: [512, 512, [], "f974", "M483.55,227.55H462c-50.68,0-76.07-61.27-40.23-97.11L437,115.19A28.44,28.44,0,0,0,396.8,75L381.56,90.22c-35.84,35.83-97.11,10.45-97.11-40.23V28.44a28.45,28.45,0,0,0-56.9,0V50c0,50.68-61.27,76.06-97.11,40.23L115.2,75A28.44,28.44,0,0,0,75,115.19l15.25,15.25c35.84,35.84,10.45,97.11-40.23,97.11H28.45a28.45,28.45,0,1,0,0,56.89H50c50.68,0,76.07,61.28,40.23,97.12L75,396.8A28.45,28.45,0,0,0,115.2,437l15.24-15.25c35.84-35.84,97.11-10.45,97.11,40.23v21.54a28.45,28.45,0,0,0,56.9,0V462c0-50.68,61.27-76.07,97.11-40.23L396.8,437A28.45,28.45,0,0,0,437,396.8l-15.25-15.24c-35.84-35.84-10.45-97.12,40.23-97.12h21.54a28.45,28.45,0,1,0,0-56.89ZM224,272a48,48,0,1,1,48-48A48,48,0,0,1,224,272Zm80,56a24,24,0,1,1,24-24A24,24,0,0,1,304,328Z"]
+};
+var faVirusSlash = {
+  prefix: 'fas',
+  iconName: 'virus-slash',
+  icon: [640, 512, [], "f975", "M114,227.56H92.44a28.44,28.44,0,0,0,0,56.88H114c50.68,0,76.06,61.28,40.23,97.12L139,396.81A28.44,28.44,0,1,0,179.19,437l15.25-15.25c35.84-35.84,97.11-10.45,97.11,40.23v21.54a28.45,28.45,0,0,0,56.9,0V462c0-26.61,17-45.91,38.22-53.37l-244.5-189A55.58,55.58,0,0,1,114,227.56ZM633.82,458.09,470.62,332c4.17-25.39,24.91-47.52,55.39-47.52h21.55a28.44,28.44,0,1,0,0-56.88H526c-50.68,0-76.06-61.28-40.23-97.12L501,115.19A28.44,28.44,0,0,0,460.81,75L445.56,90.22c-35.84,35.84-97.11,10.46-97.11-40.23V28.45a28.45,28.45,0,0,0-56.9,0V50c0,50.69-61.27,76.07-97.11,40.23L179.19,75A28.43,28.43,0,0,0,139,75c-.13.14-.15.32-.28.46L45.46,3.38A16,16,0,0,0,23,6.19L3.37,31.45A16,16,0,0,0,6.18,53.91L594.54,508.63A16,16,0,0,0,617,505.81l19.64-25.26A16,16,0,0,0,633.82,458.09ZM335.43,227.48l-62.87-48.59A46.55,46.55,0,0,1,288,176a48,48,0,0,1,48,48C336,225.22,335.52,226.29,335.43,227.48Z"]
+};
+var faViruses = {
+  prefix: 'fas',
+  iconName: 'viruses',
+  icon: [640, 512, [], "f976", "M624,352H611.88c-28.51,0-42.79-34.47-22.63-54.63l8.58-8.57a16,16,0,1,0-22.63-22.63l-8.57,8.58C546.47,294.91,512,280.63,512,252.12V240a16,16,0,0,0-32,0v12.12c0,28.51-34.47,42.79-54.63,22.63l-8.57-8.58a16,16,0,0,0-22.63,22.63l8.58,8.57c20.16,20.16,5.88,54.63-22.63,54.63H368a16,16,0,0,0,0,32h12.12c28.51,0,42.79,34.47,22.63,54.63l-8.58,8.57a16,16,0,1,0,22.63,22.63l8.57-8.58c20.16-20.16,54.63-5.88,54.63,22.63V496a16,16,0,0,0,32,0V483.88c0-28.51,34.47-42.79,54.63-22.63l8.57,8.58a16,16,0,1,0,22.63-22.63l-8.58-8.57C569.09,418.47,583.37,384,611.88,384H624a16,16,0,0,0,0-32ZM480,384a32,32,0,1,1,32-32A32,32,0,0,1,480,384ZM346.51,213.33h16.16a21.33,21.33,0,0,0,0-42.66H346.51c-38,0-57.05-46-30.17-72.84l11.43-11.44A21.33,21.33,0,0,0,297.6,56.23L286.17,67.66c-26.88,26.88-72.84,7.85-72.84-30.17V21.33a21.33,21.33,0,0,0-42.66,0V37.49c0,38-46,57.05-72.84,30.17L86.4,56.23A21.33,21.33,0,0,0,56.23,86.39L67.66,97.83c26.88,26.88,7.85,72.84-30.17,72.84H21.33a21.33,21.33,0,0,0,0,42.66H37.49c38,0,57.05,46,30.17,72.84L56.23,297.6A21.33,21.33,0,1,0,86.4,327.77l11.43-11.43c26.88-26.88,72.84-7.85,72.84,30.17v16.16a21.33,21.33,0,0,0,42.66,0V346.51c0-38,46-57.05,72.84-30.17l11.43,11.43a21.33,21.33,0,0,0,30.17-30.17l-11.43-11.43C289.46,259.29,308.49,213.33,346.51,213.33ZM160,192a32,32,0,1,1,32-32A32,32,0,0,1,160,192Zm80,32a16,16,0,1,1,16-16A16,16,0,0,1,240,224Z"]
+};
+var faVoicemail = {
+  prefix: 'fas',
+  iconName: 'voicemail',
+  icon: [640, 512, [], "f897", "M496 128a144 144 0 0 0-119.74 224H263.74A144 144 0 1 0 144 416h352a144 144 0 0 0 0-288zM64 272a80 80 0 1 1 80 80 80 80 0 0 1-80-80zm432 80a80 80 0 1 1 80-80 80 80 0 0 1-80 80z"]
 };
 var faVolleyballBall = {
   prefix: 'fas',
@@ -13934,7 +14704,10 @@ var _iconsCache = {
   faBackspace: faBackspace,
   faBackward: faBackward,
   faBacon: faBacon,
+  faBahai: faBahai,
   faBalanceScale: faBalanceScale,
+  faBalanceScaleLeft: faBalanceScaleLeft,
+  faBalanceScaleRight: faBalanceScaleRight,
   faBan: faBan,
   faBandAid: faBandAid,
   faBarcode: faBarcode,
@@ -13954,6 +14727,7 @@ var _iconsCache = {
   faBezierCurve: faBezierCurve,
   faBible: faBible,
   faBicycle: faBicycle,
+  faBiking: faBiking,
   faBinoculars: faBinoculars,
   faBiohazard: faBiohazard,
   faBirthdayCake: faBirthdayCake,
@@ -13972,9 +14746,13 @@ var _iconsCache = {
   faBookOpen: faBookOpen,
   faBookReader: faBookReader,
   faBookmark: faBookmark,
+  faBorderAll: faBorderAll,
+  faBorderNone: faBorderNone,
+  faBorderStyle: faBorderStyle,
   faBowlingBall: faBowlingBall,
   faBox: faBox,
   faBoxOpen: faBoxOpen,
+  faBoxTissue: faBoxTissue,
   faBoxes: faBoxes,
   faBraille: faBraille,
   faBrain: faBrain,
@@ -14012,6 +14790,7 @@ var _iconsCache = {
   faCarBattery: faCarBattery,
   faCarCrash: faCarCrash,
   faCarSide: faCarSide,
+  faCaravan: faCaravan,
   faCaretDown: faCaretDown,
   faCaretLeft: faCaretLeft,
   faCaretRight: faCaretRight,
@@ -14096,6 +14875,7 @@ var _iconsCache = {
   faCompactDisc: faCompactDisc,
   faCompass: faCompass,
   faCompress: faCompress,
+  faCompressAlt: faCompressAlt,
   faCompressArrowsAlt: faCompressArrowsAlt,
   faConciergeBell: faConciergeBell,
   faCookie: faCookie,
@@ -14131,6 +14911,7 @@ var _iconsCache = {
   faDiceTwo: faDiceTwo,
   faDigitalTachograph: faDigitalTachograph,
   faDirections: faDirections,
+  faDisease: faDisease,
   faDivide: faDivide,
   faDizzy: faDizzy,
   faDna: faDna,
@@ -14172,14 +14953,17 @@ var _iconsCache = {
   faExclamationCircle: faExclamationCircle,
   faExclamationTriangle: faExclamationTriangle,
   faExpand: faExpand,
+  faExpandAlt: faExpandAlt,
   faExpandArrowsAlt: faExpandArrowsAlt,
   faExternalLinkAlt: faExternalLinkAlt,
   faExternalLinkSquareAlt: faExternalLinkSquareAlt,
   faEye: faEye,
   faEyeDropper: faEyeDropper,
   faEyeSlash: faEyeSlash,
+  faFan: faFan,
   faFastBackward: faFastBackward,
   faFastForward: faFastForward,
+  faFaucet: faFaucet,
   faFax: faFax,
   faFeather: faFeather,
   faFeatherAlt: faFeatherAlt,
@@ -14285,7 +15069,9 @@ var _iconsCache = {
   faHamsa: faHamsa,
   faHandHolding: faHandHolding,
   faHandHoldingHeart: faHandHoldingHeart,
+  faHandHoldingMedical: faHandHoldingMedical,
   faHandHoldingUsd: faHandHoldingUsd,
+  faHandHoldingWater: faHandHoldingWater,
   faHandLizard: faHandLizard,
   faHandMiddleFinger: faHandMiddleFinger,
   faHandPaper: faHandPaper,
@@ -14297,16 +15083,25 @@ var _iconsCache = {
   faHandPointer: faHandPointer,
   faHandRock: faHandRock,
   faHandScissors: faHandScissors,
+  faHandSparkles: faHandSparkles,
   faHandSpock: faHandSpock,
   faHands: faHands,
   faHandsHelping: faHandsHelping,
+  faHandsWash: faHandsWash,
   faHandshake: faHandshake,
+  faHandshakeAltSlash: faHandshakeAltSlash,
+  faHandshakeSlash: faHandshakeSlash,
   faHanukiah: faHanukiah,
   faHardHat: faHardHat,
   faHashtag: faHashtag,
+  faHatCowboy: faHatCowboy,
+  faHatCowboySide: faHatCowboySide,
   faHatWizard: faHatWizard,
-  faHaykal: faHaykal,
   faHdd: faHdd,
+  faHeadSideCough: faHeadSideCough,
+  faHeadSideCoughSlash: faHeadSideCoughSlash,
+  faHeadSideMask: faHeadSideMask,
+  faHeadSideVirus: faHeadSideVirus,
   faHeading: faHeading,
   faHeadphones: faHeadphones,
   faHeadphonesAlt: faHeadphonesAlt,
@@ -14327,6 +15122,7 @@ var _iconsCache = {
   faHospital: faHospital,
   faHospitalAlt: faHospitalAlt,
   faHospitalSymbol: faHospitalSymbol,
+  faHospitalUser: faHospitalUser,
   faHotTub: faHotTub,
   faHotdog: faHotdog,
   faHotel: faHotel,
@@ -14335,10 +15131,12 @@ var _iconsCache = {
   faHourglassHalf: faHourglassHalf,
   faHourglassStart: faHourglassStart,
   faHouseDamage: faHouseDamage,
+  faHouseUser: faHouseUser,
   faHryvnia: faHryvnia,
   faICursor: faICursor,
   faIceCream: faIceCream,
   faIcicles: faIcicles,
+  faIcons: faIcons,
   faIdBadge: faIdBadge,
   faIdCard: faIdCard,
   faIdCardAlt: faIdCardAlt,
@@ -14367,6 +15165,7 @@ var _iconsCache = {
   faLanguage: faLanguage,
   faLaptop: faLaptop,
   faLaptopCode: faLaptopCode,
+  faLaptopHouse: faLaptopHouse,
   faLaptopMedical: faLaptopMedical,
   faLaugh: faLaugh,
   faLaughBeam: faLaughBeam,
@@ -14396,6 +15195,8 @@ var _iconsCache = {
   faLongArrowAltUp: faLongArrowAltUp,
   faLowVision: faLowVision,
   faLuggageCart: faLuggageCart,
+  faLungs: faLungs,
+  faLungsVirus: faLungsVirus,
   faMagic: faMagic,
   faMagnet: faMagnet,
   faMailBulk: faMailBulk,
@@ -14447,6 +15248,7 @@ var _iconsCache = {
   faMosque: faMosque,
   faMotorcycle: faMotorcycle,
   faMountain: faMountain,
+  faMouse: faMouse,
   faMousePointer: faMousePointer,
   faMugHot: faMugHot,
   faMusic: faMusic,
@@ -14485,15 +15287,19 @@ var _iconsCache = {
   faPenSquare: faPenSquare,
   faPencilAlt: faPencilAlt,
   faPencilRuler: faPencilRuler,
+  faPeopleArrows: faPeopleArrows,
   faPeopleCarry: faPeopleCarry,
   faPepperHot: faPepperHot,
   faPercent: faPercent,
   faPercentage: faPercentage,
   faPersonBooth: faPersonBooth,
   faPhone: faPhone,
+  faPhoneAlt: faPhoneAlt,
   faPhoneSlash: faPhoneSlash,
   faPhoneSquare: faPhoneSquare,
+  faPhoneSquareAlt: faPhoneSquareAlt,
   faPhoneVolume: faPhoneVolume,
+  faPhotoVideo: faPhotoVideo,
   faPiggyBank: faPiggyBank,
   faPills: faPills,
   faPizzaSlice: faPizzaSlice,
@@ -14501,6 +15307,7 @@ var _iconsCache = {
   faPlane: faPlane,
   faPlaneArrival: faPlaneArrival,
   faPlaneDeparture: faPlaneDeparture,
+  faPlaneSlash: faPlaneSlash,
   faPlay: faPlay,
   faPlayCircle: faPlayCircle,
   faPlug: faPlug,
@@ -14524,6 +15331,8 @@ var _iconsCache = {
   faPrint: faPrint,
   faProcedures: faProcedures,
   faProjectDiagram: faProjectDiagram,
+  faPumpMedical: faPumpMedical,
+  faPumpSoap: faPumpSoap,
   faPuzzlePiece: faPuzzlePiece,
   faQrcode: faQrcode,
   faQuestion: faQuestion,
@@ -14537,10 +15346,12 @@ var _iconsCache = {
   faRainbow: faRainbow,
   faRandom: faRandom,
   faReceipt: faReceipt,
+  faRecordVinyl: faRecordVinyl,
   faRecycle: faRecycle,
   faRedo: faRedo,
   faRedoAlt: faRedoAlt,
   faRegistered: faRegistered,
+  faRemoveFormat: faRemoveFormat,
   faReply: faReply,
   faReplyAll: faReplyAll,
   faRepublican: faRepublican,
@@ -14584,6 +15395,7 @@ var _iconsCache = {
   faShareSquare: faShareSquare,
   faShekelSign: faShekelSign,
   faShieldAlt: faShieldAlt,
+  faShieldVirus: faShieldVirus,
   faShip: faShip,
   faShippingFast: faShippingFast,
   faShoePrints: faShoePrints,
@@ -14619,19 +15431,27 @@ var _iconsCache = {
   faSnowflake: faSnowflake,
   faSnowman: faSnowman,
   faSnowplow: faSnowplow,
+  faSoap: faSoap,
   faSocks: faSocks,
   faSolarPanel: faSolarPanel,
   faSort: faSort,
   faSortAlphaDown: faSortAlphaDown,
+  faSortAlphaDownAlt: faSortAlphaDownAlt,
   faSortAlphaUp: faSortAlphaUp,
+  faSortAlphaUpAlt: faSortAlphaUpAlt,
   faSortAmountDown: faSortAmountDown,
+  faSortAmountDownAlt: faSortAmountDownAlt,
   faSortAmountUp: faSortAmountUp,
+  faSortAmountUpAlt: faSortAmountUpAlt,
   faSortDown: faSortDown,
   faSortNumericDown: faSortNumericDown,
+  faSortNumericDownAlt: faSortNumericDownAlt,
   faSortNumericUp: faSortNumericUp,
+  faSortNumericUpAlt: faSortNumericUpAlt,
   faSortUp: faSortUp,
   faSpa: faSpa,
   faSpaceShuttle: faSpaceShuttle,
+  faSpellCheck: faSpellCheck,
   faSpider: faSpider,
   faSpinner: faSpinner,
   faSplotch: faSplotch,
@@ -14653,8 +15473,11 @@ var _iconsCache = {
   faStop: faStop,
   faStopCircle: faStopCircle,
   faStopwatch: faStopwatch,
+  faStopwatch20: faStopwatch20,
   faStore: faStore,
   faStoreAlt: faStoreAlt,
+  faStoreAltSlash: faStoreAltSlash,
+  faStoreSlash: faStoreSlash,
   faStream: faStream,
   faStreetView: faStreetView,
   faStrikethrough: faStrikethrough,
@@ -14715,6 +15538,7 @@ var _iconsCache = {
   faToggleOn: faToggleOn,
   faToilet: faToilet,
   faToiletPaper: faToiletPaper,
+  faToiletPaperSlash: faToiletPaperSlash,
   faToolbox: faToolbox,
   faTools: faTools,
   faTooth: faTooth,
@@ -14723,6 +15547,7 @@ var _iconsCache = {
   faTractor: faTractor,
   faTrademark: faTrademark,
   faTrafficLight: faTrafficLight,
+  faTrailer: faTrailer,
   faTrain: faTrain,
   faTram: faTram,
   faTransgender: faTransgender,
@@ -14789,6 +15614,10 @@ var _iconsCache = {
   faVideo: faVideo,
   faVideoSlash: faVideoSlash,
   faVihara: faVihara,
+  faVirus: faVirus,
+  faVirusSlash: faVirusSlash,
+  faViruses: faViruses,
+  faVoicemail: faVoicemail,
   faVolleyballBall: faVolleyballBall,
   faVolumeDown: faVolumeDown,
   faVolumeMute: faVolumeMute,
@@ -14834,7 +15663,7 @@ var _iconsCache = {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* WEBPACK VAR INJECTION */(function(global) {/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "FontAwesomeIcon", function() { return FontAwesomeIcon; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "FontAwesomeIcon", function() { return FontAwesomeIcon; });
 /* harmony import */ var _fortawesome_fontawesome_svg_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @fortawesome/fontawesome-svg-core */ "./node_modules/@fortawesome/fontawesome-svg-core/index.es.js");
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! prop-types */ "./node_modules/prop-types/index.js");
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
@@ -14873,20 +15702,35 @@ function _defineProperty(obj, key, value) {
   return obj;
 }
 
-function _objectSpread(target) {
+function ownKeys(object, enumerableOnly) {
+  var keys = Object.keys(object);
+
+  if (Object.getOwnPropertySymbols) {
+    var symbols = Object.getOwnPropertySymbols(object);
+    if (enumerableOnly) symbols = symbols.filter(function (sym) {
+      return Object.getOwnPropertyDescriptor(object, sym).enumerable;
+    });
+    keys.push.apply(keys, symbols);
+  }
+
+  return keys;
+}
+
+function _objectSpread2(target) {
   for (var i = 1; i < arguments.length; i++) {
     var source = arguments[i] != null ? arguments[i] : {};
-    var ownKeys = Object.keys(source);
 
-    if (typeof Object.getOwnPropertySymbols === 'function') {
-      ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function (sym) {
-        return Object.getOwnPropertyDescriptor(source, sym).enumerable;
-      }));
+    if (i % 2) {
+      ownKeys(Object(source), true).forEach(function (key) {
+        _defineProperty(target, key, source[key]);
+      });
+    } else if (Object.getOwnPropertyDescriptors) {
+      Object.defineProperties(target, Object.getOwnPropertyDescriptors(source));
+    } else {
+      ownKeys(Object(source)).forEach(function (key) {
+        Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key));
+      });
     }
-
-    ownKeys.forEach(function (key) {
-      _defineProperty(target, key, source[key]);
-    });
   }
 
   return target;
@@ -14948,143 +15792,62 @@ function _nonIterableSpread() {
   throw new TypeError("Invalid attempt to spread non-iterable instance");
 }
 
-var commonjsGlobal = typeof window !== 'undefined' ? window : typeof global !== 'undefined' ? global : typeof self !== 'undefined' ? self : {};
+// Get CSS class list from a props object
+function classList(props) {
+  var _classes;
 
-function createCommonjsModule(fn, module) {
-	return module = { exports: {} }, fn(module, module.exports), module.exports;
+  var spin = props.spin,
+      pulse = props.pulse,
+      fixedWidth = props.fixedWidth,
+      inverse = props.inverse,
+      border = props.border,
+      listItem = props.listItem,
+      flip = props.flip,
+      size = props.size,
+      rotation = props.rotation,
+      pull = props.pull; // map of CSS class names to properties
+
+  var classes = (_classes = {
+    'fa-spin': spin,
+    'fa-pulse': pulse,
+    'fa-fw': fixedWidth,
+    'fa-inverse': inverse,
+    'fa-border': border,
+    'fa-li': listItem,
+    'fa-flip-horizontal': flip === 'horizontal' || flip === 'both',
+    'fa-flip-vertical': flip === 'vertical' || flip === 'both'
+  }, _defineProperty(_classes, "fa-".concat(size), typeof size !== 'undefined' && size !== null), _defineProperty(_classes, "fa-rotate-".concat(rotation), typeof rotation !== 'undefined' && rotation !== null), _defineProperty(_classes, "fa-pull-".concat(pull), typeof pull !== 'undefined' && pull !== null), _defineProperty(_classes, 'fa-swap-opacity', props.swapOpacity), _classes); // map over all the keys in the classes object
+  // return an array of the keys where the value for the key is not null
+
+  return Object.keys(classes).map(function (key) {
+    return classes[key] ? key : null;
+  }).filter(function (key) {
+    return key;
+  });
 }
 
-var humps = createCommonjsModule(function (module) {
-(function(global) {
+// Camelize taken from humps
+// humps is copyright © 2012+ Dom Christie
+// Released under the MIT license.
+// Performant way to determine if object coerces to a number
+function _isNumerical(obj) {
+  obj = obj - 0; // eslint-disable-next-line no-self-compare
 
-  var _processKeys = function(convert, obj, options) {
-    if(!_isObject(obj) || _isDate(obj) || _isRegExp(obj) || _isBoolean(obj) || _isFunction(obj)) {
-      return obj;
-    }
+  return obj === obj;
+}
 
-    var output,
-        i = 0,
-        l = 0;
+function camelize(string) {
+  if (_isNumerical(string)) {
+    return string;
+  } // eslint-disable-next-line no-useless-escape
 
-    if(_isArray(obj)) {
-      output = [];
-      for(l=obj.length; i<l; i++) {
-        output.push(_processKeys(convert, obj[i], options));
-      }
-    }
-    else {
-      output = {};
-      for(var key in obj) {
-        if(Object.prototype.hasOwnProperty.call(obj, key)) {
-          output[convert(key, options)] = _processKeys(convert, obj[key], options);
-        }
-      }
-    }
-    return output;
-  };
 
-  // String conversion methods
+  string = string.replace(/[\-_\s]+(.)?/g, function (match, chr) {
+    return chr ? chr.toUpperCase() : '';
+  }); // Ensure 1st char is always lowercase
 
-  var separateWords = function(string, options) {
-    options = options || {};
-    var separator = options.separator || '_';
-    var split = options.split || /(?=[A-Z])/;
-
-    return string.split(split).join(separator);
-  };
-
-  var camelize = function(string) {
-    if (_isNumerical(string)) {
-      return string;
-    }
-    string = string.replace(/[\-_\s]+(.)?/g, function(match, chr) {
-      return chr ? chr.toUpperCase() : '';
-    });
-    // Ensure 1st char is always lowercase
-    return string.substr(0, 1).toLowerCase() + string.substr(1);
-  };
-
-  var pascalize = function(string) {
-    var camelized = camelize(string);
-    // Ensure 1st char is always uppercase
-    return camelized.substr(0, 1).toUpperCase() + camelized.substr(1);
-  };
-
-  var decamelize = function(string, options) {
-    return separateWords(string, options).toLowerCase();
-  };
-
-  // Utilities
-  // Taken from Underscore.js
-
-  var toString = Object.prototype.toString;
-
-  var _isFunction = function(obj) {
-    return typeof(obj) === 'function';
-  };
-  var _isObject = function(obj) {
-    return obj === Object(obj);
-  };
-  var _isArray = function(obj) {
-    return toString.call(obj) == '[object Array]';
-  };
-  var _isDate = function(obj) {
-    return toString.call(obj) == '[object Date]';
-  };
-  var _isRegExp = function(obj) {
-    return toString.call(obj) == '[object RegExp]';
-  };
-  var _isBoolean = function(obj) {
-    return toString.call(obj) == '[object Boolean]';
-  };
-
-  // Performant way to determine if obj coerces to a number
-  var _isNumerical = function(obj) {
-    obj = obj - 0;
-    return obj === obj;
-  };
-
-  // Sets up function which handles processing keys
-  // allowing the convert function to be modified by a callback
-  var _processor = function(convert, options) {
-    var callback = options && 'process' in options ? options.process : options;
-
-    if(typeof(callback) !== 'function') {
-      return convert;
-    }
-
-    return function(string, options) {
-      return callback(string, convert, options);
-    }
-  };
-
-  var humps = {
-    camelize: camelize,
-    decamelize: decamelize,
-    pascalize: pascalize,
-    depascalize: decamelize,
-    camelizeKeys: function(object, options) {
-      return _processKeys(_processor(camelize, options), object);
-    },
-    decamelizeKeys: function(object, options) {
-      return _processKeys(_processor(decamelize, options), object, options);
-    },
-    pascalizeKeys: function(object, options) {
-      return _processKeys(_processor(pascalize, options), object);
-    },
-    depascalizeKeys: function () {
-      return this.decamelizeKeys.apply(this, arguments);
-    }
-  };
-
-  if (module.exports) {
-    module.exports = humps;
-  } else {
-    global.humps = humps;
-  }
-
-})(commonjsGlobal);
-});
+  return string.substr(0, 1).toLowerCase() + string.substr(1);
+}
 
 function capitalize(val) {
   return val.charAt(0).toUpperCase() + val.slice(1);
@@ -15097,7 +15860,7 @@ function styleToObject(style) {
     return s;
   }).reduce(function (acc, pair) {
     var i = pair.indexOf(':');
-    var prop = humps.camelize(pair.slice(0, i));
+    var prop = camelize(pair.slice(0, i));
     var value = pair.slice(i + 1).trim();
     prop.startsWith('webkit') ? acc[capitalize(prop)] = value : acc[prop] = value;
     return acc;
@@ -15114,6 +15877,8 @@ function convert(createElement, element) {
   var children = (element.children || []).map(function (child) {
     return convert(createElement, child);
   });
+  /* eslint-disable dot-notation */
+
   var mixins = Object.keys(element.attributes || {}).reduce(function (acc, key) {
     var val = element.attributes[key];
 
@@ -15131,7 +15896,7 @@ function convert(createElement, element) {
         if (key.indexOf('aria-') === 0 || key.indexOf('data-') === 0) {
           acc.attrs[key.toLowerCase()] = val;
         } else {
-          acc.attrs[humps.camelize(key)] = val;
+          acc.attrs[camelize(key)] = val;
         }
 
     }
@@ -15145,8 +15910,10 @@ function convert(createElement, element) {
       existingStyle = _extraProps$style === void 0 ? {} : _extraProps$style,
       remaining = _objectWithoutProperties(extraProps, ["style"]);
 
-  mixins.attrs['style'] = _objectSpread({}, mixins.attrs['style'], existingStyle);
-  return createElement.apply(void 0, [element.tag, _objectSpread({}, mixins.attrs, remaining)].concat(_toConsumableArray(children)));
+  mixins.attrs['style'] = _objectSpread2({}, mixins.attrs['style'], {}, existingStyle);
+  /* eslint-enable */
+
+  return createElement.apply(void 0, [element.tag, _objectSpread2({}, mixins.attrs, {}, remaining)].concat(_toConsumableArray(children)));
 }
 
 var PRODUCTION = false;
@@ -15163,52 +15930,45 @@ function log () {
   }
 }
 
-function objectWithKey(key, value) {
-  return Array.isArray(value) && value.length > 0 || !Array.isArray(value) && value ? _defineProperty({}, key, value) : {};
-}
-
-function classList(props) {
-  var _classes;
-
-  var classes = (_classes = {
-    'fa-spin': props.spin,
-    'fa-pulse': props.pulse,
-    'fa-fw': props.fixedWidth,
-    'fa-inverse': props.inverse,
-    'fa-border': props.border,
-    'fa-li': props.listItem,
-    'fa-flip-horizontal': props.flip === 'horizontal' || props.flip === 'both',
-    'fa-flip-vertical': props.flip === 'vertical' || props.flip === 'both'
-  }, _defineProperty(_classes, "fa-".concat(props.size), props.size !== null), _defineProperty(_classes, "fa-rotate-".concat(props.rotation), props.rotation !== null), _defineProperty(_classes, "fa-pull-".concat(props.pull), props.pull !== null), _classes);
-  return Object.keys(classes).map(function (key) {
-    return classes[key] ? key : null;
-  }).filter(function (key) {
-    return key;
-  });
-}
-
-function normalizeIconArgs(icon$$1) {
-  if (icon$$1 === null) {
+// Normalize icon arguments
+function normalizeIconArgs(icon) {
+  // if the icon is null, there's nothing to do
+  if (icon === null) {
     return null;
-  }
+  } // if the icon is an object and has a prefix and an icon name, return it
 
-  if (_typeof(icon$$1) === 'object' && icon$$1.prefix && icon$$1.iconName) {
-    return icon$$1;
-  }
 
-  if (Array.isArray(icon$$1) && icon$$1.length === 2) {
+  if (_typeof(icon) === 'object' && icon.prefix && icon.iconName) {
+    return icon;
+  } // if it's an array with length of two
+
+
+  if (Array.isArray(icon) && icon.length === 2) {
+    // use the first item as prefix, second as icon name
     return {
-      prefix: icon$$1[0],
-      iconName: icon$$1[1]
+      prefix: icon[0],
+      iconName: icon[1]
     };
-  }
+  } // if it's a string, use it as the icon name
 
-  if (typeof icon$$1 === 'string') {
+
+  if (typeof icon === 'string') {
     return {
       prefix: 'fas',
-      iconName: icon$$1
+      iconName: icon
     };
   }
+}
+
+// creates an object with a key of key
+// and a value of value
+// if certain conditions are met
+function objectWithKey(key, value) {
+  // if the value is a non-empty array
+  // or it's not an array but it is truthy
+  // then create the object with the key and the value
+  // if not, return an empty array
+  return Array.isArray(value) && value.length > 0 || !Array.isArray(value) && value ? _defineProperty({}, key, value) : {};
 }
 
 function FontAwesomeIcon(props) {
@@ -15221,7 +15981,7 @@ function FontAwesomeIcon(props) {
   var classes = objectWithKey('classes', [].concat(_toConsumableArray(classList(props)), _toConsumableArray(className.split(' '))));
   var transform = objectWithKey('transform', typeof props.transform === 'string' ? _fortawesome_fontawesome_svg_core__WEBPACK_IMPORTED_MODULE_0__["parse"].transform(props.transform) : props.transform);
   var mask = objectWithKey('mask', normalizeIconArgs(maskArgs));
-  var renderedIcon = Object(_fortawesome_fontawesome_svg_core__WEBPACK_IMPORTED_MODULE_0__["icon"])(iconLookup, _objectSpread({}, classes, transform, mask, {
+  var renderedIcon = Object(_fortawesome_fontawesome_svg_core__WEBPACK_IMPORTED_MODULE_0__["icon"])(iconLookup, _objectSpread2({}, classes, {}, transform, {}, mask, {
     symbol: symbol,
     title: title
   }));
@@ -15234,6 +15994,7 @@ function FontAwesomeIcon(props) {
   var abstract = renderedIcon.abstract;
   var extraProps = {};
   Object.keys(props).forEach(function (key) {
+    // eslint-disable-next-line no-prototype-builtins
     if (!FontAwesomeIcon.defaultProps.hasOwnProperty(key)) {
       extraProps[key] = props[key];
     }
@@ -15257,7 +16018,8 @@ FontAwesomeIcon.propTypes = {
   spin: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.bool,
   symbol: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.oneOfType([prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.bool, prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.string]),
   title: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.string,
-  transform: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.oneOfType([prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.string, prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.object])
+  transform: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.oneOfType([prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.string, prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.object]),
+  swapOpacity: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.bool
 };
 FontAwesomeIcon.defaultProps = {
   border: false,
@@ -15275,13 +16037,13 @@ FontAwesomeIcon.defaultProps = {
   spin: false,
   symbol: false,
   title: '',
-  transform: null
+  transform: null,
+  swapOpacity: false
 };
 var convertCurry = convert.bind(null, react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement);
 
 
 
-/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./../../webpack/buildin/global.js */ "./node_modules/webpack/buildin/global.js")))
 
 /***/ }),
 
@@ -16867,7 +17629,7 @@ module.exports = function (NAME, wrapper, methods, common, IS_MAP, IS_WEAK) {
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-var core = module.exports = { version: '2.6.9' };
+var core = module.exports = { version: '2.6.11' };
 if (typeof __e == 'number') __e = core; // eslint-disable-line no-undef
 
 
@@ -19991,89 +20753,89 @@ function expInOut(t) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _linear__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./linear */ "./node_modules/d3-ease/src/linear.js");
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeLinear", function() { return _linear__WEBPACK_IMPORTED_MODULE_0__["linear"]; });
+/* harmony import */ var _linear_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./linear.js */ "./node_modules/d3-ease/src/linear.js");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeLinear", function() { return _linear_js__WEBPACK_IMPORTED_MODULE_0__["linear"]; });
 
-/* harmony import */ var _quad__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./quad */ "./node_modules/d3-ease/src/quad.js");
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeQuad", function() { return _quad__WEBPACK_IMPORTED_MODULE_1__["quadInOut"]; });
+/* harmony import */ var _quad_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./quad.js */ "./node_modules/d3-ease/src/quad.js");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeQuad", function() { return _quad_js__WEBPACK_IMPORTED_MODULE_1__["quadInOut"]; });
 
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeQuadIn", function() { return _quad__WEBPACK_IMPORTED_MODULE_1__["quadIn"]; });
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeQuadIn", function() { return _quad_js__WEBPACK_IMPORTED_MODULE_1__["quadIn"]; });
 
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeQuadOut", function() { return _quad__WEBPACK_IMPORTED_MODULE_1__["quadOut"]; });
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeQuadOut", function() { return _quad_js__WEBPACK_IMPORTED_MODULE_1__["quadOut"]; });
 
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeQuadInOut", function() { return _quad__WEBPACK_IMPORTED_MODULE_1__["quadInOut"]; });
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeQuadInOut", function() { return _quad_js__WEBPACK_IMPORTED_MODULE_1__["quadInOut"]; });
 
-/* harmony import */ var _cubic__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./cubic */ "./node_modules/d3-ease/src/cubic.js");
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeCubic", function() { return _cubic__WEBPACK_IMPORTED_MODULE_2__["cubicInOut"]; });
+/* harmony import */ var _cubic_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./cubic.js */ "./node_modules/d3-ease/src/cubic.js");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeCubic", function() { return _cubic_js__WEBPACK_IMPORTED_MODULE_2__["cubicInOut"]; });
 
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeCubicIn", function() { return _cubic__WEBPACK_IMPORTED_MODULE_2__["cubicIn"]; });
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeCubicIn", function() { return _cubic_js__WEBPACK_IMPORTED_MODULE_2__["cubicIn"]; });
 
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeCubicOut", function() { return _cubic__WEBPACK_IMPORTED_MODULE_2__["cubicOut"]; });
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeCubicOut", function() { return _cubic_js__WEBPACK_IMPORTED_MODULE_2__["cubicOut"]; });
 
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeCubicInOut", function() { return _cubic__WEBPACK_IMPORTED_MODULE_2__["cubicInOut"]; });
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeCubicInOut", function() { return _cubic_js__WEBPACK_IMPORTED_MODULE_2__["cubicInOut"]; });
 
-/* harmony import */ var _poly__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./poly */ "./node_modules/d3-ease/src/poly.js");
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easePoly", function() { return _poly__WEBPACK_IMPORTED_MODULE_3__["polyInOut"]; });
+/* harmony import */ var _poly_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./poly.js */ "./node_modules/d3-ease/src/poly.js");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easePoly", function() { return _poly_js__WEBPACK_IMPORTED_MODULE_3__["polyInOut"]; });
 
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easePolyIn", function() { return _poly__WEBPACK_IMPORTED_MODULE_3__["polyIn"]; });
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easePolyIn", function() { return _poly_js__WEBPACK_IMPORTED_MODULE_3__["polyIn"]; });
 
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easePolyOut", function() { return _poly__WEBPACK_IMPORTED_MODULE_3__["polyOut"]; });
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easePolyOut", function() { return _poly_js__WEBPACK_IMPORTED_MODULE_3__["polyOut"]; });
 
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easePolyInOut", function() { return _poly__WEBPACK_IMPORTED_MODULE_3__["polyInOut"]; });
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easePolyInOut", function() { return _poly_js__WEBPACK_IMPORTED_MODULE_3__["polyInOut"]; });
 
-/* harmony import */ var _sin__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./sin */ "./node_modules/d3-ease/src/sin.js");
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeSin", function() { return _sin__WEBPACK_IMPORTED_MODULE_4__["sinInOut"]; });
+/* harmony import */ var _sin_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./sin.js */ "./node_modules/d3-ease/src/sin.js");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeSin", function() { return _sin_js__WEBPACK_IMPORTED_MODULE_4__["sinInOut"]; });
 
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeSinIn", function() { return _sin__WEBPACK_IMPORTED_MODULE_4__["sinIn"]; });
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeSinIn", function() { return _sin_js__WEBPACK_IMPORTED_MODULE_4__["sinIn"]; });
 
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeSinOut", function() { return _sin__WEBPACK_IMPORTED_MODULE_4__["sinOut"]; });
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeSinOut", function() { return _sin_js__WEBPACK_IMPORTED_MODULE_4__["sinOut"]; });
 
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeSinInOut", function() { return _sin__WEBPACK_IMPORTED_MODULE_4__["sinInOut"]; });
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeSinInOut", function() { return _sin_js__WEBPACK_IMPORTED_MODULE_4__["sinInOut"]; });
 
-/* harmony import */ var _exp__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./exp */ "./node_modules/d3-ease/src/exp.js");
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeExp", function() { return _exp__WEBPACK_IMPORTED_MODULE_5__["expInOut"]; });
+/* harmony import */ var _exp_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./exp.js */ "./node_modules/d3-ease/src/exp.js");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeExp", function() { return _exp_js__WEBPACK_IMPORTED_MODULE_5__["expInOut"]; });
 
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeExpIn", function() { return _exp__WEBPACK_IMPORTED_MODULE_5__["expIn"]; });
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeExpIn", function() { return _exp_js__WEBPACK_IMPORTED_MODULE_5__["expIn"]; });
 
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeExpOut", function() { return _exp__WEBPACK_IMPORTED_MODULE_5__["expOut"]; });
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeExpOut", function() { return _exp_js__WEBPACK_IMPORTED_MODULE_5__["expOut"]; });
 
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeExpInOut", function() { return _exp__WEBPACK_IMPORTED_MODULE_5__["expInOut"]; });
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeExpInOut", function() { return _exp_js__WEBPACK_IMPORTED_MODULE_5__["expInOut"]; });
 
-/* harmony import */ var _circle__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./circle */ "./node_modules/d3-ease/src/circle.js");
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeCircle", function() { return _circle__WEBPACK_IMPORTED_MODULE_6__["circleInOut"]; });
+/* harmony import */ var _circle_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./circle.js */ "./node_modules/d3-ease/src/circle.js");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeCircle", function() { return _circle_js__WEBPACK_IMPORTED_MODULE_6__["circleInOut"]; });
 
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeCircleIn", function() { return _circle__WEBPACK_IMPORTED_MODULE_6__["circleIn"]; });
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeCircleIn", function() { return _circle_js__WEBPACK_IMPORTED_MODULE_6__["circleIn"]; });
 
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeCircleOut", function() { return _circle__WEBPACK_IMPORTED_MODULE_6__["circleOut"]; });
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeCircleOut", function() { return _circle_js__WEBPACK_IMPORTED_MODULE_6__["circleOut"]; });
 
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeCircleInOut", function() { return _circle__WEBPACK_IMPORTED_MODULE_6__["circleInOut"]; });
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeCircleInOut", function() { return _circle_js__WEBPACK_IMPORTED_MODULE_6__["circleInOut"]; });
 
-/* harmony import */ var _bounce__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./bounce */ "./node_modules/d3-ease/src/bounce.js");
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeBounce", function() { return _bounce__WEBPACK_IMPORTED_MODULE_7__["bounceOut"]; });
+/* harmony import */ var _bounce_js__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./bounce.js */ "./node_modules/d3-ease/src/bounce.js");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeBounce", function() { return _bounce_js__WEBPACK_IMPORTED_MODULE_7__["bounceOut"]; });
 
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeBounceIn", function() { return _bounce__WEBPACK_IMPORTED_MODULE_7__["bounceIn"]; });
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeBounceIn", function() { return _bounce_js__WEBPACK_IMPORTED_MODULE_7__["bounceIn"]; });
 
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeBounceOut", function() { return _bounce__WEBPACK_IMPORTED_MODULE_7__["bounceOut"]; });
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeBounceOut", function() { return _bounce_js__WEBPACK_IMPORTED_MODULE_7__["bounceOut"]; });
 
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeBounceInOut", function() { return _bounce__WEBPACK_IMPORTED_MODULE_7__["bounceInOut"]; });
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeBounceInOut", function() { return _bounce_js__WEBPACK_IMPORTED_MODULE_7__["bounceInOut"]; });
 
-/* harmony import */ var _back__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./back */ "./node_modules/d3-ease/src/back.js");
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeBack", function() { return _back__WEBPACK_IMPORTED_MODULE_8__["backInOut"]; });
+/* harmony import */ var _back_js__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./back.js */ "./node_modules/d3-ease/src/back.js");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeBack", function() { return _back_js__WEBPACK_IMPORTED_MODULE_8__["backInOut"]; });
 
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeBackIn", function() { return _back__WEBPACK_IMPORTED_MODULE_8__["backIn"]; });
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeBackIn", function() { return _back_js__WEBPACK_IMPORTED_MODULE_8__["backIn"]; });
 
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeBackOut", function() { return _back__WEBPACK_IMPORTED_MODULE_8__["backOut"]; });
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeBackOut", function() { return _back_js__WEBPACK_IMPORTED_MODULE_8__["backOut"]; });
 
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeBackInOut", function() { return _back__WEBPACK_IMPORTED_MODULE_8__["backInOut"]; });
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeBackInOut", function() { return _back_js__WEBPACK_IMPORTED_MODULE_8__["backInOut"]; });
 
-/* harmony import */ var _elastic__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./elastic */ "./node_modules/d3-ease/src/elastic.js");
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeElastic", function() { return _elastic__WEBPACK_IMPORTED_MODULE_9__["elasticOut"]; });
+/* harmony import */ var _elastic_js__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./elastic.js */ "./node_modules/d3-ease/src/elastic.js");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeElastic", function() { return _elastic_js__WEBPACK_IMPORTED_MODULE_9__["elasticOut"]; });
 
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeElasticIn", function() { return _elastic__WEBPACK_IMPORTED_MODULE_9__["elasticIn"]; });
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeElasticIn", function() { return _elastic_js__WEBPACK_IMPORTED_MODULE_9__["elasticIn"]; });
 
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeElasticOut", function() { return _elastic__WEBPACK_IMPORTED_MODULE_9__["elasticOut"]; });
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeElasticOut", function() { return _elastic_js__WEBPACK_IMPORTED_MODULE_9__["elasticOut"]; });
 
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeElasticInOut", function() { return _elastic__WEBPACK_IMPORTED_MODULE_9__["elasticInOut"]; });
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeElasticInOut", function() { return _elastic_js__WEBPACK_IMPORTED_MODULE_9__["elasticInOut"]; });
 
 
 
@@ -20234,18 +20996,18 @@ function sinInOut(t) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _timer__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./timer */ "./node_modules/d3-timer/src/timer.js");
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "now", function() { return _timer__WEBPACK_IMPORTED_MODULE_0__["now"]; });
+/* harmony import */ var _timer_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./timer.js */ "./node_modules/d3-timer/src/timer.js");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "now", function() { return _timer_js__WEBPACK_IMPORTED_MODULE_0__["now"]; });
 
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "timer", function() { return _timer__WEBPACK_IMPORTED_MODULE_0__["timer"]; });
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "timer", function() { return _timer_js__WEBPACK_IMPORTED_MODULE_0__["timer"]; });
 
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "timerFlush", function() { return _timer__WEBPACK_IMPORTED_MODULE_0__["timerFlush"]; });
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "timerFlush", function() { return _timer_js__WEBPACK_IMPORTED_MODULE_0__["timerFlush"]; });
 
-/* harmony import */ var _timeout__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./timeout */ "./node_modules/d3-timer/src/timeout.js");
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "timeout", function() { return _timeout__WEBPACK_IMPORTED_MODULE_1__["default"]; });
+/* harmony import */ var _timeout_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./timeout.js */ "./node_modules/d3-timer/src/timeout.js");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "timeout", function() { return _timeout_js__WEBPACK_IMPORTED_MODULE_1__["default"]; });
 
-/* harmony import */ var _interval__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./interval */ "./node_modules/d3-timer/src/interval.js");
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "interval", function() { return _interval__WEBPACK_IMPORTED_MODULE_2__["default"]; });
+/* harmony import */ var _interval_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./interval.js */ "./node_modules/d3-timer/src/interval.js");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "interval", function() { return _interval_js__WEBPACK_IMPORTED_MODULE_2__["default"]; });
 
 
 
@@ -20265,13 +21027,13 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _timer__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./timer */ "./node_modules/d3-timer/src/timer.js");
+/* harmony import */ var _timer_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./timer.js */ "./node_modules/d3-timer/src/timer.js");
 
 
 /* harmony default export */ __webpack_exports__["default"] = (function(callback, delay, time) {
-  var t = new _timer__WEBPACK_IMPORTED_MODULE_0__["Timer"], total = delay;
+  var t = new _timer_js__WEBPACK_IMPORTED_MODULE_0__["Timer"], total = delay;
   if (delay == null) return t.restart(callback, delay, time), t;
-  delay = +delay, time = time == null ? Object(_timer__WEBPACK_IMPORTED_MODULE_0__["now"])() : +time;
+  delay = +delay, time = time == null ? Object(_timer_js__WEBPACK_IMPORTED_MODULE_0__["now"])() : +time;
   t.restart(function tick(elapsed) {
     elapsed += total;
     t.restart(tick, total += delay, time);
@@ -20292,11 +21054,11 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _timer__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./timer */ "./node_modules/d3-timer/src/timer.js");
+/* harmony import */ var _timer_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./timer.js */ "./node_modules/d3-timer/src/timer.js");
 
 
 /* harmony default export */ __webpack_exports__["default"] = (function(callback, delay, time) {
-  var t = new _timer__WEBPACK_IMPORTED_MODULE_0__["Timer"];
+  var t = new _timer_js__WEBPACK_IMPORTED_MODULE_0__["Timer"];
   delay = delay == null ? 0 : +delay;
   t.restart(function(elapsed) {
     t.stop();
@@ -20644,7 +21406,7 @@ module.exports = Function.prototype.bind || implementation;
 "use strict";
 
 
-/* eslint complexity: [2, 17], max-statements: [2, 33] */
+/* eslint complexity: [2, 18], max-statements: [2, 33] */
 module.exports = function hasSymbols() {
 	if (typeof Symbol !== 'function' || typeof Object.getOwnPropertySymbols !== 'function') { return false; }
 	if (typeof Symbol.iterator === 'symbol') { return true; }
@@ -21184,64 +21946,53 @@ var timingDefaults = {
 
 /***/ }),
 
-/***/ "./node_modules/nanoid/format.js":
-/*!***************************************!*\
-  !*** ./node_modules/nanoid/format.js ***!
-  \***************************************/
+/***/ "./node_modules/nanoid/format.browser.js":
+/*!***********************************************!*\
+  !*** ./node_modules/nanoid/format.browser.js ***!
+  \***********************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-/**
- * Secure random string generator with custom alphabet.
- *
- * Alphabet must contain 256 symbols or less. Otherwise, the generator
- * will not be secure.
- *
- * @param {generator} random The random bytes generator.
- * @param {string} alphabet Symbols to be used in new random string.
- * @param {size} size The number of symbols in new random string.
- *
- * @return {string} Random string.
- *
- * @example
- * const format = require('nanoid/format')
- *
- * function random (size) {
- *   const result = []
- *   for (let i = 0; i < size; i++) {
- *     result.push(randomByte())
- *   }
- *   return result
- * }
- *
- * format(random, "abcdef", 5) //=> "fbaef"
- *
- * @name format
- * @function
- */
-module.exports = function (random, alphabet, size) {
-  var mask = (2 << Math.log(alphabet.length - 1) / Math.LN2) - 1
-  var step = Math.ceil(1.6 * mask * size / alphabet.length)
-  size = +size
+// This file replaces `format.js` in bundlers like webpack or Rollup,
+// according to `browser` config in `package.json`.
 
+module.exports = function (random, alphabet, size) {
+  // We can’t use bytes bigger than the alphabet. To make bytes values closer
+  // to the alphabet, we apply bitmask on them. We look for the closest
+  // `2 ** x - 1` number, which will be bigger than alphabet size. If we have
+  // 30 symbols in the alphabet, we will take 31 (00011111).
+  // We do not use faster Math.clz32, because it is not available in browsers.
+  var mask = (2 << Math.log(alphabet.length - 1) / Math.LN2) - 1
+  // Bitmask is not a perfect solution (in our example it will pass 31 bytes,
+  // which is bigger than the alphabet). As a result, we will need more bytes,
+  // than ID size, because we will refuse bytes bigger than the alphabet.
+
+  // Every hardware random generator call is costly,
+  // because we need to wait for entropy collection. This is why often it will
+  // be faster to ask for few extra bytes in advance, to avoid additional calls.
+
+  // Here we calculate how many random bytes should we call in advance.
+  // It depends on ID length, mask / alphabet size and magic number 1.6
+  // (which was selected according benchmarks).
+
+  // -~f => Math.ceil(f) if n is float number
+  // -~i => i + 1 if n is integer number
+  var step = -~(1.6 * mask * size / alphabet.length)
   var id = ''
+
   while (true) {
     var bytes = random(step)
-    for (var i = 0; i < step; i++) {
-      var byte = bytes[i] & mask
-      if (alphabet[byte]) {
-        id += alphabet[byte]
-        if (id.length === size) return id
-      }
+    // Compact alternative for `for (var i = 0; i < step; i++)`
+    var i = step
+    while (i--) {
+      // If random byte is bigger than alphabet even after bitmask,
+      // we refuse it by `|| ''`.
+      id += alphabet[bytes[i] & mask] || ''
+      // More compact than `id.length + 1 === size`
+      if (id.length === +size) return id
     }
   }
 }
-
-/**
- * @callback generator
- * @param {number} bytes The number of bytes to generate.
- * @return {number[]} Random bytes.
- */
 
 
 /***/ }),
@@ -21705,9 +22456,7 @@ function toRoute(path) {
   return path.replace(/\/$/, '') || '/';
 }
 
-var Router =
-/*#__PURE__*/
-function () {
+var Router = /*#__PURE__*/function () {
   function Router(pathname, query, as, _ref) {
     var _this = this;
 
@@ -21808,11 +22557,11 @@ function () {
         // navigating back from an external site
         if (history.state) {
           var _history$state = history.state,
-              url = _history$state.url,
+              _url2 = _history$state.url,
               _as2 = _history$state.as,
               options = _history$state.options;
 
-          _this.changeState('replaceState', url, _as2, (0, _assign.default)({}, options, {
+          _this.changeState('replaceState', _url2, _as2, (0, _assign.default)({}, options, {
             fromExternal: true
           }));
         }
@@ -22208,9 +22957,7 @@ function () {
   }, {
     key: "fetchComponent",
     value: function () {
-      var _fetchComponent = (0, _asyncToGenerator2.default)(
-      /*#__PURE__*/
-      _regenerator.default.mark(function _callee(route) {
+      var _fetchComponent = (0, _asyncToGenerator2.default)( /*#__PURE__*/_regenerator.default.mark(function _callee(route) {
         var cancelled, cancel, Component, error;
         return _regenerator.default.wrap(function _callee$(_context) {
           while (1) {
@@ -22261,9 +23008,7 @@ function () {
   }, {
     key: "getInitialProps",
     value: function () {
-      var _getInitialProps = (0, _asyncToGenerator2.default)(
-      /*#__PURE__*/
-      _regenerator.default.mark(function _callee2(Component, ctx) {
+      var _getInitialProps = (0, _asyncToGenerator2.default)( /*#__PURE__*/_regenerator.default.mark(function _callee2(Component, ctx) {
         var cancelled, cancel, App, props, err;
         return _regenerator.default.wrap(function _callee2$(_context2) {
           while (1) {
@@ -22388,11 +23133,9 @@ exports.default = Router;
 
 var _interopRequireDefault = __webpack_require__(/*! @babel/runtime-corejs2/helpers/interopRequireDefault */ "./node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js");
 
+var _construct = _interopRequireDefault(__webpack_require__(/*! @babel/runtime-corejs2/core-js/reflect/construct */ "./node_modules/@babel/runtime-corejs2/core-js/reflect/construct.js"));
+
 var _classCallCheck2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/classCallCheck */ "./node_modules/@babel/runtime-corejs2/helpers/esm/classCallCheck.js"));
-
-var _possibleConstructorReturn2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/possibleConstructorReturn */ "./node_modules/@babel/runtime-corejs2/helpers/esm/possibleConstructorReturn.js"));
-
-var _getPrototypeOf2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/getPrototypeOf */ "./node_modules/@babel/runtime-corejs2/helpers/esm/getPrototypeOf.js"));
 
 var _assertThisInitialized2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/assertThisInitialized */ "./node_modules/@babel/runtime-corejs2/helpers/esm/assertThisInitialized.js"));
 
@@ -22400,9 +23143,17 @@ var _createClass2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtim
 
 var _inherits2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/inherits */ "./node_modules/@babel/runtime-corejs2/helpers/esm/inherits.js"));
 
+var _possibleConstructorReturn2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/possibleConstructorReturn */ "./node_modules/@babel/runtime-corejs2/helpers/esm/possibleConstructorReturn.js"));
+
+var _getPrototypeOf2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/getPrototypeOf */ "./node_modules/@babel/runtime-corejs2/helpers/esm/getPrototypeOf.js"));
+
 var _toConsumableArray2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/toConsumableArray */ "./node_modules/@babel/runtime-corejs2/helpers/esm/toConsumableArray.js"));
 
 var _set = _interopRequireDefault(__webpack_require__(/*! @babel/runtime-corejs2/core-js/set */ "./node_modules/@babel/runtime-corejs2/core-js/set.js"));
+
+function _createSuper(Derived) { return function () { var Super = (0, _getPrototypeOf2.default)(Derived), result; if (_isNativeReflectConstruct()) { var NewTarget = (0, _getPrototypeOf2.default)(this).constructor; result = (0, _construct.default)(Super, arguments, NewTarget); } else { result = Super.apply(this, arguments); } return (0, _possibleConstructorReturn2.default)(this, result); }; }
+
+function _isNativeReflectConstruct() { if (typeof Reflect === "undefined" || !_construct.default) return false; if (_construct.default.sham) return false; if (typeof Proxy === "function") return true; try { Date.prototype.toString.call((0, _construct.default)(Date, [], function () {})); return true; } catch (e) { return false; } }
 
 Object.defineProperty(exports, "__esModule", {
   value: true
@@ -22424,10 +23175,11 @@ function withSideEffect() {
     }
   }
 
-  var SideEffect =
-  /*#__PURE__*/
-  function (_react_1$Component) {
+  var SideEffect = /*#__PURE__*/function (_react_1$Component) {
     (0, _inherits2.default)(SideEffect, _react_1$Component);
+
+    var _super = _createSuper(SideEffect);
+
     (0, _createClass2.default)(SideEffect, null, [{
       key: "rewind",
       // Used when server rendering
@@ -22443,7 +23195,7 @@ function withSideEffect() {
       var _this;
 
       (0, _classCallCheck2.default)(this, SideEffect);
-      _this = (0, _possibleConstructorReturn2.default)(this, (0, _getPrototypeOf2.default)(SideEffect).call(this, props));
+      _this = _super.call(this, props);
 
       if (isServer) {
         mountedInstances.add((0, _assertThisInitialized2.default)(_this));
@@ -22564,9 +23316,7 @@ function loadGetInitialProps(_x, _x2) {
 }
 
 function _loadGetInitialProps() {
-  _loadGetInitialProps = (0, _asyncToGenerator2.default)(
-  /*#__PURE__*/
-  _regenerator.default.mark(function _callee(Component, ctx) {
+  _loadGetInitialProps = (0, _asyncToGenerator2.default)( /*#__PURE__*/_regenerator.default.mark(function _callee(Component, ctx) {
     var message, props, _message;
 
     return _regenerator.default.wrap(function _callee$(_context) {
@@ -22648,9 +23398,9 @@ exports.formatWithValidation = formatWithValidation;
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=C%3A%5CUsers%5Candre%5CDevelopment-Projects%5Cportfolio%5Cpages%5Cindex.js!./":
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=C%3A%5CUsers%5Candre%5Cdevelopment-projects%5Cportfolio%5Cpages%5Cindex.js!./":
 /*!***************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=C%3A%5CUsers%5Candre%5CDevelopment-Projects%5Cportfolio%5Cpages%5Cindex.js ***!
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=C%3A%5CUsers%5Candre%5Cdevelopment-projects%5Cportfolio%5Cpages%5Cindex.js ***!
   \***************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -22720,7 +23470,7 @@ var url_1 = __webpack_require__(/*! url */ "./node_modules/url/url.js");
 
 var react_1 = __importStar(__webpack_require__(/*! react */ "./node_modules/react/index.js"));
 
-var prop_types_1 = __importDefault(__webpack_require__(/*! prop-types */ "./node_modules/prop-types/index.js"));
+var prop_types_1 = __importDefault(__webpack_require__(/*! prop-types */ "./node_modules/next/node_modules/prop-types/index.js"));
 
 var router_1 = __importStar(__webpack_require__(/*! next/router */ "./node_modules/next/dist/client/router.js"));
 
@@ -23149,7 +23899,7 @@ Object.defineProperty(exports, "__esModule", {
 
 var react_1 = __importDefault(__webpack_require__(/*! react */ "./node_modules/react/index.js"));
 
-var prop_types_1 = __importDefault(__webpack_require__(/*! prop-types */ "./node_modules/prop-types/index.js"));
+var prop_types_1 = __importDefault(__webpack_require__(/*! prop-types */ "./node_modules/next/node_modules/prop-types/index.js"));
 
 function withRouter(ComposedComponent) {
   var WithRouteWrapper =
@@ -23199,6 +23949,1266 @@ exports.default = withRouter;
 
 module.exports = __webpack_require__(/*! ./dist/client/link */ "./node_modules/next/dist/client/link.js")
 
+
+/***/ }),
+
+/***/ "./node_modules/next/node_modules/prop-types/checkPropTypes.js":
+/*!*********************************************************************!*\
+  !*** ./node_modules/next/node_modules/prop-types/checkPropTypes.js ***!
+  \*********************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+/**
+ * Copyright (c) 2013-present, Facebook, Inc.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+
+
+var printWarning = function() {};
+
+if (true) {
+  var ReactPropTypesSecret = __webpack_require__(/*! ./lib/ReactPropTypesSecret */ "./node_modules/next/node_modules/prop-types/lib/ReactPropTypesSecret.js");
+  var loggedTypeFailures = {};
+
+  printWarning = function(text) {
+    var message = 'Warning: ' + text;
+    if (typeof console !== 'undefined') {
+      console.error(message);
+    }
+    try {
+      // --- Welcome to debugging React ---
+      // This error was thrown as a convenience so that you can use this stack
+      // to find the callsite that caused this warning to fire.
+      throw new Error(message);
+    } catch (x) {}
+  };
+}
+
+/**
+ * Assert that the values match with the type specs.
+ * Error messages are memorized and will only be shown once.
+ *
+ * @param {object} typeSpecs Map of name to a ReactPropType
+ * @param {object} values Runtime values that need to be type-checked
+ * @param {string} location e.g. "prop", "context", "child context"
+ * @param {string} componentName Name of the component for error messages.
+ * @param {?Function} getStack Returns the component stack.
+ * @private
+ */
+function checkPropTypes(typeSpecs, values, location, componentName, getStack) {
+  if (true) {
+    for (var typeSpecName in typeSpecs) {
+      if (typeSpecs.hasOwnProperty(typeSpecName)) {
+        var error;
+        // Prop type validation may throw. In case they do, we don't want to
+        // fail the render phase where it didn't fail before. So we log it.
+        // After these have been cleaned up, we'll let them throw.
+        try {
+          // This is intentionally an invariant that gets caught. It's the same
+          // behavior as without this statement except with a better message.
+          if (typeof typeSpecs[typeSpecName] !== 'function') {
+            var err = Error(
+              (componentName || 'React class') + ': ' + location + ' type `' + typeSpecName + '` is invalid; ' +
+              'it must be a function, usually from the `prop-types` package, but received `' + typeof typeSpecs[typeSpecName] + '`.'
+            );
+            err.name = 'Invariant Violation';
+            throw err;
+          }
+          error = typeSpecs[typeSpecName](values, typeSpecName, componentName, location, null, ReactPropTypesSecret);
+        } catch (ex) {
+          error = ex;
+        }
+        if (error && !(error instanceof Error)) {
+          printWarning(
+            (componentName || 'React class') + ': type specification of ' +
+            location + ' `' + typeSpecName + '` is invalid; the type checker ' +
+            'function must return `null` or an `Error` but returned a ' + typeof error + '. ' +
+            'You may have forgotten to pass an argument to the type checker ' +
+            'creator (arrayOf, instanceOf, objectOf, oneOf, oneOfType, and ' +
+            'shape all require an argument).'
+          )
+
+        }
+        if (error instanceof Error && !(error.message in loggedTypeFailures)) {
+          // Only monitor this failure once because there tends to be a lot of the
+          // same error.
+          loggedTypeFailures[error.message] = true;
+
+          var stack = getStack ? getStack() : '';
+
+          printWarning(
+            'Failed ' + location + ' type: ' + error.message + (stack != null ? stack : '')
+          );
+        }
+      }
+    }
+  }
+}
+
+module.exports = checkPropTypes;
+
+
+/***/ }),
+
+/***/ "./node_modules/next/node_modules/prop-types/factoryWithTypeCheckers.js":
+/*!******************************************************************************!*\
+  !*** ./node_modules/next/node_modules/prop-types/factoryWithTypeCheckers.js ***!
+  \******************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+/**
+ * Copyright (c) 2013-present, Facebook, Inc.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+
+
+var assign = __webpack_require__(/*! object-assign */ "./node_modules/object-assign/index.js");
+
+var ReactPropTypesSecret = __webpack_require__(/*! ./lib/ReactPropTypesSecret */ "./node_modules/next/node_modules/prop-types/lib/ReactPropTypesSecret.js");
+var checkPropTypes = __webpack_require__(/*! ./checkPropTypes */ "./node_modules/next/node_modules/prop-types/checkPropTypes.js");
+
+var printWarning = function() {};
+
+if (true) {
+  printWarning = function(text) {
+    var message = 'Warning: ' + text;
+    if (typeof console !== 'undefined') {
+      console.error(message);
+    }
+    try {
+      // --- Welcome to debugging React ---
+      // This error was thrown as a convenience so that you can use this stack
+      // to find the callsite that caused this warning to fire.
+      throw new Error(message);
+    } catch (x) {}
+  };
+}
+
+function emptyFunctionThatReturnsNull() {
+  return null;
+}
+
+module.exports = function(isValidElement, throwOnDirectAccess) {
+  /* global Symbol */
+  var ITERATOR_SYMBOL = typeof Symbol === 'function' && Symbol.iterator;
+  var FAUX_ITERATOR_SYMBOL = '@@iterator'; // Before Symbol spec.
+
+  /**
+   * Returns the iterator method function contained on the iterable object.
+   *
+   * Be sure to invoke the function with the iterable as context:
+   *
+   *     var iteratorFn = getIteratorFn(myIterable);
+   *     if (iteratorFn) {
+   *       var iterator = iteratorFn.call(myIterable);
+   *       ...
+   *     }
+   *
+   * @param {?object} maybeIterable
+   * @return {?function}
+   */
+  function getIteratorFn(maybeIterable) {
+    var iteratorFn = maybeIterable && (ITERATOR_SYMBOL && maybeIterable[ITERATOR_SYMBOL] || maybeIterable[FAUX_ITERATOR_SYMBOL]);
+    if (typeof iteratorFn === 'function') {
+      return iteratorFn;
+    }
+  }
+
+  /**
+   * Collection of methods that allow declaration and validation of props that are
+   * supplied to React components. Example usage:
+   *
+   *   var Props = require('ReactPropTypes');
+   *   var MyArticle = React.createClass({
+   *     propTypes: {
+   *       // An optional string prop named "description".
+   *       description: Props.string,
+   *
+   *       // A required enum prop named "category".
+   *       category: Props.oneOf(['News','Photos']).isRequired,
+   *
+   *       // A prop named "dialog" that requires an instance of Dialog.
+   *       dialog: Props.instanceOf(Dialog).isRequired
+   *     },
+   *     render: function() { ... }
+   *   });
+   *
+   * A more formal specification of how these methods are used:
+   *
+   *   type := array|bool|func|object|number|string|oneOf([...])|instanceOf(...)
+   *   decl := ReactPropTypes.{type}(.isRequired)?
+   *
+   * Each and every declaration produces a function with the same signature. This
+   * allows the creation of custom validation functions. For example:
+   *
+   *  var MyLink = React.createClass({
+   *    propTypes: {
+   *      // An optional string or URI prop named "href".
+   *      href: function(props, propName, componentName) {
+   *        var propValue = props[propName];
+   *        if (propValue != null && typeof propValue !== 'string' &&
+   *            !(propValue instanceof URI)) {
+   *          return new Error(
+   *            'Expected a string or an URI for ' + propName + ' in ' +
+   *            componentName
+   *          );
+   *        }
+   *      }
+   *    },
+   *    render: function() {...}
+   *  });
+   *
+   * @internal
+   */
+
+  var ANONYMOUS = '<<anonymous>>';
+
+  // Important!
+  // Keep this list in sync with production version in `./factoryWithThrowingShims.js`.
+  var ReactPropTypes = {
+    array: createPrimitiveTypeChecker('array'),
+    bool: createPrimitiveTypeChecker('boolean'),
+    func: createPrimitiveTypeChecker('function'),
+    number: createPrimitiveTypeChecker('number'),
+    object: createPrimitiveTypeChecker('object'),
+    string: createPrimitiveTypeChecker('string'),
+    symbol: createPrimitiveTypeChecker('symbol'),
+
+    any: createAnyTypeChecker(),
+    arrayOf: createArrayOfTypeChecker,
+    element: createElementTypeChecker(),
+    instanceOf: createInstanceTypeChecker,
+    node: createNodeChecker(),
+    objectOf: createObjectOfTypeChecker,
+    oneOf: createEnumTypeChecker,
+    oneOfType: createUnionTypeChecker,
+    shape: createShapeTypeChecker,
+    exact: createStrictShapeTypeChecker,
+  };
+
+  /**
+   * inlined Object.is polyfill to avoid requiring consumers ship their own
+   * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/is
+   */
+  /*eslint-disable no-self-compare*/
+  function is(x, y) {
+    // SameValue algorithm
+    if (x === y) {
+      // Steps 1-5, 7-10
+      // Steps 6.b-6.e: +0 != -0
+      return x !== 0 || 1 / x === 1 / y;
+    } else {
+      // Step 6.a: NaN == NaN
+      return x !== x && y !== y;
+    }
+  }
+  /*eslint-enable no-self-compare*/
+
+  /**
+   * We use an Error-like object for backward compatibility as people may call
+   * PropTypes directly and inspect their output. However, we don't use real
+   * Errors anymore. We don't inspect their stack anyway, and creating them
+   * is prohibitively expensive if they are created too often, such as what
+   * happens in oneOfType() for any type before the one that matched.
+   */
+  function PropTypeError(message) {
+    this.message = message;
+    this.stack = '';
+  }
+  // Make `instanceof Error` still work for returned errors.
+  PropTypeError.prototype = Error.prototype;
+
+  function createChainableTypeChecker(validate) {
+    if (true) {
+      var manualPropTypeCallCache = {};
+      var manualPropTypeWarningCount = 0;
+    }
+    function checkType(isRequired, props, propName, componentName, location, propFullName, secret) {
+      componentName = componentName || ANONYMOUS;
+      propFullName = propFullName || propName;
+
+      if (secret !== ReactPropTypesSecret) {
+        if (throwOnDirectAccess) {
+          // New behavior only for users of `prop-types` package
+          var err = new Error(
+            'Calling PropTypes validators directly is not supported by the `prop-types` package. ' +
+            'Use `PropTypes.checkPropTypes()` to call them. ' +
+            'Read more at http://fb.me/use-check-prop-types'
+          );
+          err.name = 'Invariant Violation';
+          throw err;
+        } else if ( true && typeof console !== 'undefined') {
+          // Old behavior for people using React.PropTypes
+          var cacheKey = componentName + ':' + propName;
+          if (
+            !manualPropTypeCallCache[cacheKey] &&
+            // Avoid spamming the console because they are often not actionable except for lib authors
+            manualPropTypeWarningCount < 3
+          ) {
+            printWarning(
+              'You are manually calling a React.PropTypes validation ' +
+              'function for the `' + propFullName + '` prop on `' + componentName  + '`. This is deprecated ' +
+              'and will throw in the standalone `prop-types` package. ' +
+              'You may be seeing this warning due to a third-party PropTypes ' +
+              'library. See https://fb.me/react-warning-dont-call-proptypes ' + 'for details.'
+            );
+            manualPropTypeCallCache[cacheKey] = true;
+            manualPropTypeWarningCount++;
+          }
+        }
+      }
+      if (props[propName] == null) {
+        if (isRequired) {
+          if (props[propName] === null) {
+            return new PropTypeError('The ' + location + ' `' + propFullName + '` is marked as required ' + ('in `' + componentName + '`, but its value is `null`.'));
+          }
+          return new PropTypeError('The ' + location + ' `' + propFullName + '` is marked as required in ' + ('`' + componentName + '`, but its value is `undefined`.'));
+        }
+        return null;
+      } else {
+        return validate(props, propName, componentName, location, propFullName);
+      }
+    }
+
+    var chainedCheckType = checkType.bind(null, false);
+    chainedCheckType.isRequired = checkType.bind(null, true);
+
+    return chainedCheckType;
+  }
+
+  function createPrimitiveTypeChecker(expectedType) {
+    function validate(props, propName, componentName, location, propFullName, secret) {
+      var propValue = props[propName];
+      var propType = getPropType(propValue);
+      if (propType !== expectedType) {
+        // `propValue` being instance of, say, date/regexp, pass the 'object'
+        // check, but we can offer a more precise error message here rather than
+        // 'of type `object`'.
+        var preciseType = getPreciseType(propValue);
+
+        return new PropTypeError('Invalid ' + location + ' `' + propFullName + '` of type ' + ('`' + preciseType + '` supplied to `' + componentName + '`, expected ') + ('`' + expectedType + '`.'));
+      }
+      return null;
+    }
+    return createChainableTypeChecker(validate);
+  }
+
+  function createAnyTypeChecker() {
+    return createChainableTypeChecker(emptyFunctionThatReturnsNull);
+  }
+
+  function createArrayOfTypeChecker(typeChecker) {
+    function validate(props, propName, componentName, location, propFullName) {
+      if (typeof typeChecker !== 'function') {
+        return new PropTypeError('Property `' + propFullName + '` of component `' + componentName + '` has invalid PropType notation inside arrayOf.');
+      }
+      var propValue = props[propName];
+      if (!Array.isArray(propValue)) {
+        var propType = getPropType(propValue);
+        return new PropTypeError('Invalid ' + location + ' `' + propFullName + '` of type ' + ('`' + propType + '` supplied to `' + componentName + '`, expected an array.'));
+      }
+      for (var i = 0; i < propValue.length; i++) {
+        var error = typeChecker(propValue, i, componentName, location, propFullName + '[' + i + ']', ReactPropTypesSecret);
+        if (error instanceof Error) {
+          return error;
+        }
+      }
+      return null;
+    }
+    return createChainableTypeChecker(validate);
+  }
+
+  function createElementTypeChecker() {
+    function validate(props, propName, componentName, location, propFullName) {
+      var propValue = props[propName];
+      if (!isValidElement(propValue)) {
+        var propType = getPropType(propValue);
+        return new PropTypeError('Invalid ' + location + ' `' + propFullName + '` of type ' + ('`' + propType + '` supplied to `' + componentName + '`, expected a single ReactElement.'));
+      }
+      return null;
+    }
+    return createChainableTypeChecker(validate);
+  }
+
+  function createInstanceTypeChecker(expectedClass) {
+    function validate(props, propName, componentName, location, propFullName) {
+      if (!(props[propName] instanceof expectedClass)) {
+        var expectedClassName = expectedClass.name || ANONYMOUS;
+        var actualClassName = getClassName(props[propName]);
+        return new PropTypeError('Invalid ' + location + ' `' + propFullName + '` of type ' + ('`' + actualClassName + '` supplied to `' + componentName + '`, expected ') + ('instance of `' + expectedClassName + '`.'));
+      }
+      return null;
+    }
+    return createChainableTypeChecker(validate);
+  }
+
+  function createEnumTypeChecker(expectedValues) {
+    if (!Array.isArray(expectedValues)) {
+       true ? printWarning('Invalid argument supplied to oneOf, expected an instance of array.') : undefined;
+      return emptyFunctionThatReturnsNull;
+    }
+
+    function validate(props, propName, componentName, location, propFullName) {
+      var propValue = props[propName];
+      for (var i = 0; i < expectedValues.length; i++) {
+        if (is(propValue, expectedValues[i])) {
+          return null;
+        }
+      }
+
+      var valuesString = JSON.stringify(expectedValues);
+      return new PropTypeError('Invalid ' + location + ' `' + propFullName + '` of value `' + propValue + '` ' + ('supplied to `' + componentName + '`, expected one of ' + valuesString + '.'));
+    }
+    return createChainableTypeChecker(validate);
+  }
+
+  function createObjectOfTypeChecker(typeChecker) {
+    function validate(props, propName, componentName, location, propFullName) {
+      if (typeof typeChecker !== 'function') {
+        return new PropTypeError('Property `' + propFullName + '` of component `' + componentName + '` has invalid PropType notation inside objectOf.');
+      }
+      var propValue = props[propName];
+      var propType = getPropType(propValue);
+      if (propType !== 'object') {
+        return new PropTypeError('Invalid ' + location + ' `' + propFullName + '` of type ' + ('`' + propType + '` supplied to `' + componentName + '`, expected an object.'));
+      }
+      for (var key in propValue) {
+        if (propValue.hasOwnProperty(key)) {
+          var error = typeChecker(propValue, key, componentName, location, propFullName + '.' + key, ReactPropTypesSecret);
+          if (error instanceof Error) {
+            return error;
+          }
+        }
+      }
+      return null;
+    }
+    return createChainableTypeChecker(validate);
+  }
+
+  function createUnionTypeChecker(arrayOfTypeCheckers) {
+    if (!Array.isArray(arrayOfTypeCheckers)) {
+       true ? printWarning('Invalid argument supplied to oneOfType, expected an instance of array.') : undefined;
+      return emptyFunctionThatReturnsNull;
+    }
+
+    for (var i = 0; i < arrayOfTypeCheckers.length; i++) {
+      var checker = arrayOfTypeCheckers[i];
+      if (typeof checker !== 'function') {
+        printWarning(
+          'Invalid argument supplied to oneOfType. Expected an array of check functions, but ' +
+          'received ' + getPostfixForTypeWarning(checker) + ' at index ' + i + '.'
+        );
+        return emptyFunctionThatReturnsNull;
+      }
+    }
+
+    function validate(props, propName, componentName, location, propFullName) {
+      for (var i = 0; i < arrayOfTypeCheckers.length; i++) {
+        var checker = arrayOfTypeCheckers[i];
+        if (checker(props, propName, componentName, location, propFullName, ReactPropTypesSecret) == null) {
+          return null;
+        }
+      }
+
+      return new PropTypeError('Invalid ' + location + ' `' + propFullName + '` supplied to ' + ('`' + componentName + '`.'));
+    }
+    return createChainableTypeChecker(validate);
+  }
+
+  function createNodeChecker() {
+    function validate(props, propName, componentName, location, propFullName) {
+      if (!isNode(props[propName])) {
+        return new PropTypeError('Invalid ' + location + ' `' + propFullName + '` supplied to ' + ('`' + componentName + '`, expected a ReactNode.'));
+      }
+      return null;
+    }
+    return createChainableTypeChecker(validate);
+  }
+
+  function createShapeTypeChecker(shapeTypes) {
+    function validate(props, propName, componentName, location, propFullName) {
+      var propValue = props[propName];
+      var propType = getPropType(propValue);
+      if (propType !== 'object') {
+        return new PropTypeError('Invalid ' + location + ' `' + propFullName + '` of type `' + propType + '` ' + ('supplied to `' + componentName + '`, expected `object`.'));
+      }
+      for (var key in shapeTypes) {
+        var checker = shapeTypes[key];
+        if (!checker) {
+          continue;
+        }
+        var error = checker(propValue, key, componentName, location, propFullName + '.' + key, ReactPropTypesSecret);
+        if (error) {
+          return error;
+        }
+      }
+      return null;
+    }
+    return createChainableTypeChecker(validate);
+  }
+
+  function createStrictShapeTypeChecker(shapeTypes) {
+    function validate(props, propName, componentName, location, propFullName) {
+      var propValue = props[propName];
+      var propType = getPropType(propValue);
+      if (propType !== 'object') {
+        return new PropTypeError('Invalid ' + location + ' `' + propFullName + '` of type `' + propType + '` ' + ('supplied to `' + componentName + '`, expected `object`.'));
+      }
+      // We need to check all keys in case some are required but missing from
+      // props.
+      var allKeys = assign({}, props[propName], shapeTypes);
+      for (var key in allKeys) {
+        var checker = shapeTypes[key];
+        if (!checker) {
+          return new PropTypeError(
+            'Invalid ' + location + ' `' + propFullName + '` key `' + key + '` supplied to `' + componentName + '`.' +
+            '\nBad object: ' + JSON.stringify(props[propName], null, '  ') +
+            '\nValid keys: ' +  JSON.stringify(Object.keys(shapeTypes), null, '  ')
+          );
+        }
+        var error = checker(propValue, key, componentName, location, propFullName + '.' + key, ReactPropTypesSecret);
+        if (error) {
+          return error;
+        }
+      }
+      return null;
+    }
+
+    return createChainableTypeChecker(validate);
+  }
+
+  function isNode(propValue) {
+    switch (typeof propValue) {
+      case 'number':
+      case 'string':
+      case 'undefined':
+        return true;
+      case 'boolean':
+        return !propValue;
+      case 'object':
+        if (Array.isArray(propValue)) {
+          return propValue.every(isNode);
+        }
+        if (propValue === null || isValidElement(propValue)) {
+          return true;
+        }
+
+        var iteratorFn = getIteratorFn(propValue);
+        if (iteratorFn) {
+          var iterator = iteratorFn.call(propValue);
+          var step;
+          if (iteratorFn !== propValue.entries) {
+            while (!(step = iterator.next()).done) {
+              if (!isNode(step.value)) {
+                return false;
+              }
+            }
+          } else {
+            // Iterator will provide entry [k,v] tuples rather than values.
+            while (!(step = iterator.next()).done) {
+              var entry = step.value;
+              if (entry) {
+                if (!isNode(entry[1])) {
+                  return false;
+                }
+              }
+            }
+          }
+        } else {
+          return false;
+        }
+
+        return true;
+      default:
+        return false;
+    }
+  }
+
+  function isSymbol(propType, propValue) {
+    // Native Symbol.
+    if (propType === 'symbol') {
+      return true;
+    }
+
+    // 19.4.3.5 Symbol.prototype[@@toStringTag] === 'Symbol'
+    if (propValue['@@toStringTag'] === 'Symbol') {
+      return true;
+    }
+
+    // Fallback for non-spec compliant Symbols which are polyfilled.
+    if (typeof Symbol === 'function' && propValue instanceof Symbol) {
+      return true;
+    }
+
+    return false;
+  }
+
+  // Equivalent of `typeof` but with special handling for array and regexp.
+  function getPropType(propValue) {
+    var propType = typeof propValue;
+    if (Array.isArray(propValue)) {
+      return 'array';
+    }
+    if (propValue instanceof RegExp) {
+      // Old webkits (at least until Android 4.0) return 'function' rather than
+      // 'object' for typeof a RegExp. We'll normalize this here so that /bla/
+      // passes PropTypes.object.
+      return 'object';
+    }
+    if (isSymbol(propType, propValue)) {
+      return 'symbol';
+    }
+    return propType;
+  }
+
+  // This handles more types than `getPropType`. Only used for error messages.
+  // See `createPrimitiveTypeChecker`.
+  function getPreciseType(propValue) {
+    if (typeof propValue === 'undefined' || propValue === null) {
+      return '' + propValue;
+    }
+    var propType = getPropType(propValue);
+    if (propType === 'object') {
+      if (propValue instanceof Date) {
+        return 'date';
+      } else if (propValue instanceof RegExp) {
+        return 'regexp';
+      }
+    }
+    return propType;
+  }
+
+  // Returns a string that is postfixed to a warning about an invalid type.
+  // For example, "undefined" or "of type array"
+  function getPostfixForTypeWarning(value) {
+    var type = getPreciseType(value);
+    switch (type) {
+      case 'array':
+      case 'object':
+        return 'an ' + type;
+      case 'boolean':
+      case 'date':
+      case 'regexp':
+        return 'a ' + type;
+      default:
+        return type;
+    }
+  }
+
+  // Returns class name of the object, if any.
+  function getClassName(propValue) {
+    if (!propValue.constructor || !propValue.constructor.name) {
+      return ANONYMOUS;
+    }
+    return propValue.constructor.name;
+  }
+
+  ReactPropTypes.checkPropTypes = checkPropTypes;
+  ReactPropTypes.PropTypes = ReactPropTypes;
+
+  return ReactPropTypes;
+};
+
+
+/***/ }),
+
+/***/ "./node_modules/next/node_modules/prop-types/index.js":
+/*!************************************************************!*\
+  !*** ./node_modules/next/node_modules/prop-types/index.js ***!
+  \************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+/**
+ * Copyright (c) 2013-present, Facebook, Inc.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+if (true) {
+  var REACT_ELEMENT_TYPE = (typeof Symbol === 'function' &&
+    Symbol.for &&
+    Symbol.for('react.element')) ||
+    0xeac7;
+
+  var isValidElement = function(object) {
+    return typeof object === 'object' &&
+      object !== null &&
+      object.$$typeof === REACT_ELEMENT_TYPE;
+  };
+
+  // By explicitly using `prop-types` you are opting into new development behavior.
+  // http://fb.me/prop-types-in-prod
+  var throwOnDirectAccess = true;
+  module.exports = __webpack_require__(/*! ./factoryWithTypeCheckers */ "./node_modules/next/node_modules/prop-types/factoryWithTypeCheckers.js")(isValidElement, throwOnDirectAccess);
+} else {}
+
+
+/***/ }),
+
+/***/ "./node_modules/next/node_modules/prop-types/lib/ReactPropTypesSecret.js":
+/*!*******************************************************************************!*\
+  !*** ./node_modules/next/node_modules/prop-types/lib/ReactPropTypesSecret.js ***!
+  \*******************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+/**
+ * Copyright (c) 2013-present, Facebook, Inc.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+
+
+var ReactPropTypesSecret = 'SECRET_DO_NOT_PASS_THIS_OR_YOU_WILL_BE_FIRED';
+
+module.exports = ReactPropTypesSecret;
+
+
+/***/ }),
+
+/***/ "./node_modules/node-libs-browser/node_modules/punycode/punycode.js":
+/*!**************************************************************************!*\
+  !*** ./node_modules/node-libs-browser/node_modules/punycode/punycode.js ***!
+  \**************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+/* WEBPACK VAR INJECTION */(function(module, global) {var __WEBPACK_AMD_DEFINE_RESULT__;/*! https://mths.be/punycode v1.4.1 by @mathias */
+;(function(root) {
+
+	/** Detect free variables */
+	var freeExports =  true && exports &&
+		!exports.nodeType && exports;
+	var freeModule =  true && module &&
+		!module.nodeType && module;
+	var freeGlobal = typeof global == 'object' && global;
+	if (
+		freeGlobal.global === freeGlobal ||
+		freeGlobal.window === freeGlobal ||
+		freeGlobal.self === freeGlobal
+	) {
+		root = freeGlobal;
+	}
+
+	/**
+	 * The `punycode` object.
+	 * @name punycode
+	 * @type Object
+	 */
+	var punycode,
+
+	/** Highest positive signed 32-bit float value */
+	maxInt = 2147483647, // aka. 0x7FFFFFFF or 2^31-1
+
+	/** Bootstring parameters */
+	base = 36,
+	tMin = 1,
+	tMax = 26,
+	skew = 38,
+	damp = 700,
+	initialBias = 72,
+	initialN = 128, // 0x80
+	delimiter = '-', // '\x2D'
+
+	/** Regular expressions */
+	regexPunycode = /^xn--/,
+	regexNonASCII = /[^\x20-\x7E]/, // unprintable ASCII chars + non-ASCII chars
+	regexSeparators = /[\x2E\u3002\uFF0E\uFF61]/g, // RFC 3490 separators
+
+	/** Error messages */
+	errors = {
+		'overflow': 'Overflow: input needs wider integers to process',
+		'not-basic': 'Illegal input >= 0x80 (not a basic code point)',
+		'invalid-input': 'Invalid input'
+	},
+
+	/** Convenience shortcuts */
+	baseMinusTMin = base - tMin,
+	floor = Math.floor,
+	stringFromCharCode = String.fromCharCode,
+
+	/** Temporary variable */
+	key;
+
+	/*--------------------------------------------------------------------------*/
+
+	/**
+	 * A generic error utility function.
+	 * @private
+	 * @param {String} type The error type.
+	 * @returns {Error} Throws a `RangeError` with the applicable error message.
+	 */
+	function error(type) {
+		throw new RangeError(errors[type]);
+	}
+
+	/**
+	 * A generic `Array#map` utility function.
+	 * @private
+	 * @param {Array} array The array to iterate over.
+	 * @param {Function} callback The function that gets called for every array
+	 * item.
+	 * @returns {Array} A new array of values returned by the callback function.
+	 */
+	function map(array, fn) {
+		var length = array.length;
+		var result = [];
+		while (length--) {
+			result[length] = fn(array[length]);
+		}
+		return result;
+	}
+
+	/**
+	 * A simple `Array#map`-like wrapper to work with domain name strings or email
+	 * addresses.
+	 * @private
+	 * @param {String} domain The domain name or email address.
+	 * @param {Function} callback The function that gets called for every
+	 * character.
+	 * @returns {Array} A new string of characters returned by the callback
+	 * function.
+	 */
+	function mapDomain(string, fn) {
+		var parts = string.split('@');
+		var result = '';
+		if (parts.length > 1) {
+			// In email addresses, only the domain name should be punycoded. Leave
+			// the local part (i.e. everything up to `@`) intact.
+			result = parts[0] + '@';
+			string = parts[1];
+		}
+		// Avoid `split(regex)` for IE8 compatibility. See #17.
+		string = string.replace(regexSeparators, '\x2E');
+		var labels = string.split('.');
+		var encoded = map(labels, fn).join('.');
+		return result + encoded;
+	}
+
+	/**
+	 * Creates an array containing the numeric code points of each Unicode
+	 * character in the string. While JavaScript uses UCS-2 internally,
+	 * this function will convert a pair of surrogate halves (each of which
+	 * UCS-2 exposes as separate characters) into a single code point,
+	 * matching UTF-16.
+	 * @see `punycode.ucs2.encode`
+	 * @see <https://mathiasbynens.be/notes/javascript-encoding>
+	 * @memberOf punycode.ucs2
+	 * @name decode
+	 * @param {String} string The Unicode input string (UCS-2).
+	 * @returns {Array} The new array of code points.
+	 */
+	function ucs2decode(string) {
+		var output = [],
+		    counter = 0,
+		    length = string.length,
+		    value,
+		    extra;
+		while (counter < length) {
+			value = string.charCodeAt(counter++);
+			if (value >= 0xD800 && value <= 0xDBFF && counter < length) {
+				// high surrogate, and there is a next character
+				extra = string.charCodeAt(counter++);
+				if ((extra & 0xFC00) == 0xDC00) { // low surrogate
+					output.push(((value & 0x3FF) << 10) + (extra & 0x3FF) + 0x10000);
+				} else {
+					// unmatched surrogate; only append this code unit, in case the next
+					// code unit is the high surrogate of a surrogate pair
+					output.push(value);
+					counter--;
+				}
+			} else {
+				output.push(value);
+			}
+		}
+		return output;
+	}
+
+	/**
+	 * Creates a string based on an array of numeric code points.
+	 * @see `punycode.ucs2.decode`
+	 * @memberOf punycode.ucs2
+	 * @name encode
+	 * @param {Array} codePoints The array of numeric code points.
+	 * @returns {String} The new Unicode string (UCS-2).
+	 */
+	function ucs2encode(array) {
+		return map(array, function(value) {
+			var output = '';
+			if (value > 0xFFFF) {
+				value -= 0x10000;
+				output += stringFromCharCode(value >>> 10 & 0x3FF | 0xD800);
+				value = 0xDC00 | value & 0x3FF;
+			}
+			output += stringFromCharCode(value);
+			return output;
+		}).join('');
+	}
+
+	/**
+	 * Converts a basic code point into a digit/integer.
+	 * @see `digitToBasic()`
+	 * @private
+	 * @param {Number} codePoint The basic numeric code point value.
+	 * @returns {Number} The numeric value of a basic code point (for use in
+	 * representing integers) in the range `0` to `base - 1`, or `base` if
+	 * the code point does not represent a value.
+	 */
+	function basicToDigit(codePoint) {
+		if (codePoint - 48 < 10) {
+			return codePoint - 22;
+		}
+		if (codePoint - 65 < 26) {
+			return codePoint - 65;
+		}
+		if (codePoint - 97 < 26) {
+			return codePoint - 97;
+		}
+		return base;
+	}
+
+	/**
+	 * Converts a digit/integer into a basic code point.
+	 * @see `basicToDigit()`
+	 * @private
+	 * @param {Number} digit The numeric value of a basic code point.
+	 * @returns {Number} The basic code point whose value (when used for
+	 * representing integers) is `digit`, which needs to be in the range
+	 * `0` to `base - 1`. If `flag` is non-zero, the uppercase form is
+	 * used; else, the lowercase form is used. The behavior is undefined
+	 * if `flag` is non-zero and `digit` has no uppercase form.
+	 */
+	function digitToBasic(digit, flag) {
+		//  0..25 map to ASCII a..z or A..Z
+		// 26..35 map to ASCII 0..9
+		return digit + 22 + 75 * (digit < 26) - ((flag != 0) << 5);
+	}
+
+	/**
+	 * Bias adaptation function as per section 3.4 of RFC 3492.
+	 * https://tools.ietf.org/html/rfc3492#section-3.4
+	 * @private
+	 */
+	function adapt(delta, numPoints, firstTime) {
+		var k = 0;
+		delta = firstTime ? floor(delta / damp) : delta >> 1;
+		delta += floor(delta / numPoints);
+		for (/* no initialization */; delta > baseMinusTMin * tMax >> 1; k += base) {
+			delta = floor(delta / baseMinusTMin);
+		}
+		return floor(k + (baseMinusTMin + 1) * delta / (delta + skew));
+	}
+
+	/**
+	 * Converts a Punycode string of ASCII-only symbols to a string of Unicode
+	 * symbols.
+	 * @memberOf punycode
+	 * @param {String} input The Punycode string of ASCII-only symbols.
+	 * @returns {String} The resulting string of Unicode symbols.
+	 */
+	function decode(input) {
+		// Don't use UCS-2
+		var output = [],
+		    inputLength = input.length,
+		    out,
+		    i = 0,
+		    n = initialN,
+		    bias = initialBias,
+		    basic,
+		    j,
+		    index,
+		    oldi,
+		    w,
+		    k,
+		    digit,
+		    t,
+		    /** Cached calculation results */
+		    baseMinusT;
+
+		// Handle the basic code points: let `basic` be the number of input code
+		// points before the last delimiter, or `0` if there is none, then copy
+		// the first basic code points to the output.
+
+		basic = input.lastIndexOf(delimiter);
+		if (basic < 0) {
+			basic = 0;
+		}
+
+		for (j = 0; j < basic; ++j) {
+			// if it's not a basic code point
+			if (input.charCodeAt(j) >= 0x80) {
+				error('not-basic');
+			}
+			output.push(input.charCodeAt(j));
+		}
+
+		// Main decoding loop: start just after the last delimiter if any basic code
+		// points were copied; start at the beginning otherwise.
+
+		for (index = basic > 0 ? basic + 1 : 0; index < inputLength; /* no final expression */) {
+
+			// `index` is the index of the next character to be consumed.
+			// Decode a generalized variable-length integer into `delta`,
+			// which gets added to `i`. The overflow checking is easier
+			// if we increase `i` as we go, then subtract off its starting
+			// value at the end to obtain `delta`.
+			for (oldi = i, w = 1, k = base; /* no condition */; k += base) {
+
+				if (index >= inputLength) {
+					error('invalid-input');
+				}
+
+				digit = basicToDigit(input.charCodeAt(index++));
+
+				if (digit >= base || digit > floor((maxInt - i) / w)) {
+					error('overflow');
+				}
+
+				i += digit * w;
+				t = k <= bias ? tMin : (k >= bias + tMax ? tMax : k - bias);
+
+				if (digit < t) {
+					break;
+				}
+
+				baseMinusT = base - t;
+				if (w > floor(maxInt / baseMinusT)) {
+					error('overflow');
+				}
+
+				w *= baseMinusT;
+
+			}
+
+			out = output.length + 1;
+			bias = adapt(i - oldi, out, oldi == 0);
+
+			// `i` was supposed to wrap around from `out` to `0`,
+			// incrementing `n` each time, so we'll fix that now:
+			if (floor(i / out) > maxInt - n) {
+				error('overflow');
+			}
+
+			n += floor(i / out);
+			i %= out;
+
+			// Insert `n` at position `i` of the output
+			output.splice(i++, 0, n);
+
+		}
+
+		return ucs2encode(output);
+	}
+
+	/**
+	 * Converts a string of Unicode symbols (e.g. a domain name label) to a
+	 * Punycode string of ASCII-only symbols.
+	 * @memberOf punycode
+	 * @param {String} input The string of Unicode symbols.
+	 * @returns {String} The resulting Punycode string of ASCII-only symbols.
+	 */
+	function encode(input) {
+		var n,
+		    delta,
+		    handledCPCount,
+		    basicLength,
+		    bias,
+		    j,
+		    m,
+		    q,
+		    k,
+		    t,
+		    currentValue,
+		    output = [],
+		    /** `inputLength` will hold the number of code points in `input`. */
+		    inputLength,
+		    /** Cached calculation results */
+		    handledCPCountPlusOne,
+		    baseMinusT,
+		    qMinusT;
+
+		// Convert the input in UCS-2 to Unicode
+		input = ucs2decode(input);
+
+		// Cache the length
+		inputLength = input.length;
+
+		// Initialize the state
+		n = initialN;
+		delta = 0;
+		bias = initialBias;
+
+		// Handle the basic code points
+		for (j = 0; j < inputLength; ++j) {
+			currentValue = input[j];
+			if (currentValue < 0x80) {
+				output.push(stringFromCharCode(currentValue));
+			}
+		}
+
+		handledCPCount = basicLength = output.length;
+
+		// `handledCPCount` is the number of code points that have been handled;
+		// `basicLength` is the number of basic code points.
+
+		// Finish the basic string - if it is not empty - with a delimiter
+		if (basicLength) {
+			output.push(delimiter);
+		}
+
+		// Main encoding loop:
+		while (handledCPCount < inputLength) {
+
+			// All non-basic code points < n have been handled already. Find the next
+			// larger one:
+			for (m = maxInt, j = 0; j < inputLength; ++j) {
+				currentValue = input[j];
+				if (currentValue >= n && currentValue < m) {
+					m = currentValue;
+				}
+			}
+
+			// Increase `delta` enough to advance the decoder's <n,i> state to <m,0>,
+			// but guard against overflow
+			handledCPCountPlusOne = handledCPCount + 1;
+			if (m - n > floor((maxInt - delta) / handledCPCountPlusOne)) {
+				error('overflow');
+			}
+
+			delta += (m - n) * handledCPCountPlusOne;
+			n = m;
+
+			for (j = 0; j < inputLength; ++j) {
+				currentValue = input[j];
+
+				if (currentValue < n && ++delta > maxInt) {
+					error('overflow');
+				}
+
+				if (currentValue == n) {
+					// Represent delta as a generalized variable-length integer
+					for (q = delta, k = base; /* no condition */; k += base) {
+						t = k <= bias ? tMin : (k >= bias + tMax ? tMax : k - bias);
+						if (q < t) {
+							break;
+						}
+						qMinusT = q - t;
+						baseMinusT = base - t;
+						output.push(
+							stringFromCharCode(digitToBasic(t + qMinusT % baseMinusT, 0))
+						);
+						q = floor(qMinusT / baseMinusT);
+					}
+
+					output.push(stringFromCharCode(digitToBasic(q, 0)));
+					bias = adapt(delta, handledCPCountPlusOne, handledCPCount == basicLength);
+					delta = 0;
+					++handledCPCount;
+				}
+			}
+
+			++delta;
+			++n;
+
+		}
+		return output.join('');
+	}
+
+	/**
+	 * Converts a Punycode string representing a domain name or an email address
+	 * to Unicode. Only the Punycoded parts of the input will be converted, i.e.
+	 * it doesn't matter if you call it on a string that has already been
+	 * converted to Unicode.
+	 * @memberOf punycode
+	 * @param {String} input The Punycoded domain name or email address to
+	 * convert to Unicode.
+	 * @returns {String} The Unicode representation of the given Punycode
+	 * string.
+	 */
+	function toUnicode(input) {
+		return mapDomain(input, function(string) {
+			return regexPunycode.test(string)
+				? decode(string.slice(4).toLowerCase())
+				: string;
+		});
+	}
+
+	/**
+	 * Converts a Unicode string representing a domain name or an email address to
+	 * Punycode. Only the non-ASCII parts of the domain name will be converted,
+	 * i.e. it doesn't matter if you call it with a domain that's already in
+	 * ASCII.
+	 * @memberOf punycode
+	 * @param {String} input The domain name or email address to convert, as a
+	 * Unicode string.
+	 * @returns {String} The Punycode representation of the given domain name or
+	 * email address.
+	 */
+	function toASCII(input) {
+		return mapDomain(input, function(string) {
+			return regexNonASCII.test(string)
+				? 'xn--' + encode(string)
+				: string;
+		});
+	}
+
+	/*--------------------------------------------------------------------------*/
+
+	/** Define the public API */
+	punycode = {
+		/**
+		 * A string representing the current Punycode.js version number.
+		 * @memberOf punycode
+		 * @type String
+		 */
+		'version': '1.4.1',
+		/**
+		 * An object of methods to convert from JavaScript's internal character
+		 * representation (UCS-2) to Unicode code points, and back.
+		 * @see <https://mathiasbynens.be/notes/javascript-encoding>
+		 * @memberOf punycode
+		 * @type Object
+		 */
+		'ucs2': {
+			'decode': ucs2decode,
+			'encode': ucs2encode
+		},
+		'decode': decode,
+		'encode': encode,
+		'toASCII': toASCII,
+		'toUnicode': toUnicode
+	};
+
+	/** Expose `punycode` */
+	// Some AMD build optimizers, like r.js, check for specific condition patterns
+	// like the following:
+	if (
+		true
+	) {
+		!(__WEBPACK_AMD_DEFINE_RESULT__ = (function() {
+			return punycode;
+		}).call(exports, __webpack_require__, exports, module),
+				__WEBPACK_AMD_DEFINE_RESULT__ !== undefined && (module.exports = __WEBPACK_AMD_DEFINE_RESULT__));
+	} else {}
+
+}(this));
+
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./../../../webpack/buildin/module.js */ "./node_modules/webpack/buildin/module.js")(module), __webpack_require__(/*! ./../../../webpack/buildin/global.js */ "./node_modules/webpack/buildin/global.js")))
 
 /***/ }),
 
@@ -23280,7 +25290,14 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "PagingDots", function() { return PagingDots; });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _utilities_style_utilities__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./utilities/style-utilities */ "./node_modules/nuka-carousel/es/utilities/style-utilities.js");
 function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
+
+function ownKeys(object, enumerableOnly) { var keys = Object.keys(object); if (Object.getOwnPropertySymbols) { var symbols = Object.getOwnPropertySymbols(object); if (enumerableOnly) symbols = symbols.filter(function (sym) { return Object.getOwnPropertyDescriptor(object, sym).enumerable; }); keys.push.apply(keys, symbols); } return keys; }
+
+function _objectSpread(target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i] != null ? arguments[i] : {}; if (i % 2) { ownKeys(Object(source), true).forEach(function (key) { _defineProperty(target, key, source[key]); }); } else if (Object.getOwnPropertyDescriptors) { Object.defineProperties(target, Object.getOwnPropertyDescriptors(source)); } else { ownKeys(Object(source)).forEach(function (key) { Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key)); }); } } return target; }
+
+function _defineProperty(obj, key, value) { if (key in obj) { Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true }); } else { obj[key] = value; } return obj; }
 
 function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
 
@@ -23300,13 +25317,15 @@ function _setPrototypeOf(o, p) { _setPrototypeOf = Object.setPrototypeOf || func
 
 
 
+
 var defaultButtonStyles = function defaultButtonStyles(disabled) {
   return {
     border: 0,
     background: 'rgba(0,0,0,0.4)',
     color: 'white',
     padding: 10,
-    opacity: disabled ? 0.3 : 1,
+    textTransform: 'uppercase',
+    opacity: disabled && 0.3,
     cursor: disabled ? 'not-allowed' : 'pointer'
   };
 };
@@ -23335,13 +25354,20 @@ function (_React$Component) {
   }, {
     key: "render",
     value: function render() {
+      var _this$props$defaultCo = this.props.defaultControlsConfig,
+          prevButtonClassName = _this$props$defaultCo.prevButtonClassName,
+          _this$props$defaultCo2 = _this$props$defaultCo.prevButtonStyle,
+          prevButtonStyle = _this$props$defaultCo2 === void 0 ? {} : _this$props$defaultCo2,
+          prevButtonText = _this$props$defaultCo.prevButtonText;
       var disabled = this.props.currentSlide === 0 && !this.props.wrapAround || this.props.slideCount === 0;
       return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("button", {
-        style: defaultButtonStyles(disabled),
+        className: prevButtonClassName,
+        style: _objectSpread({}, defaultButtonStyles(disabled), {}, prevButtonStyle),
         disabled: disabled,
         onClick: this.handleClick,
-        "aria-label": "previous"
-      }, "PREV");
+        "aria-label": "previous",
+        type: "button"
+      }, prevButtonText || 'Prev');
     }
   }]);
 
@@ -23372,34 +25398,29 @@ function (_React$Component2) {
   }, {
     key: "nextButtonDisabled",
     value: function nextButtonDisabled(params) {
-      var wrapAround = params.wrapAround,
-          slidesToShow = params.slidesToShow,
+      var cellAlign = params.cellAlign,
+          cellSpacing = params.cellSpacing,
           currentSlide = params.currentSlide,
-          cellAlign = params.cellAlign,
-          slideCount = params.slideCount;
+          frameWidth = params.frameWidth,
+          positionValue = params.positionValue,
+          slideCount = params.slideCount,
+          slidesToShow = params.slidesToShow,
+          slideWidth = params.slideWidth,
+          wrapAround = params.wrapAround;
       var buttonDisabled = false;
 
       if (!wrapAround) {
-        var lastSlideIndex = slideCount - 1;
-        var slidesShowing = slidesToShow;
-        var lastSlideOffset = 0;
-
-        switch (cellAlign) {
-          case 'center':
-            slidesShowing = (slidesToShow - 1) * 0.5;
-            lastSlideOffset = Math.floor(slidesToShow * 0.5) - 1;
-            break;
-
-          case 'right':
-            slidesShowing = 1;
-            break;
-        }
-
-        if (slidesToShow > 1) {
-          buttonDisabled = currentSlide + slidesShowing > lastSlideIndex + lastSlideOffset;
-        } else {
-          buttonDisabled = currentSlide + 1 > lastSlideIndex;
-        }
+        var alignmentOffset = Object(_utilities_style_utilities__WEBPACK_IMPORTED_MODULE_1__["getAlignmentOffset"])(currentSlide, {
+          cellAlign: cellAlign,
+          cellSpacing: cellSpacing,
+          frameWidth: frameWidth,
+          slideWidth: slideWidth
+        });
+        var relativePosition = positionValue - alignmentOffset;
+        var width = slideWidth + cellSpacing;
+        var endOffset = cellAlign === 'center' ? 2 * alignmentOffset : alignmentOffset;
+        var endPosition = -width * slideCount + width * slidesToShow - endOffset;
+        buttonDisabled = relativePosition < endPosition || Math.abs(relativePosition - endPosition) < 0.01;
       }
 
       return buttonDisabled;
@@ -23408,24 +25429,41 @@ function (_React$Component2) {
     key: "render",
     value: function render() {
       var _this$props = this.props,
-          wrapAround = _this$props.wrapAround,
-          slidesToShow = _this$props.slidesToShow,
-          currentSlide = _this$props.currentSlide,
           cellAlign = _this$props.cellAlign,
-          slideCount = _this$props.slideCount;
+          cellSpacing = _this$props.cellSpacing,
+          currentSlide = _this$props.currentSlide,
+          frameWidth = _this$props.frameWidth,
+          left = _this$props.left,
+          slideCount = _this$props.slideCount,
+          slidesToShow = _this$props.slidesToShow,
+          slideWidth = _this$props.slideWidth,
+          top = _this$props.top,
+          vertical = _this$props.vertical,
+          wrapAround = _this$props.wrapAround;
+      var _this$props$defaultCo3 = this.props.defaultControlsConfig,
+          nextButtonClassName = _this$props$defaultCo3.nextButtonClassName,
+          _this$props$defaultCo4 = _this$props$defaultCo3.nextButtonStyle,
+          nextButtonStyle = _this$props$defaultCo4 === void 0 ? {} : _this$props$defaultCo4,
+          nextButtonText = _this$props$defaultCo3.nextButtonText;
       var disabled = this.nextButtonDisabled({
-        wrapAround: wrapAround,
-        slidesToShow: slidesToShow,
-        currentSlide: currentSlide,
         cellAlign: cellAlign,
-        slideCount: slideCount
+        cellSpacing: cellSpacing,
+        currentSlide: currentSlide,
+        frameWidth: frameWidth,
+        positionValue: vertical ? top : left,
+        slideCount: slideCount,
+        slidesToShow: slidesToShow,
+        slideWidth: slideWidth,
+        wrapAround: wrapAround
       });
       return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("button", {
-        style: defaultButtonStyles(disabled),
+        className: nextButtonClassName,
+        style: _objectSpread({}, defaultButtonStyles(disabled), {}, nextButtonStyle),
         disabled: disabled,
         onClick: this.handleClick,
-        "aria-label": "next"
-      }, "NEXT");
+        "aria-label": "next",
+        type: "button"
+      }, nextButtonText || 'Next');
     }
   }]);
 
@@ -23444,7 +25482,7 @@ function (_React$Component3) {
 
   _createClass(PagingDots, [{
     key: "getDotIndexes",
-    value: function getDotIndexes(slideCount, slidesToScroll, slidesToShow, cellAlign) {
+    value: function getDotIndexes(slideCount, slidesToScroll, slidesToShow, cellAlign, scrollMode) {
       var dotIndexes = [];
       var lastDotIndex = slideCount - slidesToShow;
 
@@ -23463,6 +25501,10 @@ function (_React$Component3) {
         dotIndexes.push(i);
       }
 
+      if (cellAlign === 'left' && scrollMode === 'page') {
+        lastDotIndex = Math.floor(slideCount - (slideCount % slidesToShow || slidesToShow));
+      }
+
       dotIndexes.push(lastDotIndex);
       return dotIndexes;
     }
@@ -23471,17 +25513,11 @@ function (_React$Component3) {
     value: function getListStyles() {
       return {
         position: 'relative',
-        margin: 0,
         top: -10,
-        padding: 0
-      };
-    }
-  }, {
-    key: "getListItemStyles",
-    value: function getListItemStyles() {
-      return {
-        listStyleType: 'none',
-        display: 'inline-block'
+        display: 'flex',
+        margin: 0,
+        padding: 0,
+        listStyleType: 'none'
       };
     }
   }, {
@@ -23491,7 +25527,8 @@ function (_React$Component3) {
         cursor: 'pointer',
         opacity: active ? 1 : 0.5,
         background: 'transparent',
-        border: 'none'
+        border: 'none',
+        fill: 'black'
       };
     }
   }, {
@@ -23499,29 +25536,35 @@ function (_React$Component3) {
     value: function render() {
       var _this3 = this;
 
-      var indexes = this.getDotIndexes(this.props.slideCount, this.props.slidesToScroll, this.props.slidesToShow, this.props.cellAlign);
+      var indexes = this.getDotIndexes(this.props.slideCount, this.props.slidesToScroll, this.props.slidesToShow, this.props.cellAlign, this.props.scrollMode);
+      var _this$props$defaultCo5 = this.props.defaultControlsConfig,
+          pagingDotsContainerClassName = _this$props$defaultCo5.pagingDotsContainerClassName,
+          pagingDotsClassName = _this$props$defaultCo5.pagingDotsClassName,
+          _this$props$defaultCo6 = _this$props$defaultCo5.pagingDotsStyle,
+          pagingDotsStyle = _this$props$defaultCo6 === void 0 ? {} : _this$props$defaultCo6;
       return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
+        className: pagingDotsContainerClassName,
         style: this.getListStyles()
       }, indexes.map(function (index) {
+        var isActive = _this3.props.currentSlide === index;
         return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
-          style: _this3.getListItemStyles(),
           key: index,
-          className: _this3.props.currentSlide === index ? 'paging-item active' : 'paging-item'
+          className: isActive ? 'paging-item active' : 'paging-item'
         }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("button", {
+          className: pagingDotsClassName,
           type: "button",
-          style: _this3.getButtonStyles(_this3.props.currentSlide === index),
+          style: _objectSpread({}, _this3.getButtonStyles(isActive), {}, pagingDotsStyle),
           onClick: _this3.props.goToSlide.bind(null, index),
           "aria-label": "slide ".concat(index + 1, " bullet")
-        }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
+        }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("svg", {
           className: "paging-dot",
-          style: {
-            display: 'inline-block',
-            borderRadius: '50%',
-            width: '6px',
-            height: '6px',
-            background: 'black'
-          }
-        })));
+          width: "6",
+          height: "6"
+        }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("circle", {
+          cx: "3",
+          cy: "3",
+          r: "3"
+        }))));
       }));
     }
   }]);
@@ -23566,7 +25609,9 @@ function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterat
 
 function _extends() { _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
 
-function _objectSpread(target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i] != null ? arguments[i] : {}; var ownKeys = Object.keys(source); if (typeof Object.getOwnPropertySymbols === 'function') { ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function (sym) { return Object.getOwnPropertyDescriptor(source, sym).enumerable; })); } ownKeys.forEach(function (key) { _defineProperty(target, key, source[key]); }); } return target; }
+function ownKeys(object, enumerableOnly) { var keys = Object.keys(object); if (Object.getOwnPropertySymbols) { var symbols = Object.getOwnPropertySymbols(object); if (enumerableOnly) symbols = symbols.filter(function (sym) { return Object.getOwnPropertyDescriptor(object, sym).enumerable; }); keys.push.apply(keys, symbols); } return keys; }
+
+function _objectSpread(target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i] != null ? arguments[i] : {}; if (i % 2) { ownKeys(Object(source), true).forEach(function (key) { _defineProperty(target, key, source[key]); }); } else if (Object.getOwnPropertyDescriptors) { Object.defineProperties(target, Object.getOwnPropertyDescriptors(source)); } else { ownKeys(Object(source)).forEach(function (key) { Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key)); }); } } return target; }
 
 function _defineProperty(obj, key, value) { if (key in obj) { Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true }); } else { obj[key] = value; } return obj; }
 
@@ -23612,6 +25657,7 @@ function (_React$Component) {
     _this.displayName = 'Carousel';
     _this.clickDisabled = false;
     _this.isTransitioning = false;
+    _this.timers = [];
     _this.touchObject = {};
     _this.controlsMap = [{
       funcName: 'renderTopLeftControls',
@@ -23641,6 +25687,13 @@ function (_React$Component) {
       funcName: 'renderBottomRightControls',
       key: 'BottomRight'
     }];
+    _this.keyCodeConfig = {
+      nextSlide: [39, 68, 38, 87],
+      previousSlide: [37, 65, 40, 83],
+      firstSlide: [81],
+      lastSlide: [69],
+      pause: [32]
+    };
     _this.childNodesMutationObs = null;
     _this.state = _objectSpread({
       currentSlide: _this.props.slideIndex,
@@ -23653,7 +25706,8 @@ function (_React$Component) {
       resetWrapAroundPosition: false,
       slideCount: Object(_utilities_bootstrapping_utilities__WEBPACK_IMPORTED_MODULE_10__["getValidChildren"])(_this.props.children).length,
       top: 0,
-      wrapToIndex: null
+      wrapToIndex: null,
+      hasFocus: false
     }, Object(_utilities_utilities__WEBPACK_IMPORTED_MODULE_8__["calcSomeInitialState"])(_this.props));
     _this.autoplayIterator = _this.autoplayIterator.bind(_assertThisInitialized(_this));
     _this.calcSlideHeightAndWidth = _this.calcSlideHeightAndWidth.bind(_assertThisInitialized(_this));
@@ -23663,13 +25717,14 @@ function (_React$Component) {
     _this.getTargetLeft = _this.getTargetLeft.bind(_assertThisInitialized(_this));
     _this.getTouchEvents = _this.getTouchEvents.bind(_assertThisInitialized(_this));
     _this.goToSlide = _this.goToSlide.bind(_assertThisInitialized(_this));
+    _this.handleFocus = _this.handleFocus.bind(_assertThisInitialized(_this));
+    _this.handleBlur = _this.handleBlur.bind(_assertThisInitialized(_this));
     _this.handleClick = _this.handleClick.bind(_assertThisInitialized(_this));
     _this.handleKeyPress = _this.handleKeyPress.bind(_assertThisInitialized(_this));
     _this.handleMouseOut = _this.handleMouseOut.bind(_assertThisInitialized(_this));
     _this.handleMouseOver = _this.handleMouseOver.bind(_assertThisInitialized(_this));
     _this.handleSwipe = _this.handleSwipe.bind(_assertThisInitialized(_this));
     _this.nextSlide = _this.nextSlide.bind(_assertThisInitialized(_this));
-    _this.onReadyStateChange = _this.onReadyStateChange.bind(_assertThisInitialized(_this));
     _this.onResize = _this.onResize.bind(_assertThisInitialized(_this));
     _this.onVisibilityChange = _this.onVisibilityChange.bind(_assertThisInitialized(_this));
     _this.previousSlide = _this.previousSlide.bind(_assertThisInitialized(_this));
@@ -23687,6 +25742,8 @@ function (_React$Component) {
   _createClass(Carousel, [{
     key: "componentDidMount",
     value: function componentDidMount() {
+      var _this2 = this;
+
       // see https://github.com/facebook/react/issues/3417#issuecomment-121649937
       this.mounted = true;
       this.setLeft();
@@ -23697,43 +25754,33 @@ function (_React$Component) {
       if (this.props.autoplay) {
         this.startAutoplay();
       }
-    } // @TODO Remove deprecated componentWillReceiveProps with getDerivedStateFromProps
-    // eslint-disable-next-line react/no-deprecated
 
-  }, {
-    key: "componentWillReceiveProps",
-    value: function componentWillReceiveProps(nextProps) {
-      var slideCount = Object(_utilities_bootstrapping_utilities__WEBPACK_IMPORTED_MODULE_10__["getValidChildren"])(nextProps.children).length;
-      var slideCountChanged = slideCount !== this.state.slideCount;
-      this.setState(function (prevState) {
-        return {
-          slideCount: slideCount,
-          currentSlide: slideCountChanged ? nextProps.slideIndex : prevState.currentSlide
-        };
-      });
+      var keyCodeConfig = _extends({}, this.keyCodeConfig, this.props.keyCodeConfig);
 
-      if (slideCount <= this.state.currentSlide) {
-        this.goToSlide(Math.max(slideCount - 1, 0), nextProps);
-      }
+      this.keyCodeMap = this.getKeyCodeMap(keyCodeConfig);
+      this.getlockScrollEvents().lockTouchScroll();
+      var heightCheckDelay = 200;
 
-      var updateDimensions = slideCountChanged || Object(_utilities_utilities__WEBPACK_IMPORTED_MODULE_8__["shouldUpdate"])(this.props, nextProps, ['cellSpacing', 'vertical', 'slideWidth', 'slideHeight', 'heightMode', 'slidesToScroll', 'slidesToShow', 'transitionMode', 'cellAlign']);
+      var initializeHeight = function initializeHeight(delay) {
+        _this2.timers.push(setTimeout(function () {
+          // If slideHeight is greater than zero, then
+          // assume the app has been initialized.  If not,
+          // keep trying to set dimensions until things work.
+          if (_this2.state.slideHeight > 0) {
+            return;
+          }
 
-      if (updateDimensions) {
-        this.setDimensions(nextProps);
-      }
+          _this2.setDimensions(); // Increase delay per attempt so the checks
+          // slowly decrease if content is taking forever to load.
 
-      if (this.props.slideIndex !== nextProps.slideIndex && nextProps.slideIndex !== this.state.currentSlide && !this.state.isWrappingAround) {
-        this.goToSlide(nextProps.slideIndex, this.props);
-      }
 
-      if (this.props.autoplay !== nextProps.autoplay) {
-        if (nextProps.autoplay) {
-          this.startAutoplay();
-        } else {
-          this.stopAutoplay();
-        }
-      }
-    }
+          initializeHeight(delay + heightCheckDelay);
+        }, delay));
+      };
+
+      initializeHeight(heightCheckDelay);
+    } // eslint-disable-next-line complexity
+
   }, {
     key: "componentDidUpdate",
     value: function componentDidUpdate(prevProps, prevState) {
@@ -23744,7 +25791,58 @@ function (_React$Component) {
       if (axisChanged) {
         this.onResize();
       } else if (slideChanged || heightModeChanged) {
-        this.setSlideHeightAndWidth();
+        var image = this.getCurrentChildNodeImg();
+
+        if (image) {
+          image.addEventListener('load', this.setSlideHeightAndWidth);
+          image.removeEventListener('load', this.setSlideHeightAndWidth);
+        } else {
+          this.setSlideHeightAndWidth();
+        }
+      }
+
+      if (this.state.isWrappingAround) {
+        this.isWrapped = true;
+      }
+
+      var prevSlideCount = Object(_utilities_bootstrapping_utilities__WEBPACK_IMPORTED_MODULE_10__["getValidChildren"])(prevProps.children).length;
+      var slideCount = Object(_utilities_bootstrapping_utilities__WEBPACK_IMPORTED_MODULE_10__["getValidChildren"])(this.props.children).length;
+      var slideCountChanged = prevSlideCount !== slideCount;
+
+      if (slideCountChanged) {
+        this.setState({
+          slideCount: slideCount,
+          currentSlide: this.props.slideIndex
+        });
+      }
+
+      var _this$calcSlideHeight = this.calcSlideHeightAndWidth(),
+          slideHeight = _this$calcSlideHeight.slideHeight;
+
+      var heightMismatches = slideHeight !== prevState.slideHeight;
+
+      if (this.mounted && heightMismatches) {
+        this.setDimensions();
+      } else {
+        var updateDimensions = slideCountChanged || Object(_utilities_utilities__WEBPACK_IMPORTED_MODULE_8__["shouldUpdate"])(prevProps, this.props, ['cellSpacing', 'vertical', 'slideWidth', 'slideHeight', 'heightMode', 'slidesToScroll', 'slidesToShow', 'transitionMode', 'cellAlign']);
+
+        if (updateDimensions) {
+          this.setDimensions(this.props);
+        }
+      }
+
+      if (slideCountChanged && slideCount <= this.state.currentSlide) {
+        this.goToSlide(Math.max(slideCount - 1, 0), this.props);
+      } else if (prevProps.slideIndex !== this.props.slideIndex && this.props.slideIndex !== this.state.currentSlide && !this.state.isWrappingAround) {
+        this.goToSlide(this.props.slideIndex, this.props);
+      }
+
+      if (prevProps.autoplay !== this.props.autoplay) {
+        if (this.props.autoplay) {
+          this.startAutoplay();
+        } else {
+          this.stopAutoplay();
+        }
       }
     }
   }, {
@@ -23755,26 +25853,30 @@ function (_React$Component) {
       this.stopAutoplay(); // see https://github.com/facebook/react/issues/3417#issuecomment-121649937
 
       this.mounted = false;
+
+      for (var i = 0; i < this.timers.length; i++) {
+        clearTimeout(this.timers[i]);
+      }
+
+      this.getlockScrollEvents().unlockTouchScroll();
     }
   }, {
     key: "establishChildNodesMutationObserver",
     value: function establishChildNodesMutationObserver() {
-      var _this2 = this;
+      var _this3 = this;
 
       var childNodes = this.getChildNodes();
 
       if (childNodes.length && 'MutationObserver' in window) {
-        this.childNodesMutationObs = new MutationObserver(function (mutations) {
-          mutations.forEach(function () {
-            _this2.setSlideHeightAndWidth();
-          });
+        this.childNodesMutationObs = new MutationObserver(function () {
+          _this3.setSlideHeightAndWidth();
         });
 
         var observeChildNodeMutation = function observeChildNodeMutation(node) {
-          _this2.childNodesMutationObs.observe(node, {
-            attributes: true,
+          _this3.childNodesMutationObs.observe(node, {
             attributeFilter: ['style'],
             attributeOldValue: false,
+            attributes: true,
             characterData: false,
             characterDataOldValue: false,
             childList: false,
@@ -23798,9 +25900,41 @@ function (_React$Component) {
       }
     }
   }, {
+    key: "getlockScrollEvents",
+    value: function getlockScrollEvents() {
+      var _this4 = this;
+
+      var blockEvent = function blockEvent(e) {
+        if (_this4.state.dragging) {
+          var direction = Object(_utilities_utilities__WEBPACK_IMPORTED_MODULE_8__["swipeDirection"])(_this4.touchObject.startX, e.touches[0].pageX, _this4.touchObject.startY, e.touches[0].pageY, _this4.props.vertical);
+
+          if (direction !== 0) {
+            e.preventDefault();
+          }
+        }
+      };
+
+      var lockTouchScroll = function lockTouchScroll() {
+        document.addEventListener('touchmove', blockEvent, {
+          passive: false
+        });
+      };
+
+      var unlockTouchScroll = function unlockTouchScroll() {
+        document.removeEventListener('touchmove', blockEvent, {
+          passive: false
+        });
+      };
+
+      return {
+        lockTouchScroll: lockTouchScroll,
+        unlockTouchScroll: unlockTouchScroll
+      };
+    }
+  }, {
     key: "getTouchEvents",
     value: function getTouchEvents() {
-      var _this3 = this;
+      var _this5 = this;
 
       if (this.props.swiping === false) {
         return {
@@ -23811,57 +25945,59 @@ function (_React$Component) {
 
       return {
         onTouchStart: function onTouchStart(e) {
-          _this3.touchObject = {
+          _this5.touchObject = {
             startX: e.touches[0].pageX,
             startY: e.touches[0].pageY
           };
 
-          _this3.handleMouseOver();
+          _this5.handleMouseOver();
 
-          if (_this3.props.onDragStart) {
-            _this3.props.onDragStart();
-          }
-
-          _this3.setState({
+          _this5.setState({
             dragging: true
           });
         },
         onTouchMove: function onTouchMove(e) {
-          var direction = Object(_utilities_utilities__WEBPACK_IMPORTED_MODULE_8__["swipeDirection"])(_this3.touchObject.startX, e.touches[0].pageX, _this3.touchObject.startY, e.touches[0].pageY, _this3.props.vertical);
+          var direction = Object(_utilities_utilities__WEBPACK_IMPORTED_MODULE_8__["swipeDirection"])(_this5.touchObject.startX, e.touches[0].pageX, _this5.touchObject.startY, e.touches[0].pageY, _this5.props.vertical);
 
           if (direction !== 0) {
             e.preventDefault();
           }
 
-          var length = _this3.props.vertical ? Math.round(Math.sqrt(Math.pow(e.touches[0].pageY - _this3.touchObject.startY, 2))) : Math.round(Math.sqrt(Math.pow(e.touches[0].pageX - _this3.touchObject.startX, 2)));
-          _this3.touchObject = {
-            startX: _this3.touchObject.startX,
-            startY: _this3.touchObject.startY,
+          var length = _this5.props.vertical ? Math.round(Math.sqrt(Math.pow(e.touches[0].pageY - _this5.touchObject.startY, 2))) : Math.round(Math.sqrt(Math.pow(e.touches[0].pageX - _this5.touchObject.startX, 2)));
+
+          if (length >= 10) {
+            if (_this5.clickDisabled === false) _this5.props.onDragStart(e);
+            _this5.clickDisabled = true;
+          }
+
+          _this5.touchObject = {
+            startX: _this5.touchObject.startX,
+            startY: _this5.touchObject.startY,
             endX: e.touches[0].pageX,
             endY: e.touches[0].pageY,
             length: length,
             direction: direction
           };
 
-          _this3.setState({
-            left: _this3.props.vertical ? 0 : _this3.getTargetLeft(_this3.touchObject.length * _this3.touchObject.direction),
-            top: _this3.props.vertical ? _this3.getTargetLeft(_this3.touchObject.length * _this3.touchObject.direction) : 0
+          _this5.setState({
+            left: _this5.props.vertical ? 0 : _this5.getTargetLeft(_this5.touchObject.length * _this5.touchObject.direction),
+            top: _this5.props.vertical ? _this5.getTargetLeft(_this5.touchObject.length * _this5.touchObject.direction) : 0
           });
         },
         onTouchEnd: function onTouchEnd(e) {
-          _this3.handleSwipe(e);
+          _this5.handleSwipe(e);
 
-          _this3.handleMouseOut();
+          _this5.handleMouseOut();
         },
         onTouchCancel: function onTouchCancel(e) {
-          _this3.handleSwipe(e);
+          _this5.handleSwipe(e);
         }
       };
     }
   }, {
     key: "getMouseEvents",
     value: function getMouseEvents() {
-      var _this4 = this;
+      var _this6 = this;
 
       if (this.props.dragging === false) {
         return {
@@ -23874,64 +26010,68 @@ function (_React$Component) {
         onMouseOver: this.handleMouseOver,
         onMouseOut: this.handleMouseOut,
         onMouseDown: function onMouseDown(e) {
-          _this4.touchObject = {
+          if (e.preventDefault) {
+            e.preventDefault();
+          }
+
+          _this6.touchObject = {
             startX: e.clientX,
             startY: e.clientY
           };
 
-          if (_this4.props.onDragStart) {
-            _this4.props.onDragStart();
-          }
-
-          _this4.setState({
+          _this6.setState({
             dragging: true
           });
         },
         onMouseMove: function onMouseMove(e) {
-          if (!_this4.state.dragging) {
+          if (!_this6.state.dragging) {
             return;
           }
 
-          var direction = Object(_utilities_utilities__WEBPACK_IMPORTED_MODULE_8__["swipeDirection"])(_this4.touchObject.startX, e.clientX, _this4.touchObject.startY, e.clientY, _this4.props.vertical);
+          var direction = Object(_utilities_utilities__WEBPACK_IMPORTED_MODULE_8__["swipeDirection"])(_this6.touchObject.startX, e.clientX, _this6.touchObject.startY, e.clientY, _this6.props.vertical);
 
           if (direction !== 0) {
             e.preventDefault();
           }
 
-          var length = _this4.props.vertical ? Math.round(Math.sqrt(Math.pow(e.clientY - _this4.touchObject.startY, 2))) : Math.round(Math.sqrt(Math.pow(e.clientX - _this4.touchObject.startX, 2))); // prevents disabling click just because mouse moves a fraction of a pixel
+          var length = _this6.props.vertical ? Math.round(Math.sqrt(Math.pow(e.clientY - _this6.touchObject.startY, 2))) : Math.round(Math.sqrt(Math.pow(e.clientX - _this6.touchObject.startX, 2))); // prevents disabling click just because mouse moves a fraction of a pixel
 
-          if (length >= 10) _this4.clickDisabled = true;
-          _this4.touchObject = {
-            startX: _this4.touchObject.startX,
-            startY: _this4.touchObject.startY,
+          if (length >= 10) {
+            if (_this6.clickDisabled === false) _this6.props.onDragStart(e);
+            _this6.clickDisabled = true;
+          }
+
+          _this6.touchObject = {
+            startX: _this6.touchObject.startX,
+            startY: _this6.touchObject.startY,
             endX: e.clientX,
             endY: e.clientY,
             length: length,
             direction: direction
           };
 
-          _this4.setState({
-            left: _this4.props.vertical ? 0 : _this4.getTargetLeft(_this4.touchObject.length * _this4.touchObject.direction),
-            top: _this4.props.vertical ? _this4.getTargetLeft(_this4.touchObject.length * _this4.touchObject.direction) : 0
+          _this6.setState({
+            left: _this6.props.vertical ? 0 : _this6.getTargetLeft(_this6.touchObject.length * _this6.touchObject.direction),
+            top: _this6.props.vertical ? _this6.getTargetLeft(_this6.touchObject.length * _this6.touchObject.direction) : 0
           });
         },
         onMouseUp: function onMouseUp(e) {
-          if (_this4.touchObject.length === 0 || _this4.touchObject.length === undefined) {
-            _this4.setState({
+          if (_this6.touchObject.length === 0 || _this6.touchObject.length === undefined) {
+            _this6.setState({
               dragging: false
             });
 
             return;
           }
 
-          _this4.handleSwipe(e);
+          _this6.handleSwipe(e);
         },
         onMouseLeave: function onMouseLeave(e) {
-          if (!_this4.state.dragging) {
+          if (!_this6.state.dragging) {
             return;
           }
 
-          _this4.handleSwipe(e);
+          _this6.handleSwipe(e);
         }
       };
     }
@@ -23966,6 +26106,20 @@ function (_React$Component) {
       }
     }
   }, {
+    key: "handleFocus",
+    value: function handleFocus() {
+      this.setState({
+        hasFocus: true
+      });
+    }
+  }, {
+    key: "handleBlur",
+    value: function handleBlur() {
+      this.setState({
+        hasFocus: false
+      });
+    }
+  }, {
     key: "handleClick",
     value: function handleClick(event) {
       if (this.clickDisabled === true) {
@@ -23984,7 +26138,7 @@ function (_React$Component) {
   }, {
     key: "handleSwipe",
     value: function handleSwipe() {
-      var _this5 = this;
+      var _this7 = this;
 
       var slidesToShow = this.state.slidesToShow;
 
@@ -23992,9 +26146,11 @@ function (_React$Component) {
         slidesToShow = this.state.slidesToScroll;
       }
 
-      if (this.touchObject.length > this.state.slideWidth / slidesToShow / 5) {
+      var touchLength = this.touchObject.length || 0;
+
+      if (touchLength > this.state.slideWidth / slidesToShow / 5) {
         if (this.touchObject.direction === 1) {
-          if (this.state.currentSlide >= this.state.slideCount - slidesToShow && !this.props.wrapAround) {
+          if (this.state.currentSlide + 1 >= this.state.slideCount && !this.props.wrapAround) {
             this.setState({
               easing: d3_ease__WEBPACK_IMPORTED_MODULE_4__[this.props.edgeEasing]
             });
@@ -24010,14 +26166,14 @@ function (_React$Component) {
             this.previousSlide();
           }
         }
-      } else {
+      } else if (touchLength > 0) {
         this.goToSlide(this.state.currentSlide);
       } // wait for `handleClick` event before resetting clickDisabled
 
 
-      setTimeout(function () {
-        _this5.clickDisabled = false;
-      }, 0);
+      this.timers.push(setTimeout(function () {
+        _this7.clickDisabled = false;
+      }, 0));
       this.touchObject = {};
       this.setState({
         dragging: false
@@ -24027,31 +26183,27 @@ function (_React$Component) {
   }, {
     key: "handleKeyPress",
     value: function handleKeyPress(e) {
-      if (this.props.enableKeyboardControls) {
-        switch (e.keyCode) {
-          case 39:
-          case 68:
-          case 38:
-          case 87:
+      if (this.state.hasFocus && this.props.enableKeyboardControls) {
+        var actionName = this.keyCodeMap[e.keyCode];
+
+        switch (actionName) {
+          case 'nextSlide':
             this.nextSlide();
             break;
 
-          case 37:
-          case 65:
-          case 40:
-          case 83:
+          case 'previousSlide':
             this.previousSlide();
             break;
 
-          case 81:
+          case 'firstSlide':
             this.goToSlide(0, this.props);
             break;
 
-          case 69:
+          case 'lastSlide':
             this.goToSlide(this.state.slideCount - 1, this.props);
             break;
 
-          case 32:
+          case 'pause':
             if (this.state.pauseOnHover && this.props.autoplay) {
               this.setState({
                 pauseOnHover: false
@@ -24068,6 +26220,17 @@ function (_React$Component) {
 
         }
       }
+    }
+  }, {
+    key: "getKeyCodeMap",
+    value: function getKeyCodeMap(keyCodeConfig) {
+      var keyCodeMap = {};
+      Object.keys(keyCodeConfig).forEach(function (actionName) {
+        keyCodeConfig[actionName].forEach(function (keyCode) {
+          return keyCodeMap[keyCode] = actionName;
+        });
+      });
+      return keyCodeMap;
     }
   }, {
     key: "autoplayIterator",
@@ -24118,32 +26281,8 @@ function (_React$Component) {
   }, {
     key: "getTargetLeft",
     value: function getTargetLeft(touchOffset, slide) {
-      var offset;
       var target = slide || this.state.currentSlide;
-
-      switch (this.state.cellAlign) {
-        case 'left':
-          {
-            offset = 0;
-            offset -= this.props.cellSpacing * target;
-            break;
-          }
-
-        case 'center':
-          {
-            offset = (this.state.frameWidth - this.state.slideWidth) / 2;
-            offset -= this.props.cellSpacing * target;
-            break;
-          }
-
-        case 'right':
-          {
-            offset = this.state.frameWidth - this.state.slideWidth;
-            offset -= this.props.cellSpacing * target;
-            break;
-          }
-      }
-
+      var offset = Object(_utilities_style_utilities__WEBPACK_IMPORTED_MODULE_9__["getAlignmentOffset"])(target, _objectSpread({}, this.props, {}, this.state));
       var left = this.state.slideWidth * target;
       var lastSlide = this.state.currentSlide > 0 && target + this.state.slidesToScroll >= this.state.slideCount;
 
@@ -24176,20 +26315,36 @@ function (_React$Component) {
     key: "isEdgeSwiping",
     value: function isEdgeSwiping() {
       var _this$state = this.state,
+          currentSlide = _this$state.currentSlide,
           slideCount = _this$state.slideCount,
-          slideWidth = _this$state.slideWidth;
+          slideWidth = _this$state.slideWidth,
+          slideHeight = _this$state.slideHeight,
+          slidesToShow = _this$state.slidesToShow;
 
       var _this$getOffsetDeltas = this.getOffsetDeltas(),
-          tx = _this$getOffsetDeltas.tx; // returns true if tx offset is outside first or last slide
+          tx = _this$getOffsetDeltas.tx,
+          ty = _this$getOffsetDeltas.ty;
 
+      var offset = Object(_utilities_style_utilities__WEBPACK_IMPORTED_MODULE_9__["getAlignmentOffset"])(currentSlide, _objectSpread({}, this.props, {}, this.state));
 
-      return tx > 0 || -tx > slideWidth * (slideCount - 1);
+      if (this.props.vertical) {
+        var rowHeight = slideHeight / slidesToShow;
+        var slidesLeftToShow = slideCount - slidesToShow;
+        var lastSlideLimit = rowHeight * slidesLeftToShow;
+        var offsetTy = ty[0] - offset; // returns true if ty offset is outside first or last slide
+
+        return offsetTy > 0 || -offsetTy > lastSlideLimit;
+      }
+
+      var offsetTx = tx[0] - offset; // returns true if tx offset is outside first or last slide
+
+      return offsetTx > 0 || -offsetTx > slideWidth * (slideCount - 1);
     } // Action Methods
 
   }, {
     key: "goToSlide",
     value: function goToSlide(index, props) {
-      var _this6 = this;
+      var _this8 = this;
 
       if (props === undefined) {
         props = this.props;
@@ -24216,45 +26371,45 @@ function (_React$Component) {
           props.beforeSlide(this.state.currentSlide, 0);
           this.setState(function (prevState) {
             return {
-              left: props.vertical ? 0 : _this6.getTargetLeft(_this6.state.slideWidth, prevState.currentSlide),
-              top: props.vertical ? _this6.getTargetLeft(_this6.state.slideWidth, prevState.currentSlide) : 0,
+              left: props.vertical ? 0 : _this8.getTargetLeft(_this8.state.slideWidth, prevState.currentSlide),
+              top: props.vertical ? _this8.getTargetLeft(_this8.state.slideWidth, prevState.currentSlide) : 0,
               currentSlide: 0,
               isWrappingAround: true,
-              wrapToIndex: index
+              wrapToIndex: _this8.state.slideCount
             };
           }, function () {
-            setTimeout(function () {
-              _this6.resetAutoplay();
+            _this8.timers.push(setTimeout(function () {
+              _this8.resetAutoplay();
 
-              _this6.isTransitioning = false;
+              _this8.isTransitioning = false;
 
               if (index !== previousSlide) {
-                _this6.props.afterSlide(0);
+                _this8.props.afterSlide(0);
               }
-            }, props.speed);
+            }, props.speed));
           });
           return;
         } else {
-          var endSlide = this.state.slideCount - this.state.slidesToScroll;
+          var endSlide = index < 0 ? this.state.slideCount + index : this.state.slideCount - this.state.slidesToScroll;
           props.beforeSlide(this.state.currentSlide, endSlide);
           this.setState(function (prevState) {
             return {
-              left: props.vertical ? 0 : _this6.getTargetLeft(0, prevState.currentSlide),
-              top: props.vertical ? _this6.getTargetLeft(0, prevState.currentSlide) : 0,
+              left: props.vertical ? 0 : _this8.getTargetLeft(0, prevState.currentSlide),
+              top: props.vertical ? _this8.getTargetLeft(0, prevState.currentSlide) : 0,
               currentSlide: endSlide,
               isWrappingAround: true,
               wrapToIndex: index
             };
           }, function () {
-            setTimeout(function () {
-              _this6.resetAutoplay();
+            _this8.timers.push(setTimeout(function () {
+              _this8.resetAutoplay();
 
-              _this6.isTransitioning = false;
+              _this8.isTransitioning = false;
 
               if (index !== previousSlide) {
-                _this6.props.afterSlide(_this6.state.slideCount - 1);
+                _this8.props.afterSlide(_this8.state.slideCount - 1);
               }
-            }, props.speed);
+            }, props.speed));
           });
           return;
         }
@@ -24264,55 +26419,80 @@ function (_React$Component) {
       this.setState({
         currentSlide: index
       }, function () {
-        return setTimeout(function () {
-          _this6.resetAutoplay();
+        return _this8.timers.push(setTimeout(function () {
+          _this8.resetAutoplay();
 
-          _this6.isTransitioning = false;
+          _this8.isTransitioning = false;
 
           if (index !== previousSlide) {
-            _this6.props.afterSlide(index);
+            _this8.props.afterSlide(index);
           }
-        }, props.speed);
+        }, props.speed));
       });
     }
   }, {
     key: "nextSlide",
     value: function nextSlide() {
-      var childrenCount = this.state.slideCount;
+      var _this$state2 = this.state,
+          slidesToScroll = _this$state2.slidesToScroll,
+          currentSlide = _this$state2.currentSlide,
+          slideWidth = _this$state2.slideWidth,
+          slideCount = _this$state2.slideCount;
+      var targetSlideIndex = currentSlide + slidesToScroll;
       var slidesToShow = this.state.slidesToShow;
 
       if (this.props.slidesToScroll === 'auto') {
-        slidesToShow = this.state.slidesToScroll;
+        var swipeDistance = this.touchObject.length;
+
+        if (swipeDistance > 0) {
+          targetSlideIndex = Math.round(swipeDistance / slideWidth) + currentSlide;
+        } else {
+          slidesToShow = slidesToScroll;
+        }
       }
 
-      if (this.state.currentSlide >= childrenCount - slidesToShow && !this.props.wrapAround && this.props.cellAlign === 'left') {
+      if (currentSlide >= slideCount - slidesToShow && !this.props.wrapAround && this.props.cellAlign === 'left') {
         return;
       }
 
       if (this.props.wrapAround) {
-        this.goToSlide(this.state.currentSlide + this.state.slidesToScroll);
+        this.goToSlide(targetSlideIndex);
       } else {
         if (this.props.slideWidth !== 1) {
-          this.goToSlide(this.state.currentSlide + this.state.slidesToScroll);
+          this.goToSlide(targetSlideIndex);
           return;
         }
 
-        var offset = this.state.currentSlide + this.state.slidesToScroll;
-        var nextSlideIndex = this.props.cellAlign !== 'left' ? offset : Math.min(offset, childrenCount - slidesToShow);
-        this.goToSlide(nextSlideIndex);
+        var offset = targetSlideIndex;
+        var leftAlignSlideIndex = this.props.scrollMode === 'page' ? offset : Math.min(offset, slideCount - slidesToShow);
+        var nextSlideIndex = this.props.cellAlign !== 'left' ? offset : leftAlignSlideIndex; // If nextSlideIndex is larger than last index, then
+        // just navigate to last index
+
+        this.goToSlide(Math.min(nextSlideIndex, slideCount - 1));
       }
     }
   }, {
     key: "previousSlide",
     value: function previousSlide() {
-      if (this.state.currentSlide <= 0 && !this.props.wrapAround) {
+      var _this$state3 = this.state,
+          slidesToScroll = _this$state3.slidesToScroll,
+          slideWidth = _this$state3.slideWidth,
+          currentSlide = _this$state3.currentSlide;
+      var targetSlideIndex = currentSlide - slidesToScroll;
+      var swipeDistance = this.touchObject.length;
+
+      if (this.props.slidesToScroll === 'auto' && swipeDistance > 0) {
+        targetSlideIndex = currentSlide - Math.round(swipeDistance / slideWidth);
+      }
+
+      if (currentSlide <= 0 && !this.props.wrapAround) {
         return;
       }
 
       if (this.props.wrapAround) {
-        this.goToSlide(this.state.currentSlide - this.state.slidesToScroll);
+        this.goToSlide(targetSlideIndex);
       } else {
-        this.goToSlide(Math.max(0, this.state.currentSlide - this.state.slidesToScroll));
+        this.goToSlide(Math.max(0, targetSlideIndex));
       }
     } // Bootstrapping
 
@@ -24321,7 +26501,6 @@ function (_React$Component) {
     value: function bindEvents() {
       if (exenv__WEBPACK_IMPORTED_MODULE_2___default.a.canUseDOM) {
         Object(_utilities_utilities__WEBPACK_IMPORTED_MODULE_8__["addEvent"])(window, 'resize', this.onResize);
-        Object(_utilities_utilities__WEBPACK_IMPORTED_MODULE_8__["addEvent"])(document, 'readystatechange', this.onReadyStateChange);
         Object(_utilities_utilities__WEBPACK_IMPORTED_MODULE_8__["addEvent"])(document, 'visibilitychange', this.onVisibilityChange);
         Object(_utilities_utilities__WEBPACK_IMPORTED_MODULE_8__["addEvent"])(document, 'keydown', this.handleKeyPress);
       }
@@ -24330,11 +26509,6 @@ function (_React$Component) {
     key: "onResize",
     value: function onResize() {
       this.setDimensions(null, this.props.onResize);
-    }
-  }, {
-    key: "onReadyStateChange",
-    value: function onReadyStateChange() {
-      this.setDimensions();
     }
   }, {
     key: "onVisibilityChange",
@@ -24350,7 +26524,6 @@ function (_React$Component) {
     value: function unbindEvents() {
       if (exenv__WEBPACK_IMPORTED_MODULE_2___default.a.canUseDOM) {
         Object(_utilities_utilities__WEBPACK_IMPORTED_MODULE_8__["removeEvent"])(window, 'resize', this.onResize);
-        Object(_utilities_utilities__WEBPACK_IMPORTED_MODULE_8__["removeEvent"])(document, 'readystatechange', this.onReadyStateChange);
         Object(_utilities_utilities__WEBPACK_IMPORTED_MODULE_8__["removeEvent"])(document, 'visibilitychange', this.onVisibilityChange);
         Object(_utilities_utilities__WEBPACK_IMPORTED_MODULE_8__["removeEvent"])(document, 'keydown', this.handleKeyPress);
       }
@@ -24361,7 +26534,7 @@ function (_React$Component) {
       // slide height
       props = props || this.props;
       var childNodes = this.getChildNodes();
-      var slideHeight = Object(_utilities_bootstrapping_utilities__WEBPACK_IMPORTED_MODULE_10__["getSlideHeight"])(props, this.state, childNodes); //slide width
+      var slideHeight = Object(_utilities_bootstrapping_utilities__WEBPACK_IMPORTED_MODULE_10__["calculateSlideHeight"])(props, this.state, childNodes); //slide width
 
       var _getPropsByTransition = Object(_utilities_utilities__WEBPACK_IMPORTED_MODULE_8__["getPropsByTransitionMode"])(props, ['slidesToShow']),
           slidesToShow = _getPropsByTransition.slidesToShow;
@@ -24391,25 +26564,34 @@ function (_React$Component) {
   }, {
     key: "setSlideHeightAndWidth",
     value: function setSlideHeightAndWidth() {
-      this.setState(this.calcSlideHeightAndWidth());
+      var _this$calcSlideHeight2 = this.calcSlideHeightAndWidth(),
+          slideHeight = _this$calcSlideHeight2.slideHeight,
+          slideWidth = _this$calcSlideHeight2.slideWidth;
+
+      if (slideHeight !== this.state.slideHeight || slideWidth !== this.state.slideWidth || this.isWrapped) {
+        this.isWrapped = false;
+        this.setState({
+          slideHeight: slideHeight,
+          slideWidth: slideWidth
+        });
+      }
     }
   }, {
     key: "setDimensions",
     value: function setDimensions(props) {
-      var _this7 = this;
-
       var stateCb = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : function () {};
       props = props || this.props;
 
-      var _getPropsByTransition2 = Object(_utilities_utilities__WEBPACK_IMPORTED_MODULE_8__["getPropsByTransitionMode"])(props, ['slidesToShow', 'cellAlign']),
+      var _getPropsByTransition2 = Object(_utilities_utilities__WEBPACK_IMPORTED_MODULE_8__["getPropsByTransitionMode"])(props, ['slidesToShow', 'cellAlign', 'scrollMode']),
           slidesToShow = _getPropsByTransition2.slidesToShow,
-          cellAlign = _getPropsByTransition2.cellAlign;
+          cellAlign = _getPropsByTransition2.cellAlign,
+          scrollMode = _getPropsByTransition2.scrollMode;
 
       var frame = this.frame;
 
-      var _this$calcSlideHeight = this.calcSlideHeightAndWidth(props),
-          slideHeight = _this$calcSlideHeight.slideHeight,
-          slideWidth = _this$calcSlideHeight.slideWidth;
+      var _this$calcSlideHeight3 = this.calcSlideHeightAndWidth(props),
+          slideHeight = _this$calcSlideHeight3.slideHeight,
+          slideWidth = _this$calcSlideHeight3.slideWidth;
 
       var frameHeight = slideHeight + props.cellSpacing * (slidesToShow - 1);
       var frameWidth = props.vertical ? frameHeight : frame.offsetWidth;
@@ -24417,7 +26599,7 @@ function (_React$Component) {
       var _getPropsByTransition3 = Object(_utilities_utilities__WEBPACK_IMPORTED_MODULE_8__["getPropsByTransitionMode"])(props, ['slidesToScroll']),
           slidesToScroll = _getPropsByTransition3.slidesToScroll;
 
-      if (slidesToScroll === 'auto') {
+      if (slidesToScroll === 'auto' || scrollMode === 'page') {
         slidesToScroll = Math.floor(frameWidth / (slideWidth + props.cellSpacing));
       }
 
@@ -24427,19 +26609,22 @@ function (_React$Component) {
         slidesToScroll: slidesToScroll,
         slidesToShow: slidesToShow,
         slideWidth: slideWidth,
-        cellAlign: cellAlign,
-        left: props.vertical ? 0 : this.getTargetLeft(),
-        top: props.vertical ? this.getTargetLeft() : 0
+        cellAlign: cellAlign
       }, function () {
         stateCb();
-
-        _this7.setLeft();
       });
     }
   }, {
     key: "getChildNodes",
     value: function getChildNodes() {
       return this.frame.childNodes[0].childNodes;
+    }
+  }, {
+    key: "getCurrentChildNodeImg",
+    value: function getCurrentChildNodeImg() {
+      var childNodes = this.getChildNodes();
+      var currentChildNode = childNodes[this.props.slideIndex];
+      return currentChildNode ? currentChildNode.getElementsByTagName('img')[0] : null;
     }
   }, {
     key: "setLeft",
@@ -24457,7 +26642,7 @@ function (_React$Component) {
   }, {
     key: "renderControls",
     value: function renderControls() {
-      var _this8 = this;
+      var _this9 = this;
 
       if (this.props.withoutControls) {
         return this.controlsMap.map(function () {
@@ -24467,50 +26652,56 @@ function (_React$Component) {
         return this.controlsMap.map(function (_ref) {
           var funcName = _ref.funcName,
               key = _ref.key;
-          var func = _this8.props[funcName];
-          return func && typeof func === 'function' && react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-            className: "slider-control-".concat(key.toLowerCase()),
-            style: Object(_utilities_style_utilities__WEBPACK_IMPORTED_MODULE_9__["getDecoratorStyles"])(key),
-            key: key
-          }, func({
-            cellAlign: _this8.props.cellAlign,
-            cellSpacing: _this8.props.cellSpacing,
-            currentSlide: _this8.state.currentSlide,
-            frameWidth: _this8.state.frameWidth,
+          var func = _this9.props[funcName];
+          var controlChildren = func && typeof func === 'function' && func({
+            cellAlign: _this9.props.cellAlign,
+            cellSpacing: _this9.props.cellSpacing,
+            currentSlide: _this9.state.currentSlide,
+            defaultControlsConfig: _this9.props.defaultControlsConfig,
+            frameWidth: _this9.state.frameWidth,
             goToSlide: function goToSlide(index) {
-              return _this8.goToSlide(index);
+              return _this9.goToSlide(index);
             },
+            left: _this9.state.left,
             nextSlide: function nextSlide() {
-              return _this8.nextSlide();
+              return _this9.nextSlide();
             },
             previousSlide: function previousSlide() {
-              return _this8.previousSlide();
+              return _this9.previousSlide();
             },
-            slideCount: _this8.state.slideCount,
-            slidesToScroll: _this8.state.slidesToScroll,
-            slidesToShow: _this8.state.slidesToShow,
-            slideWidth: _this8.state.slideWidth,
-            wrapAround: _this8.props.wrapAround
-          }));
+            scrollMode: _this9.props.scrollMode,
+            slideCount: _this9.state.slideCount,
+            slidesToScroll: _this9.state.slidesToScroll,
+            slidesToShow: _this9.state.slidesToShow,
+            slideWidth: _this9.state.slideWidth,
+            top: _this9.state.top,
+            vertical: _this9.props.vertical,
+            wrapAround: _this9.props.wrapAround
+          });
+          return controlChildren && react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+            key: key,
+            className: ["slider-control-".concat(key.toLowerCase()), _this9.props.defaultControlsConfig.containerClassName || ''].join(' ').trim(),
+            style: _objectSpread({}, Object(_utilities_style_utilities__WEBPACK_IMPORTED_MODULE_9__["getDecoratorStyles"])(key), {}, _this9.props.getControlsContainerStyles(key))
+          }, controlChildren);
         });
       }
     }
   }, {
     key: "render",
     value: function render() {
-      var _this9 = this;
+      var _this10 = this;
 
-      var _this$state2 = this.state,
-          currentSlide = _this$state2.currentSlide,
-          slideCount = _this$state2.slideCount,
-          frameWidth = _this$state2.frameWidth;
+      var _this$state4 = this.state,
+          currentSlide = _this$state4.currentSlide,
+          slideCount = _this$state4.slideCount,
+          frameWidth = _this$state4.frameWidth;
       var _this$props = this.props,
+          disableAnimation = _this$props.disableAnimation,
           frameOverflow = _this$props.frameOverflow,
-          vertical = _this$props.vertical,
           framePadding = _this$props.framePadding,
-          slidesToShow = _this$props.slidesToShow,
           renderAnnounceSlideMessage = _this$props.renderAnnounceSlideMessage,
-          disableAnimation = _this$props.disableAnimation;
+          slidesToShow = _this$props.slidesToShow,
+          vertical = _this$props.vertical;
       var duration = this.state.dragging || !this.state.dragging && this.state.resetWrapAroundPosition && this.props.wrapAround || disableAnimation || !this.state.hasInteraction ? 0 : this.props.speed;
       var frameStyles = Object(_utilities_style_utilities__WEBPACK_IMPORTED_MODULE_9__["getFrameStyles"])(frameOverflow, vertical, framePadding, frameWidth);
       var touchEvents = this.getTouchEvents();
@@ -24518,7 +26709,11 @@ function (_React$Component) {
       var TransitionControl = _all_transitions__WEBPACK_IMPORTED_MODULE_6__["default"][this.props.transitionMode];
       var validChildren = Object(_utilities_bootstrapping_utilities__WEBPACK_IMPORTED_MODULE_10__["getValidChildren"])(this.props.children);
       return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-        className: ['slider', this.props.className || ''].join(' '),
+        className: ['slider', this.props.className || ''].join(' ').trim(),
+        onFocus: this.handleFocus,
+        onBlur: this.handleBlur,
+        ref: this.props.innerRef,
+        tabIndex: 0,
         style: _extends({}, Object(_utilities_style_utilities__WEBPACK_IMPORTED_MODULE_9__["getSliderStyles"])(this.props.width, this.props.height), this.props.style)
       }, !this.props.autoplay && react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_announce_slide__WEBPACK_IMPORTED_MODULE_7__["default"], {
         message: renderAnnounceSlideMessage({
@@ -24528,7 +26723,7 @@ function (_React$Component) {
       }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", _extends({
         className: "slider-frame",
         ref: function ref(frame) {
-          return _this9.frame = frame;
+          return _this10.frame = frame;
         },
         style: frameStyles
       }, touchEvents, mouseEvents, {
@@ -24540,11 +26735,11 @@ function (_React$Component) {
           ty: 0
         },
         update: function update() {
-          var _this9$getOffsetDelta = _this9.getOffsetDeltas(),
-              tx = _this9$getOffsetDelta.tx,
-              ty = _this9$getOffsetDelta.ty;
+          var _this10$getOffsetDelt = _this10.getOffsetDeltas(),
+              tx = _this10$getOffsetDelt.tx,
+              ty = _this10$getOffsetDelt.ty;
 
-          if (_this9.props.disableEdgeSwiping && !_this9.props.wrapAround && _this9.isEdgeSwiping()) {
+          if (_this10.props.disableEdgeSwiping && !_this10.props.wrapAround && _this10.isEdgeSwiping()) {
             return {};
           } else {
             return {
@@ -24552,21 +26747,21 @@ function (_React$Component) {
               ty: ty,
               timing: {
                 duration: duration,
-                ease: _this9.state.easing
+                ease: _this10.state.easing
               },
               events: {
                 end: function end() {
-                  var newLeft = _this9.props.vertical ? 0 : _this9.getTargetLeft();
-                  var newTop = _this9.props.vertical ? _this9.getTargetLeft() : 0;
+                  var newLeft = _this10.props.vertical ? 0 : _this10.getTargetLeft();
+                  var newTop = _this10.props.vertical ? _this10.getTargetLeft() : 0;
 
-                  if (newLeft !== _this9.state.left || newTop !== _this9.state.top) {
-                    _this9.setState({
+                  if (newLeft !== _this10.state.left || newTop !== _this10.state.top) {
+                    _this10.setState({
                       left: newLeft,
                       top: newTop,
                       isWrappingAround: false,
                       resetWrapAroundPosition: true
                     }, function () {
-                      _this9.setState({
+                      _this10.setState({
                         resetWrapAroundPosition: false
                       });
                     });
@@ -24579,7 +26774,7 @@ function (_React$Component) {
         children: function children(_ref2) {
           var tx = _ref2.tx,
               ty = _ref2.ty;
-          return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(TransitionControl, _extends({}, Object(_utilities_style_utilities__WEBPACK_IMPORTED_MODULE_9__["getTransitionProps"])(_this9.props, _this9.state), {
+          return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(TransitionControl, _extends({}, Object(_utilities_style_utilities__WEBPACK_IMPORTED_MODULE_9__["getTransitionProps"])(_this10.props, _this10.state), {
             deltaX: tx,
             deltaY: ty
           }), Object(_utilities_bootstrapping_utilities__WEBPACK_IMPORTED_MODULE_10__["addAccessibility"])(validChildren, slidesToShow, currentSlide));
@@ -24607,20 +26802,44 @@ Carousel.propTypes = {
   beforeSlide: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.func,
   cellAlign: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.oneOf(['left', 'center', 'right']),
   cellSpacing: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.number,
-  enableKeyboardControls: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.bool,
+  getControlsContainerStyles: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.func,
+  defaultControlsConfig: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.shape({
+    containerClassName: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.string,
+    nextButtonClassName: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.string,
+    nextButtonStyle: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.object,
+    nextButtonText: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.string,
+    prevButtonClassName: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.string,
+    prevButtonStyle: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.object,
+    prevButtonText: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.string,
+    pagingDotsContainerClassName: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.string,
+    pagingDotsClassName: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.string,
+    pagingDotsStyle: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.object
+  }),
   disableAnimation: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.bool,
   disableEdgeSwiping: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.bool,
   dragging: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.bool,
   easing: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.string,
   edgeEasing: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.string,
+  enableKeyboardControls: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.bool,
   frameOverflow: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.string,
   framePadding: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.string,
   height: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.string,
   heightMode: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.oneOf(['first', 'current', 'max']),
+  innerRef: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.oneOfType([prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.func, prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.shape({
+    current: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.elementType
+  })]),
   initialSlideHeight: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.number,
   initialSlideWidth: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.number,
+  keyCodeConfig: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.exact({
+    previousSlide: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.arrayOf(prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.number),
+    nextSlide: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.arrayOf(prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.number),
+    firstSlide: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.arrayOf(prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.number),
+    lastSlide: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.arrayOf(prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.number),
+    pause: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.arrayOf(prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.number)
+  }),
   onDragStart: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.func,
   onResize: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.func,
+  opacityScale: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.number,
   pauseOnHover: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.bool,
   renderAnnounceSlideMessage: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.func,
   renderBottomCenterControls: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.func,
@@ -24632,7 +26851,9 @@ Carousel.propTypes = {
   renderTopCenterControls: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.func,
   renderTopLeftControls: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.func,
   renderTopRightControls: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.func,
+  scrollMode: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.oneOf(['page', 'remainder']),
   slideIndex: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.number,
+  slideListMargin: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.number,
   slideOffset: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.number,
   slidesToScroll: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.oneOfType([prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.number, prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.oneOf(['auto'])]),
   slidesToShow: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.number,
@@ -24643,9 +26864,7 @@ Carousel.propTypes = {
   vertical: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.bool,
   width: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.string,
   withoutControls: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.bool,
-  wrapAround: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.bool,
-  opacityScale: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.number,
-  slideListMargin: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.number
+  wrapAround: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.bool
 };
 Carousel.defaultProps = {
   afterSlide: function afterSlide() {},
@@ -24656,16 +26875,20 @@ Carousel.defaultProps = {
   beforeSlide: function beforeSlide() {},
   cellAlign: 'left',
   cellSpacing: 0,
-  enableKeyboardControls: false,
+  getControlsContainerStyles: function getControlsContainerStyles() {},
+  defaultControlsConfig: {},
   disableAnimation: false,
   disableEdgeSwiping: false,
   dragging: true,
   easing: 'easeCircleOut',
   edgeEasing: 'easeElasticOut',
+  enableKeyboardControls: false,
   frameOverflow: 'hidden',
   framePadding: '0px',
-  height: 'auto',
+  height: 'inherit',
   heightMode: 'max',
+  keyCodeConfig: {},
+  onDragStart: function onDragStart() {},
   onResize: function onResize() {},
   pauseOnHover: true,
   renderAnnounceSlideMessage: _announce_slide__WEBPACK_IMPORTED_MODULE_7__["defaultRenderAnnounceSlideMessage"],
@@ -24678,7 +26901,9 @@ Carousel.defaultProps = {
   renderCenterRightControls: function renderCenterRightControls(props) {
     return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_default_controls__WEBPACK_IMPORTED_MODULE_5__["NextButton"], props);
   },
+  scrollMode: 'remainder',
   slideIndex: 0,
+  slideListMargin: 10,
   slideOffset: 25,
   slidesToScroll: 1,
   slidesToShow: 1,
@@ -24690,8 +26915,7 @@ Carousel.defaultProps = {
   vertical: false,
   width: '100%',
   withoutControls: false,
-  wrapAround: false,
-  slideListMargin: 10
+  wrapAround: false
 };
 
 
@@ -24711,6 +26935,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! prop-types */ "./node_modules/prop-types/index.js");
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _utilities_style_utilities__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../utilities/style-utilities */ "./node_modules/nuka-carousel/es/utilities/style-utilities.js");
+/* harmony import */ var _utilities_utilities__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../utilities/utilities */ "./node_modules/nuka-carousel/es/utilities/utilities.js");
 function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
 
 function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
@@ -24731,6 +26957,8 @@ function _setPrototypeOf(o, p) { _setPrototypeOf = Object.setPrototypeOf || func
 
 
 
+
+
 var MIN_ZOOM_SCALE = 0;
 var MAX_ZOOM_SCALE = 1;
 
@@ -24748,24 +26976,10 @@ function (_React$Component) {
     _this.getListStyles = _this.getListStyles.bind(_assertThisInitialized(_this));
     return _this;
   }
+  /* eslint-disable complexity */
+
 
   _createClass(ScrollTransition3D, [{
-    key: "getSlideDirection",
-    value: function getSlideDirection(start, end, isWrapping) {
-      var direction = 0;
-      if (start === end) return direction;
-
-      if (isWrapping) {
-        direction = start < end ? -1 : 1;
-      } else {
-        direction = start < end ? 1 : -1;
-      }
-
-      return direction;
-    }
-    /* eslint-disable complexity */
-
-  }, {
     key: "getSlideTargetPosition",
     value: function getSlideTargetPosition(index) {
       var targetPosition = 0;
@@ -24796,15 +27010,18 @@ function (_React$Component) {
           top = _this$props.top,
           left = _this$props.left,
           currentSlide = _this$props.currentSlide,
-          slidesToShow = _this$props.slidesToShow;
-      var positionValue = this.props.vertical ? top : left;
+          slidesToShow = _this$props.slidesToShow,
+          vertical = _this$props.vertical;
+      var positionValue = vertical ? top : left;
       return react__WEBPACK_IMPORTED_MODULE_0___default.a.Children.map(children, function (child, index) {
         var visible = _this2.getDistanceToCurrentSlide(index) <= slidesToShow / 2;
         var current = currentSlide === index;
         return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
           className: "slider-slide".concat(visible ? ' slide-visible' : '').concat(current ? ' slide-current' : ''),
           style: _this2.getSlideStyles(index, positionValue),
-          key: index
+          key: index,
+          onClick: _utilities_utilities__WEBPACK_IMPORTED_MODULE_3__["handleSelfFocus"],
+          tabIndex: -1
         }, child);
       });
     }
@@ -24828,20 +27045,29 @@ function (_React$Component) {
   }, {
     key: "getDistanceToCurrentSlide",
     value: function getDistanceToCurrentSlide(index) {
-      return this.props.wrapAround ? Math.min(Math.min(this.getDistance(index, 0) + this.getDistance(this.props.currentSlide, this.props.slideCount), this.getDistance(index, this.props.slideCount) + this.getDistance(this.props.currentSlide, 0)), this.getDistance(index, this.props.currentSlide)) : this.getDistance(index, this.props.currentSlide);
+      var _this$props2 = this.props,
+          wrapAround = _this$props2.wrapAround,
+          currentSlide = _this$props2.currentSlide,
+          slideCount = _this$props2.slideCount;
+      return wrapAround ? Math.min(Math.min(this.getDistance(index, 0) + this.getDistance(currentSlide, slideCount), this.getDistance(index, slideCount) + this.getDistance(currentSlide, 0)), this.getDistance(index, currentSlide)) : this.getDistance(index, currentSlide);
     }
   }, {
     key: "getRelativeDistanceToCurrentSlide",
     value: function getRelativeDistanceToCurrentSlide(index) {
-      if (this.props.wrapAround) {
-        var distanceByLeftEge = this.getDistance(index, 0) + this.getDistance(this.props.currentSlide, this.props.slideCount);
-        var distanceByRightEdge = this.getDistance(index, this.props.slideCount) + this.getDistance(this.props.currentSlide, 0);
-        var absoluteDirectDistance = this.getDistance(index, this.props.currentSlide);
+      var _this$props3 = this.props,
+          wrapAround = _this$props3.wrapAround,
+          currentSlide = _this$props3.currentSlide,
+          slideCount = _this$props3.slideCount;
+
+      if (wrapAround) {
+        var distanceByLeftEge = this.getDistance(index, 0) + this.getDistance(currentSlide, slideCount);
+        var distanceByRightEdge = this.getDistance(index, slideCount) + this.getDistance(currentSlide, 0);
+        var absoluteDirectDistance = this.getDistance(index, currentSlide);
         var minimumDistance = Math.min(Math.min(distanceByLeftEge, distanceByRightEdge), absoluteDirectDistance);
 
         switch (minimumDistance) {
           case absoluteDirectDistance:
-            return index - this.props.currentSlide;
+            return index - currentSlide;
 
           case distanceByLeftEge:
             return distanceByLeftEge;
@@ -24853,7 +27079,7 @@ function (_React$Component) {
             return 0;
         }
       } else {
-        return index - this.props.currentSlide;
+        return index - currentSlide;
       }
     }
   }, {
@@ -24869,27 +27095,32 @@ function (_React$Component) {
   }, {
     key: "getSlideStyles",
     value: function getSlideStyles(index, positionValue) {
+      var _this$props4 = this.props,
+          vertical = _this$props4.vertical,
+          slideCount = _this$props4.slideCount,
+          cellSpacing = _this$props4.cellSpacing,
+          slideWidth = _this$props4.slideWidth;
       var targetPosition = this.getSlideTargetPosition(index, positionValue);
       var transformScale = this.getTransformScale(index);
       return {
-        zIndex: this.props.slideCount - this.getDistanceToCurrentSlide(index),
         boxSizing: 'border-box',
-        display: this.props.vertical ? 'block' : 'inline-block',
-        height: 'auto',
-        left: this.props.vertical ? 0 : targetPosition,
+        display: vertical ? 'block' : 'inline-block',
+        height: Object(_utilities_style_utilities__WEBPACK_IMPORTED_MODULE_2__["getSlideHeight"])(this.props),
+        left: vertical ? 0 : targetPosition,
         listStyleType: 'none',
-        marginBottom: this.props.vertical ? this.props.cellSpacing / 2 : 'auto',
-        marginLeft: this.props.vertical ? 'auto' : this.props.cellSpacing / 2,
-        marginRight: this.props.vertical ? 'auto' : this.props.cellSpacing / 2,
-        marginTop: this.props.vertical ? this.props.cellSpacing / 2 : 'auto',
+        marginBottom: vertical ? cellSpacing / 2 : 'auto',
+        marginLeft: vertical ? 'auto' : cellSpacing / 2,
+        marginRight: vertical ? 'auto' : cellSpacing / 2,
+        marginTop: vertical ? cellSpacing / 2 : 'auto',
         MozBoxSizing: 'border-box',
+        opacity: this.getOpacityScale(index),
         position: 'absolute',
-        top: this.props.vertical ? targetPosition : 0,
+        top: vertical ? targetPosition : 0,
         transform: "scale(".concat(transformScale, ")"),
         transition: 'left 0.4s ease-out, transform 0.4s ease-out, opacity 0.4s ease-out',
         verticalAlign: 'top',
-        width: this.props.vertical ? '100%' : this.props.slideWidth,
-        opacity: this.getOpacityScale(index)
+        width: vertical ? '100%' : slideWidth,
+        zIndex: slideCount - this.getDistanceToCurrentSlide(index)
       };
     }
   }, {
@@ -24898,16 +27129,16 @@ function (_React$Component) {
       var listWidth = this.props.slideWidth * react__WEBPACK_IMPORTED_MODULE_0___default.a.Children.count(this.props.children);
       var spacingOffset = this.props.cellSpacing * react__WEBPACK_IMPORTED_MODULE_0___default.a.Children.count(this.props.children);
       return {
-        left: "calc(50% - (".concat(this.props.slideWidth, "px / 2))"),
-        position: 'relative',
-        margin: this.props.vertical ? "".concat(this.props.cellSpacing / 2 * -1, "px 0px") : "".concat(this.props.slideListMargin, "px ").concat(this.props.cellSpacing / 2 * -1, "px"),
-        padding: 0,
-        height: this.props.vertical ? listWidth + spacingOffset : this.props.slideHeight,
-        width: this.props.vertical ? 'auto' : '100%',
-        cursor: this.props.dragging === true ? 'pointer' : 'inherit',
         boxSizing: 'border-box',
+        cursor: this.props.dragging === true ? 'pointer' : 'inherit',
+        height: this.props.vertical ? listWidth + spacingOffset : this.props.slideHeight,
+        left: "calc(50% - (".concat(this.props.slideWidth, "px / 2))"),
+        margin: this.props.vertical ? "".concat(this.props.cellSpacing / 2 * -1, "px 0px") : "".concat(this.props.slideListMargin, "px ").concat(this.props.cellSpacing / 2 * -1, "px"),
         MozBoxSizing: 'border-box',
-        touchAction: "pinch-zoom ".concat(this.props.vertical ? 'pan-x' : 'pan-y')
+        padding: 0,
+        position: 'relative',
+        touchAction: "pinch-zoom ".concat(this.props.vertical ? 'pan-x' : 'pan-y'),
+        width: this.props.vertical ? 'auto' : '100%'
       };
     }
   }, {
@@ -24929,36 +27160,38 @@ ScrollTransition3D.propTypes = {
   cellSpacing: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.number,
   currentSlide: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.number,
   dragging: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.bool,
+  heightMode: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.oneOf(['first', 'current', 'max']),
   isWrappingAround: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.bool,
   left: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.number,
+  opacityScale: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.number,
   slideCount: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.number,
   slideHeight: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.number,
+  slideListMargin: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.number,
   slideOffset: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.number,
+  slidesToShow: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.number,
   slideWidth: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.number,
   top: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.number,
   vertical: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.bool,
   wrapAround: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.bool,
-  zoomScale: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.number,
-  opacityScale: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.number,
-  slidesToShow: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.number,
-  slideListMargin: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.number
+  zoomScale: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.number
 };
 ScrollTransition3D.defaultProps = {
   cellSpacing: 0,
   currentSlide: 0,
   dragging: false,
+  heightMode: 'max',
   isWrappingAround: false,
   left: 0,
+  opacityScale: 0.65,
   slideCount: 0,
   slideHeight: 0,
+  slideListMargin: 0,
+  slidesToShow: 3,
   slideWidth: 0,
   top: 0,
   vertical: false,
   wrapAround: true,
-  zoomScale: 0.75,
-  opacityScale: 0.65,
-  slidesToShow: 3,
-  slideListMargin: 10
+  zoomScale: 0.75
 };
 
 /***/ }),
@@ -24977,6 +27210,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! prop-types */ "./node_modules/prop-types/index.js");
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _utilities_style_utilities__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../utilities/style-utilities */ "./node_modules/nuka-carousel/es/utilities/style-utilities.js");
+/* harmony import */ var _utilities_utilities__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../utilities/utilities */ "./node_modules/nuka-carousel/es/utilities/utilities.js");
 function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
 
 function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
@@ -24994,6 +27229,8 @@ function _getPrototypeOf(o) { _getPrototypeOf = Object.setPrototypeOf ? Object.g
 function _inherits(subClass, superClass) { if (typeof superClass !== "function" && superClass !== null) { throw new TypeError("Super expression must either be null or a function"); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, writable: true, configurable: true } }); if (superClass) _setPrototypeOf(subClass, superClass); }
 
 function _setPrototypeOf(o, p) { _setPrototypeOf = Object.setPrototypeOf || function _setPrototypeOf(o, p) { o.__proto__ = p; return o; }; return _setPrototypeOf(o, p); }
+
+
 
 
 
@@ -25026,7 +27263,9 @@ function (_React$Component) {
         return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
           className: "slider-slide".concat(visible ? ' slide-visible' : ''),
           style: _this2.getSlideStyles(index, opacity),
-          key: index
+          key: index,
+          onClick: _utilities_utilities__WEBPACK_IMPORTED_MODULE_3__["handleSelfFocus"],
+          tabIndex: -1
         }, child);
       });
     }
@@ -25075,7 +27314,7 @@ function (_React$Component) {
       return {
         boxSizing: 'border-box',
         display: 'block',
-        height: 'auto',
+        height: Object(_utilities_style_utilities__WEBPACK_IMPORTED_MODULE_2__["getSlideHeight"])(this.props),
         left: data[index] ? data[index].left : 0,
         listStyleType: 'none',
         marginBottom: 'auto',
@@ -25103,14 +27342,14 @@ function (_React$Component) {
         margin: this.props.vertical ? "".concat(this.props.cellSpacing / 2 * -1, "px 0px") : "0px ".concat(this.props.cellSpacing / 2 * -1, "px"),
         MozBoxSizing: 'border-box',
         padding: 0,
-        touchAction: 'none',
+        touchAction: "pinch-zoom ".concat(this.props.vertical ? 'pan-x' : 'pan-y'),
         width: width
       };
     }
   }, {
     key: "render",
     value: function render() {
-      var fade = -(this.props.deltaX || this.props.deltaY) / this.props.slideWidth;
+      var fade = -(this.props.deltaX || this.props.deltaY) / this.props.slideWidth % this.props.slideCount;
 
       if (parseInt(fade) === fade) {
         this.fadeFromSlide = fade;
@@ -25135,6 +27374,7 @@ FadeTransition.propTypes = {
   deltaX: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.number,
   deltaY: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.number,
   dragging: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.bool,
+  heightMode: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.oneOf(['first', 'current', 'max']),
   isWrappingAround: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.bool,
   left: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.number,
   slideCount: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.number,
@@ -25151,6 +27391,7 @@ FadeTransition.defaultProps = {
   deltaX: 0,
   deltaY: 0,
   dragging: false,
+  heightMode: 'max',
   isWrappingAround: false,
   left: 0,
   slideCount: 0,
@@ -25178,6 +27419,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! prop-types */ "./node_modules/prop-types/index.js");
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _utilities_style_utilities__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../utilities/style-utilities */ "./node_modules/nuka-carousel/es/utilities/style-utilities.js");
+/* harmony import */ var _utilities_utilities__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../utilities/utilities */ "./node_modules/nuka-carousel/es/utilities/utilities.js");
 function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
 
 function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
@@ -25198,6 +27441,8 @@ function _setPrototypeOf(o, p) { _setPrototypeOf = Object.setPrototypeOf || func
 
 
 
+
+
 var MIN_ZOOM_SCALE = 0;
 var MAX_ZOOM_SCALE = 1;
 
@@ -25215,59 +27460,54 @@ function (_React$Component) {
     _this.getListStyles = _this.getListStyles.bind(_assertThisInitialized(_this));
     return _this;
   }
+  /* eslint-disable complexity */
+
 
   _createClass(ScrollTransition, [{
-    key: "getSlideDirection",
-    value: function getSlideDirection(start, end, isWrapping) {
-      var direction = 0;
-      if (start === end) return direction;
-
-      if (isWrapping) {
-        direction = start < end ? -1 : 1;
-      } else {
-        direction = start < end ? 1 : -1;
-      }
-
-      return direction;
-    }
-    /* eslint-disable complexity */
-
-  }, {
     key: "getSlideTargetPosition",
-    value: function getSlideTargetPosition(index, positionValue) {
-      var targetPosition = (this.props.slideWidth + this.props.cellSpacing) * index;
-      var startSlide = Math.min(Math.abs(Math.floor(positionValue / this.props.slideWidth)), this.props.slideCount - 1);
+    value: function getSlideTargetPosition(currentSlideIndex, positionValue) {
       var offset = 0;
 
-      if (this.props.animation === 'zoom' && (this.props.currentSlide === index + 1 || this.props.currentSlide === 0 && index === this.props.children.length - 1)) {
+      if (this.props.animation === 'zoom' && (this.props.currentSlide === currentSlideIndex + 1 || this.props.currentSlide === 0 && currentSlideIndex === this.props.children.length - 1)) {
         offset = this.props.slideOffset;
-      } else if (this.props.animation === 'zoom' && (this.props.currentSlide === index - 1 || this.props.currentSlide === this.props.children.length - 1 && index === 0)) {
+      } else if (this.props.animation === 'zoom' && (this.props.currentSlide === currentSlideIndex - 1 || this.props.currentSlide === this.props.children.length - 1 && currentSlideIndex === 0)) {
         offset = -this.props.slideOffset;
       }
 
-      if (this.props.wrapAround && index !== startSlide) {
-        var direction = this.getSlideDirection(startSlide, this.props.currentSlide, this.props.isWrappingAround);
-        var slidesBefore = Math.floor((this.props.slideCount - 1) / 2);
-        var slidesAfter = this.props.slideCount - slidesBefore - 1;
+      var targetPosition = (this.props.slideWidth + this.props.cellSpacing) * currentSlideIndex;
+      var alignmentOffset = Object(_utilities_style_utilities__WEBPACK_IMPORTED_MODULE_2__["getAlignmentOffset"])(currentSlideIndex, this.props);
+      var relativePosition = positionValue - alignmentOffset;
+      var startSlideIndex = Math.min(Math.abs(Math.floor(relativePosition / this.props.slideWidth)), this.props.slideCount - 1);
+
+      if (this.props.wrapAround && currentSlideIndex !== startSlideIndex) {
+        var slidesOutOfView = Math.max(this.props.slideCount - Math.ceil(this.props.frameWidth / this.props.slideWidth), // Total slides in view
+        0);
+        var slidesOutOfViewBefore = Math.floor(slidesOutOfView / 2);
+        var slidesOutOfViewAfter = slidesOutOfView - slidesOutOfViewBefore;
+        var direction = Object(_utilities_utilities__WEBPACK_IMPORTED_MODULE_3__["getSlideDirection"])(startSlideIndex, this.props.currentSlide, this.props.isWrappingAround);
 
         if (direction < 0) {
-          var temp = slidesBefore;
-          slidesBefore = slidesAfter;
-          slidesAfter = temp;
+          var temp = slidesOutOfViewBefore;
+          slidesOutOfViewBefore = slidesOutOfViewAfter;
+          slidesOutOfViewAfter = temp;
         }
 
-        var distanceFromStart = Math.abs(startSlide - index);
+        var slidesInViewBefore = Math.ceil(alignmentOffset / this.props.slideWidth);
+        var slidesBefore = slidesInViewBefore + slidesOutOfViewBefore;
+        var slidesInViewAfter = Math.ceil((this.props.frameWidth - alignmentOffset) / this.props.slideWidth) - 1;
+        var slidesAfter = slidesInViewAfter + slidesOutOfViewAfter;
+        var distanceFromStart = Math.abs(startSlideIndex - currentSlideIndex);
 
-        if (index < startSlide) {
+        if (currentSlideIndex < startSlideIndex) {
           if (distanceFromStart > slidesBefore) {
-            targetPosition = (this.props.slideWidth + this.props.cellSpacing) * (this.props.slideCount + index);
+            targetPosition = (this.props.slideWidth + this.props.cellSpacing) * (this.props.slideCount + currentSlideIndex);
           }
         } else if (distanceFromStart > slidesAfter) {
-          targetPosition = (this.props.slideWidth + this.props.cellSpacing) * (this.props.slideCount - index) * -1;
+          targetPosition = (this.props.slideWidth + this.props.cellSpacing) * (this.props.slideCount - currentSlideIndex) * -1;
         }
       }
 
-      return targetPosition + offset;
+      return targetPosition + offset || 0;
     }
     /* eslint-enable complexity */
 
@@ -25280,14 +27520,17 @@ function (_React$Component) {
           top = _this$props.top,
           left = _this$props.left,
           currentSlide = _this$props.currentSlide,
-          slidesToShow = _this$props.slidesToShow;
-      var positionValue = this.props.vertical ? top : left;
+          slidesToShow = _this$props.slidesToShow,
+          vertical = _this$props.vertical;
+      var positionValue = vertical ? top : left;
       return react__WEBPACK_IMPORTED_MODULE_0___default.a.Children.map(children, function (child, index) {
         var visible = index >= currentSlide && index < currentSlide + slidesToShow;
         return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
           className: "slider-slide".concat(visible ? ' slide-visible' : ''),
           style: _this2.getSlideStyles(index, positionValue),
-          key: index
+          key: index,
+          onClick: _utilities_utilities__WEBPACK_IMPORTED_MODULE_3__["handleSelfFocus"],
+          tabIndex: -1
         }, child);
       });
     }
@@ -25299,7 +27542,7 @@ function (_React$Component) {
       return {
         boxSizing: 'border-box',
         display: this.props.vertical ? 'block' : 'inline-block',
-        height: 'auto',
+        height: Object(_utilities_style_utilities__WEBPACK_IMPORTED_MODULE_2__["getSlideHeight"])(this.props),
         left: this.props.vertical ? 0 : targetPosition,
         listStyleType: 'none',
         marginBottom: this.props.vertical ? this.props.cellSpacing / 2 : 'auto',
@@ -25324,19 +27567,19 @@ function (_React$Component) {
       var spacingOffset = this.props.cellSpacing * react__WEBPACK_IMPORTED_MODULE_0___default.a.Children.count(this.props.children);
       var transform = "translate3d(".concat(deltaX, "px, ").concat(deltaY, "px, 0)");
       return {
-        transform: transform,
-        WebkitTransform: transform,
-        msTransform: "translate(".concat(deltaX, "px, ").concat(deltaY, "px)"),
-        position: 'relative',
+        boxSizing: 'border-box',
+        cursor: this.props.dragging === true ? 'pointer' : 'inherit',
         display: 'block',
+        height: this.props.vertical ? listWidth + spacingOffset : this.props.slideHeight,
         margin: this.props.vertical ? "".concat(this.props.cellSpacing / 2 * -1, "px 0px") : "0px ".concat(this.props.cellSpacing / 2 * -1, "px"),
         padding: 0,
-        height: this.props.vertical ? listWidth + spacingOffset : this.props.slideHeight,
-        width: this.props.vertical ? 'auto' : listWidth + spacingOffset,
-        cursor: this.props.dragging === true ? 'pointer' : 'inherit',
-        boxSizing: 'border-box',
+        position: 'relative',
         MozBoxSizing: 'border-box',
-        touchAction: "pinch-zoom ".concat(this.props.vertical ? 'pan-x' : 'pan-y')
+        msTransform: "translate(".concat(deltaX, "px, ").concat(deltaY, "px)"),
+        touchAction: "pinch-zoom ".concat(this.props.vertical ? 'pan-x' : 'pan-y'),
+        transform: transform,
+        WebkitTransform: transform,
+        width: 'auto'
       };
     }
   }, {
@@ -25361,16 +27604,20 @@ function (_React$Component) {
 
 ScrollTransition.propTypes = {
   animation: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.oneOf(['zoom']),
+  cellAlign: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.string,
   cellSpacing: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.number,
   currentSlide: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.number,
   deltaX: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.number,
   deltaY: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.number,
   dragging: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.bool,
+  frameWidth: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.number,
+  heightMode: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.oneOf(['first', 'current', 'max']),
   isWrappingAround: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.bool,
   left: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.number,
   slideCount: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.number,
   slideHeight: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.number,
   slideOffset: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.number,
+  slidesToScroll: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.oneOfType([prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.string, prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.number]),
   slideWidth: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.number,
   top: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.number,
   vertical: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.bool,
@@ -25378,15 +27625,19 @@ ScrollTransition.propTypes = {
   zoomScale: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.number
 };
 ScrollTransition.defaultProps = {
+  cellAlign: 'left',
   cellSpacing: 0,
   currentSlide: 0,
   deltaX: 0,
   deltaY: 0,
   dragging: false,
+  frameWidth: 0,
+  heightMode: 'max',
   isWrappingAround: false,
   left: 0,
   slideCount: 0,
   slideHeight: 0,
+  slidesToScroll: 1,
   slideWidth: 0,
   top: 0,
   vertical: false,
@@ -25400,50 +27651,36 @@ ScrollTransition.defaultProps = {
 /*!****************************************************************************!*\
   !*** ./node_modules/nuka-carousel/es/utilities/bootstrapping-utilities.js ***!
   \****************************************************************************/
-/*! exports provided: addAccessibility, getValidChildren, getSlideHeight */
+/*! exports provided: addAccessibility, getValidChildren, findMaxHeightSlideInRange, findCurrentHeightSlide, calculateSlideHeight */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "addAccessibility", function() { return addAccessibility; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "getValidChildren", function() { return getValidChildren; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "getSlideHeight", function() { return getSlideHeight; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "findMaxHeightSlideInRange", function() { return findMaxHeightSlideInRange; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "findCurrentHeightSlide", function() { return findCurrentHeightSlide; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "calculateSlideHeight", function() { return calculateSlideHeight; });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-function _objectSpread(target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i] != null ? arguments[i] : {}; var ownKeys = Object.keys(source); if (typeof Object.getOwnPropertySymbols === 'function') { ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function (sym) { return Object.getOwnPropertyDescriptor(source, sym).enumerable; })); } ownKeys.forEach(function (key) { _defineProperty(target, key, source[key]); }); } return target; }
+function _toConsumableArray(arr) { return _arrayWithoutHoles(arr) || _iterableToArray(arr) || _nonIterableSpread(); }
 
-function _defineProperty(obj, key, value) { if (key in obj) { Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true }); } else { obj[key] = value; } return obj; }
+function _nonIterableSpread() { throw new TypeError("Invalid attempt to spread non-iterable instance"); }
+
+function _iterableToArray(iter) { if (Symbol.iterator in Object(iter) || Object.prototype.toString.call(iter) === "[object Arguments]") return Array.from(iter); }
+
+function _arrayWithoutHoles(arr) { if (Array.isArray(arr)) { for (var i = 0, arr2 = new Array(arr.length); i < arr.length; i++) { arr2[i] = arr[i]; } return arr2; } }
 
 
-var addAccessibility = function addAccessibility(children, slidesToShow, currentSlide) {
-  var needsTabIndex;
-
+var addAccessibility = function addAccessibility(children, slidesToShow) {
   if (slidesToShow > 1) {
-    return react__WEBPACK_IMPORTED_MODULE_0___default.a.Children.map(children, function (child, index) {
-      // create a range from first visible slide to last visible slide
-      var firstVisibleSlide = index >= currentSlide;
-      var lastVisibleSlide = index < slidesToShow + currentSlide;
-      needsTabIndex = firstVisibleSlide && lastVisibleSlide; // if the index of the slide is in range add ariaProps to the slide
-
-      var ariaProps = needsTabIndex ? {
-        'aria-hidden': 'false',
-        tabIndex: 0
-      } : {
-        'aria-hidden': 'true'
-      };
-      return react__WEBPACK_IMPORTED_MODULE_0___default.a.cloneElement(child, _objectSpread({}, child.props, ariaProps));
+    return react__WEBPACK_IMPORTED_MODULE_0___default.a.Children.map(children, function (child) {
+      return react__WEBPACK_IMPORTED_MODULE_0___default.a.cloneElement(child, child.props);
     });
   } else {
     // when slidesToshow is 1
-    return react__WEBPACK_IMPORTED_MODULE_0___default.a.Children.map(children, function (child, index) {
-      needsTabIndex = index !== currentSlide;
-      var ariaProps = needsTabIndex ? {
-        'aria-hidden': 'true'
-      } : {
-        'aria-hidden': 'false',
-        tabIndex: 0
-      };
-      return react__WEBPACK_IMPORTED_MODULE_0___default.a.cloneElement(child, _objectSpread({}, child.props, ariaProps));
+    return react__WEBPACK_IMPORTED_MODULE_0___default.a.Children.map(children, function (child) {
+      return react__WEBPACK_IMPORTED_MODULE_0___default.a.cloneElement(child, child.props);
     });
   }
 };
@@ -25452,37 +27689,109 @@ var getValidChildren = function getValidChildren(children) {
   return react__WEBPACK_IMPORTED_MODULE_0___default.a.Children.toArray(children);
 };
 
-var findMaxHeightSlide = function findMaxHeightSlide(slides) {
+var getMax = function getMax(a, b) {
+  return a > b ? a : b;
+};
+
+var getHeightOfSlide = function getHeightOfSlide(slide) {
+  if (!slide) {
+    return 0;
+  }
+
+  if (slide.children && slide.children.length > 0) {
+    // Need to convert slide.children from HTMLCollection
+    // to an array
+    var children = _toConsumableArray(slide.children);
+
+    return children.reduce(function (totalHeight, child) {
+      return totalHeight + child.offsetHeight;
+    }, 0);
+  } else {
+    return slide.offsetHeight;
+  }
+}; // end - is exclusive
+
+
+var findMaxHeightSlideInRange = function findMaxHeightSlideInRange(slides, start, end) {
   var maxHeight = 0;
 
-  for (var i = 0; i < slides.length; i++) {
-    if (slides[i].offsetHeight > maxHeight) {
-      maxHeight = slides[i].offsetHeight;
+  if (slides.length === 0 || start < 0 || end < 0 || start > slides.length - 1 || end > slides.length) {
+    return maxHeight;
+  }
+
+  if (start < end) {
+    for (var i = start; i < end; i++) {
+      maxHeight = getMax(getHeightOfSlide(slides[i]), maxHeight);
     }
+  } else if (start > end) {
+    // Finding max in a wrap around
+    for (var _i = start; _i < slides.length; _i++) {
+      maxHeight = getMax(getHeightOfSlide(slides[_i]), maxHeight);
+    }
+
+    for (var _i2 = 0; _i2 < end; _i2++) {
+      maxHeight = getMax(getHeightOfSlide(slides[_i2]), maxHeight);
+    }
+  } else {
+    // start === end
+    maxHeight = getHeightOfSlide(slides[start]);
   }
 
   return maxHeight;
 };
+var findCurrentHeightSlide = function findCurrentHeightSlide(currentSlide, slidesToShow, alignment, wrapAround, slides) {
+  if (slidesToShow > 1) {
+    var startIndex = currentSlide;
+    var lastIndex = Math.min(Math.ceil(slidesToShow) + currentSlide, slides.length);
+    var offset = alignment === 'center' ? (slidesToShow - 1) / 2 : slidesToShow - 1;
 
-var getSlideHeight = function getSlideHeight(props, state) {
+    switch (alignment) {
+      case 'center':
+        startIndex = Math.floor(currentSlide - offset);
+        lastIndex = Math.ceil(currentSlide + offset) + 1;
+        break;
+
+      case 'right':
+        startIndex = Math.floor(currentSlide - offset);
+        lastIndex = currentSlide + 1;
+        break;
+
+      case 'left':
+        startIndex = Math.floor(currentSlide + offset);
+        lastIndex = Math.ceil(currentSlide + offset) + 1;
+        break;
+    } // inclusive
+
+
+    startIndex = wrapAround && startIndex < 0 ? slides.length + startIndex : Math.max(startIndex, 0); // exclusive
+
+    lastIndex = wrapAround && lastIndex > slides.length ? lastIndex - slides.length : Math.min(lastIndex, slides.length);
+    return findMaxHeightSlideInRange(slides, startIndex, lastIndex);
+  } else {
+    return getHeightOfSlide(slides[currentSlide]);
+  }
+};
+var calculateSlideHeight = function calculateSlideHeight(props, state) {
   var childNodes = arguments.length > 2 && arguments[2] !== undefined ? arguments[2] : [];
   var heightMode = props.heightMode,
       vertical = props.vertical,
-      initialSlideHeight = props.initialSlideHeight;
+      initialSlideHeight = props.initialSlideHeight,
+      wrapAround = props.wrapAround;
   var slidesToShow = state.slidesToShow,
-      currentSlide = state.currentSlide;
+      currentSlide = state.currentSlide,
+      cellAlign = state.cellAlign;
   var firstSlide = childNodes[0];
 
   if (firstSlide && heightMode === 'first') {
-    return vertical ? firstSlide.offsetHeight * slidesToShow : firstSlide.offsetHeight;
+    return vertical ? getHeightOfSlide(firstSlide) * slidesToShow : getHeightOfSlide(firstSlide);
   }
 
   if (heightMode === 'max') {
-    return findMaxHeightSlide(childNodes);
+    return findMaxHeightSlideInRange(childNodes, 0, childNodes.length);
   }
 
   if (heightMode === 'current') {
-    return childNodes[currentSlide].offsetHeight;
+    return findCurrentHeightSlide(currentSlide, slidesToShow, cellAlign, wrapAround, childNodes);
   }
 
   return initialSlideHeight || 100;
@@ -25494,18 +27803,58 @@ var getSlideHeight = function getSlideHeight(props, state) {
 /*!********************************************************************!*\
   !*** ./node_modules/nuka-carousel/es/utilities/style-utilities.js ***!
   \********************************************************************/
-/*! exports provided: getImgTagStyles, getDecoratorStyles, getSliderStyles, getFrameStyles, getTransitionProps */
+/*! exports provided: getImgTagStyles, getSlideHeight, getAlignmentOffset, getDecoratorStyles, getSliderStyles, getFrameStyles, getTransitionProps */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "getImgTagStyles", function() { return getImgTagStyles; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "getSlideHeight", function() { return getSlideHeight; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "getAlignmentOffset", function() { return getAlignmentOffset; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "getDecoratorStyles", function() { return getDecoratorStyles; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "getSliderStyles", function() { return getSliderStyles; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "getFrameStyles", function() { return getFrameStyles; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "getTransitionProps", function() { return getTransitionProps; });
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+
 var getImgTagStyles = function getImgTagStyles() {
   return ".slider-slide > img { width: 100%; display: block; }\n          .slider-slide > img:focus { margin: auto; }";
+};
+var getSlideHeight = function getSlideHeight(props) {
+  var childCount = react__WEBPACK_IMPORTED_MODULE_0___default.a.Children.count(props.children);
+  var listWidth = props.slideWidth * childCount;
+  var spacingOffset = props.cellSpacing * childCount;
+  var calculatedHeight = props.vertical ? listWidth + spacingOffset : props.slideHeight;
+  return calculatedHeight > 0 && props.heightMode !== 'current' ? calculatedHeight : 'auto';
+};
+var getAlignmentOffset = function getAlignmentOffset(slideIndex, config) {
+  var offset = 0;
+
+  switch (config.cellAlign) {
+    case 'left':
+      {
+        offset = 0;
+        offset -= config.cellSpacing * slideIndex;
+        break;
+      }
+
+    case 'center':
+      {
+        offset = (config.frameWidth - config.slideWidth) / 2;
+        offset -= config.cellSpacing * slideIndex;
+        break;
+      }
+
+    case 'right':
+      {
+        offset = config.frameWidth - config.slideWidth;
+        offset -= config.cellSpacing * slideIndex;
+        break;
+      }
+  }
+
+  return offset;
 };
 var getDecoratorStyles = function getDecoratorStyles(position) {
   switch (position) {
@@ -25644,22 +27993,26 @@ var getFrameStyles = function getFrameStyles(propFrameOverFlow, propVertical, pr
 var getTransitionProps = function getTransitionProps(props, state) {
   return {
     animation: props.animation,
+    cellAlign: props.cellAlign,
     cellSpacing: props.cellSpacing,
     currentSlide: state.currentSlide,
     dragging: props.dragging,
+    frameWidth: parseInt(state.frameWidth),
+    heightMode: props.heightMode,
     isWrappingAround: state.isWrappingAround,
     left: state.left,
+    opacityScale: props.opacityScale,
     slideCount: state.slideCount,
     slideHeight: state.slideHeight,
+    slideListMargin: props.slideListMargin,
     slideOffset: props.slideOffset,
+    slidesToScroll: props.scrollMode === 'page' ? state.slidesToShow : props.slidesToScroll,
     slidesToShow: state.slidesToShow,
     slideWidth: state.slideWidth,
     top: state.top,
     vertical: props.vertical,
     wrapAround: props.wrapAround,
-    zoomScale: props.zoomScale,
-    opacityScale: props.opacityScale,
-    slideListMargin: props.slideListMargin
+    zoomScale: props.zoomScale
   };
 };
 
@@ -25669,7 +28022,7 @@ var getTransitionProps = function getTransitionProps(props, state) {
 /*!**************************************************************!*\
   !*** ./node_modules/nuka-carousel/es/utilities/utilities.js ***!
   \**************************************************************/
-/*! exports provided: addEvent, removeEvent, addAccessibility, getPropsByTransitionMode, swipeDirection, shouldUpdate, calcSomeInitialState */
+/*! exports provided: addEvent, removeEvent, addAccessibility, getPropsByTransitionMode, swipeDirection, getSlideDirection, shouldUpdate, calcSomeInitialState, handleSelfFocus */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -25679,11 +28032,15 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "addAccessibility", function() { return addAccessibility; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "getPropsByTransitionMode", function() { return getPropsByTransitionMode; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "swipeDirection", function() { return swipeDirection; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "getSlideDirection", function() { return getSlideDirection; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "shouldUpdate", function() { return shouldUpdate; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "calcSomeInitialState", function() { return calcSomeInitialState; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "handleSelfFocus", function() { return handleSelfFocus; });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-function _objectSpread(target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i] != null ? arguments[i] : {}; var ownKeys = Object.keys(source); if (typeof Object.getOwnPropertySymbols === 'function') { ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function (sym) { return Object.getOwnPropertyDescriptor(source, sym).enumerable; })); } ownKeys.forEach(function (key) { _defineProperty(target, key, source[key]); }); } return target; }
+function ownKeys(object, enumerableOnly) { var keys = Object.keys(object); if (Object.getOwnPropertySymbols) { var symbols = Object.getOwnPropertySymbols(object); if (enumerableOnly) symbols = symbols.filter(function (sym) { return Object.getOwnPropertyDescriptor(object, sym).enumerable; }); keys.push.apply(keys, symbols); } return keys; }
+
+function _objectSpread(target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i] != null ? arguments[i] : {}; if (i % 2) { ownKeys(Object(source), true).forEach(function (key) { _defineProperty(target, key, source[key]); }); } else if (Object.getOwnPropertyDescriptors) { Object.defineProperties(target, Object.getOwnPropertyDescriptors(source)); } else { ownKeys(Object(source)).forEach(function (key) { Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key)); }); } } return target; }
 
 function _defineProperty(obj, key, value) { if (key in obj) { Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true }); } else { obj[key] = value; } return obj; }
 
@@ -25728,7 +28085,7 @@ var addAccessibility = function addAccessibility(children, slidesToShow, current
       } : {
         'aria-hidden': 'true'
       };
-      return react__WEBPACK_IMPORTED_MODULE_0___default.a.cloneElement(child, _objectSpread({}, child.props, ariaProps));
+      return react__WEBPACK_IMPORTED_MODULE_0___default.a.cloneElement(child, _objectSpread({}, child.props, {}, ariaProps));
     });
   } else {
     return react__WEBPACK_IMPORTED_MODULE_0___default.a.Children.map(children, function (child, index) {
@@ -25739,7 +28096,7 @@ var addAccessibility = function addAccessibility(children, slidesToShow, current
         'aria-hidden': 'false',
         tabIndex: 0
       };
-      return react__WEBPACK_IMPORTED_MODULE_0___default.a.cloneElement(child, _objectSpread({}, child.props, ariaProps));
+      return react__WEBPACK_IMPORTED_MODULE_0___default.a.cloneElement(child, _objectSpread({}, child.props, {}, ariaProps));
     });
   }
 };
@@ -25808,6 +28165,18 @@ var swipeDirection = function swipeDirection(x1, x2, y1, y2, vertical) {
 
   return 0;
 };
+var getSlideDirection = function getSlideDirection(start, end, isWrapping) {
+  var direction = 0;
+  if (start === end) return direction;
+
+  if (isWrapping) {
+    direction = start < end ? -1 : 1;
+  } else {
+    direction = start < end ? 1 : -1;
+  }
+
+  return direction;
+};
 var shouldUpdate = function shouldUpdate(curr, next, keys) {
   var update = false;
 
@@ -25839,17 +28208,22 @@ var calcSomeInitialState = function calcSomeInitialState(props) {
     cellAlign: cellAlign
   };
 };
+var handleSelfFocus = function handleSelfFocus(e) {
+  if (e && e.currentTarget) {
+    e.currentTarget.focus();
+  }
+};
 
 /***/ }),
 
 /***/ "./node_modules/object-assign/index.js":
 /*!***************************************************************************************************!*\
-  !*** delegated ./node_modules/object-assign/index.js from dll-reference dll_1aef2d0bbc0d334d831c ***!
+  !*** delegated ./node_modules/object-assign/index.js from dll-reference dll_46916701fb300d1b1834 ***!
   \***************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = (__webpack_require__(/*! dll-reference dll_1aef2d0bbc0d334d831c */ "dll-reference dll_1aef2d0bbc0d334d831c"))("./node_modules/object-assign/index.js");
+module.exports = (__webpack_require__(/*! dll-reference dll_46916701fb300d1b1834 */ "dll-reference dll_46916701fb300d1b1834"))("./node_modules/object-assign/index.js");
 
 /***/ }),
 
@@ -26565,12 +28939,12 @@ module.exports = exports['default'];
 
 /***/ "./node_modules/prop-types/checkPropTypes.js":
 /*!*********************************************************************************************************!*\
-  !*** delegated ./node_modules/prop-types/checkPropTypes.js from dll-reference dll_1aef2d0bbc0d334d831c ***!
+  !*** delegated ./node_modules/prop-types/checkPropTypes.js from dll-reference dll_46916701fb300d1b1834 ***!
   \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = (__webpack_require__(/*! dll-reference dll_1aef2d0bbc0d334d831c */ "dll-reference dll_1aef2d0bbc0d334d831c"))("./node_modules/prop-types/checkPropTypes.js");
+module.exports = (__webpack_require__(/*! dll-reference dll_46916701fb300d1b1834 */ "dll-reference dll_46916701fb300d1b1834"))("./node_modules/prop-types/checkPropTypes.js");
 
 /***/ }),
 
@@ -26591,2505 +28965,11 @@ module.exports = (__webpack_require__(/*! dll-reference dll_1aef2d0bbc0d334d831c
 
 
 
+var ReactIs = __webpack_require__(/*! react-is */ "./node_modules/prop-types/node_modules/react-is/index.js");
 var assign = __webpack_require__(/*! object-assign */ "./node_modules/object-assign/index.js");
 
 var ReactPropTypesSecret = __webpack_require__(/*! ./lib/ReactPropTypesSecret */ "./node_modules/prop-types/lib/ReactPropTypesSecret.js");
 var checkPropTypes = __webpack_require__(/*! ./checkPropTypes */ "./node_modules/prop-types/checkPropTypes.js");
-
-var printWarning = function() {};
-
-if (true) {
-  printWarning = function(text) {
-    var message = 'Warning: ' + text;
-    if (typeof console !== 'undefined') {
-      console.error(message);
-    }
-    try {
-      // --- Welcome to debugging React ---
-      // This error was thrown as a convenience so that you can use this stack
-      // to find the callsite that caused this warning to fire.
-      throw new Error(message);
-    } catch (x) {}
-  };
-}
-
-function emptyFunctionThatReturnsNull() {
-  return null;
-}
-
-module.exports = function(isValidElement, throwOnDirectAccess) {
-  /* global Symbol */
-  var ITERATOR_SYMBOL = typeof Symbol === 'function' && Symbol.iterator;
-  var FAUX_ITERATOR_SYMBOL = '@@iterator'; // Before Symbol spec.
-
-  /**
-   * Returns the iterator method function contained on the iterable object.
-   *
-   * Be sure to invoke the function with the iterable as context:
-   *
-   *     var iteratorFn = getIteratorFn(myIterable);
-   *     if (iteratorFn) {
-   *       var iterator = iteratorFn.call(myIterable);
-   *       ...
-   *     }
-   *
-   * @param {?object} maybeIterable
-   * @return {?function}
-   */
-  function getIteratorFn(maybeIterable) {
-    var iteratorFn = maybeIterable && (ITERATOR_SYMBOL && maybeIterable[ITERATOR_SYMBOL] || maybeIterable[FAUX_ITERATOR_SYMBOL]);
-    if (typeof iteratorFn === 'function') {
-      return iteratorFn;
-    }
-  }
-
-  /**
-   * Collection of methods that allow declaration and validation of props that are
-   * supplied to React components. Example usage:
-   *
-   *   var Props = require('ReactPropTypes');
-   *   var MyArticle = React.createClass({
-   *     propTypes: {
-   *       // An optional string prop named "description".
-   *       description: Props.string,
-   *
-   *       // A required enum prop named "category".
-   *       category: Props.oneOf(['News','Photos']).isRequired,
-   *
-   *       // A prop named "dialog" that requires an instance of Dialog.
-   *       dialog: Props.instanceOf(Dialog).isRequired
-   *     },
-   *     render: function() { ... }
-   *   });
-   *
-   * A more formal specification of how these methods are used:
-   *
-   *   type := array|bool|func|object|number|string|oneOf([...])|instanceOf(...)
-   *   decl := ReactPropTypes.{type}(.isRequired)?
-   *
-   * Each and every declaration produces a function with the same signature. This
-   * allows the creation of custom validation functions. For example:
-   *
-   *  var MyLink = React.createClass({
-   *    propTypes: {
-   *      // An optional string or URI prop named "href".
-   *      href: function(props, propName, componentName) {
-   *        var propValue = props[propName];
-   *        if (propValue != null && typeof propValue !== 'string' &&
-   *            !(propValue instanceof URI)) {
-   *          return new Error(
-   *            'Expected a string or an URI for ' + propName + ' in ' +
-   *            componentName
-   *          );
-   *        }
-   *      }
-   *    },
-   *    render: function() {...}
-   *  });
-   *
-   * @internal
-   */
-
-  var ANONYMOUS = '<<anonymous>>';
-
-  // Important!
-  // Keep this list in sync with production version in `./factoryWithThrowingShims.js`.
-  var ReactPropTypes = {
-    array: createPrimitiveTypeChecker('array'),
-    bool: createPrimitiveTypeChecker('boolean'),
-    func: createPrimitiveTypeChecker('function'),
-    number: createPrimitiveTypeChecker('number'),
-    object: createPrimitiveTypeChecker('object'),
-    string: createPrimitiveTypeChecker('string'),
-    symbol: createPrimitiveTypeChecker('symbol'),
-
-    any: createAnyTypeChecker(),
-    arrayOf: createArrayOfTypeChecker,
-    element: createElementTypeChecker(),
-    instanceOf: createInstanceTypeChecker,
-    node: createNodeChecker(),
-    objectOf: createObjectOfTypeChecker,
-    oneOf: createEnumTypeChecker,
-    oneOfType: createUnionTypeChecker,
-    shape: createShapeTypeChecker,
-    exact: createStrictShapeTypeChecker,
-  };
-
-  /**
-   * inlined Object.is polyfill to avoid requiring consumers ship their own
-   * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/is
-   */
-  /*eslint-disable no-self-compare*/
-  function is(x, y) {
-    // SameValue algorithm
-    if (x === y) {
-      // Steps 1-5, 7-10
-      // Steps 6.b-6.e: +0 != -0
-      return x !== 0 || 1 / x === 1 / y;
-    } else {
-      // Step 6.a: NaN == NaN
-      return x !== x && y !== y;
-    }
-  }
-  /*eslint-enable no-self-compare*/
-
-  /**
-   * We use an Error-like object for backward compatibility as people may call
-   * PropTypes directly and inspect their output. However, we don't use real
-   * Errors anymore. We don't inspect their stack anyway, and creating them
-   * is prohibitively expensive if they are created too often, such as what
-   * happens in oneOfType() for any type before the one that matched.
-   */
-  function PropTypeError(message) {
-    this.message = message;
-    this.stack = '';
-  }
-  // Make `instanceof Error` still work for returned errors.
-  PropTypeError.prototype = Error.prototype;
-
-  function createChainableTypeChecker(validate) {
-    if (true) {
-      var manualPropTypeCallCache = {};
-      var manualPropTypeWarningCount = 0;
-    }
-    function checkType(isRequired, props, propName, componentName, location, propFullName, secret) {
-      componentName = componentName || ANONYMOUS;
-      propFullName = propFullName || propName;
-
-      if (secret !== ReactPropTypesSecret) {
-        if (throwOnDirectAccess) {
-          // New behavior only for users of `prop-types` package
-          var err = new Error(
-            'Calling PropTypes validators directly is not supported by the `prop-types` package. ' +
-            'Use `PropTypes.checkPropTypes()` to call them. ' +
-            'Read more at http://fb.me/use-check-prop-types'
-          );
-          err.name = 'Invariant Violation';
-          throw err;
-        } else if ( true && typeof console !== 'undefined') {
-          // Old behavior for people using React.PropTypes
-          var cacheKey = componentName + ':' + propName;
-          if (
-            !manualPropTypeCallCache[cacheKey] &&
-            // Avoid spamming the console because they are often not actionable except for lib authors
-            manualPropTypeWarningCount < 3
-          ) {
-            printWarning(
-              'You are manually calling a React.PropTypes validation ' +
-              'function for the `' + propFullName + '` prop on `' + componentName  + '`. This is deprecated ' +
-              'and will throw in the standalone `prop-types` package. ' +
-              'You may be seeing this warning due to a third-party PropTypes ' +
-              'library. See https://fb.me/react-warning-dont-call-proptypes ' + 'for details.'
-            );
-            manualPropTypeCallCache[cacheKey] = true;
-            manualPropTypeWarningCount++;
-          }
-        }
-      }
-      if (props[propName] == null) {
-        if (isRequired) {
-          if (props[propName] === null) {
-            return new PropTypeError('The ' + location + ' `' + propFullName + '` is marked as required ' + ('in `' + componentName + '`, but its value is `null`.'));
-          }
-          return new PropTypeError('The ' + location + ' `' + propFullName + '` is marked as required in ' + ('`' + componentName + '`, but its value is `undefined`.'));
-        }
-        return null;
-      } else {
-        return validate(props, propName, componentName, location, propFullName);
-      }
-    }
-
-    var chainedCheckType = checkType.bind(null, false);
-    chainedCheckType.isRequired = checkType.bind(null, true);
-
-    return chainedCheckType;
-  }
-
-  function createPrimitiveTypeChecker(expectedType) {
-    function validate(props, propName, componentName, location, propFullName, secret) {
-      var propValue = props[propName];
-      var propType = getPropType(propValue);
-      if (propType !== expectedType) {
-        // `propValue` being instance of, say, date/regexp, pass the 'object'
-        // check, but we can offer a more precise error message here rather than
-        // 'of type `object`'.
-        var preciseType = getPreciseType(propValue);
-
-        return new PropTypeError('Invalid ' + location + ' `' + propFullName + '` of type ' + ('`' + preciseType + '` supplied to `' + componentName + '`, expected ') + ('`' + expectedType + '`.'));
-      }
-      return null;
-    }
-    return createChainableTypeChecker(validate);
-  }
-
-  function createAnyTypeChecker() {
-    return createChainableTypeChecker(emptyFunctionThatReturnsNull);
-  }
-
-  function createArrayOfTypeChecker(typeChecker) {
-    function validate(props, propName, componentName, location, propFullName) {
-      if (typeof typeChecker !== 'function') {
-        return new PropTypeError('Property `' + propFullName + '` of component `' + componentName + '` has invalid PropType notation inside arrayOf.');
-      }
-      var propValue = props[propName];
-      if (!Array.isArray(propValue)) {
-        var propType = getPropType(propValue);
-        return new PropTypeError('Invalid ' + location + ' `' + propFullName + '` of type ' + ('`' + propType + '` supplied to `' + componentName + '`, expected an array.'));
-      }
-      for (var i = 0; i < propValue.length; i++) {
-        var error = typeChecker(propValue, i, componentName, location, propFullName + '[' + i + ']', ReactPropTypesSecret);
-        if (error instanceof Error) {
-          return error;
-        }
-      }
-      return null;
-    }
-    return createChainableTypeChecker(validate);
-  }
-
-  function createElementTypeChecker() {
-    function validate(props, propName, componentName, location, propFullName) {
-      var propValue = props[propName];
-      if (!isValidElement(propValue)) {
-        var propType = getPropType(propValue);
-        return new PropTypeError('Invalid ' + location + ' `' + propFullName + '` of type ' + ('`' + propType + '` supplied to `' + componentName + '`, expected a single ReactElement.'));
-      }
-      return null;
-    }
-    return createChainableTypeChecker(validate);
-  }
-
-  function createInstanceTypeChecker(expectedClass) {
-    function validate(props, propName, componentName, location, propFullName) {
-      if (!(props[propName] instanceof expectedClass)) {
-        var expectedClassName = expectedClass.name || ANONYMOUS;
-        var actualClassName = getClassName(props[propName]);
-        return new PropTypeError('Invalid ' + location + ' `' + propFullName + '` of type ' + ('`' + actualClassName + '` supplied to `' + componentName + '`, expected ') + ('instance of `' + expectedClassName + '`.'));
-      }
-      return null;
-    }
-    return createChainableTypeChecker(validate);
-  }
-
-  function createEnumTypeChecker(expectedValues) {
-    if (!Array.isArray(expectedValues)) {
-       true ? printWarning('Invalid argument supplied to oneOf, expected an instance of array.') : undefined;
-      return emptyFunctionThatReturnsNull;
-    }
-
-    function validate(props, propName, componentName, location, propFullName) {
-      var propValue = props[propName];
-      for (var i = 0; i < expectedValues.length; i++) {
-        if (is(propValue, expectedValues[i])) {
-          return null;
-        }
-      }
-
-      var valuesString = JSON.stringify(expectedValues);
-      return new PropTypeError('Invalid ' + location + ' `' + propFullName + '` of value `' + propValue + '` ' + ('supplied to `' + componentName + '`, expected one of ' + valuesString + '.'));
-    }
-    return createChainableTypeChecker(validate);
-  }
-
-  function createObjectOfTypeChecker(typeChecker) {
-    function validate(props, propName, componentName, location, propFullName) {
-      if (typeof typeChecker !== 'function') {
-        return new PropTypeError('Property `' + propFullName + '` of component `' + componentName + '` has invalid PropType notation inside objectOf.');
-      }
-      var propValue = props[propName];
-      var propType = getPropType(propValue);
-      if (propType !== 'object') {
-        return new PropTypeError('Invalid ' + location + ' `' + propFullName + '` of type ' + ('`' + propType + '` supplied to `' + componentName + '`, expected an object.'));
-      }
-      for (var key in propValue) {
-        if (propValue.hasOwnProperty(key)) {
-          var error = typeChecker(propValue, key, componentName, location, propFullName + '.' + key, ReactPropTypesSecret);
-          if (error instanceof Error) {
-            return error;
-          }
-        }
-      }
-      return null;
-    }
-    return createChainableTypeChecker(validate);
-  }
-
-  function createUnionTypeChecker(arrayOfTypeCheckers) {
-    if (!Array.isArray(arrayOfTypeCheckers)) {
-       true ? printWarning('Invalid argument supplied to oneOfType, expected an instance of array.') : undefined;
-      return emptyFunctionThatReturnsNull;
-    }
-
-    for (var i = 0; i < arrayOfTypeCheckers.length; i++) {
-      var checker = arrayOfTypeCheckers[i];
-      if (typeof checker !== 'function') {
-        printWarning(
-          'Invalid argument supplied to oneOfType. Expected an array of check functions, but ' +
-          'received ' + getPostfixForTypeWarning(checker) + ' at index ' + i + '.'
-        );
-        return emptyFunctionThatReturnsNull;
-      }
-    }
-
-    function validate(props, propName, componentName, location, propFullName) {
-      for (var i = 0; i < arrayOfTypeCheckers.length; i++) {
-        var checker = arrayOfTypeCheckers[i];
-        if (checker(props, propName, componentName, location, propFullName, ReactPropTypesSecret) == null) {
-          return null;
-        }
-      }
-
-      return new PropTypeError('Invalid ' + location + ' `' + propFullName + '` supplied to ' + ('`' + componentName + '`.'));
-    }
-    return createChainableTypeChecker(validate);
-  }
-
-  function createNodeChecker() {
-    function validate(props, propName, componentName, location, propFullName) {
-      if (!isNode(props[propName])) {
-        return new PropTypeError('Invalid ' + location + ' `' + propFullName + '` supplied to ' + ('`' + componentName + '`, expected a ReactNode.'));
-      }
-      return null;
-    }
-    return createChainableTypeChecker(validate);
-  }
-
-  function createShapeTypeChecker(shapeTypes) {
-    function validate(props, propName, componentName, location, propFullName) {
-      var propValue = props[propName];
-      var propType = getPropType(propValue);
-      if (propType !== 'object') {
-        return new PropTypeError('Invalid ' + location + ' `' + propFullName + '` of type `' + propType + '` ' + ('supplied to `' + componentName + '`, expected `object`.'));
-      }
-      for (var key in shapeTypes) {
-        var checker = shapeTypes[key];
-        if (!checker) {
-          continue;
-        }
-        var error = checker(propValue, key, componentName, location, propFullName + '.' + key, ReactPropTypesSecret);
-        if (error) {
-          return error;
-        }
-      }
-      return null;
-    }
-    return createChainableTypeChecker(validate);
-  }
-
-  function createStrictShapeTypeChecker(shapeTypes) {
-    function validate(props, propName, componentName, location, propFullName) {
-      var propValue = props[propName];
-      var propType = getPropType(propValue);
-      if (propType !== 'object') {
-        return new PropTypeError('Invalid ' + location + ' `' + propFullName + '` of type `' + propType + '` ' + ('supplied to `' + componentName + '`, expected `object`.'));
-      }
-      // We need to check all keys in case some are required but missing from
-      // props.
-      var allKeys = assign({}, props[propName], shapeTypes);
-      for (var key in allKeys) {
-        var checker = shapeTypes[key];
-        if (!checker) {
-          return new PropTypeError(
-            'Invalid ' + location + ' `' + propFullName + '` key `' + key + '` supplied to `' + componentName + '`.' +
-            '\nBad object: ' + JSON.stringify(props[propName], null, '  ') +
-            '\nValid keys: ' +  JSON.stringify(Object.keys(shapeTypes), null, '  ')
-          );
-        }
-        var error = checker(propValue, key, componentName, location, propFullName + '.' + key, ReactPropTypesSecret);
-        if (error) {
-          return error;
-        }
-      }
-      return null;
-    }
-
-    return createChainableTypeChecker(validate);
-  }
-
-  function isNode(propValue) {
-    switch (typeof propValue) {
-      case 'number':
-      case 'string':
-      case 'undefined':
-        return true;
-      case 'boolean':
-        return !propValue;
-      case 'object':
-        if (Array.isArray(propValue)) {
-          return propValue.every(isNode);
-        }
-        if (propValue === null || isValidElement(propValue)) {
-          return true;
-        }
-
-        var iteratorFn = getIteratorFn(propValue);
-        if (iteratorFn) {
-          var iterator = iteratorFn.call(propValue);
-          var step;
-          if (iteratorFn !== propValue.entries) {
-            while (!(step = iterator.next()).done) {
-              if (!isNode(step.value)) {
-                return false;
-              }
-            }
-          } else {
-            // Iterator will provide entry [k,v] tuples rather than values.
-            while (!(step = iterator.next()).done) {
-              var entry = step.value;
-              if (entry) {
-                if (!isNode(entry[1])) {
-                  return false;
-                }
-              }
-            }
-          }
-        } else {
-          return false;
-        }
-
-        return true;
-      default:
-        return false;
-    }
-  }
-
-  function isSymbol(propType, propValue) {
-    // Native Symbol.
-    if (propType === 'symbol') {
-      return true;
-    }
-
-    // 19.4.3.5 Symbol.prototype[@@toStringTag] === 'Symbol'
-    if (propValue['@@toStringTag'] === 'Symbol') {
-      return true;
-    }
-
-    // Fallback for non-spec compliant Symbols which are polyfilled.
-    if (typeof Symbol === 'function' && propValue instanceof Symbol) {
-      return true;
-    }
-
-    return false;
-  }
-
-  // Equivalent of `typeof` but with special handling for array and regexp.
-  function getPropType(propValue) {
-    var propType = typeof propValue;
-    if (Array.isArray(propValue)) {
-      return 'array';
-    }
-    if (propValue instanceof RegExp) {
-      // Old webkits (at least until Android 4.0) return 'function' rather than
-      // 'object' for typeof a RegExp. We'll normalize this here so that /bla/
-      // passes PropTypes.object.
-      return 'object';
-    }
-    if (isSymbol(propType, propValue)) {
-      return 'symbol';
-    }
-    return propType;
-  }
-
-  // This handles more types than `getPropType`. Only used for error messages.
-  // See `createPrimitiveTypeChecker`.
-  function getPreciseType(propValue) {
-    if (typeof propValue === 'undefined' || propValue === null) {
-      return '' + propValue;
-    }
-    var propType = getPropType(propValue);
-    if (propType === 'object') {
-      if (propValue instanceof Date) {
-        return 'date';
-      } else if (propValue instanceof RegExp) {
-        return 'regexp';
-      }
-    }
-    return propType;
-  }
-
-  // Returns a string that is postfixed to a warning about an invalid type.
-  // For example, "undefined" or "of type array"
-  function getPostfixForTypeWarning(value) {
-    var type = getPreciseType(value);
-    switch (type) {
-      case 'array':
-      case 'object':
-        return 'an ' + type;
-      case 'boolean':
-      case 'date':
-      case 'regexp':
-        return 'a ' + type;
-      default:
-        return type;
-    }
-  }
-
-  // Returns class name of the object, if any.
-  function getClassName(propValue) {
-    if (!propValue.constructor || !propValue.constructor.name) {
-      return ANONYMOUS;
-    }
-    return propValue.constructor.name;
-  }
-
-  ReactPropTypes.checkPropTypes = checkPropTypes;
-  ReactPropTypes.PropTypes = ReactPropTypes;
-
-  return ReactPropTypes;
-};
-
-
-/***/ }),
-
-/***/ "./node_modules/prop-types/index.js":
-/*!******************************************!*\
-  !*** ./node_modules/prop-types/index.js ***!
-  \******************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-/**
- * Copyright (c) 2013-present, Facebook, Inc.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */
-
-if (true) {
-  var REACT_ELEMENT_TYPE = (typeof Symbol === 'function' &&
-    Symbol.for &&
-    Symbol.for('react.element')) ||
-    0xeac7;
-
-  var isValidElement = function(object) {
-    return typeof object === 'object' &&
-      object !== null &&
-      object.$$typeof === REACT_ELEMENT_TYPE;
-  };
-
-  // By explicitly using `prop-types` you are opting into new development behavior.
-  // http://fb.me/prop-types-in-prod
-  var throwOnDirectAccess = true;
-  module.exports = __webpack_require__(/*! ./factoryWithTypeCheckers */ "./node_modules/prop-types/factoryWithTypeCheckers.js")(isValidElement, throwOnDirectAccess);
-} else {}
-
-
-/***/ }),
-
-/***/ "./node_modules/prop-types/lib/ReactPropTypesSecret.js":
-/*!*******************************************************************************************************************!*\
-  !*** delegated ./node_modules/prop-types/lib/ReactPropTypesSecret.js from dll-reference dll_1aef2d0bbc0d334d831c ***!
-  \*******************************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = (__webpack_require__(/*! dll-reference dll_1aef2d0bbc0d334d831c */ "dll-reference dll_1aef2d0bbc0d334d831c"))("./node_modules/prop-types/lib/ReactPropTypesSecret.js");
-
-/***/ }),
-
-/***/ "./node_modules/punycode/punycode.js":
-/*!*******************************************!*\
-  !*** ./node_modules/punycode/punycode.js ***!
-  \*******************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-/* WEBPACK VAR INJECTION */(function(module, global) {var __WEBPACK_AMD_DEFINE_RESULT__;/*! https://mths.be/punycode v1.3.2 by @mathias */
-;(function(root) {
-
-	/** Detect free variables */
-	var freeExports =  true && exports &&
-		!exports.nodeType && exports;
-	var freeModule =  true && module &&
-		!module.nodeType && module;
-	var freeGlobal = typeof global == 'object' && global;
-	if (
-		freeGlobal.global === freeGlobal ||
-		freeGlobal.window === freeGlobal ||
-		freeGlobal.self === freeGlobal
-	) {
-		root = freeGlobal;
-	}
-
-	/**
-	 * The `punycode` object.
-	 * @name punycode
-	 * @type Object
-	 */
-	var punycode,
-
-	/** Highest positive signed 32-bit float value */
-	maxInt = 2147483647, // aka. 0x7FFFFFFF or 2^31-1
-
-	/** Bootstring parameters */
-	base = 36,
-	tMin = 1,
-	tMax = 26,
-	skew = 38,
-	damp = 700,
-	initialBias = 72,
-	initialN = 128, // 0x80
-	delimiter = '-', // '\x2D'
-
-	/** Regular expressions */
-	regexPunycode = /^xn--/,
-	regexNonASCII = /[^\x20-\x7E]/, // unprintable ASCII chars + non-ASCII chars
-	regexSeparators = /[\x2E\u3002\uFF0E\uFF61]/g, // RFC 3490 separators
-
-	/** Error messages */
-	errors = {
-		'overflow': 'Overflow: input needs wider integers to process',
-		'not-basic': 'Illegal input >= 0x80 (not a basic code point)',
-		'invalid-input': 'Invalid input'
-	},
-
-	/** Convenience shortcuts */
-	baseMinusTMin = base - tMin,
-	floor = Math.floor,
-	stringFromCharCode = String.fromCharCode,
-
-	/** Temporary variable */
-	key;
-
-	/*--------------------------------------------------------------------------*/
-
-	/**
-	 * A generic error utility function.
-	 * @private
-	 * @param {String} type The error type.
-	 * @returns {Error} Throws a `RangeError` with the applicable error message.
-	 */
-	function error(type) {
-		throw RangeError(errors[type]);
-	}
-
-	/**
-	 * A generic `Array#map` utility function.
-	 * @private
-	 * @param {Array} array The array to iterate over.
-	 * @param {Function} callback The function that gets called for every array
-	 * item.
-	 * @returns {Array} A new array of values returned by the callback function.
-	 */
-	function map(array, fn) {
-		var length = array.length;
-		var result = [];
-		while (length--) {
-			result[length] = fn(array[length]);
-		}
-		return result;
-	}
-
-	/**
-	 * A simple `Array#map`-like wrapper to work with domain name strings or email
-	 * addresses.
-	 * @private
-	 * @param {String} domain The domain name or email address.
-	 * @param {Function} callback The function that gets called for every
-	 * character.
-	 * @returns {Array} A new string of characters returned by the callback
-	 * function.
-	 */
-	function mapDomain(string, fn) {
-		var parts = string.split('@');
-		var result = '';
-		if (parts.length > 1) {
-			// In email addresses, only the domain name should be punycoded. Leave
-			// the local part (i.e. everything up to `@`) intact.
-			result = parts[0] + '@';
-			string = parts[1];
-		}
-		// Avoid `split(regex)` for IE8 compatibility. See #17.
-		string = string.replace(regexSeparators, '\x2E');
-		var labels = string.split('.');
-		var encoded = map(labels, fn).join('.');
-		return result + encoded;
-	}
-
-	/**
-	 * Creates an array containing the numeric code points of each Unicode
-	 * character in the string. While JavaScript uses UCS-2 internally,
-	 * this function will convert a pair of surrogate halves (each of which
-	 * UCS-2 exposes as separate characters) into a single code point,
-	 * matching UTF-16.
-	 * @see `punycode.ucs2.encode`
-	 * @see <https://mathiasbynens.be/notes/javascript-encoding>
-	 * @memberOf punycode.ucs2
-	 * @name decode
-	 * @param {String} string The Unicode input string (UCS-2).
-	 * @returns {Array} The new array of code points.
-	 */
-	function ucs2decode(string) {
-		var output = [],
-		    counter = 0,
-		    length = string.length,
-		    value,
-		    extra;
-		while (counter < length) {
-			value = string.charCodeAt(counter++);
-			if (value >= 0xD800 && value <= 0xDBFF && counter < length) {
-				// high surrogate, and there is a next character
-				extra = string.charCodeAt(counter++);
-				if ((extra & 0xFC00) == 0xDC00) { // low surrogate
-					output.push(((value & 0x3FF) << 10) + (extra & 0x3FF) + 0x10000);
-				} else {
-					// unmatched surrogate; only append this code unit, in case the next
-					// code unit is the high surrogate of a surrogate pair
-					output.push(value);
-					counter--;
-				}
-			} else {
-				output.push(value);
-			}
-		}
-		return output;
-	}
-
-	/**
-	 * Creates a string based on an array of numeric code points.
-	 * @see `punycode.ucs2.decode`
-	 * @memberOf punycode.ucs2
-	 * @name encode
-	 * @param {Array} codePoints The array of numeric code points.
-	 * @returns {String} The new Unicode string (UCS-2).
-	 */
-	function ucs2encode(array) {
-		return map(array, function(value) {
-			var output = '';
-			if (value > 0xFFFF) {
-				value -= 0x10000;
-				output += stringFromCharCode(value >>> 10 & 0x3FF | 0xD800);
-				value = 0xDC00 | value & 0x3FF;
-			}
-			output += stringFromCharCode(value);
-			return output;
-		}).join('');
-	}
-
-	/**
-	 * Converts a basic code point into a digit/integer.
-	 * @see `digitToBasic()`
-	 * @private
-	 * @param {Number} codePoint The basic numeric code point value.
-	 * @returns {Number} The numeric value of a basic code point (for use in
-	 * representing integers) in the range `0` to `base - 1`, or `base` if
-	 * the code point does not represent a value.
-	 */
-	function basicToDigit(codePoint) {
-		if (codePoint - 48 < 10) {
-			return codePoint - 22;
-		}
-		if (codePoint - 65 < 26) {
-			return codePoint - 65;
-		}
-		if (codePoint - 97 < 26) {
-			return codePoint - 97;
-		}
-		return base;
-	}
-
-	/**
-	 * Converts a digit/integer into a basic code point.
-	 * @see `basicToDigit()`
-	 * @private
-	 * @param {Number} digit The numeric value of a basic code point.
-	 * @returns {Number} The basic code point whose value (when used for
-	 * representing integers) is `digit`, which needs to be in the range
-	 * `0` to `base - 1`. If `flag` is non-zero, the uppercase form is
-	 * used; else, the lowercase form is used. The behavior is undefined
-	 * if `flag` is non-zero and `digit` has no uppercase form.
-	 */
-	function digitToBasic(digit, flag) {
-		//  0..25 map to ASCII a..z or A..Z
-		// 26..35 map to ASCII 0..9
-		return digit + 22 + 75 * (digit < 26) - ((flag != 0) << 5);
-	}
-
-	/**
-	 * Bias adaptation function as per section 3.4 of RFC 3492.
-	 * http://tools.ietf.org/html/rfc3492#section-3.4
-	 * @private
-	 */
-	function adapt(delta, numPoints, firstTime) {
-		var k = 0;
-		delta = firstTime ? floor(delta / damp) : delta >> 1;
-		delta += floor(delta / numPoints);
-		for (/* no initialization */; delta > baseMinusTMin * tMax >> 1; k += base) {
-			delta = floor(delta / baseMinusTMin);
-		}
-		return floor(k + (baseMinusTMin + 1) * delta / (delta + skew));
-	}
-
-	/**
-	 * Converts a Punycode string of ASCII-only symbols to a string of Unicode
-	 * symbols.
-	 * @memberOf punycode
-	 * @param {String} input The Punycode string of ASCII-only symbols.
-	 * @returns {String} The resulting string of Unicode symbols.
-	 */
-	function decode(input) {
-		// Don't use UCS-2
-		var output = [],
-		    inputLength = input.length,
-		    out,
-		    i = 0,
-		    n = initialN,
-		    bias = initialBias,
-		    basic,
-		    j,
-		    index,
-		    oldi,
-		    w,
-		    k,
-		    digit,
-		    t,
-		    /** Cached calculation results */
-		    baseMinusT;
-
-		// Handle the basic code points: let `basic` be the number of input code
-		// points before the last delimiter, or `0` if there is none, then copy
-		// the first basic code points to the output.
-
-		basic = input.lastIndexOf(delimiter);
-		if (basic < 0) {
-			basic = 0;
-		}
-
-		for (j = 0; j < basic; ++j) {
-			// if it's not a basic code point
-			if (input.charCodeAt(j) >= 0x80) {
-				error('not-basic');
-			}
-			output.push(input.charCodeAt(j));
-		}
-
-		// Main decoding loop: start just after the last delimiter if any basic code
-		// points were copied; start at the beginning otherwise.
-
-		for (index = basic > 0 ? basic + 1 : 0; index < inputLength; /* no final expression */) {
-
-			// `index` is the index of the next character to be consumed.
-			// Decode a generalized variable-length integer into `delta`,
-			// which gets added to `i`. The overflow checking is easier
-			// if we increase `i` as we go, then subtract off its starting
-			// value at the end to obtain `delta`.
-			for (oldi = i, w = 1, k = base; /* no condition */; k += base) {
-
-				if (index >= inputLength) {
-					error('invalid-input');
-				}
-
-				digit = basicToDigit(input.charCodeAt(index++));
-
-				if (digit >= base || digit > floor((maxInt - i) / w)) {
-					error('overflow');
-				}
-
-				i += digit * w;
-				t = k <= bias ? tMin : (k >= bias + tMax ? tMax : k - bias);
-
-				if (digit < t) {
-					break;
-				}
-
-				baseMinusT = base - t;
-				if (w > floor(maxInt / baseMinusT)) {
-					error('overflow');
-				}
-
-				w *= baseMinusT;
-
-			}
-
-			out = output.length + 1;
-			bias = adapt(i - oldi, out, oldi == 0);
-
-			// `i` was supposed to wrap around from `out` to `0`,
-			// incrementing `n` each time, so we'll fix that now:
-			if (floor(i / out) > maxInt - n) {
-				error('overflow');
-			}
-
-			n += floor(i / out);
-			i %= out;
-
-			// Insert `n` at position `i` of the output
-			output.splice(i++, 0, n);
-
-		}
-
-		return ucs2encode(output);
-	}
-
-	/**
-	 * Converts a string of Unicode symbols (e.g. a domain name label) to a
-	 * Punycode string of ASCII-only symbols.
-	 * @memberOf punycode
-	 * @param {String} input The string of Unicode symbols.
-	 * @returns {String} The resulting Punycode string of ASCII-only symbols.
-	 */
-	function encode(input) {
-		var n,
-		    delta,
-		    handledCPCount,
-		    basicLength,
-		    bias,
-		    j,
-		    m,
-		    q,
-		    k,
-		    t,
-		    currentValue,
-		    output = [],
-		    /** `inputLength` will hold the number of code points in `input`. */
-		    inputLength,
-		    /** Cached calculation results */
-		    handledCPCountPlusOne,
-		    baseMinusT,
-		    qMinusT;
-
-		// Convert the input in UCS-2 to Unicode
-		input = ucs2decode(input);
-
-		// Cache the length
-		inputLength = input.length;
-
-		// Initialize the state
-		n = initialN;
-		delta = 0;
-		bias = initialBias;
-
-		// Handle the basic code points
-		for (j = 0; j < inputLength; ++j) {
-			currentValue = input[j];
-			if (currentValue < 0x80) {
-				output.push(stringFromCharCode(currentValue));
-			}
-		}
-
-		handledCPCount = basicLength = output.length;
-
-		// `handledCPCount` is the number of code points that have been handled;
-		// `basicLength` is the number of basic code points.
-
-		// Finish the basic string - if it is not empty - with a delimiter
-		if (basicLength) {
-			output.push(delimiter);
-		}
-
-		// Main encoding loop:
-		while (handledCPCount < inputLength) {
-
-			// All non-basic code points < n have been handled already. Find the next
-			// larger one:
-			for (m = maxInt, j = 0; j < inputLength; ++j) {
-				currentValue = input[j];
-				if (currentValue >= n && currentValue < m) {
-					m = currentValue;
-				}
-			}
-
-			// Increase `delta` enough to advance the decoder's <n,i> state to <m,0>,
-			// but guard against overflow
-			handledCPCountPlusOne = handledCPCount + 1;
-			if (m - n > floor((maxInt - delta) / handledCPCountPlusOne)) {
-				error('overflow');
-			}
-
-			delta += (m - n) * handledCPCountPlusOne;
-			n = m;
-
-			for (j = 0; j < inputLength; ++j) {
-				currentValue = input[j];
-
-				if (currentValue < n && ++delta > maxInt) {
-					error('overflow');
-				}
-
-				if (currentValue == n) {
-					// Represent delta as a generalized variable-length integer
-					for (q = delta, k = base; /* no condition */; k += base) {
-						t = k <= bias ? tMin : (k >= bias + tMax ? tMax : k - bias);
-						if (q < t) {
-							break;
-						}
-						qMinusT = q - t;
-						baseMinusT = base - t;
-						output.push(
-							stringFromCharCode(digitToBasic(t + qMinusT % baseMinusT, 0))
-						);
-						q = floor(qMinusT / baseMinusT);
-					}
-
-					output.push(stringFromCharCode(digitToBasic(q, 0)));
-					bias = adapt(delta, handledCPCountPlusOne, handledCPCount == basicLength);
-					delta = 0;
-					++handledCPCount;
-				}
-			}
-
-			++delta;
-			++n;
-
-		}
-		return output.join('');
-	}
-
-	/**
-	 * Converts a Punycode string representing a domain name or an email address
-	 * to Unicode. Only the Punycoded parts of the input will be converted, i.e.
-	 * it doesn't matter if you call it on a string that has already been
-	 * converted to Unicode.
-	 * @memberOf punycode
-	 * @param {String} input The Punycoded domain name or email address to
-	 * convert to Unicode.
-	 * @returns {String} The Unicode representation of the given Punycode
-	 * string.
-	 */
-	function toUnicode(input) {
-		return mapDomain(input, function(string) {
-			return regexPunycode.test(string)
-				? decode(string.slice(4).toLowerCase())
-				: string;
-		});
-	}
-
-	/**
-	 * Converts a Unicode string representing a domain name or an email address to
-	 * Punycode. Only the non-ASCII parts of the domain name will be converted,
-	 * i.e. it doesn't matter if you call it with a domain that's already in
-	 * ASCII.
-	 * @memberOf punycode
-	 * @param {String} input The domain name or email address to convert, as a
-	 * Unicode string.
-	 * @returns {String} The Punycode representation of the given domain name or
-	 * email address.
-	 */
-	function toASCII(input) {
-		return mapDomain(input, function(string) {
-			return regexNonASCII.test(string)
-				? 'xn--' + encode(string)
-				: string;
-		});
-	}
-
-	/*--------------------------------------------------------------------------*/
-
-	/** Define the public API */
-	punycode = {
-		/**
-		 * A string representing the current Punycode.js version number.
-		 * @memberOf punycode
-		 * @type String
-		 */
-		'version': '1.3.2',
-		/**
-		 * An object of methods to convert from JavaScript's internal character
-		 * representation (UCS-2) to Unicode code points, and back.
-		 * @see <https://mathiasbynens.be/notes/javascript-encoding>
-		 * @memberOf punycode
-		 * @type Object
-		 */
-		'ucs2': {
-			'decode': ucs2decode,
-			'encode': ucs2encode
-		},
-		'decode': decode,
-		'encode': encode,
-		'toASCII': toASCII,
-		'toUnicode': toUnicode
-	};
-
-	/** Expose `punycode` */
-	// Some AMD build optimizers, like r.js, check for specific condition patterns
-	// like the following:
-	if (
-		true
-	) {
-		!(__WEBPACK_AMD_DEFINE_RESULT__ = (function() {
-			return punycode;
-		}).call(exports, __webpack_require__, exports, module),
-				__WEBPACK_AMD_DEFINE_RESULT__ !== undefined && (module.exports = __WEBPACK_AMD_DEFINE_RESULT__));
-	} else {}
-
-}(this));
-
-/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./../webpack/buildin/module.js */ "./node_modules/webpack/buildin/module.js")(module), __webpack_require__(/*! ./../webpack/buildin/global.js */ "./node_modules/webpack/buildin/global.js")))
-
-/***/ }),
-
-/***/ "./node_modules/querystring-es3/decode.js":
-/*!************************************************!*\
-  !*** ./node_modules/querystring-es3/decode.js ***!
-  \************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-// Copyright Joyent, Inc. and other Node contributors.
-//
-// Permission is hereby granted, free of charge, to any person obtaining a
-// copy of this software and associated documentation files (the
-// "Software"), to deal in the Software without restriction, including
-// without limitation the rights to use, copy, modify, merge, publish,
-// distribute, sublicense, and/or sell copies of the Software, and to permit
-// persons to whom the Software is furnished to do so, subject to the
-// following conditions:
-//
-// The above copyright notice and this permission notice shall be included
-// in all copies or substantial portions of the Software.
-//
-// THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
-// OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-// MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN
-// NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
-// DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
-// OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
-// USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-
-
-// If obj.hasOwnProperty has been overridden, then calling
-// obj.hasOwnProperty(prop) will break.
-// See: https://github.com/joyent/node/issues/1707
-function hasOwnProperty(obj, prop) {
-  return Object.prototype.hasOwnProperty.call(obj, prop);
-}
-
-module.exports = function(qs, sep, eq, options) {
-  sep = sep || '&';
-  eq = eq || '=';
-  var obj = {};
-
-  if (typeof qs !== 'string' || qs.length === 0) {
-    return obj;
-  }
-
-  var regexp = /\+/g;
-  qs = qs.split(sep);
-
-  var maxKeys = 1000;
-  if (options && typeof options.maxKeys === 'number') {
-    maxKeys = options.maxKeys;
-  }
-
-  var len = qs.length;
-  // maxKeys <= 0 means that we should not limit keys count
-  if (maxKeys > 0 && len > maxKeys) {
-    len = maxKeys;
-  }
-
-  for (var i = 0; i < len; ++i) {
-    var x = qs[i].replace(regexp, '%20'),
-        idx = x.indexOf(eq),
-        kstr, vstr, k, v;
-
-    if (idx >= 0) {
-      kstr = x.substr(0, idx);
-      vstr = x.substr(idx + 1);
-    } else {
-      kstr = x;
-      vstr = '';
-    }
-
-    k = decodeURIComponent(kstr);
-    v = decodeURIComponent(vstr);
-
-    if (!hasOwnProperty(obj, k)) {
-      obj[k] = v;
-    } else if (isArray(obj[k])) {
-      obj[k].push(v);
-    } else {
-      obj[k] = [obj[k], v];
-    }
-  }
-
-  return obj;
-};
-
-var isArray = Array.isArray || function (xs) {
-  return Object.prototype.toString.call(xs) === '[object Array]';
-};
-
-
-/***/ }),
-
-/***/ "./node_modules/querystring-es3/encode.js":
-/*!************************************************!*\
-  !*** ./node_modules/querystring-es3/encode.js ***!
-  \************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-// Copyright Joyent, Inc. and other Node contributors.
-//
-// Permission is hereby granted, free of charge, to any person obtaining a
-// copy of this software and associated documentation files (the
-// "Software"), to deal in the Software without restriction, including
-// without limitation the rights to use, copy, modify, merge, publish,
-// distribute, sublicense, and/or sell copies of the Software, and to permit
-// persons to whom the Software is furnished to do so, subject to the
-// following conditions:
-//
-// The above copyright notice and this permission notice shall be included
-// in all copies or substantial portions of the Software.
-//
-// THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
-// OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-// MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN
-// NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
-// DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
-// OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
-// USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-
-
-var stringifyPrimitive = function(v) {
-  switch (typeof v) {
-    case 'string':
-      return v;
-
-    case 'boolean':
-      return v ? 'true' : 'false';
-
-    case 'number':
-      return isFinite(v) ? v : '';
-
-    default:
-      return '';
-  }
-};
-
-module.exports = function(obj, sep, eq, name) {
-  sep = sep || '&';
-  eq = eq || '=';
-  if (obj === null) {
-    obj = undefined;
-  }
-
-  if (typeof obj === 'object') {
-    return map(objectKeys(obj), function(k) {
-      var ks = encodeURIComponent(stringifyPrimitive(k)) + eq;
-      if (isArray(obj[k])) {
-        return map(obj[k], function(v) {
-          return ks + encodeURIComponent(stringifyPrimitive(v));
-        }).join(sep);
-      } else {
-        return ks + encodeURIComponent(stringifyPrimitive(obj[k]));
-      }
-    }).join(sep);
-
-  }
-
-  if (!name) return '';
-  return encodeURIComponent(stringifyPrimitive(name)) + eq +
-         encodeURIComponent(stringifyPrimitive(obj));
-};
-
-var isArray = Array.isArray || function (xs) {
-  return Object.prototype.toString.call(xs) === '[object Array]';
-};
-
-function map (xs, f) {
-  if (xs.map) return xs.map(f);
-  var res = [];
-  for (var i = 0; i < xs.length; i++) {
-    res.push(f(xs[i], i));
-  }
-  return res;
-}
-
-var objectKeys = Object.keys || function (obj) {
-  var res = [];
-  for (var key in obj) {
-    if (Object.prototype.hasOwnProperty.call(obj, key)) res.push(key);
-  }
-  return res;
-};
-
-
-/***/ }),
-
-/***/ "./node_modules/querystring-es3/index.js":
-/*!***********************************************!*\
-  !*** ./node_modules/querystring-es3/index.js ***!
-  \***********************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
-
-exports.decode = exports.parse = __webpack_require__(/*! ./decode */ "./node_modules/querystring-es3/decode.js");
-exports.encode = exports.stringify = __webpack_require__(/*! ./encode */ "./node_modules/querystring-es3/encode.js");
-
-
-/***/ }),
-
-/***/ "./node_modules/raf/index.js":
-/*!***********************************!*\
-  !*** ./node_modules/raf/index.js ***!
-  \***********************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-/* WEBPACK VAR INJECTION */(function(global) {var now = __webpack_require__(/*! performance-now */ "./node_modules/performance-now/lib/performance-now.js")
-  , root = typeof window === 'undefined' ? global : window
-  , vendors = ['moz', 'webkit']
-  , suffix = 'AnimationFrame'
-  , raf = root['request' + suffix]
-  , caf = root['cancel' + suffix] || root['cancelRequest' + suffix]
-
-for(var i = 0; !raf && i < vendors.length; i++) {
-  raf = root[vendors[i] + 'Request' + suffix]
-  caf = root[vendors[i] + 'Cancel' + suffix]
-      || root[vendors[i] + 'CancelRequest' + suffix]
-}
-
-// Some versions of FF have rAF but not cAF
-if(!raf || !caf) {
-  var last = 0
-    , id = 0
-    , queue = []
-    , frameDuration = 1000 / 60
-
-  raf = function(callback) {
-    if(queue.length === 0) {
-      var _now = now()
-        , next = Math.max(0, frameDuration - (_now - last))
-      last = next + _now
-      setTimeout(function() {
-        var cp = queue.slice(0)
-        // Clear queue here to prevent
-        // callbacks from appending listeners
-        // to the current frame's queue
-        queue.length = 0
-        for(var i = 0; i < cp.length; i++) {
-          if(!cp[i].cancelled) {
-            try{
-              cp[i].callback(last)
-            } catch(e) {
-              setTimeout(function() { throw e }, 0)
-            }
-          }
-        }
-      }, Math.round(next))
-    }
-    queue.push({
-      handle: ++id,
-      callback: callback,
-      cancelled: false
-    })
-    return id
-  }
-
-  caf = function(handle) {
-    for(var i = 0; i < queue.length; i++) {
-      if(queue[i].handle === handle) {
-        queue[i].cancelled = true
-      }
-    }
-  }
-}
-
-module.exports = function(fn) {
-  // Wrap in a new function to prevent
-  // `cancel` potentially being assigned
-  // to the native rAF function
-  return raf.call(root, fn)
-}
-module.exports.cancel = function() {
-  caf.apply(root, arguments)
-}
-module.exports.polyfill = function(object) {
-  if (!object) {
-    object = root;
-  }
-  object.requestAnimationFrame = raf
-  object.cancelAnimationFrame = caf
-}
-
-/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./../webpack/buildin/global.js */ "./node_modules/webpack/buildin/global.js")))
-
-/***/ }),
-
-/***/ "./node_modules/react-is/cjs/react-is.development.js":
-/*!***********************************************************!*\
-  !*** ./node_modules/react-is/cjs/react-is.development.js ***!
-  \***********************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-/** @license React v16.8.6
- * react-is.development.js
- *
- * Copyright (c) Facebook, Inc. and its affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */
-
-
-
-
-
-if (true) {
-  (function() {
-'use strict';
-
-Object.defineProperty(exports, '__esModule', { value: true });
-
-// The Symbol used to tag the ReactElement-like types. If there is no native Symbol
-// nor polyfill, then a plain number is used for performance.
-var hasSymbol = typeof Symbol === 'function' && Symbol.for;
-
-var REACT_ELEMENT_TYPE = hasSymbol ? Symbol.for('react.element') : 0xeac7;
-var REACT_PORTAL_TYPE = hasSymbol ? Symbol.for('react.portal') : 0xeaca;
-var REACT_FRAGMENT_TYPE = hasSymbol ? Symbol.for('react.fragment') : 0xeacb;
-var REACT_STRICT_MODE_TYPE = hasSymbol ? Symbol.for('react.strict_mode') : 0xeacc;
-var REACT_PROFILER_TYPE = hasSymbol ? Symbol.for('react.profiler') : 0xead2;
-var REACT_PROVIDER_TYPE = hasSymbol ? Symbol.for('react.provider') : 0xeacd;
-var REACT_CONTEXT_TYPE = hasSymbol ? Symbol.for('react.context') : 0xeace;
-var REACT_ASYNC_MODE_TYPE = hasSymbol ? Symbol.for('react.async_mode') : 0xeacf;
-var REACT_CONCURRENT_MODE_TYPE = hasSymbol ? Symbol.for('react.concurrent_mode') : 0xeacf;
-var REACT_FORWARD_REF_TYPE = hasSymbol ? Symbol.for('react.forward_ref') : 0xead0;
-var REACT_SUSPENSE_TYPE = hasSymbol ? Symbol.for('react.suspense') : 0xead1;
-var REACT_MEMO_TYPE = hasSymbol ? Symbol.for('react.memo') : 0xead3;
-var REACT_LAZY_TYPE = hasSymbol ? Symbol.for('react.lazy') : 0xead4;
-
-function isValidElementType(type) {
-  return typeof type === 'string' || typeof type === 'function' ||
-  // Note: its typeof might be other than 'symbol' or 'number' if it's a polyfill.
-  type === REACT_FRAGMENT_TYPE || type === REACT_CONCURRENT_MODE_TYPE || type === REACT_PROFILER_TYPE || type === REACT_STRICT_MODE_TYPE || type === REACT_SUSPENSE_TYPE || typeof type === 'object' && type !== null && (type.$$typeof === REACT_LAZY_TYPE || type.$$typeof === REACT_MEMO_TYPE || type.$$typeof === REACT_PROVIDER_TYPE || type.$$typeof === REACT_CONTEXT_TYPE || type.$$typeof === REACT_FORWARD_REF_TYPE);
-}
-
-/**
- * Forked from fbjs/warning:
- * https://github.com/facebook/fbjs/blob/e66ba20ad5be433eb54423f2b097d829324d9de6/packages/fbjs/src/__forks__/warning.js
- *
- * Only change is we use console.warn instead of console.error,
- * and do nothing when 'console' is not supported.
- * This really simplifies the code.
- * ---
- * Similar to invariant but only logs a warning if the condition is not met.
- * This can be used to log issues in development environments in critical
- * paths. Removing the logging code for production environments will keep the
- * same logic and follow the same code paths.
- */
-
-var lowPriorityWarning = function () {};
-
-{
-  var printWarning = function (format) {
-    for (var _len = arguments.length, args = Array(_len > 1 ? _len - 1 : 0), _key = 1; _key < _len; _key++) {
-      args[_key - 1] = arguments[_key];
-    }
-
-    var argIndex = 0;
-    var message = 'Warning: ' + format.replace(/%s/g, function () {
-      return args[argIndex++];
-    });
-    if (typeof console !== 'undefined') {
-      console.warn(message);
-    }
-    try {
-      // --- Welcome to debugging React ---
-      // This error was thrown as a convenience so that you can use this stack
-      // to find the callsite that caused this warning to fire.
-      throw new Error(message);
-    } catch (x) {}
-  };
-
-  lowPriorityWarning = function (condition, format) {
-    if (format === undefined) {
-      throw new Error('`lowPriorityWarning(condition, format, ...args)` requires a warning ' + 'message argument');
-    }
-    if (!condition) {
-      for (var _len2 = arguments.length, args = Array(_len2 > 2 ? _len2 - 2 : 0), _key2 = 2; _key2 < _len2; _key2++) {
-        args[_key2 - 2] = arguments[_key2];
-      }
-
-      printWarning.apply(undefined, [format].concat(args));
-    }
-  };
-}
-
-var lowPriorityWarning$1 = lowPriorityWarning;
-
-function typeOf(object) {
-  if (typeof object === 'object' && object !== null) {
-    var $$typeof = object.$$typeof;
-    switch ($$typeof) {
-      case REACT_ELEMENT_TYPE:
-        var type = object.type;
-
-        switch (type) {
-          case REACT_ASYNC_MODE_TYPE:
-          case REACT_CONCURRENT_MODE_TYPE:
-          case REACT_FRAGMENT_TYPE:
-          case REACT_PROFILER_TYPE:
-          case REACT_STRICT_MODE_TYPE:
-          case REACT_SUSPENSE_TYPE:
-            return type;
-          default:
-            var $$typeofType = type && type.$$typeof;
-
-            switch ($$typeofType) {
-              case REACT_CONTEXT_TYPE:
-              case REACT_FORWARD_REF_TYPE:
-              case REACT_PROVIDER_TYPE:
-                return $$typeofType;
-              default:
-                return $$typeof;
-            }
-        }
-      case REACT_LAZY_TYPE:
-      case REACT_MEMO_TYPE:
-      case REACT_PORTAL_TYPE:
-        return $$typeof;
-    }
-  }
-
-  return undefined;
-}
-
-// AsyncMode is deprecated along with isAsyncMode
-var AsyncMode = REACT_ASYNC_MODE_TYPE;
-var ConcurrentMode = REACT_CONCURRENT_MODE_TYPE;
-var ContextConsumer = REACT_CONTEXT_TYPE;
-var ContextProvider = REACT_PROVIDER_TYPE;
-var Element = REACT_ELEMENT_TYPE;
-var ForwardRef = REACT_FORWARD_REF_TYPE;
-var Fragment = REACT_FRAGMENT_TYPE;
-var Lazy = REACT_LAZY_TYPE;
-var Memo = REACT_MEMO_TYPE;
-var Portal = REACT_PORTAL_TYPE;
-var Profiler = REACT_PROFILER_TYPE;
-var StrictMode = REACT_STRICT_MODE_TYPE;
-var Suspense = REACT_SUSPENSE_TYPE;
-
-var hasWarnedAboutDeprecatedIsAsyncMode = false;
-
-// AsyncMode should be deprecated
-function isAsyncMode(object) {
-  {
-    if (!hasWarnedAboutDeprecatedIsAsyncMode) {
-      hasWarnedAboutDeprecatedIsAsyncMode = true;
-      lowPriorityWarning$1(false, 'The ReactIs.isAsyncMode() alias has been deprecated, ' + 'and will be removed in React 17+. Update your code to use ' + 'ReactIs.isConcurrentMode() instead. It has the exact same API.');
-    }
-  }
-  return isConcurrentMode(object) || typeOf(object) === REACT_ASYNC_MODE_TYPE;
-}
-function isConcurrentMode(object) {
-  return typeOf(object) === REACT_CONCURRENT_MODE_TYPE;
-}
-function isContextConsumer(object) {
-  return typeOf(object) === REACT_CONTEXT_TYPE;
-}
-function isContextProvider(object) {
-  return typeOf(object) === REACT_PROVIDER_TYPE;
-}
-function isElement(object) {
-  return typeof object === 'object' && object !== null && object.$$typeof === REACT_ELEMENT_TYPE;
-}
-function isForwardRef(object) {
-  return typeOf(object) === REACT_FORWARD_REF_TYPE;
-}
-function isFragment(object) {
-  return typeOf(object) === REACT_FRAGMENT_TYPE;
-}
-function isLazy(object) {
-  return typeOf(object) === REACT_LAZY_TYPE;
-}
-function isMemo(object) {
-  return typeOf(object) === REACT_MEMO_TYPE;
-}
-function isPortal(object) {
-  return typeOf(object) === REACT_PORTAL_TYPE;
-}
-function isProfiler(object) {
-  return typeOf(object) === REACT_PROFILER_TYPE;
-}
-function isStrictMode(object) {
-  return typeOf(object) === REACT_STRICT_MODE_TYPE;
-}
-function isSuspense(object) {
-  return typeOf(object) === REACT_SUSPENSE_TYPE;
-}
-
-exports.typeOf = typeOf;
-exports.AsyncMode = AsyncMode;
-exports.ConcurrentMode = ConcurrentMode;
-exports.ContextConsumer = ContextConsumer;
-exports.ContextProvider = ContextProvider;
-exports.Element = Element;
-exports.ForwardRef = ForwardRef;
-exports.Fragment = Fragment;
-exports.Lazy = Lazy;
-exports.Memo = Memo;
-exports.Portal = Portal;
-exports.Profiler = Profiler;
-exports.StrictMode = StrictMode;
-exports.Suspense = Suspense;
-exports.isValidElementType = isValidElementType;
-exports.isAsyncMode = isAsyncMode;
-exports.isConcurrentMode = isConcurrentMode;
-exports.isContextConsumer = isContextConsumer;
-exports.isContextProvider = isContextProvider;
-exports.isElement = isElement;
-exports.isForwardRef = isForwardRef;
-exports.isFragment = isFragment;
-exports.isLazy = isLazy;
-exports.isMemo = isMemo;
-exports.isPortal = isPortal;
-exports.isProfiler = isProfiler;
-exports.isStrictMode = isStrictMode;
-exports.isSuspense = isSuspense;
-  })();
-}
-
-
-/***/ }),
-
-/***/ "./node_modules/react-is/index.js":
-/*!****************************************!*\
-  !*** ./node_modules/react-is/index.js ***!
-  \****************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
-
-if (false) {} else {
-  module.exports = __webpack_require__(/*! ./cjs/react-is.development.js */ "./node_modules/react-is/cjs/react-is.development.js");
-}
-
-
-/***/ }),
-
-/***/ "./node_modules/react-lifecycles-compat/react-lifecycles-compat.es.js":
-/*!****************************************************************************!*\
-  !*** ./node_modules/react-lifecycles-compat/react-lifecycles-compat.es.js ***!
-  \****************************************************************************/
-/*! exports provided: polyfill */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "polyfill", function() { return polyfill; });
-/**
- * Copyright (c) 2013-present, Facebook, Inc.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */
-
-function componentWillMount() {
-  // Call this.constructor.gDSFP to support sub-classes.
-  var state = this.constructor.getDerivedStateFromProps(this.props, this.state);
-  if (state !== null && state !== undefined) {
-    this.setState(state);
-  }
-}
-
-function componentWillReceiveProps(nextProps) {
-  // Call this.constructor.gDSFP to support sub-classes.
-  // Use the setState() updater to ensure state isn't stale in certain edge cases.
-  function updater(prevState) {
-    var state = this.constructor.getDerivedStateFromProps(nextProps, prevState);
-    return state !== null && state !== undefined ? state : null;
-  }
-  // Binding "this" is important for shallow renderer support.
-  this.setState(updater.bind(this));
-}
-
-function componentWillUpdate(nextProps, nextState) {
-  try {
-    var prevProps = this.props;
-    var prevState = this.state;
-    this.props = nextProps;
-    this.state = nextState;
-    this.__reactInternalSnapshotFlag = true;
-    this.__reactInternalSnapshot = this.getSnapshotBeforeUpdate(
-      prevProps,
-      prevState
-    );
-  } finally {
-    this.props = prevProps;
-    this.state = prevState;
-  }
-}
-
-// React may warn about cWM/cWRP/cWU methods being deprecated.
-// Add a flag to suppress these warnings for this special case.
-componentWillMount.__suppressDeprecationWarning = true;
-componentWillReceiveProps.__suppressDeprecationWarning = true;
-componentWillUpdate.__suppressDeprecationWarning = true;
-
-function polyfill(Component) {
-  var prototype = Component.prototype;
-
-  if (!prototype || !prototype.isReactComponent) {
-    throw new Error('Can only polyfill class components');
-  }
-
-  if (
-    typeof Component.getDerivedStateFromProps !== 'function' &&
-    typeof prototype.getSnapshotBeforeUpdate !== 'function'
-  ) {
-    return Component;
-  }
-
-  // If new component APIs are defined, "unsafe" lifecycles won't be called.
-  // Error if any of these lifecycles are present,
-  // Because they would work differently between older and newer (16.3+) versions of React.
-  var foundWillMountName = null;
-  var foundWillReceivePropsName = null;
-  var foundWillUpdateName = null;
-  if (typeof prototype.componentWillMount === 'function') {
-    foundWillMountName = 'componentWillMount';
-  } else if (typeof prototype.UNSAFE_componentWillMount === 'function') {
-    foundWillMountName = 'UNSAFE_componentWillMount';
-  }
-  if (typeof prototype.componentWillReceiveProps === 'function') {
-    foundWillReceivePropsName = 'componentWillReceiveProps';
-  } else if (typeof prototype.UNSAFE_componentWillReceiveProps === 'function') {
-    foundWillReceivePropsName = 'UNSAFE_componentWillReceiveProps';
-  }
-  if (typeof prototype.componentWillUpdate === 'function') {
-    foundWillUpdateName = 'componentWillUpdate';
-  } else if (typeof prototype.UNSAFE_componentWillUpdate === 'function') {
-    foundWillUpdateName = 'UNSAFE_componentWillUpdate';
-  }
-  if (
-    foundWillMountName !== null ||
-    foundWillReceivePropsName !== null ||
-    foundWillUpdateName !== null
-  ) {
-    var componentName = Component.displayName || Component.name;
-    var newApiName =
-      typeof Component.getDerivedStateFromProps === 'function'
-        ? 'getDerivedStateFromProps()'
-        : 'getSnapshotBeforeUpdate()';
-
-    throw Error(
-      'Unsafe legacy lifecycles will not be called for components using new component APIs.\n\n' +
-        componentName +
-        ' uses ' +
-        newApiName +
-        ' but also contains the following legacy lifecycles:' +
-        (foundWillMountName !== null ? '\n  ' + foundWillMountName : '') +
-        (foundWillReceivePropsName !== null
-          ? '\n  ' + foundWillReceivePropsName
-          : '') +
-        (foundWillUpdateName !== null ? '\n  ' + foundWillUpdateName : '') +
-        '\n\nThe above lifecycles should be removed. Learn more about this warning here:\n' +
-        'https://fb.me/react-async-component-lifecycle-hooks'
-    );
-  }
-
-  // React <= 16.2 does not support static getDerivedStateFromProps.
-  // As a workaround, use cWM and cWRP to invoke the new static lifecycle.
-  // Newer versions of React will ignore these lifecycles if gDSFP exists.
-  if (typeof Component.getDerivedStateFromProps === 'function') {
-    prototype.componentWillMount = componentWillMount;
-    prototype.componentWillReceiveProps = componentWillReceiveProps;
-  }
-
-  // React <= 16.2 does not support getSnapshotBeforeUpdate.
-  // As a workaround, use cWU to invoke the new lifecycle.
-  // Newer versions of React will ignore that lifecycle if gSBU exists.
-  if (typeof prototype.getSnapshotBeforeUpdate === 'function') {
-    if (typeof prototype.componentDidUpdate !== 'function') {
-      throw new Error(
-        'Cannot polyfill getSnapshotBeforeUpdate() for components that do not define componentDidUpdate() on the prototype'
-      );
-    }
-
-    prototype.componentWillUpdate = componentWillUpdate;
-
-    var componentDidUpdate = prototype.componentDidUpdate;
-
-    prototype.componentDidUpdate = function componentDidUpdatePolyfill(
-      prevProps,
-      prevState,
-      maybeSnapshot
-    ) {
-      // 16.3+ will not execute our will-update method;
-      // It will pass a snapshot value to did-update though.
-      // Older versions will require our polyfilled will-update value.
-      // We need to handle both cases, but can't just check for the presence of "maybeSnapshot",
-      // Because for <= 15.x versions this might be a "prevContext" object.
-      // We also can't just check "__reactInternalSnapshot",
-      // Because get-snapshot might return a falsy value.
-      // So check for the explicit __reactInternalSnapshotFlag flag to determine behavior.
-      var snapshot = this.__reactInternalSnapshotFlag
-        ? this.__reactInternalSnapshot
-        : maybeSnapshot;
-
-      componentDidUpdate.call(this, prevProps, prevState, snapshot);
-    };
-  }
-
-  return Component;
-}
-
-
-
-
-/***/ }),
-
-/***/ "./node_modules/react-move/Animate/index.js":
-/*!**************************************************!*\
-  !*** ./node_modules/react-move/Animate/index.js ***!
-  \**************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
-
-Object.defineProperty(exports, "__esModule", {
-  value: true
-});
-exports.default = void 0;
-
-var _react = _interopRequireWildcard(__webpack_require__(/*! react */ "./node_modules/react/index.js"));
-
-var _propTypes = _interopRequireDefault(__webpack_require__(/*! prop-types */ "./node_modules/react-move/node_modules/prop-types/index.js"));
-
-var _NodeGroup = _interopRequireDefault(__webpack_require__(/*! ../NodeGroup */ "./node_modules/react-move/NodeGroup/index.js"));
-
-var _utils = __webpack_require__(/*! ../utils */ "./node_modules/react-move/utils.js");
-
-function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
-
-function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) { var desc = Object.defineProperty && Object.getOwnPropertyDescriptor ? Object.getOwnPropertyDescriptor(obj, key) : {}; if (desc.get || desc.set) { Object.defineProperty(newObj, key, desc); } else { newObj[key] = obj[key]; } } } } newObj.default = obj; return newObj; } }
-
-function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
-
-function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
-
-function _defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } }
-
-function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _defineProperties(Constructor.prototype, protoProps); if (staticProps) _defineProperties(Constructor, staticProps); return Constructor; }
-
-function _possibleConstructorReturn(self, call) { if (call && (_typeof(call) === "object" || typeof call === "function")) { return call; } return _assertThisInitialized(self); }
-
-function _assertThisInitialized(self) { if (self === void 0) { throw new ReferenceError("this hasn't been initialised - super() hasn't been called"); } return self; }
-
-function _getPrototypeOf(o) { _getPrototypeOf = Object.setPrototypeOf ? Object.getPrototypeOf : function _getPrototypeOf(o) { return o.__proto__ || Object.getPrototypeOf(o); }; return _getPrototypeOf(o); }
-
-function _inherits(subClass, superClass) { if (typeof superClass !== "function" && superClass !== null) { throw new TypeError("Super expression must either be null or a function"); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, writable: true, configurable: true } }); if (superClass) _setPrototypeOf(subClass, superClass); }
-
-function _setPrototypeOf(o, p) { _setPrototypeOf = Object.setPrototypeOf || function _setPrototypeOf(o, p) { o.__proto__ = p; return o; }; return _setPrototypeOf(o, p); }
-
-var keyAccessor = function keyAccessor() {
-  return '$$key$$';
-};
-
-var Animate = function (_Component) {
-  _inherits(Animate, _Component);
-
-  function Animate() {
-    _classCallCheck(this, Animate);
-
-    return _possibleConstructorReturn(this, _getPrototypeOf(Animate).apply(this, arguments));
-  }
-
-  _createClass(Animate, [{
-    key: "render",
-    value: function render() {
-      var _this$props = this.props,
-          show = _this$props.show,
-          start = _this$props.start,
-          enter = _this$props.enter,
-          update = _this$props.update,
-          leave = _this$props.leave,
-          interpolation = _this$props.interpolation,
-          children = _this$props.children;
-      var data = typeof start === 'function' ? start() : start;
-      return _react.default.createElement(_NodeGroup.default, {
-        data: show ? [data] : [],
-        start: function start() {
-          return data;
-        },
-        keyAccessor: keyAccessor,
-        interpolation: interpolation,
-        enter: typeof enter === 'function' ? enter : function () {
-          return enter;
-        },
-        update: typeof update === 'function' ? update : function () {
-          return update;
-        },
-        leave: typeof leave === 'function' ? leave : function () {
-          return leave;
-        }
-      }, function (nodes) {
-        if (!nodes[0]) {
-          return null;
-        }
-
-        var renderedChildren = children(nodes[0].state);
-        return renderedChildren && _react.default.Children.only(renderedChildren);
-      });
-    }
-  }]);
-
-  return Animate;
-}(_react.Component);
-
-Animate.propTypes =  true ? {
-  show: _propTypes.default.bool,
-  interpolation: _propTypes.default.func,
-  start: _propTypes.default.oneOfType([_propTypes.default.func, _propTypes.default.object]),
-  enter: _propTypes.default.oneOfType([_propTypes.default.func, _propTypes.default.array, _propTypes.default.object]),
-  update: _propTypes.default.oneOfType([_propTypes.default.func, _propTypes.default.array, _propTypes.default.object]),
-  leave: _propTypes.default.oneOfType([_propTypes.default.func, _propTypes.default.array, _propTypes.default.object]),
-  children: _propTypes.default.func.isRequired
-} : undefined;
-Animate.defaultProps = {
-  show: true,
-  interpolation: _utils.numeric
-};
-var _default = Animate;
-exports.default = _default;
-
-/***/ }),
-
-/***/ "./node_modules/react-move/NodeGroup/index.js":
-/*!****************************************************!*\
-  !*** ./node_modules/react-move/NodeGroup/index.js ***!
-  \****************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
-
-Object.defineProperty(exports, "__esModule", {
-  value: true
-});
-exports.default = void 0;
-
-var _react = _interopRequireWildcard(__webpack_require__(/*! react */ "./node_modules/react/index.js"));
-
-var _reactLifecyclesCompat = __webpack_require__(/*! react-lifecycles-compat */ "./node_modules/react-lifecycles-compat/react-lifecycles-compat.es.js");
-
-var _propTypes = _interopRequireDefault(__webpack_require__(/*! prop-types */ "./node_modules/react-move/node_modules/prop-types/index.js"));
-
-var _kapellmeister = __webpack_require__(/*! kapellmeister */ "./node_modules/kapellmeister/es/index.js");
-
-var _mergeKeys = _interopRequireDefault(__webpack_require__(/*! ../core/mergeKeys */ "./node_modules/react-move/core/mergeKeys.js"));
-
-var _types = __webpack_require__(/*! ../core/types */ "./node_modules/react-move/core/types.js");
-
-var _utils = __webpack_require__(/*! ../utils */ "./node_modules/react-move/utils.js");
-
-function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
-
-function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) { var desc = Object.defineProperty && Object.getOwnPropertyDescriptor ? Object.getOwnPropertyDescriptor(obj, key) : {}; if (desc.get || desc.set) { Object.defineProperty(newObj, key, desc); } else { newObj[key] = obj[key]; } } } } newObj.default = obj; return newObj; } }
-
-function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
-
-function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
-
-function _defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } }
-
-function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _defineProperties(Constructor.prototype, protoProps); if (staticProps) _defineProperties(Constructor, staticProps); return Constructor; }
-
-function _possibleConstructorReturn(self, call) { if (call && (_typeof(call) === "object" || typeof call === "function")) { return call; } return _assertThisInitialized(self); }
-
-function _getPrototypeOf(o) { _getPrototypeOf = Object.setPrototypeOf ? Object.getPrototypeOf : function _getPrototypeOf(o) { return o.__proto__ || Object.getPrototypeOf(o); }; return _getPrototypeOf(o); }
-
-function _assertThisInitialized(self) { if (self === void 0) { throw new ReferenceError("this hasn't been initialised - super() hasn't been called"); } return self; }
-
-function _inherits(subClass, superClass) { if (typeof superClass !== "function" && superClass !== null) { throw new TypeError("Super expression must either be null or a function"); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, writable: true, configurable: true } }); if (superClass) _setPrototypeOf(subClass, superClass); }
-
-function _setPrototypeOf(o, p) { _setPrototypeOf = Object.setPrototypeOf || function _setPrototypeOf(o, p) { o.__proto__ = p; return o; }; return _setPrototypeOf(o, p); }
-
-function _defineProperty(obj, key, value) { if (key in obj) { Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true }); } else { obj[key] = value; } return obj; }
-
-var NodeGroup = function (_Component) {
-  _inherits(NodeGroup, _Component);
-
-  function NodeGroup(props) {
-    var _this;
-
-    _classCallCheck(this, NodeGroup);
-
-    _this = _possibleConstructorReturn(this, _getPrototypeOf(NodeGroup).call(this, props));
-
-    _defineProperty(_assertThisInitialized(_this), "animate", function () {
-      var _this$state = _this.state,
-          nodeKeys = _this$state.nodeKeys,
-          nodeHash = _this$state.nodeHash;
-
-      if (_this.unmounting) {
-        return;
-      }
-
-      var pending = false;
-      var nextNodeKeys = [];
-      var length = nodeKeys.length;
-
-      for (var i = 0; i < length; i++) {
-        var k = nodeKeys[i];
-        var n = nodeHash[k];
-        var isTransitioning = n.isTransitioning();
-
-        if (isTransitioning) {
-          pending = true;
-        }
-
-        if (n.type === _types.LEAVE && !isTransitioning) {
-          delete nodeHash[k];
-        } else {
-          nextNodeKeys.push(k);
-        }
-      }
-
-      if (!pending) {
-        _this.interval.stop();
-      }
-
-      _this.setState(function () {
-        return {
-          nodeKeys: nextNodeKeys,
-          nodes: nextNodeKeys.map(function (key) {
-            return nodeHash[key];
-          })
-        };
-      });
-    });
-
-    _defineProperty(_assertThisInitialized(_this), "interval", null);
-
-    _defineProperty(_assertThisInitialized(_this), "unmounting", false);
-
-    var interpolation = props.interpolation;
-
-    var Node = function (_BaseNode) {
-      _inherits(Node, _BaseNode);
-
-      function Node(key, data) {
-        var _this2;
-
-        _classCallCheck(this, Node);
-
-        _this2 = _possibleConstructorReturn(this, _getPrototypeOf(Node).call(this));
-
-        _defineProperty(_assertThisInitialized(_this2), "getInterpolator", interpolation);
-
-        _this2.key = key;
-        _this2.data = data;
-        _this2.type = _types.ENTER;
-        return _this2;
-      }
-
-      return Node;
-    }(_kapellmeister.BaseNode);
-
-    _this.state = {
-      Node: Node,
-      nodeKeys: [],
-      nodeHash: {},
-      nodes: [],
-      data: null
-    };
-    return _this;
-  }
-
-  _createClass(NodeGroup, [{
-    key: "componentDidMount",
-    value: function componentDidMount() {
-      this.startInterval();
-    }
-  }, {
-    key: "componentDidUpdate",
-    value: function componentDidUpdate(prevProps) {
-      if (prevProps.data !== this.props.data && !this.unmounting) {
-        this.startInterval();
-      }
-    }
-  }, {
-    key: "startInterval",
-    value: function startInterval() {
-      if (!this.interval) {
-        this.interval = (0, _kapellmeister.interval)(this.animate);
-      } else {
-        this.interval.restart(this.animate);
-      }
-    }
-  }, {
-    key: "componentWillUnmount",
-    value: function componentWillUnmount() {
-      var _this$state2 = this.state,
-          nodeKeys = _this$state2.nodeKeys,
-          nodeHash = _this$state2.nodeHash;
-      this.unmounting = true;
-
-      if (this.interval) {
-        this.interval.stop();
-      }
-
-      nodeKeys.forEach(function (key) {
-        nodeHash[key].stopTransitions();
-      });
-    }
-  }, {
-    key: "render",
-    value: function render() {
-      var renderedChildren = this.props.children(this.state.nodes);
-      return renderedChildren && _react.default.Children.only(renderedChildren);
-    }
-  }], [{
-    key: "getDerivedStateFromProps",
-    value: function getDerivedStateFromProps(nextProps, prevState) {
-      if (nextProps.data !== prevState.data) {
-        var data = nextProps.data,
-            keyAccessor = nextProps.keyAccessor,
-            start = nextProps.start,
-            enter = nextProps.enter,
-            update = nextProps.update,
-            leave = nextProps.leave;
-        var Node = prevState.Node,
-            nodeKeys = prevState.nodeKeys,
-            nodeHash = prevState.nodeHash;
-        var keyIndex = {};
-
-        for (var i = 0; i < nodeKeys.length; i++) {
-          keyIndex[nodeKeys[i]] = i;
-        }
-
-        var nextKeyIndex = {};
-        var nextNodeKeys = [];
-
-        for (var _i = 0; _i < data.length; _i++) {
-          var d = data[_i];
-          var k = keyAccessor(d, _i);
-          nextKeyIndex[k] = _i;
-          nextNodeKeys.push(k);
-
-          if (keyIndex[k] === undefined) {
-            var node = new Node();
-            node.key = k;
-            node.data = d;
-            node.type = _types.ENTER;
-            nodeHash[k] = node;
-          }
-        }
-
-        for (var _i2 = 0; _i2 < nodeKeys.length; _i2++) {
-          var _k = nodeKeys[_i2];
-          var n = nodeHash[_k];
-
-          if (nextKeyIndex[_k] !== undefined) {
-            n.data = data[nextKeyIndex[_k]];
-            n.type = _types.UPDATE;
-          } else {
-            n.type = _types.LEAVE;
-          }
-        }
-
-        var mergedNodeKeys = (0, _mergeKeys.default)(nodeKeys, keyIndex, nextNodeKeys, nextKeyIndex);
-
-        for (var _i3 = 0; _i3 < mergedNodeKeys.length; _i3++) {
-          var _k2 = mergedNodeKeys[_i3];
-          var _n = nodeHash[_k2];
-          var _d = _n.data;
-
-          if (_n.type === _types.ENTER) {
-            _n.setState(start(_d, nextKeyIndex[_k2]));
-
-            _n.transition(enter(_d, nextKeyIndex[_k2]));
-          } else if (_n.type === _types.LEAVE) {
-            _n.transition(leave(_d, keyIndex[_k2]));
-          } else {
-            _n.transition(update(_d, nextKeyIndex[_k2]));
-          }
-        }
-
-        return {
-          data: data,
-          nodes: mergedNodeKeys.map(function (key) {
-            return nodeHash[key];
-          }),
-          nodeHash: nodeHash,
-          nodeKeys: mergedNodeKeys
-        };
-      }
-
-      return null;
-    }
-  }]);
-
-  return NodeGroup;
-}(_react.Component);
-
-NodeGroup.propTypes =  true ? {
-  data: _propTypes.default.array.isRequired,
-  keyAccessor: _propTypes.default.func.isRequired,
-  interpolation: _propTypes.default.func,
-  start: _propTypes.default.func.isRequired,
-  enter: _propTypes.default.func,
-  update: _propTypes.default.func,
-  leave: _propTypes.default.func,
-  children: _propTypes.default.func.isRequired
-} : undefined;
-NodeGroup.defaultProps = {
-  enter: function enter() {},
-  update: function update() {},
-  leave: function leave() {},
-  interpolation: _utils.numeric
-};
-(0, _reactLifecyclesCompat.polyfill)(NodeGroup);
-var _default = NodeGroup;
-exports.default = _default;
-
-/***/ }),
-
-/***/ "./node_modules/react-move/core/mergeKeys.js":
-/*!***************************************************!*\
-  !*** ./node_modules/react-move/core/mergeKeys.js ***!
-  \***************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
-
-Object.defineProperty(exports, "__esModule", {
-  value: true
-});
-exports.default = void 0;
-
-function mergeKeys(currNodeKeys, currKeyIndex, nextNodeKeys, nextKeyIndex) {
-  var allKeys = [];
-
-  for (var i = 0; i < nextNodeKeys.length; i++) {
-    allKeys[i] = nextNodeKeys[i];
-  }
-
-  for (var _i = 0; _i < currNodeKeys.length; _i++) {
-    if (nextKeyIndex[currNodeKeys[_i]] === undefined) {
-      allKeys.push(currNodeKeys[_i]);
-    }
-  }
-
-  return allKeys.sort(function (a, b) {
-    var nextOrderA = nextKeyIndex[a];
-    var nextOrderB = nextKeyIndex[b];
-    var currOrderA = currKeyIndex[a];
-    var currOrderB = currKeyIndex[b];
-
-    if (nextOrderA != null && nextOrderB != null) {
-      return nextKeyIndex[a] - nextKeyIndex[b];
-    } else if (currOrderA != null && currOrderB != null) {
-      return currKeyIndex[a] - currKeyIndex[b];
-    } else if (nextOrderA != null) {
-      for (var _i2 = 0; _i2 < nextNodeKeys.length; _i2++) {
-        var pivot = nextNodeKeys[_i2];
-
-        if (!currKeyIndex[pivot]) {
-          continue;
-        }
-
-        if (nextOrderA < nextKeyIndex[pivot] && currOrderB > currKeyIndex[pivot]) {
-          return -1;
-        } else if (nextOrderA > nextKeyIndex[pivot] && currOrderB < currKeyIndex[pivot]) {
-          return 1;
-        }
-      }
-
-      return 1;
-    }
-
-    for (var _i3 = 0; _i3 < nextNodeKeys.length; _i3++) {
-      var _pivot = nextNodeKeys[_i3];
-
-      if (!currKeyIndex[_pivot]) {
-        continue;
-      }
-
-      if (nextOrderB < nextKeyIndex[_pivot] && currOrderA > currKeyIndex[_pivot]) {
-        return 1;
-      } else if (nextOrderB > nextKeyIndex[_pivot] && currOrderA < currKeyIndex[_pivot]) {
-        return -1;
-      }
-    }
-
-    return -1;
-  });
-}
-
-var _default = mergeKeys;
-exports.default = _default;
-
-/***/ }),
-
-/***/ "./node_modules/react-move/core/types.js":
-/*!***********************************************!*\
-  !*** ./node_modules/react-move/core/types.js ***!
-  \***********************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
-
-Object.defineProperty(exports, "__esModule", {
-  value: true
-});
-exports.LEAVE = exports.UPDATE = exports.ENTER = void 0;
-var ENTER = 'ENTER';
-exports.ENTER = ENTER;
-var UPDATE = 'UPDATE';
-exports.UPDATE = UPDATE;
-var LEAVE = 'LEAVE';
-exports.LEAVE = LEAVE;
-
-/***/ }),
-
-/***/ "./node_modules/react-move/node_modules/prop-types/checkPropTypes.js":
-/*!***************************************************************************!*\
-  !*** ./node_modules/react-move/node_modules/prop-types/checkPropTypes.js ***!
-  \***************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-/**
- * Copyright (c) 2013-present, Facebook, Inc.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */
-
-
-
-var printWarning = function() {};
-
-if (true) {
-  var ReactPropTypesSecret = __webpack_require__(/*! ./lib/ReactPropTypesSecret */ "./node_modules/react-move/node_modules/prop-types/lib/ReactPropTypesSecret.js");
-  var loggedTypeFailures = {};
-  var has = Function.call.bind(Object.prototype.hasOwnProperty);
-
-  printWarning = function(text) {
-    var message = 'Warning: ' + text;
-    if (typeof console !== 'undefined') {
-      console.error(message);
-    }
-    try {
-      // --- Welcome to debugging React ---
-      // This error was thrown as a convenience so that you can use this stack
-      // to find the callsite that caused this warning to fire.
-      throw new Error(message);
-    } catch (x) {}
-  };
-}
-
-/**
- * Assert that the values match with the type specs.
- * Error messages are memorized and will only be shown once.
- *
- * @param {object} typeSpecs Map of name to a ReactPropType
- * @param {object} values Runtime values that need to be type-checked
- * @param {string} location e.g. "prop", "context", "child context"
- * @param {string} componentName Name of the component for error messages.
- * @param {?Function} getStack Returns the component stack.
- * @private
- */
-function checkPropTypes(typeSpecs, values, location, componentName, getStack) {
-  if (true) {
-    for (var typeSpecName in typeSpecs) {
-      if (has(typeSpecs, typeSpecName)) {
-        var error;
-        // Prop type validation may throw. In case they do, we don't want to
-        // fail the render phase where it didn't fail before. So we log it.
-        // After these have been cleaned up, we'll let them throw.
-        try {
-          // This is intentionally an invariant that gets caught. It's the same
-          // behavior as without this statement except with a better message.
-          if (typeof typeSpecs[typeSpecName] !== 'function') {
-            var err = Error(
-              (componentName || 'React class') + ': ' + location + ' type `' + typeSpecName + '` is invalid; ' +
-              'it must be a function, usually from the `prop-types` package, but received `' + typeof typeSpecs[typeSpecName] + '`.'
-            );
-            err.name = 'Invariant Violation';
-            throw err;
-          }
-          error = typeSpecs[typeSpecName](values, typeSpecName, componentName, location, null, ReactPropTypesSecret);
-        } catch (ex) {
-          error = ex;
-        }
-        if (error && !(error instanceof Error)) {
-          printWarning(
-            (componentName || 'React class') + ': type specification of ' +
-            location + ' `' + typeSpecName + '` is invalid; the type checker ' +
-            'function must return `null` or an `Error` but returned a ' + typeof error + '. ' +
-            'You may have forgotten to pass an argument to the type checker ' +
-            'creator (arrayOf, instanceOf, objectOf, oneOf, oneOfType, and ' +
-            'shape all require an argument).'
-          );
-        }
-        if (error instanceof Error && !(error.message in loggedTypeFailures)) {
-          // Only monitor this failure once because there tends to be a lot of the
-          // same error.
-          loggedTypeFailures[error.message] = true;
-
-          var stack = getStack ? getStack() : '';
-
-          printWarning(
-            'Failed ' + location + ' type: ' + error.message + (stack != null ? stack : '')
-          );
-        }
-      }
-    }
-  }
-}
-
-/**
- * Resets warning cache when testing.
- *
- * @private
- */
-checkPropTypes.resetWarningCache = function() {
-  if (true) {
-    loggedTypeFailures = {};
-  }
-}
-
-module.exports = checkPropTypes;
-
-
-/***/ }),
-
-/***/ "./node_modules/react-move/node_modules/prop-types/factoryWithTypeCheckers.js":
-/*!************************************************************************************!*\
-  !*** ./node_modules/react-move/node_modules/prop-types/factoryWithTypeCheckers.js ***!
-  \************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-/**
- * Copyright (c) 2013-present, Facebook, Inc.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */
-
-
-
-var ReactIs = __webpack_require__(/*! react-is */ "./node_modules/react-is/index.js");
-var assign = __webpack_require__(/*! object-assign */ "./node_modules/object-assign/index.js");
-
-var ReactPropTypesSecret = __webpack_require__(/*! ./lib/ReactPropTypesSecret */ "./node_modules/react-move/node_modules/prop-types/lib/ReactPropTypesSecret.js");
-var checkPropTypes = __webpack_require__(/*! ./checkPropTypes */ "./node_modules/react-move/node_modules/prop-types/checkPropTypes.js");
 
 var has = Function.call.bind(Object.prototype.hasOwnProperty);
 var printWarning = function() {};
@@ -29671,10 +29551,10 @@ module.exports = function(isValidElement, throwOnDirectAccess) {
 
 /***/ }),
 
-/***/ "./node_modules/react-move/node_modules/prop-types/index.js":
-/*!******************************************************************!*\
-  !*** ./node_modules/react-move/node_modules/prop-types/index.js ***!
-  \******************************************************************/
+/***/ "./node_modules/prop-types/index.js":
+/*!******************************************!*\
+  !*** ./node_modules/prop-types/index.js ***!
+  \******************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -29686,27 +29566,40 @@ module.exports = function(isValidElement, throwOnDirectAccess) {
  */
 
 if (true) {
-  var ReactIs = __webpack_require__(/*! react-is */ "./node_modules/react-is/index.js");
+  var ReactIs = __webpack_require__(/*! react-is */ "./node_modules/prop-types/node_modules/react-is/index.js");
 
   // By explicitly using `prop-types` you are opting into new development behavior.
   // http://fb.me/prop-types-in-prod
   var throwOnDirectAccess = true;
-  module.exports = __webpack_require__(/*! ./factoryWithTypeCheckers */ "./node_modules/react-move/node_modules/prop-types/factoryWithTypeCheckers.js")(ReactIs.isElement, throwOnDirectAccess);
+  module.exports = __webpack_require__(/*! ./factoryWithTypeCheckers */ "./node_modules/prop-types/factoryWithTypeCheckers.js")(ReactIs.isElement, throwOnDirectAccess);
 } else {}
 
 
 /***/ }),
 
-/***/ "./node_modules/react-move/node_modules/prop-types/lib/ReactPropTypesSecret.js":
-/*!*************************************************************************************!*\
-  !*** ./node_modules/react-move/node_modules/prop-types/lib/ReactPropTypesSecret.js ***!
-  \*************************************************************************************/
+/***/ "./node_modules/prop-types/lib/ReactPropTypesSecret.js":
+/*!*******************************************************************************************************************!*\
+  !*** delegated ./node_modules/prop-types/lib/ReactPropTypesSecret.js from dll-reference dll_46916701fb300d1b1834 ***!
+  \*******************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = (__webpack_require__(/*! dll-reference dll_46916701fb300d1b1834 */ "dll-reference dll_46916701fb300d1b1834"))("./node_modules/prop-types/lib/ReactPropTypesSecret.js");
+
+/***/ }),
+
+/***/ "./node_modules/prop-types/node_modules/react-is/cjs/react-is.development.js":
+/*!***********************************************************************************!*\
+  !*** ./node_modules/prop-types/node_modules/react-is/cjs/react-is.development.js ***!
+  \***********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-/**
- * Copyright (c) 2013-present, Facebook, Inc.
+/** @license React v16.13.1
+ * react-is.development.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
  *
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
@@ -29714,10 +29607,1259 @@ if (true) {
 
 
 
-var ReactPropTypesSecret = 'SECRET_DO_NOT_PASS_THIS_OR_YOU_WILL_BE_FIRED';
 
-module.exports = ReactPropTypesSecret;
 
+if (true) {
+  (function() {
+'use strict';
+
+// The Symbol used to tag the ReactElement-like types. If there is no native Symbol
+// nor polyfill, then a plain number is used for performance.
+var hasSymbol = typeof Symbol === 'function' && Symbol.for;
+var REACT_ELEMENT_TYPE = hasSymbol ? Symbol.for('react.element') : 0xeac7;
+var REACT_PORTAL_TYPE = hasSymbol ? Symbol.for('react.portal') : 0xeaca;
+var REACT_FRAGMENT_TYPE = hasSymbol ? Symbol.for('react.fragment') : 0xeacb;
+var REACT_STRICT_MODE_TYPE = hasSymbol ? Symbol.for('react.strict_mode') : 0xeacc;
+var REACT_PROFILER_TYPE = hasSymbol ? Symbol.for('react.profiler') : 0xead2;
+var REACT_PROVIDER_TYPE = hasSymbol ? Symbol.for('react.provider') : 0xeacd;
+var REACT_CONTEXT_TYPE = hasSymbol ? Symbol.for('react.context') : 0xeace; // TODO: We don't use AsyncMode or ConcurrentMode anymore. They were temporary
+// (unstable) APIs that have been removed. Can we remove the symbols?
+
+var REACT_ASYNC_MODE_TYPE = hasSymbol ? Symbol.for('react.async_mode') : 0xeacf;
+var REACT_CONCURRENT_MODE_TYPE = hasSymbol ? Symbol.for('react.concurrent_mode') : 0xeacf;
+var REACT_FORWARD_REF_TYPE = hasSymbol ? Symbol.for('react.forward_ref') : 0xead0;
+var REACT_SUSPENSE_TYPE = hasSymbol ? Symbol.for('react.suspense') : 0xead1;
+var REACT_SUSPENSE_LIST_TYPE = hasSymbol ? Symbol.for('react.suspense_list') : 0xead8;
+var REACT_MEMO_TYPE = hasSymbol ? Symbol.for('react.memo') : 0xead3;
+var REACT_LAZY_TYPE = hasSymbol ? Symbol.for('react.lazy') : 0xead4;
+var REACT_BLOCK_TYPE = hasSymbol ? Symbol.for('react.block') : 0xead9;
+var REACT_FUNDAMENTAL_TYPE = hasSymbol ? Symbol.for('react.fundamental') : 0xead5;
+var REACT_RESPONDER_TYPE = hasSymbol ? Symbol.for('react.responder') : 0xead6;
+var REACT_SCOPE_TYPE = hasSymbol ? Symbol.for('react.scope') : 0xead7;
+
+function isValidElementType(type) {
+  return typeof type === 'string' || typeof type === 'function' || // Note: its typeof might be other than 'symbol' or 'number' if it's a polyfill.
+  type === REACT_FRAGMENT_TYPE || type === REACT_CONCURRENT_MODE_TYPE || type === REACT_PROFILER_TYPE || type === REACT_STRICT_MODE_TYPE || type === REACT_SUSPENSE_TYPE || type === REACT_SUSPENSE_LIST_TYPE || typeof type === 'object' && type !== null && (type.$$typeof === REACT_LAZY_TYPE || type.$$typeof === REACT_MEMO_TYPE || type.$$typeof === REACT_PROVIDER_TYPE || type.$$typeof === REACT_CONTEXT_TYPE || type.$$typeof === REACT_FORWARD_REF_TYPE || type.$$typeof === REACT_FUNDAMENTAL_TYPE || type.$$typeof === REACT_RESPONDER_TYPE || type.$$typeof === REACT_SCOPE_TYPE || type.$$typeof === REACT_BLOCK_TYPE);
+}
+
+function typeOf(object) {
+  if (typeof object === 'object' && object !== null) {
+    var $$typeof = object.$$typeof;
+
+    switch ($$typeof) {
+      case REACT_ELEMENT_TYPE:
+        var type = object.type;
+
+        switch (type) {
+          case REACT_ASYNC_MODE_TYPE:
+          case REACT_CONCURRENT_MODE_TYPE:
+          case REACT_FRAGMENT_TYPE:
+          case REACT_PROFILER_TYPE:
+          case REACT_STRICT_MODE_TYPE:
+          case REACT_SUSPENSE_TYPE:
+            return type;
+
+          default:
+            var $$typeofType = type && type.$$typeof;
+
+            switch ($$typeofType) {
+              case REACT_CONTEXT_TYPE:
+              case REACT_FORWARD_REF_TYPE:
+              case REACT_LAZY_TYPE:
+              case REACT_MEMO_TYPE:
+              case REACT_PROVIDER_TYPE:
+                return $$typeofType;
+
+              default:
+                return $$typeof;
+            }
+
+        }
+
+      case REACT_PORTAL_TYPE:
+        return $$typeof;
+    }
+  }
+
+  return undefined;
+} // AsyncMode is deprecated along with isAsyncMode
+
+var AsyncMode = REACT_ASYNC_MODE_TYPE;
+var ConcurrentMode = REACT_CONCURRENT_MODE_TYPE;
+var ContextConsumer = REACT_CONTEXT_TYPE;
+var ContextProvider = REACT_PROVIDER_TYPE;
+var Element = REACT_ELEMENT_TYPE;
+var ForwardRef = REACT_FORWARD_REF_TYPE;
+var Fragment = REACT_FRAGMENT_TYPE;
+var Lazy = REACT_LAZY_TYPE;
+var Memo = REACT_MEMO_TYPE;
+var Portal = REACT_PORTAL_TYPE;
+var Profiler = REACT_PROFILER_TYPE;
+var StrictMode = REACT_STRICT_MODE_TYPE;
+var Suspense = REACT_SUSPENSE_TYPE;
+var hasWarnedAboutDeprecatedIsAsyncMode = false; // AsyncMode should be deprecated
+
+function isAsyncMode(object) {
+  {
+    if (!hasWarnedAboutDeprecatedIsAsyncMode) {
+      hasWarnedAboutDeprecatedIsAsyncMode = true; // Using console['warn'] to evade Babel and ESLint
+
+      console['warn']('The ReactIs.isAsyncMode() alias has been deprecated, ' + 'and will be removed in React 17+. Update your code to use ' + 'ReactIs.isConcurrentMode() instead. It has the exact same API.');
+    }
+  }
+
+  return isConcurrentMode(object) || typeOf(object) === REACT_ASYNC_MODE_TYPE;
+}
+function isConcurrentMode(object) {
+  return typeOf(object) === REACT_CONCURRENT_MODE_TYPE;
+}
+function isContextConsumer(object) {
+  return typeOf(object) === REACT_CONTEXT_TYPE;
+}
+function isContextProvider(object) {
+  return typeOf(object) === REACT_PROVIDER_TYPE;
+}
+function isElement(object) {
+  return typeof object === 'object' && object !== null && object.$$typeof === REACT_ELEMENT_TYPE;
+}
+function isForwardRef(object) {
+  return typeOf(object) === REACT_FORWARD_REF_TYPE;
+}
+function isFragment(object) {
+  return typeOf(object) === REACT_FRAGMENT_TYPE;
+}
+function isLazy(object) {
+  return typeOf(object) === REACT_LAZY_TYPE;
+}
+function isMemo(object) {
+  return typeOf(object) === REACT_MEMO_TYPE;
+}
+function isPortal(object) {
+  return typeOf(object) === REACT_PORTAL_TYPE;
+}
+function isProfiler(object) {
+  return typeOf(object) === REACT_PROFILER_TYPE;
+}
+function isStrictMode(object) {
+  return typeOf(object) === REACT_STRICT_MODE_TYPE;
+}
+function isSuspense(object) {
+  return typeOf(object) === REACT_SUSPENSE_TYPE;
+}
+
+exports.AsyncMode = AsyncMode;
+exports.ConcurrentMode = ConcurrentMode;
+exports.ContextConsumer = ContextConsumer;
+exports.ContextProvider = ContextProvider;
+exports.Element = Element;
+exports.ForwardRef = ForwardRef;
+exports.Fragment = Fragment;
+exports.Lazy = Lazy;
+exports.Memo = Memo;
+exports.Portal = Portal;
+exports.Profiler = Profiler;
+exports.StrictMode = StrictMode;
+exports.Suspense = Suspense;
+exports.isAsyncMode = isAsyncMode;
+exports.isConcurrentMode = isConcurrentMode;
+exports.isContextConsumer = isContextConsumer;
+exports.isContextProvider = isContextProvider;
+exports.isElement = isElement;
+exports.isForwardRef = isForwardRef;
+exports.isFragment = isFragment;
+exports.isLazy = isLazy;
+exports.isMemo = isMemo;
+exports.isPortal = isPortal;
+exports.isProfiler = isProfiler;
+exports.isStrictMode = isStrictMode;
+exports.isSuspense = isSuspense;
+exports.isValidElementType = isValidElementType;
+exports.typeOf = typeOf;
+  })();
+}
+
+
+/***/ }),
+
+/***/ "./node_modules/prop-types/node_modules/react-is/index.js":
+/*!****************************************************************!*\
+  !*** ./node_modules/prop-types/node_modules/react-is/index.js ***!
+  \****************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+if (false) {} else {
+  module.exports = __webpack_require__(/*! ./cjs/react-is.development.js */ "./node_modules/prop-types/node_modules/react-is/cjs/react-is.development.js");
+}
+
+
+/***/ }),
+
+/***/ "./node_modules/querystring-es3/decode.js":
+/*!************************************************!*\
+  !*** ./node_modules/querystring-es3/decode.js ***!
+  \************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software and associated documentation files (the
+// "Software"), to deal in the Software without restriction, including
+// without limitation the rights to use, copy, modify, merge, publish,
+// distribute, sublicense, and/or sell copies of the Software, and to permit
+// persons to whom the Software is furnished to do so, subject to the
+// following conditions:
+//
+// The above copyright notice and this permission notice shall be included
+// in all copies or substantial portions of the Software.
+//
+// THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+// OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+// MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN
+// NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+// DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+// OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
+// USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+
+// If obj.hasOwnProperty has been overridden, then calling
+// obj.hasOwnProperty(prop) will break.
+// See: https://github.com/joyent/node/issues/1707
+function hasOwnProperty(obj, prop) {
+  return Object.prototype.hasOwnProperty.call(obj, prop);
+}
+
+module.exports = function(qs, sep, eq, options) {
+  sep = sep || '&';
+  eq = eq || '=';
+  var obj = {};
+
+  if (typeof qs !== 'string' || qs.length === 0) {
+    return obj;
+  }
+
+  var regexp = /\+/g;
+  qs = qs.split(sep);
+
+  var maxKeys = 1000;
+  if (options && typeof options.maxKeys === 'number') {
+    maxKeys = options.maxKeys;
+  }
+
+  var len = qs.length;
+  // maxKeys <= 0 means that we should not limit keys count
+  if (maxKeys > 0 && len > maxKeys) {
+    len = maxKeys;
+  }
+
+  for (var i = 0; i < len; ++i) {
+    var x = qs[i].replace(regexp, '%20'),
+        idx = x.indexOf(eq),
+        kstr, vstr, k, v;
+
+    if (idx >= 0) {
+      kstr = x.substr(0, idx);
+      vstr = x.substr(idx + 1);
+    } else {
+      kstr = x;
+      vstr = '';
+    }
+
+    k = decodeURIComponent(kstr);
+    v = decodeURIComponent(vstr);
+
+    if (!hasOwnProperty(obj, k)) {
+      obj[k] = v;
+    } else if (isArray(obj[k])) {
+      obj[k].push(v);
+    } else {
+      obj[k] = [obj[k], v];
+    }
+  }
+
+  return obj;
+};
+
+var isArray = Array.isArray || function (xs) {
+  return Object.prototype.toString.call(xs) === '[object Array]';
+};
+
+
+/***/ }),
+
+/***/ "./node_modules/querystring-es3/encode.js":
+/*!************************************************!*\
+  !*** ./node_modules/querystring-es3/encode.js ***!
+  \************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software and associated documentation files (the
+// "Software"), to deal in the Software without restriction, including
+// without limitation the rights to use, copy, modify, merge, publish,
+// distribute, sublicense, and/or sell copies of the Software, and to permit
+// persons to whom the Software is furnished to do so, subject to the
+// following conditions:
+//
+// The above copyright notice and this permission notice shall be included
+// in all copies or substantial portions of the Software.
+//
+// THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+// OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+// MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN
+// NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+// DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+// OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
+// USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+
+var stringifyPrimitive = function(v) {
+  switch (typeof v) {
+    case 'string':
+      return v;
+
+    case 'boolean':
+      return v ? 'true' : 'false';
+
+    case 'number':
+      return isFinite(v) ? v : '';
+
+    default:
+      return '';
+  }
+};
+
+module.exports = function(obj, sep, eq, name) {
+  sep = sep || '&';
+  eq = eq || '=';
+  if (obj === null) {
+    obj = undefined;
+  }
+
+  if (typeof obj === 'object') {
+    return map(objectKeys(obj), function(k) {
+      var ks = encodeURIComponent(stringifyPrimitive(k)) + eq;
+      if (isArray(obj[k])) {
+        return map(obj[k], function(v) {
+          return ks + encodeURIComponent(stringifyPrimitive(v));
+        }).join(sep);
+      } else {
+        return ks + encodeURIComponent(stringifyPrimitive(obj[k]));
+      }
+    }).join(sep);
+
+  }
+
+  if (!name) return '';
+  return encodeURIComponent(stringifyPrimitive(name)) + eq +
+         encodeURIComponent(stringifyPrimitive(obj));
+};
+
+var isArray = Array.isArray || function (xs) {
+  return Object.prototype.toString.call(xs) === '[object Array]';
+};
+
+function map (xs, f) {
+  if (xs.map) return xs.map(f);
+  var res = [];
+  for (var i = 0; i < xs.length; i++) {
+    res.push(f(xs[i], i));
+  }
+  return res;
+}
+
+var objectKeys = Object.keys || function (obj) {
+  var res = [];
+  for (var key in obj) {
+    if (Object.prototype.hasOwnProperty.call(obj, key)) res.push(key);
+  }
+  return res;
+};
+
+
+/***/ }),
+
+/***/ "./node_modules/querystring-es3/index.js":
+/*!***********************************************!*\
+  !*** ./node_modules/querystring-es3/index.js ***!
+  \***********************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+exports.decode = exports.parse = __webpack_require__(/*! ./decode */ "./node_modules/querystring-es3/decode.js");
+exports.encode = exports.stringify = __webpack_require__(/*! ./encode */ "./node_modules/querystring-es3/encode.js");
+
+
+/***/ }),
+
+/***/ "./node_modules/raf/index.js":
+/*!***********************************!*\
+  !*** ./node_modules/raf/index.js ***!
+  \***********************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+/* WEBPACK VAR INJECTION */(function(global) {var now = __webpack_require__(/*! performance-now */ "./node_modules/performance-now/lib/performance-now.js")
+  , root = typeof window === 'undefined' ? global : window
+  , vendors = ['moz', 'webkit']
+  , suffix = 'AnimationFrame'
+  , raf = root['request' + suffix]
+  , caf = root['cancel' + suffix] || root['cancelRequest' + suffix]
+
+for(var i = 0; !raf && i < vendors.length; i++) {
+  raf = root[vendors[i] + 'Request' + suffix]
+  caf = root[vendors[i] + 'Cancel' + suffix]
+      || root[vendors[i] + 'CancelRequest' + suffix]
+}
+
+// Some versions of FF have rAF but not cAF
+if(!raf || !caf) {
+  var last = 0
+    , id = 0
+    , queue = []
+    , frameDuration = 1000 / 60
+
+  raf = function(callback) {
+    if(queue.length === 0) {
+      var _now = now()
+        , next = Math.max(0, frameDuration - (_now - last))
+      last = next + _now
+      setTimeout(function() {
+        var cp = queue.slice(0)
+        // Clear queue here to prevent
+        // callbacks from appending listeners
+        // to the current frame's queue
+        queue.length = 0
+        for(var i = 0; i < cp.length; i++) {
+          if(!cp[i].cancelled) {
+            try{
+              cp[i].callback(last)
+            } catch(e) {
+              setTimeout(function() { throw e }, 0)
+            }
+          }
+        }
+      }, Math.round(next))
+    }
+    queue.push({
+      handle: ++id,
+      callback: callback,
+      cancelled: false
+    })
+    return id
+  }
+
+  caf = function(handle) {
+    for(var i = 0; i < queue.length; i++) {
+      if(queue[i].handle === handle) {
+        queue[i].cancelled = true
+      }
+    }
+  }
+}
+
+module.exports = function(fn) {
+  // Wrap in a new function to prevent
+  // `cancel` potentially being assigned
+  // to the native rAF function
+  return raf.call(root, fn)
+}
+module.exports.cancel = function() {
+  caf.apply(root, arguments)
+}
+module.exports.polyfill = function(object) {
+  if (!object) {
+    object = root;
+  }
+  object.requestAnimationFrame = raf
+  object.cancelAnimationFrame = caf
+}
+
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./../webpack/buildin/global.js */ "./node_modules/webpack/buildin/global.js")))
+
+/***/ }),
+
+/***/ "./node_modules/react-is/cjs/react-is.development.js":
+/*!***********************************************************!*\
+  !*** ./node_modules/react-is/cjs/react-is.development.js ***!
+  \***********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+/** @license React v16.8.6
+ * react-is.development.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+
+
+
+
+if (true) {
+  (function() {
+'use strict';
+
+Object.defineProperty(exports, '__esModule', { value: true });
+
+// The Symbol used to tag the ReactElement-like types. If there is no native Symbol
+// nor polyfill, then a plain number is used for performance.
+var hasSymbol = typeof Symbol === 'function' && Symbol.for;
+
+var REACT_ELEMENT_TYPE = hasSymbol ? Symbol.for('react.element') : 0xeac7;
+var REACT_PORTAL_TYPE = hasSymbol ? Symbol.for('react.portal') : 0xeaca;
+var REACT_FRAGMENT_TYPE = hasSymbol ? Symbol.for('react.fragment') : 0xeacb;
+var REACT_STRICT_MODE_TYPE = hasSymbol ? Symbol.for('react.strict_mode') : 0xeacc;
+var REACT_PROFILER_TYPE = hasSymbol ? Symbol.for('react.profiler') : 0xead2;
+var REACT_PROVIDER_TYPE = hasSymbol ? Symbol.for('react.provider') : 0xeacd;
+var REACT_CONTEXT_TYPE = hasSymbol ? Symbol.for('react.context') : 0xeace;
+var REACT_ASYNC_MODE_TYPE = hasSymbol ? Symbol.for('react.async_mode') : 0xeacf;
+var REACT_CONCURRENT_MODE_TYPE = hasSymbol ? Symbol.for('react.concurrent_mode') : 0xeacf;
+var REACT_FORWARD_REF_TYPE = hasSymbol ? Symbol.for('react.forward_ref') : 0xead0;
+var REACT_SUSPENSE_TYPE = hasSymbol ? Symbol.for('react.suspense') : 0xead1;
+var REACT_MEMO_TYPE = hasSymbol ? Symbol.for('react.memo') : 0xead3;
+var REACT_LAZY_TYPE = hasSymbol ? Symbol.for('react.lazy') : 0xead4;
+
+function isValidElementType(type) {
+  return typeof type === 'string' || typeof type === 'function' ||
+  // Note: its typeof might be other than 'symbol' or 'number' if it's a polyfill.
+  type === REACT_FRAGMENT_TYPE || type === REACT_CONCURRENT_MODE_TYPE || type === REACT_PROFILER_TYPE || type === REACT_STRICT_MODE_TYPE || type === REACT_SUSPENSE_TYPE || typeof type === 'object' && type !== null && (type.$$typeof === REACT_LAZY_TYPE || type.$$typeof === REACT_MEMO_TYPE || type.$$typeof === REACT_PROVIDER_TYPE || type.$$typeof === REACT_CONTEXT_TYPE || type.$$typeof === REACT_FORWARD_REF_TYPE);
+}
+
+/**
+ * Forked from fbjs/warning:
+ * https://github.com/facebook/fbjs/blob/e66ba20ad5be433eb54423f2b097d829324d9de6/packages/fbjs/src/__forks__/warning.js
+ *
+ * Only change is we use console.warn instead of console.error,
+ * and do nothing when 'console' is not supported.
+ * This really simplifies the code.
+ * ---
+ * Similar to invariant but only logs a warning if the condition is not met.
+ * This can be used to log issues in development environments in critical
+ * paths. Removing the logging code for production environments will keep the
+ * same logic and follow the same code paths.
+ */
+
+var lowPriorityWarning = function () {};
+
+{
+  var printWarning = function (format) {
+    for (var _len = arguments.length, args = Array(_len > 1 ? _len - 1 : 0), _key = 1; _key < _len; _key++) {
+      args[_key - 1] = arguments[_key];
+    }
+
+    var argIndex = 0;
+    var message = 'Warning: ' + format.replace(/%s/g, function () {
+      return args[argIndex++];
+    });
+    if (typeof console !== 'undefined') {
+      console.warn(message);
+    }
+    try {
+      // --- Welcome to debugging React ---
+      // This error was thrown as a convenience so that you can use this stack
+      // to find the callsite that caused this warning to fire.
+      throw new Error(message);
+    } catch (x) {}
+  };
+
+  lowPriorityWarning = function (condition, format) {
+    if (format === undefined) {
+      throw new Error('`lowPriorityWarning(condition, format, ...args)` requires a warning ' + 'message argument');
+    }
+    if (!condition) {
+      for (var _len2 = arguments.length, args = Array(_len2 > 2 ? _len2 - 2 : 0), _key2 = 2; _key2 < _len2; _key2++) {
+        args[_key2 - 2] = arguments[_key2];
+      }
+
+      printWarning.apply(undefined, [format].concat(args));
+    }
+  };
+}
+
+var lowPriorityWarning$1 = lowPriorityWarning;
+
+function typeOf(object) {
+  if (typeof object === 'object' && object !== null) {
+    var $$typeof = object.$$typeof;
+    switch ($$typeof) {
+      case REACT_ELEMENT_TYPE:
+        var type = object.type;
+
+        switch (type) {
+          case REACT_ASYNC_MODE_TYPE:
+          case REACT_CONCURRENT_MODE_TYPE:
+          case REACT_FRAGMENT_TYPE:
+          case REACT_PROFILER_TYPE:
+          case REACT_STRICT_MODE_TYPE:
+          case REACT_SUSPENSE_TYPE:
+            return type;
+          default:
+            var $$typeofType = type && type.$$typeof;
+
+            switch ($$typeofType) {
+              case REACT_CONTEXT_TYPE:
+              case REACT_FORWARD_REF_TYPE:
+              case REACT_PROVIDER_TYPE:
+                return $$typeofType;
+              default:
+                return $$typeof;
+            }
+        }
+      case REACT_LAZY_TYPE:
+      case REACT_MEMO_TYPE:
+      case REACT_PORTAL_TYPE:
+        return $$typeof;
+    }
+  }
+
+  return undefined;
+}
+
+// AsyncMode is deprecated along with isAsyncMode
+var AsyncMode = REACT_ASYNC_MODE_TYPE;
+var ConcurrentMode = REACT_CONCURRENT_MODE_TYPE;
+var ContextConsumer = REACT_CONTEXT_TYPE;
+var ContextProvider = REACT_PROVIDER_TYPE;
+var Element = REACT_ELEMENT_TYPE;
+var ForwardRef = REACT_FORWARD_REF_TYPE;
+var Fragment = REACT_FRAGMENT_TYPE;
+var Lazy = REACT_LAZY_TYPE;
+var Memo = REACT_MEMO_TYPE;
+var Portal = REACT_PORTAL_TYPE;
+var Profiler = REACT_PROFILER_TYPE;
+var StrictMode = REACT_STRICT_MODE_TYPE;
+var Suspense = REACT_SUSPENSE_TYPE;
+
+var hasWarnedAboutDeprecatedIsAsyncMode = false;
+
+// AsyncMode should be deprecated
+function isAsyncMode(object) {
+  {
+    if (!hasWarnedAboutDeprecatedIsAsyncMode) {
+      hasWarnedAboutDeprecatedIsAsyncMode = true;
+      lowPriorityWarning$1(false, 'The ReactIs.isAsyncMode() alias has been deprecated, ' + 'and will be removed in React 17+. Update your code to use ' + 'ReactIs.isConcurrentMode() instead. It has the exact same API.');
+    }
+  }
+  return isConcurrentMode(object) || typeOf(object) === REACT_ASYNC_MODE_TYPE;
+}
+function isConcurrentMode(object) {
+  return typeOf(object) === REACT_CONCURRENT_MODE_TYPE;
+}
+function isContextConsumer(object) {
+  return typeOf(object) === REACT_CONTEXT_TYPE;
+}
+function isContextProvider(object) {
+  return typeOf(object) === REACT_PROVIDER_TYPE;
+}
+function isElement(object) {
+  return typeof object === 'object' && object !== null && object.$$typeof === REACT_ELEMENT_TYPE;
+}
+function isForwardRef(object) {
+  return typeOf(object) === REACT_FORWARD_REF_TYPE;
+}
+function isFragment(object) {
+  return typeOf(object) === REACT_FRAGMENT_TYPE;
+}
+function isLazy(object) {
+  return typeOf(object) === REACT_LAZY_TYPE;
+}
+function isMemo(object) {
+  return typeOf(object) === REACT_MEMO_TYPE;
+}
+function isPortal(object) {
+  return typeOf(object) === REACT_PORTAL_TYPE;
+}
+function isProfiler(object) {
+  return typeOf(object) === REACT_PROFILER_TYPE;
+}
+function isStrictMode(object) {
+  return typeOf(object) === REACT_STRICT_MODE_TYPE;
+}
+function isSuspense(object) {
+  return typeOf(object) === REACT_SUSPENSE_TYPE;
+}
+
+exports.typeOf = typeOf;
+exports.AsyncMode = AsyncMode;
+exports.ConcurrentMode = ConcurrentMode;
+exports.ContextConsumer = ContextConsumer;
+exports.ContextProvider = ContextProvider;
+exports.Element = Element;
+exports.ForwardRef = ForwardRef;
+exports.Fragment = Fragment;
+exports.Lazy = Lazy;
+exports.Memo = Memo;
+exports.Portal = Portal;
+exports.Profiler = Profiler;
+exports.StrictMode = StrictMode;
+exports.Suspense = Suspense;
+exports.isValidElementType = isValidElementType;
+exports.isAsyncMode = isAsyncMode;
+exports.isConcurrentMode = isConcurrentMode;
+exports.isContextConsumer = isContextConsumer;
+exports.isContextProvider = isContextProvider;
+exports.isElement = isElement;
+exports.isForwardRef = isForwardRef;
+exports.isFragment = isFragment;
+exports.isLazy = isLazy;
+exports.isMemo = isMemo;
+exports.isPortal = isPortal;
+exports.isProfiler = isProfiler;
+exports.isStrictMode = isStrictMode;
+exports.isSuspense = isSuspense;
+  })();
+}
+
+
+/***/ }),
+
+/***/ "./node_modules/react-is/index.js":
+/*!****************************************!*\
+  !*** ./node_modules/react-is/index.js ***!
+  \****************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+if (false) {} else {
+  module.exports = __webpack_require__(/*! ./cjs/react-is.development.js */ "./node_modules/react-is/cjs/react-is.development.js");
+}
+
+
+/***/ }),
+
+/***/ "./node_modules/react-move/Animate/index.js":
+/*!**************************************************!*\
+  !*** ./node_modules/react-move/Animate/index.js ***!
+  \**************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports["default"] = void 0;
+
+var _react = _interopRequireWildcard(__webpack_require__(/*! react */ "./node_modules/react/index.js"));
+
+var _propTypes = _interopRequireDefault(__webpack_require__(/*! prop-types */ "./node_modules/prop-types/index.js"));
+
+var _NodeGroup = _interopRequireDefault(__webpack_require__(/*! ../NodeGroup */ "./node_modules/react-move/NodeGroup/index.js"));
+
+var _utils = __webpack_require__(/*! ../utils */ "./node_modules/react-move/utils.js");
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { "default": obj }; }
+
+function _getRequireWildcardCache() { if (typeof WeakMap !== "function") return null; var cache = new WeakMap(); _getRequireWildcardCache = function _getRequireWildcardCache() { return cache; }; return cache; }
+
+function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } if (obj === null || _typeof(obj) !== "object" && typeof obj !== "function") { return { "default": obj }; } var cache = _getRequireWildcardCache(); if (cache && cache.has(obj)) { return cache.get(obj); } var newObj = {}; var hasPropertyDescriptor = Object.defineProperty && Object.getOwnPropertyDescriptor; for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) { var desc = hasPropertyDescriptor ? Object.getOwnPropertyDescriptor(obj, key) : null; if (desc && (desc.get || desc.set)) { Object.defineProperty(newObj, key, desc); } else { newObj[key] = obj[key]; } } } newObj["default"] = obj; if (cache) { cache.set(obj, newObj); } return newObj; }
+
+function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
+
+function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
+
+function _defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } }
+
+function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _defineProperties(Constructor.prototype, protoProps); if (staticProps) _defineProperties(Constructor, staticProps); return Constructor; }
+
+function _possibleConstructorReturn(self, call) { if (call && (_typeof(call) === "object" || typeof call === "function")) { return call; } return _assertThisInitialized(self); }
+
+function _assertThisInitialized(self) { if (self === void 0) { throw new ReferenceError("this hasn't been initialised - super() hasn't been called"); } return self; }
+
+function _getPrototypeOf(o) { _getPrototypeOf = Object.setPrototypeOf ? Object.getPrototypeOf : function _getPrototypeOf(o) { return o.__proto__ || Object.getPrototypeOf(o); }; return _getPrototypeOf(o); }
+
+function _inherits(subClass, superClass) { if (typeof superClass !== "function" && superClass !== null) { throw new TypeError("Super expression must either be null or a function"); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, writable: true, configurable: true } }); if (superClass) _setPrototypeOf(subClass, superClass); }
+
+function _setPrototypeOf(o, p) { _setPrototypeOf = Object.setPrototypeOf || function _setPrototypeOf(o, p) { o.__proto__ = p; return o; }; return _setPrototypeOf(o, p); }
+
+var keyAccessor = function keyAccessor() {
+  return '$$key$$';
+};
+
+var Animate = function (_Component) {
+  _inherits(Animate, _Component);
+
+  function Animate() {
+    _classCallCheck(this, Animate);
+
+    return _possibleConstructorReturn(this, _getPrototypeOf(Animate).apply(this, arguments));
+  }
+
+  _createClass(Animate, [{
+    key: "render",
+    value: function render() {
+      var _this$props = this.props,
+          show = _this$props.show,
+          start = _this$props.start,
+          enter = _this$props.enter,
+          update = _this$props.update,
+          leave = _this$props.leave,
+          interpolation = _this$props.interpolation,
+          children = _this$props.children;
+      var data = typeof start === 'function' ? start() : start;
+      return _react["default"].createElement(_NodeGroup["default"], {
+        data: show ? [data] : [],
+        start: function start() {
+          return data;
+        },
+        keyAccessor: keyAccessor,
+        interpolation: interpolation,
+        enter: typeof enter === 'function' ? enter : function () {
+          return enter;
+        },
+        update: typeof update === 'function' ? update : function () {
+          return update;
+        },
+        leave: typeof leave === 'function' ? leave : function () {
+          return leave;
+        }
+      }, function (nodes) {
+        if (!nodes[0]) {
+          return null;
+        }
+
+        var renderedChildren = children(nodes[0].state);
+        return renderedChildren && _react["default"].Children.only(renderedChildren);
+      });
+    }
+  }]);
+
+  return Animate;
+}(_react.Component);
+
+Animate.propTypes =  true ? {
+  show: _propTypes["default"].bool,
+  interpolation: _propTypes["default"].func,
+  start: _propTypes["default"].oneOfType([_propTypes["default"].func, _propTypes["default"].object]),
+  enter: _propTypes["default"].oneOfType([_propTypes["default"].func, _propTypes["default"].array, _propTypes["default"].object]),
+  update: _propTypes["default"].oneOfType([_propTypes["default"].func, _propTypes["default"].array, _propTypes["default"].object]),
+  leave: _propTypes["default"].oneOfType([_propTypes["default"].func, _propTypes["default"].array, _propTypes["default"].object]),
+  children: _propTypes["default"].func.isRequired
+} : undefined;
+Animate.defaultProps = {
+  show: true,
+  interpolation: _utils.numeric
+};
+var _default = Animate;
+exports["default"] = _default;
+
+/***/ }),
+
+/***/ "./node_modules/react-move/NodeGroup/index.js":
+/*!****************************************************!*\
+  !*** ./node_modules/react-move/NodeGroup/index.js ***!
+  \****************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports["default"] = void 0;
+
+var _react = _interopRequireWildcard(__webpack_require__(/*! react */ "./node_modules/react/index.js"));
+
+var _propTypes = _interopRequireDefault(__webpack_require__(/*! prop-types */ "./node_modules/prop-types/index.js"));
+
+var _kapellmeister = __webpack_require__(/*! kapellmeister */ "./node_modules/kapellmeister/es/index.js");
+
+var _mergeKeys = _interopRequireDefault(__webpack_require__(/*! ../core/mergeKeys */ "./node_modules/react-move/core/mergeKeys.js"));
+
+var _types = __webpack_require__(/*! ../core/types */ "./node_modules/react-move/core/types.js");
+
+var _utils = __webpack_require__(/*! ../utils */ "./node_modules/react-move/utils.js");
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { "default": obj }; }
+
+function _getRequireWildcardCache() { if (typeof WeakMap !== "function") return null; var cache = new WeakMap(); _getRequireWildcardCache = function _getRequireWildcardCache() { return cache; }; return cache; }
+
+function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } if (obj === null || _typeof(obj) !== "object" && typeof obj !== "function") { return { "default": obj }; } var cache = _getRequireWildcardCache(); if (cache && cache.has(obj)) { return cache.get(obj); } var newObj = {}; var hasPropertyDescriptor = Object.defineProperty && Object.getOwnPropertyDescriptor; for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) { var desc = hasPropertyDescriptor ? Object.getOwnPropertyDescriptor(obj, key) : null; if (desc && (desc.get || desc.set)) { Object.defineProperty(newObj, key, desc); } else { newObj[key] = obj[key]; } } } newObj["default"] = obj; if (cache) { cache.set(obj, newObj); } return newObj; }
+
+function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
+
+function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
+
+function _defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } }
+
+function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _defineProperties(Constructor.prototype, protoProps); if (staticProps) _defineProperties(Constructor, staticProps); return Constructor; }
+
+function _possibleConstructorReturn(self, call) { if (call && (_typeof(call) === "object" || typeof call === "function")) { return call; } return _assertThisInitialized(self); }
+
+function _getPrototypeOf(o) { _getPrototypeOf = Object.setPrototypeOf ? Object.getPrototypeOf : function _getPrototypeOf(o) { return o.__proto__ || Object.getPrototypeOf(o); }; return _getPrototypeOf(o); }
+
+function _assertThisInitialized(self) { if (self === void 0) { throw new ReferenceError("this hasn't been initialised - super() hasn't been called"); } return self; }
+
+function _inherits(subClass, superClass) { if (typeof superClass !== "function" && superClass !== null) { throw new TypeError("Super expression must either be null or a function"); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, writable: true, configurable: true } }); if (superClass) _setPrototypeOf(subClass, superClass); }
+
+function _setPrototypeOf(o, p) { _setPrototypeOf = Object.setPrototypeOf || function _setPrototypeOf(o, p) { o.__proto__ = p; return o; }; return _setPrototypeOf(o, p); }
+
+function _defineProperty(obj, key, value) { if (key in obj) { Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true }); } else { obj[key] = value; } return obj; }
+
+var NodeGroup = function (_Component) {
+  _inherits(NodeGroup, _Component);
+
+  function NodeGroup(props) {
+    var _this;
+
+    _classCallCheck(this, NodeGroup);
+
+    _this = _possibleConstructorReturn(this, _getPrototypeOf(NodeGroup).call(this, props));
+
+    _defineProperty(_assertThisInitialized(_this), "animate", function () {
+      var _this$state = _this.state,
+          nodeKeys = _this$state.nodeKeys,
+          nodeHash = _this$state.nodeHash;
+
+      if (_this.unmounting) {
+        return;
+      }
+
+      var pending = false;
+      var nextNodeKeys = [];
+      var length = nodeKeys.length;
+
+      for (var i = 0; i < length; i++) {
+        var k = nodeKeys[i];
+        var n = nodeHash[k];
+        var isTransitioning = n.isTransitioning();
+
+        if (isTransitioning) {
+          pending = true;
+        }
+
+        if (n.type === _types.LEAVE && !isTransitioning) {
+          delete nodeHash[k];
+        } else {
+          nextNodeKeys.push(k);
+        }
+      }
+
+      if (!pending) {
+        _this.interval.stop();
+      }
+
+      _this.setState(function () {
+        return {
+          nodeKeys: nextNodeKeys,
+          nodes: nextNodeKeys.map(function (key) {
+            return nodeHash[key];
+          })
+        };
+      });
+    });
+
+    _defineProperty(_assertThisInitialized(_this), "interval", null);
+
+    _defineProperty(_assertThisInitialized(_this), "unmounting", false);
+
+    var interpolation = props.interpolation;
+
+    var Node = function (_BaseNode) {
+      _inherits(Node, _BaseNode);
+
+      function Node(key, data) {
+        var _this2;
+
+        _classCallCheck(this, Node);
+
+        _this2 = _possibleConstructorReturn(this, _getPrototypeOf(Node).call(this));
+
+        _defineProperty(_assertThisInitialized(_this2), "getInterpolator", interpolation);
+
+        _this2.key = key;
+        _this2.data = data;
+        _this2.type = _types.ENTER;
+        return _this2;
+      }
+
+      return Node;
+    }(_kapellmeister.BaseNode);
+
+    _this.state = {
+      Node: Node,
+      nodeKeys: [],
+      nodeHash: {},
+      nodes: [],
+      data: null
+    };
+    return _this;
+  }
+
+  _createClass(NodeGroup, [{
+    key: "componentDidMount",
+    value: function componentDidMount() {
+      this.startInterval();
+    }
+  }, {
+    key: "componentDidUpdate",
+    value: function componentDidUpdate(prevProps) {
+      if (prevProps.data !== this.props.data && !this.unmounting) {
+        this.startInterval();
+      }
+    }
+  }, {
+    key: "startInterval",
+    value: function startInterval() {
+      if (!this.interval) {
+        this.interval = (0, _kapellmeister.interval)(this.animate);
+      } else {
+        this.interval.restart(this.animate);
+      }
+    }
+  }, {
+    key: "componentWillUnmount",
+    value: function componentWillUnmount() {
+      var _this$state2 = this.state,
+          nodeKeys = _this$state2.nodeKeys,
+          nodeHash = _this$state2.nodeHash;
+      this.unmounting = true;
+
+      if (this.interval) {
+        this.interval.stop();
+      }
+
+      nodeKeys.forEach(function (key) {
+        nodeHash[key].stopTransitions();
+      });
+    }
+  }, {
+    key: "render",
+    value: function render() {
+      var renderedChildren = this.props.children(this.state.nodes);
+      return renderedChildren && _react["default"].Children.only(renderedChildren);
+    }
+  }], [{
+    key: "getDerivedStateFromProps",
+    value: function getDerivedStateFromProps(nextProps, prevState) {
+      if (nextProps.data !== prevState.data) {
+        var data = nextProps.data,
+            keyAccessor = nextProps.keyAccessor,
+            start = nextProps.start,
+            enter = nextProps.enter,
+            update = nextProps.update,
+            leave = nextProps.leave;
+        var Node = prevState.Node,
+            nodeKeys = prevState.nodeKeys,
+            nodeHash = prevState.nodeHash;
+        var keyIndex = {};
+
+        for (var i = 0; i < nodeKeys.length; i++) {
+          keyIndex[nodeKeys[i]] = i;
+        }
+
+        var nextKeyIndex = {};
+        var nextNodeKeys = [];
+
+        for (var _i = 0; _i < data.length; _i++) {
+          var d = data[_i];
+          var k = keyAccessor(d, _i);
+          nextKeyIndex[k] = _i;
+          nextNodeKeys.push(k);
+
+          if (keyIndex[k] === undefined) {
+            var node = new Node();
+            node.key = k;
+            node.data = d;
+            node.type = _types.ENTER;
+            nodeHash[k] = node;
+          }
+        }
+
+        for (var _i2 = 0; _i2 < nodeKeys.length; _i2++) {
+          var _k = nodeKeys[_i2];
+          var n = nodeHash[_k];
+
+          if (nextKeyIndex[_k] !== undefined) {
+            n.data = data[nextKeyIndex[_k]];
+            n.type = _types.UPDATE;
+          } else {
+            n.type = _types.LEAVE;
+          }
+        }
+
+        var mergedNodeKeys = (0, _mergeKeys["default"])(nodeKeys, keyIndex, nextNodeKeys, nextKeyIndex);
+
+        for (var _i3 = 0; _i3 < mergedNodeKeys.length; _i3++) {
+          var _k2 = mergedNodeKeys[_i3];
+          var _n = nodeHash[_k2];
+          var _d = _n.data;
+
+          if (_n.type === _types.ENTER) {
+            _n.setState(start(_d, nextKeyIndex[_k2]));
+
+            _n.transition(enter(_d, nextKeyIndex[_k2]));
+          } else if (_n.type === _types.LEAVE) {
+            _n.transition(leave(_d, keyIndex[_k2]));
+          } else {
+            _n.transition(update(_d, nextKeyIndex[_k2]));
+          }
+        }
+
+        return {
+          data: data,
+          nodes: mergedNodeKeys.map(function (key) {
+            return nodeHash[key];
+          }),
+          nodeHash: nodeHash,
+          nodeKeys: mergedNodeKeys
+        };
+      }
+
+      return null;
+    }
+  }]);
+
+  return NodeGroup;
+}(_react.Component);
+
+NodeGroup.propTypes =  true ? {
+  data: _propTypes["default"].array.isRequired,
+  keyAccessor: _propTypes["default"].func.isRequired,
+  interpolation: _propTypes["default"].func,
+  start: _propTypes["default"].func.isRequired,
+  enter: _propTypes["default"].func,
+  update: _propTypes["default"].func,
+  leave: _propTypes["default"].func,
+  children: _propTypes["default"].func.isRequired
+} : undefined;
+NodeGroup.defaultProps = {
+  enter: function enter() {},
+  update: function update() {},
+  leave: function leave() {},
+  interpolation: _utils.numeric
+};
+var _default = NodeGroup;
+exports["default"] = _default;
+
+/***/ }),
+
+/***/ "./node_modules/react-move/core/mergeKeys.js":
+/*!***************************************************!*\
+  !*** ./node_modules/react-move/core/mergeKeys.js ***!
+  \***************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports["default"] = void 0;
+
+function mergeKeys(currNodeKeys, currKeyIndex, nextNodeKeys, nextKeyIndex) {
+  var allKeys = [];
+
+  for (var i = 0; i < nextNodeKeys.length; i++) {
+    allKeys[i] = nextNodeKeys[i];
+  }
+
+  for (var _i = 0; _i < currNodeKeys.length; _i++) {
+    if (nextKeyIndex[currNodeKeys[_i]] === undefined) {
+      allKeys.push(currNodeKeys[_i]);
+    }
+  }
+
+  return allKeys.sort(function (a, b) {
+    var nextOrderA = nextKeyIndex[a];
+    var nextOrderB = nextKeyIndex[b];
+    var currOrderA = currKeyIndex[a];
+    var currOrderB = currKeyIndex[b];
+
+    if (nextOrderA != null && nextOrderB != null) {
+      return nextKeyIndex[a] - nextKeyIndex[b];
+    } else if (currOrderA != null && currOrderB != null) {
+      return currKeyIndex[a] - currKeyIndex[b];
+    } else if (nextOrderA != null) {
+      for (var _i2 = 0; _i2 < nextNodeKeys.length; _i2++) {
+        var pivot = nextNodeKeys[_i2];
+
+        if (!currKeyIndex[pivot]) {
+          continue;
+        }
+
+        if (nextOrderA < nextKeyIndex[pivot] && currOrderB > currKeyIndex[pivot]) {
+          return -1;
+        } else if (nextOrderA > nextKeyIndex[pivot] && currOrderB < currKeyIndex[pivot]) {
+          return 1;
+        }
+      }
+
+      return 1;
+    }
+
+    for (var _i3 = 0; _i3 < nextNodeKeys.length; _i3++) {
+      var _pivot = nextNodeKeys[_i3];
+
+      if (!currKeyIndex[_pivot]) {
+        continue;
+      }
+
+      if (nextOrderB < nextKeyIndex[_pivot] && currOrderA > currKeyIndex[_pivot]) {
+        return 1;
+      } else if (nextOrderB > nextKeyIndex[_pivot] && currOrderA < currKeyIndex[_pivot]) {
+        return -1;
+      }
+    }
+
+    return -1;
+  });
+}
+
+var _default = mergeKeys;
+exports["default"] = _default;
+
+/***/ }),
+
+/***/ "./node_modules/react-move/core/types.js":
+/*!***********************************************!*\
+  !*** ./node_modules/react-move/core/types.js ***!
+  \***********************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.LEAVE = exports.UPDATE = exports.ENTER = void 0;
+var ENTER = 'ENTER';
+exports.ENTER = ENTER;
+var UPDATE = 'UPDATE';
+exports.UPDATE = UPDATE;
+var LEAVE = 'LEAVE';
+exports.LEAVE = LEAVE;
 
 /***/ }),
 
@@ -30710,12 +31852,12 @@ var getCircularReplacer = exports.getCircularReplacer = function getCircularRepl
 
 /***/ "./node_modules/react/index.js":
 /*!*******************************************************************************************!*\
-  !*** delegated ./node_modules/react/index.js from dll-reference dll_1aef2d0bbc0d334d831c ***!
+  !*** delegated ./node_modules/react/index.js from dll-reference dll_46916701fb300d1b1834 ***!
   \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = (__webpack_require__(/*! dll-reference dll_1aef2d0bbc0d334d831c */ "dll-reference dll_1aef2d0bbc0d334d831c"))("./node_modules/react/index.js");
+module.exports = (__webpack_require__(/*! dll-reference dll_46916701fb300d1b1834 */ "dll-reference dll_46916701fb300d1b1834"))("./node_modules/react/index.js");
 
 /***/ }),
 
@@ -31842,11 +32984,11 @@ var alphabet = __webpack_require__(/*! ./alphabet */ "./node_modules/shortid/lib
 // Ignore all milliseconds before a certain time to reduce the size of the date entropy without sacrificing uniqueness.
 // This number should be updated every year or so to keep the generated id short.
 // To regenerate `new Date() - 0` and bump the version. Always bump the version!
-var REDUCE_TIME = 1459707606518;
+var REDUCE_TIME = 1567752802062;
 
 // don't change unless we change the algos or REDUCE_TIME
 // must be an integer and less than 16
-var version = 6;
+var version = 7;
 
 // Counter is used when shortid is called multiple times in one second.
 var counter;
@@ -31896,7 +33038,7 @@ module.exports = build;
 
 var alphabet = __webpack_require__(/*! ./alphabet */ "./node_modules/shortid/lib/alphabet.js");
 var random = __webpack_require__(/*! ./random/random-byte */ "./node_modules/shortid/lib/random/random-byte-browser.js");
-var format = __webpack_require__(/*! nanoid/format */ "./node_modules/nanoid/format.js");
+var format = __webpack_require__(/*! nanoid/format */ "./node_modules/nanoid/format.browser.js");
 
 function generate(number) {
     var loopCounter = 0;
@@ -40177,7 +41319,7 @@ exports.clearImmediate = (typeof self !== "undefined" && self.clearImmediate) ||
 
 
 
-var punycode = __webpack_require__(/*! punycode */ "./node_modules/punycode/punycode.js");
+var punycode = __webpack_require__(/*! punycode */ "./node_modules/node-libs-browser/node_modules/punycode/punycode.js");
 var util = __webpack_require__(/*! ./util */ "./node_modules/url/util.js");
 
 exports.parse = urlParse;
@@ -40919,13 +42061,33 @@ module.exports = {
 /***/ }),
 
 /***/ "./node_modules/webpack/buildin/global.js":
-/*!******************************************************************************************************!*\
-  !*** delegated ./node_modules/webpack/buildin/global.js from dll-reference dll_1aef2d0bbc0d334d831c ***!
-  \******************************************************************************************************/
+/*!***********************************!*\
+  !*** (webpack)/buildin/global.js ***!
+  \***********************************/
 /*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
+/***/ (function(module, exports) {
 
-module.exports = (__webpack_require__(/*! dll-reference dll_1aef2d0bbc0d334d831c */ "dll-reference dll_1aef2d0bbc0d334d831c"))("./node_modules/webpack/buildin/global.js");
+var g;
+
+// This works in non-strict mode
+g = (function() {
+	return this;
+})();
+
+try {
+	// This works if eval is allowed (see CSP)
+	g = g || new Function("return this")();
+} catch (e) {
+	// This works if the window reference is available
+	if (typeof window === "object") g = window;
+}
+
+// g can still be undefined, but nothing to do about it...
+// We return undefined, instead of nothing here, so it's
+// easier to handle this case. if(!global) { ...}
+
+module.exports = g;
+
 
 /***/ }),
 
@@ -40984,7 +42146,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Components_Sections_Games__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../Components/Sections/Games */ "./Components/Sections/Games.jsx");
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! next/head */ "./node_modules/next-server/dist/lib/head.js");
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(next_head__WEBPACK_IMPORTED_MODULE_9__);
-var _jsxFileName = "C:\\Users\\andre\\Development-Projects\\portfolio\\pages\\index.js";
+var _this = undefined,
+    _jsxFileName = "C:\\Users\\andre\\development-projects\\portfolio\\pages\\index.js";
+
 
 
 
@@ -40997,102 +42161,117 @@ var _jsxFileName = "C:\\Users\\andre\\Development-Projects\\portfolio\\pages\\in
 
 
 var Index = function Index() {
-  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_head__WEBPACK_IMPORTED_MODULE_9___default.a, {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_head__WEBPACK_IMPORTED_MODULE_9___default.a, {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 15
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("title", {
+      lineNumber: 15,
+      columnNumber: 5
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("title", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 16
-    },
-    __self: this
-  }, "Andrew Westenskow")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Components_Layout__WEBPACK_IMPORTED_MODULE_1__["default"], {
+      lineNumber: 16,
+      columnNumber: 7
+    }
+  }, "Andrew Westenskow")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Components_Layout__WEBPACK_IMPORTED_MODULE_1__["default"], {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 18
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
+      lineNumber: 18,
+      columnNumber: 5
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
     id: "home",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 19
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Components_Sections_Home__WEBPACK_IMPORTED_MODULE_3__["default"], {
+      lineNumber: 19,
+      columnNumber: 7
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Components_Sections_Home__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 20
-    },
-    __self: this
-  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
+      lineNumber: 20,
+      columnNumber: 9
+    }
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
     id: "about",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 22
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Components_Sections_About__WEBPACK_IMPORTED_MODULE_4__["default"], {
+      lineNumber: 22,
+      columnNumber: 7
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Components_Sections_About__WEBPACK_IMPORTED_MODULE_4__["default"], {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 23
-    },
-    __self: this
-  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
+      lineNumber: 23,
+      columnNumber: 9
+    }
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
     id: "portfolio",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 25
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Components_Sections_Portfolio__WEBPACK_IMPORTED_MODULE_6__["default"], {
+      lineNumber: 25,
+      columnNumber: 7
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Components_Sections_Portfolio__WEBPACK_IMPORTED_MODULE_6__["default"], {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 26
-    },
-    __self: this
-  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
+      lineNumber: 26,
+      columnNumber: 9
+    }
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
     id: "games",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 28
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Components_Sections_Games__WEBPACK_IMPORTED_MODULE_8__["default"], {
+      lineNumber: 28,
+      columnNumber: 7
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Components_Sections_Games__WEBPACK_IMPORTED_MODULE_8__["default"], {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 29
-    },
-    __self: this
-  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
+      lineNumber: 29,
+      columnNumber: 9
+    }
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
     id: "stack",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 31
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Components_Sections_Stack__WEBPACK_IMPORTED_MODULE_5__["default"], {
+      lineNumber: 31,
+      columnNumber: 7
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Components_Sections_Stack__WEBPACK_IMPORTED_MODULE_5__["default"], {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 32
-    },
-    __self: this
-  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
+      lineNumber: 32,
+      columnNumber: 9
+    }
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
     id: "contact",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 34
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Components_Sections_Contact__WEBPACK_IMPORTED_MODULE_7__["default"], {
+      lineNumber: 34,
+      columnNumber: 7
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Components_Sections_Contact__WEBPACK_IMPORTED_MODULE_7__["default"], {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 35
-    },
-    __self: this
+      lineNumber: 35,
+      columnNumber: 9
+    }
   }))));
 };
 
@@ -41223,24 +42402,24 @@ module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAasAAAFACAYAAAAC
 
 /***/ 0:
 /*!*******************************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=C%3A%5CUsers%5Candre%5CDevelopment-Projects%5Cportfolio%5Cpages%5Cindex.js ***!
+  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=C%3A%5CUsers%5Candre%5Cdevelopment-projects%5Cportfolio%5Cpages%5Cindex.js ***!
   \*******************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=C%3A%5CUsers%5Candre%5CDevelopment-Projects%5Cportfolio%5Cpages%5Cindex.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=C%3A%5CUsers%5Candre%5CDevelopment-Projects%5Cportfolio%5Cpages%5Cindex.js!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=C%3A%5CUsers%5Candre%5Cdevelopment-projects%5Cportfolio%5Cpages%5Cindex.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=C%3A%5CUsers%5Candre%5Cdevelopment-projects%5Cportfolio%5Cpages%5Cindex.js!./");
 
 
 /***/ }),
 
-/***/ "dll-reference dll_1aef2d0bbc0d334d831c":
+/***/ "dll-reference dll_46916701fb300d1b1834":
 /*!*******************************************!*\
-  !*** external "dll_1aef2d0bbc0d334d831c" ***!
+  !*** external "dll_46916701fb300d1b1834" ***!
   \*******************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = dll_1aef2d0bbc0d334d831c;
+module.exports = dll_46916701fb300d1b1834;
 
 /***/ })
 

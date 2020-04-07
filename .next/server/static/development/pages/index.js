@@ -116,7 +116,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _fortawesome_free_brands_svg_icons__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_fortawesome_free_brands_svg_icons__WEBPACK_IMPORTED_MODULE_5__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_6__);
-var _jsxFileName = "C:\\Users\\andre\\Development-Projects\\portfolio\\Components\\Layout.jsx";
+var _this = undefined,
+    _jsxFileName = "C:\\Users\\andre\\development-projects\\portfolio\\Components\\Layout.jsx";
+
 
 
 
@@ -127,250 +129,284 @@ var _jsxFileName = "C:\\Users\\andre\\Development-Projects\\portfolio\\Component
 
 var Layout = function Layout(props) {
   _fortawesome_fontawesome_svg_core__WEBPACK_IMPORTED_MODULE_2__["library"].add(_fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_4__["faHome"], _fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_4__["faUser"], _fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_4__["faLayerGroup"], _fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_4__["faDesktop"], _fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_4__["faEnvelopeOpenText"], _fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_4__["faEnvelope"], _fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_4__["faPhone"], _fortawesome_free_brands_svg_icons__WEBPACK_IMPORTED_MODULE_5__["fab"], _fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_4__["faGamepad"], _fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_4__["faMousePointer"]);
-  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "Layout",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 14
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 14,
+      columnNumber: 5
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "navbar",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 15
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("nav", {
+      lineNumber: 15,
+      columnNumber: 7
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("nav", {
     className: "nav",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 16
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_6___default.a, {
+      lineNumber: 16,
+      columnNumber: 9
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_6___default.a, {
     href: "/#home",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 17
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 17,
+      columnNumber: 11
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "nav-label-hold",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 18
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
+      lineNumber: 18,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "nav-label",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 19
-    },
-    __self: this
-  }, "Home"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 19,
+      columnNumber: 15
+    }
+  }, "Home"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "icon-hold",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 20
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FontAwesomeIcon"], {
+      lineNumber: 20,
+      columnNumber: 15
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FontAwesomeIcon"], {
     id: "home-icon",
     className: "nav-icon",
     icon: "home",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 21
-    },
-    __self: this
-  })))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_6___default.a, {
+      lineNumber: 21,
+      columnNumber: 17
+    }
+  })))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_6___default.a, {
     href: "/#about",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 25
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 25,
+      columnNumber: 11
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "nav-label-hold",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 26
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
+      lineNumber: 26,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "nav-label",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 27
-    },
-    __self: this
-  }, "About"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 27,
+      columnNumber: 15
+    }
+  }, "About"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "icon-hold",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 28
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FontAwesomeIcon"], {
+      lineNumber: 28,
+      columnNumber: 15
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FontAwesomeIcon"], {
     className: "nav-icon",
     icon: "user",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 29
-    },
-    __self: this
-  })))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_6___default.a, {
+      lineNumber: 29,
+      columnNumber: 17
+    }
+  })))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_6___default.a, {
     href: "/#portfolio",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 33
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 33,
+      columnNumber: 11
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "nav-label-hold",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 34
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
+      lineNumber: 34,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "nav-label",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 35
-    },
-    __self: this
-  }, "Projects"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 35,
+      columnNumber: 15
+    }
+  }, "Projects"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "icon-hold",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 36
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FontAwesomeIcon"], {
+      lineNumber: 36,
+      columnNumber: 15
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FontAwesomeIcon"], {
     className: "nav-icon",
     icon: "desktop",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 37
-    },
-    __self: this
-  })))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_6___default.a, {
+      lineNumber: 37,
+      columnNumber: 17
+    }
+  })))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_6___default.a, {
     href: "/#games",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 41
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 41,
+      columnNumber: 11
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "nav-label-hold",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 42
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
+      lineNumber: 42,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "nav-label",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 43
-    },
-    __self: this
-  }, "Minis"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 43,
+      columnNumber: 15
+    }
+  }, "Minis"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "icon-hold",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 44
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FontAwesomeIcon"], {
+      lineNumber: 44,
+      columnNumber: 15
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FontAwesomeIcon"], {
     className: "nav-icon",
     icon: "mouse-pointer",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 45
-    },
-    __self: this
-  })))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_6___default.a, {
+      lineNumber: 45,
+      columnNumber: 17
+    }
+  })))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_6___default.a, {
     href: "/#stack",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 49
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 49,
+      columnNumber: 11
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "nav-label-hold",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 50
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
+      lineNumber: 50,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "nav-label",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 51
-    },
-    __self: this
-  }, "Stack"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 51,
+      columnNumber: 15
+    }
+  }, "Stack"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "icon-hold",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 52
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FontAwesomeIcon"], {
+      lineNumber: 52,
+      columnNumber: 15
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FontAwesomeIcon"], {
     className: "nav-icon",
     icon: "layer-group",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 53
-    },
-    __self: this
-  })))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_6___default.a, {
+      lineNumber: 53,
+      columnNumber: 17
+    }
+  })))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_6___default.a, {
     href: "/#contact",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 57
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 57,
+      columnNumber: 11
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "nav-label-hold",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 58
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
+      lineNumber: 58,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "nav-label",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 59
-    },
-    __self: this
-  }, "Contact"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 59,
+      columnNumber: 15
+    }
+  }, "Contact"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "icon-hold",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 60
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FontAwesomeIcon"], {
+      lineNumber: 60,
+      columnNumber: 15
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FontAwesomeIcon"], {
     className: "nav-icon",
     icon: "envelope-open-text",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 61
-    },
-    __self: this
-  })))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 61,
+      columnNumber: 17
+    }
+  })))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 67
-    },
-    __self: this
+      lineNumber: 67,
+      columnNumber: 7
+    }
   }, props.children));
 };
 
@@ -393,88 +429,101 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _styles_About_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_styles_About_scss__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "C:\\Users\\andre\\Development-Projects\\portfolio\\Components\\Sections\\About.jsx";
+var _this = undefined,
+    _jsxFileName = "C:\\Users\\andre\\development-projects\\portfolio\\Components\\Sections\\About.jsx";
+
 
 
 
 
 var About = function About() {
-  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "About",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 7
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+      lineNumber: 7,
+      columnNumber: 5
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
     className: "section-label",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 8
-    },
-    __self: this
-  }, "About"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 8,
+      columnNumber: 7
+    }
+  }, "About"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "about-content",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 11
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 9,
+      columnNumber: 7
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "about-image-hold",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 12
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 10,
+      columnNumber: 9
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "about-image",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 13
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "https://scontent-lax3-2.xx.fbcdn.net/v/t1.0-9/32202644_10215834164072275_2266568479639339008_n.jpg?_nc_cat=110&_nc_oc=AQnE-GGSram3SlLaj5bz1H64ObuP-rBGrgOc9Jx9SuSpnBzbd7w_coAs6M3VT8JtDyY&_nc_ht=scontent-lax3-2.xx&oh=c136cd9145f749da74ce17eef6e60f14&oe=5E3AF0C8",
+      lineNumber: 11,
+      columnNumber: 11
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: "https://i.imgur.com/EIz39j4.jpg",
     alt: "Andrew",
     className: "image",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 14
-    },
-    __self: this
-  }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 12,
+      columnNumber: 13
+    }
+  }))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "about-text-hold",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 17
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+      lineNumber: 19,
+      columnNumber: 9
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 18
-    },
-    __self: this
-  }, "Hi, I'm Andrew..."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("article", {
+      lineNumber: 20,
+      columnNumber: 11
+    }
+  }, "Hi, I'm Andrew..."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("article", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 19
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      lineNumber: 21,
+      columnNumber: 11
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 19
-    },
-    __self: this
-  }, "Soon after graduating with Bachelor's degrees in Russian and International Studies, I realized that field was not where I would work for the rest of my life.  I spent a few years working in logistics but always felt the call of the tech community.  I finally decided to dive in and have loved every minute of my time as a developer.  I love finding solutions to complex problems, coming up with the most efficient way to do things, and  building effective and efficient apps.  When I'm not coding I love to play the drums and watch movies.  I even host a podcast discussing film!  If you have any questions please don't hesitate to ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_2___default.a, {
+      lineNumber: 22,
+      columnNumber: 13
+    }
+  }, "Soon after graduating with Bachelor's degrees in Russian and International Studies, I realized that field was not where I would work for the rest of my life. I spent a few years working in logistics but always felt the call of the tech community. I finally decided to dive in and have loved every minute of my time as a developer. I love finding solutions to complex problems, coming up with the most efficient way to do things, and building effective and efficient apps. When I'm not coding I love to play the drums and watch movies. I even host a podcast discussing film! If you have any questions please don't hesitate to", ' ', /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_2___default.a, {
     href: "#contact",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 19
-    },
-    __self: this
+      lineNumber: 33,
+      columnNumber: 15
+    }
   }, "get in touch!"))))));
 };
 
@@ -498,149 +547,169 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @fortawesome/react-fontawesome */ "@fortawesome/react-fontawesome");
 /* harmony import */ var _fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var _ContactForm__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./ContactForm */ "./Components/Sections/ContactForm.jsx");
-var _jsxFileName = "C:\\Users\\andre\\Development-Projects\\portfolio\\Components\\Sections\\Contact.jsx";
+var _this = undefined,
+    _jsxFileName = "C:\\Users\\andre\\development-projects\\portfolio\\Components\\Sections\\Contact.jsx";
+
 
 
 
 
 
 var Contact = function Contact() {
-  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "Contact",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 8
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+      lineNumber: 8,
+      columnNumber: 5
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
     className: "section-label",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 9
-    },
-    __self: this
-  }, "Contact"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 9,
+      columnNumber: 7
+    }
+  }, "Contact"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "contact-page",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 13
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 13,
+      columnNumber: 7
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "lets-chat",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 14
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+      lineNumber: 14,
+      columnNumber: 9
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 15
-    },
-    __self: this
-  }, "Let's chat!")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 15,
+      columnNumber: 11
+    }
+  }, "Let's chat!")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "contact-info",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 18
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 18,
+      columnNumber: 9
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "contact-info-line",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 19
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+      lineNumber: 19,
+      columnNumber: 11
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "mailto:andrew.westenskow@gmail.com?subject=Let's chat!",
     target: "_blank",
     className: "contact-info-text",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 20
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_2__["FontAwesomeIcon"], {
+      lineNumber: 20,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_2__["FontAwesomeIcon"], {
     className: "contact-info-icon",
     icon: "envelope",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 24
-    },
-    __self: this
-  }), "andrew.westenskow@gmail.com")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 24,
+      columnNumber: 15
+    }
+  }), "andrew.westenskow@gmail.com")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "contact-info-line",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 28
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+      lineNumber: 28,
+      columnNumber: 11
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "tel:385-290-8656",
     className: "contact-info-text",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 29
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_2__["FontAwesomeIcon"], {
+      lineNumber: 29,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_2__["FontAwesomeIcon"], {
     className: "contact-info-icon",
     icon: "phone",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 30
-    },
-    __self: this
-  }), "(385) 290-8656")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 30,
+      columnNumber: 15
+    }
+  }), "(385) 290-8656")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "contact-info-line",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 34
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+      lineNumber: 34,
+      columnNumber: 11
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     className: "contact-info-text",
     href: "https://www.linkedin.com/in/andrew-westenskow/",
     target: "_blank",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 35
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_2__["FontAwesomeIcon"], {
+      lineNumber: 35,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_2__["FontAwesomeIcon"], {
     className: "contact-info-icon",
     icon: ['fab', 'linkedin-in'],
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 36
-    },
-    __self: this
-  }), "https://www.linkedin.com/in/andrew-westenskow/")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 36,
+      columnNumber: 15
+    }
+  }), "https://www.linkedin.com/in/andrew-westenskow/")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "contact-info-line",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 40
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+      lineNumber: 40,
+      columnNumber: 11
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     target: "_blank",
     className: "contact-info-text",
     href: "https://github.com/andrewwestenskow",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 41
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_2__["FontAwesomeIcon"], {
+      lineNumber: 41,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_2__["FontAwesomeIcon"], {
     className: "contact-info-icon",
     icon: ['fab', 'github'],
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 42
-    },
-    __self: this
+      lineNumber: 42,
+      columnNumber: 15
+    }
   }), "https://github.com/andrewwestenskow")))));
 };
 
@@ -657,17 +726,19 @@ var Contact = function Contact() {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/classCallCheck */ "./node_modules/@babel/runtime-corejs2/helpers/esm/classCallCheck.js");
-/* harmony import */ var _babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/createClass */ "./node_modules/@babel/runtime-corejs2/helpers/esm/createClass.js");
-/* harmony import */ var _babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/possibleConstructorReturn */ "./node_modules/@babel/runtime-corejs2/helpers/esm/possibleConstructorReturn.js");
-/* harmony import */ var _babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/getPrototypeOf */ "./node_modules/@babel/runtime-corejs2/helpers/esm/getPrototypeOf.js");
-/* harmony import */ var _babel_runtime_corejs2_helpers_esm_assertThisInitialized__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/assertThisInitialized */ "./node_modules/@babel/runtime-corejs2/helpers/esm/assertThisInitialized.js");
-/* harmony import */ var _babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/inherits */ "./node_modules/@babel/runtime-corejs2/helpers/esm/inherits.js");
-/* harmony import */ var _babel_runtime_corejs2_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/defineProperty */ "./node_modules/@babel/runtime-corejs2/helpers/esm/defineProperty.js");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! react */ "react");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_7__);
-/* harmony import */ var _styles_ContactForm_scss__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../../styles/ContactForm.scss */ "./styles/ContactForm.scss");
-/* harmony import */ var _styles_ContactForm_scss__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(_styles_ContactForm_scss__WEBPACK_IMPORTED_MODULE_8__);
+/* harmony import */ var _babel_runtime_corejs2_core_js_reflect_construct__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime-corejs2/core-js/reflect/construct */ "./node_modules/@babel/runtime-corejs2/core-js/reflect/construct.js");
+/* harmony import */ var _babel_runtime_corejs2_core_js_reflect_construct__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_corejs2_core_js_reflect_construct__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/classCallCheck */ "./node_modules/@babel/runtime-corejs2/helpers/esm/classCallCheck.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/createClass */ "./node_modules/@babel/runtime-corejs2/helpers/esm/createClass.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_assertThisInitialized__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/assertThisInitialized */ "./node_modules/@babel/runtime-corejs2/helpers/esm/assertThisInitialized.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/inherits */ "./node_modules/@babel/runtime-corejs2/helpers/esm/inherits.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/possibleConstructorReturn */ "./node_modules/@babel/runtime-corejs2/helpers/esm/possibleConstructorReturn.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/getPrototypeOf */ "./node_modules/@babel/runtime-corejs2/helpers/esm/getPrototypeOf.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/defineProperty */ "./node_modules/@babel/runtime-corejs2/helpers/esm/defineProperty.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! react */ "react");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_8__);
+/* harmony import */ var _styles_ContactForm_scss__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../../styles/ContactForm.scss */ "./styles/ContactForm.scss");
+/* harmony import */ var _styles_ContactForm_scss__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(_styles_ContactForm_scss__WEBPACK_IMPORTED_MODULE_9__);
 
 
 
@@ -675,98 +746,108 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "C:\\Users\\andre\\Development-Projects\\portfolio\\Components\\Sections\\ContactForm.jsx";
+
+var _jsxFileName = "C:\\Users\\andre\\development-projects\\portfolio\\Components\\Sections\\ContactForm.jsx";
+
+function _createSuper(Derived) { return function () { var Super = Object(_babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_6__["default"])(Derived), result; if (_isNativeReflectConstruct()) { var NewTarget = Object(_babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_6__["default"])(this).constructor; result = _babel_runtime_corejs2_core_js_reflect_construct__WEBPACK_IMPORTED_MODULE_0___default()(Super, arguments, NewTarget); } else { result = Super.apply(this, arguments); } return Object(_babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_5__["default"])(this, result); }; }
+
+function _isNativeReflectConstruct() { if (typeof Reflect === "undefined" || !_babel_runtime_corejs2_core_js_reflect_construct__WEBPACK_IMPORTED_MODULE_0___default.a) return false; if (_babel_runtime_corejs2_core_js_reflect_construct__WEBPACK_IMPORTED_MODULE_0___default.a.sham) return false; if (typeof Proxy === "function") return true; try { Date.prototype.toString.call(_babel_runtime_corejs2_core_js_reflect_construct__WEBPACK_IMPORTED_MODULE_0___default()(Date, [], function () {})); return true; } catch (e) { return false; } }
 
 
 
-var ContactForm =
-/*#__PURE__*/
-function (_Component) {
-  Object(_babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_5__["default"])(ContactForm, _Component);
+
+var ContactForm = /*#__PURE__*/function (_Component) {
+  Object(_babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_4__["default"])(ContactForm, _Component);
+
+  var _super = _createSuper(ContactForm);
 
   function ContactForm() {
-    var _getPrototypeOf2;
-
     var _this;
 
-    Object(_babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_0__["default"])(this, ContactForm);
+    Object(_babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_1__["default"])(this, ContactForm);
 
     for (var _len = arguments.length, args = new Array(_len), _key = 0; _key < _len; _key++) {
       args[_key] = arguments[_key];
     }
 
-    _this = Object(_babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_2__["default"])(this, (_getPrototypeOf2 = Object(_babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_3__["default"])(ContactForm)).call.apply(_getPrototypeOf2, [this].concat(args)));
+    _this = _super.call.apply(_super, [this].concat(args));
 
-    Object(_babel_runtime_corejs2_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_6__["default"])(Object(_babel_runtime_corejs2_helpers_esm_assertThisInitialized__WEBPACK_IMPORTED_MODULE_4__["default"])(_this), "state", {
+    Object(_babel_runtime_corejs2_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_7__["default"])(Object(_babel_runtime_corejs2_helpers_esm_assertThisInitialized__WEBPACK_IMPORTED_MODULE_3__["default"])(_this), "state", {
       from: '',
       subject: '',
       body: ''
     });
 
-    Object(_babel_runtime_corejs2_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_6__["default"])(Object(_babel_runtime_corejs2_helpers_esm_assertThisInitialized__WEBPACK_IMPORTED_MODULE_4__["default"])(_this), "handleChange", function (e) {
-      _this.setState(Object(_babel_runtime_corejs2_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_6__["default"])({}, e.target.name, e.target.value));
+    Object(_babel_runtime_corejs2_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_7__["default"])(Object(_babel_runtime_corejs2_helpers_esm_assertThisInitialized__WEBPACK_IMPORTED_MODULE_3__["default"])(_this), "handleChange", function (e) {
+      _this.setState(Object(_babel_runtime_corejs2_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_7__["default"])({}, e.target.name, e.target.value));
     });
 
-    Object(_babel_runtime_corejs2_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_6__["default"])(Object(_babel_runtime_corejs2_helpers_esm_assertThisInitialized__WEBPACK_IMPORTED_MODULE_4__["default"])(_this), "handleSubmit", function () {});
+    Object(_babel_runtime_corejs2_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_7__["default"])(Object(_babel_runtime_corejs2_helpers_esm_assertThisInitialized__WEBPACK_IMPORTED_MODULE_3__["default"])(_this), "handleSubmit", function () {});
 
     return _this;
   }
 
-  Object(_babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_1__["default"])(ContactForm, [{
+  Object(_babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_2__["default"])(ContactForm, [{
     key: "render",
     value: function render() {
       var _this2 = this;
 
-      return react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("div", {
+      return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("div", {
+        __self: this,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 24
-        },
-        __self: this
-      }, react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("div", {
+          lineNumber: 24,
+          columnNumber: 7
+        }
+      }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("div", {
         className: "contact-form",
+        __self: this,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 25
-        },
-        __self: this
-      }, react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("p", {
+          lineNumber: 25,
+          columnNumber: 9
+        }
+      }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("p", {
+        __self: this,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 26
-        },
-        __self: this
-      }, "Your email"), react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("input", {
+          lineNumber: 26,
+          columnNumber: 11
+        }
+      }, "Your email"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("input", {
         onChange: function onChange(e) {
           return _this2.handleChange(e);
         },
         name: "from",
         type: "text",
         required: true,
+        __self: this,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 27
-        },
-        __self: this
-      }), react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("p", {
+          lineNumber: 27,
+          columnNumber: 11
+        }
+      }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("p", {
+        __self: this,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 31
-        },
-        __self: this
-      }, "Subject"), react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("input", {
+          lineNumber: 31,
+          columnNumber: 11
+        }
+      }, "Subject"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("input", {
         onChange: function onChange(e) {
           return _this2.handleChange(e);
         },
         name: "subject",
         type: "text",
         required: true,
+        __self: this,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 32
-        },
-        __self: this
-      }), react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("textarea", {
+          lineNumber: 32,
+          columnNumber: 11
+        }
+      }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("textarea", {
         onChange: function onChange(e) {
           return _this2.handleChange(e);
         },
@@ -775,25 +856,27 @@ function (_Component) {
         cols: "30",
         rows: "10",
         required: true,
+        __self: this,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 37
-        },
-        __self: this
-      }), react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("button", {
+          lineNumber: 37,
+          columnNumber: 11
+        }
+      }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("button", {
         onClick: this.handleSubmit,
         type: "submit",
+        __self: this,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 42
-        },
-        __self: this
+          lineNumber: 42,
+          columnNumber: 11
+        }
       }, "Send")));
     }
   }]);
 
   return ContactForm;
-}(react__WEBPACK_IMPORTED_MODULE_7__["Component"]);
+}(react__WEBPACK_IMPORTED_MODULE_8__["Component"]);
 
 /* harmony default export */ __webpack_exports__["default"] = (ContactForm);
 
@@ -814,166 +897,189 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _styles_Games_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_styles_Games_scss__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "C:\\Users\\andre\\Development-Projects\\portfolio\\Components\\Sections\\Games.jsx";
+var _this = undefined,
+    _jsxFileName = "C:\\Users\\andre\\development-projects\\portfolio\\Components\\Sections\\Games.jsx";
+
 
 
 
 
 var Games = function Games(props) {
-  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "Games",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 7
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 7,
+      columnNumber: 5
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "games-content",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 8
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 8,
+      columnNumber: 7
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-item",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 9
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
+      lineNumber: 9,
+      columnNumber: 9
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "portfolio-item-title game-link",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 10
-    },
-    __self: this
-  }, "Minesweeper"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+      lineNumber: 10,
+      columnNumber: 11
+    }
+  }, "Minesweeper"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "carousel-image",
     src: "https://i.imgur.com/QmtSXXq.png",
     alt: "",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 11
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      lineNumber: 11,
+      columnNumber: 11
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "game-descriptions",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 16
-    },
-    __self: this
-  }, "Minesweeper clone built using vanilla Javascript, HTML, and CSS"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      lineNumber: 16,
+      columnNumber: 11
+    }
+  }, "Minesweeper clone built using vanilla Javascript, HTML, and CSS"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "game-descriptions",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 19
-    },
-    __self: this
-  }, "Click ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_2___default.a, {
+      lineNumber: 19,
+      columnNumber: 11
+    }
+  }, "Click ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_2___default.a, {
     href: "/minesweeper",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 20
-    },
-    __self: this
-  }, "here"), " to play.*")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 20,
+      columnNumber: 19
+    }
+  }, "here"), " to play.*")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-item",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 23
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
+      lineNumber: 23,
+      columnNumber: 9
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "portfolio-item-title game-link",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 24
-    },
-    __self: this
-  }, "Space Invaders"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+      lineNumber: 24,
+      columnNumber: 11
+    }
+  }, "Space Invaders"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "carousel-image",
     src: "https://i.imgur.com/kKfXrhp.png",
     alt: "",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 25
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      lineNumber: 25,
+      columnNumber: 11
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "game-descriptions",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 30
-    },
-    __self: this
-  }, "Space Invaders clone built using vanilla Javascript, HTML, and CSS"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      lineNumber: 30,
+      columnNumber: 11
+    }
+  }, "Space Invaders clone built using vanilla Javascript, HTML, and CSS"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "game-descriptions",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 33
-    },
-    __self: this
-  }, "Click ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_2___default.a, {
+      lineNumber: 33,
+      columnNumber: 11
+    }
+  }, "Click ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_2___default.a, {
     href: "/spaceinvaders",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 34
-    },
-    __self: this
-  }, "here"), " to play.*")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 34,
+      columnNumber: 19
+    }
+  }, "here"), " to play.*")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-item",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 37
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
+      lineNumber: 37,
+      columnNumber: 9
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "portfolio-item-title game-link",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 38
-    },
-    __self: this
-  }, "31 Days of October"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+      lineNumber: 38,
+      columnNumber: 11
+    }
+  }, "31 Days of October"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "carousel-image",
     src: "https://i.imgur.com/5h8dhki.png",
     alt: "",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 40
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      lineNumber: 40,
+      columnNumber: 11
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "game-descriptions",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 45
-    },
-    __self: this
-  }, "Static site built using Next.js for a month long horror film festival"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      lineNumber: 45,
+      columnNumber: 11
+    }
+  }, "Static site built using Next.js for a month long horror film festival"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "game-descriptions",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 49
-    },
-    __self: this
-  }, "Click", ' ', react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+      lineNumber: 49,
+      columnNumber: 11
+    }
+  }, "Click", ' ', /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     target: "_blank",
     href: "https://www.31daysofoctober.com",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 51
-    },
-    __self: this
-  }, "here"), ' ', "to explore."))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      lineNumber: 51,
+      columnNumber: 13
+    }
+  }, "here"), ' ', "to explore."))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "disclaimer",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 58
-    },
-    __self: this
+      lineNumber: 58,
+      columnNumber: 7
+    }
   }, "*Games only work on desktop"));
 };
 
@@ -996,171 +1102,195 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _styles_Home_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_styles_Home_scss__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var react_typing_animation__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react-typing-animation */ "react-typing-animation");
 /* harmony import */ var react_typing_animation__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react_typing_animation__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "C:\\Users\\andre\\Development-Projects\\portfolio\\Components\\Sections\\Home.jsx";
+var _this = undefined,
+    _jsxFileName = "C:\\Users\\andre\\development-projects\\portfolio\\Components\\Sections\\Home.jsx";
+
 
 
 
 
 var AnimatedTypingComponent = function AnimatedTypingComponent() {
-  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_typing_animation__WEBPACK_IMPORTED_MODULE_2___default.a, {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_typing_animation__WEBPACK_IMPORTED_MODULE_2___default.a, {
     startDelay: 1000,
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 6
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
+      lineNumber: 6,
+      columnNumber: 3
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "intro",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 7
-    },
-    __self: this
-  }, "movie lover"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_typing_animation__WEBPACK_IMPORTED_MODULE_2___default.a.Delay, {
+      lineNumber: 7,
+      columnNumber: 5
+    }
+  }, "movie lover"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_typing_animation__WEBPACK_IMPORTED_MODULE_2___default.a.Delay, {
     ms: 1500,
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 8
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_typing_animation__WEBPACK_IMPORTED_MODULE_2___default.a.Backspace, {
+      lineNumber: 8,
+      columnNumber: 5
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_typing_animation__WEBPACK_IMPORTED_MODULE_2___default.a.Backspace, {
     count: 20,
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 9
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
+      lineNumber: 9,
+      columnNumber: 5
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "intro",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 10
-    },
-    __self: this
-  }, "video gamer"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_typing_animation__WEBPACK_IMPORTED_MODULE_2___default.a.Delay, {
+      lineNumber: 10,
+      columnNumber: 5
+    }
+  }, "video gamer"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_typing_animation__WEBPACK_IMPORTED_MODULE_2___default.a.Delay, {
     ms: 1500,
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 11
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_typing_animation__WEBPACK_IMPORTED_MODULE_2___default.a.Backspace, {
+      lineNumber: 11,
+      columnNumber: 5
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_typing_animation__WEBPACK_IMPORTED_MODULE_2___default.a.Backspace, {
     count: 20,
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 12
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
+      lineNumber: 12,
+      columnNumber: 5
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "intro",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 13
-    },
-    __self: this
-  }, "drummer"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_typing_animation__WEBPACK_IMPORTED_MODULE_2___default.a.Delay, {
+      lineNumber: 13,
+      columnNumber: 5
+    }
+  }, "drummer"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_typing_animation__WEBPACK_IMPORTED_MODULE_2___default.a.Delay, {
     ms: 1500,
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 14
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_typing_animation__WEBPACK_IMPORTED_MODULE_2___default.a.Backspace, {
+      lineNumber: 14,
+      columnNumber: 5
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_typing_animation__WEBPACK_IMPORTED_MODULE_2___default.a.Backspace, {
     count: 20,
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 15
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
+      lineNumber: 15,
+      columnNumber: 5
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "intro",
     style: {
       textDecoration: 'underline'
     },
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 16
-    },
-    __self: this
-  }, "web developer"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_typing_animation__WEBPACK_IMPORTED_MODULE_2___default.a.Delay, {
+      lineNumber: 16,
+      columnNumber: 5
+    }
+  }, "web developer"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_typing_animation__WEBPACK_IMPORTED_MODULE_2___default.a.Delay, {
     ms: 100000000,
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 17
-    },
-    __self: this
+      lineNumber: 17,
+      columnNumber: 5
+    }
   }));
 };
 
 var Home = function Home() {
-  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "Home",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 23
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+      lineNumber: 23,
+      columnNumber: 5
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
     className: "section-label",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 24
-    },
-    __self: this
-  }, "Home"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 24,
+      columnNumber: 7
+    }
+  }, "Home"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "home-content",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 27
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 27,
+      columnNumber: 7
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "intro-hold",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 28
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+      lineNumber: 28,
+      columnNumber: 9
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
     className: "name",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 29
-    },
-    __self: this
-  }, "My name is ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+      lineNumber: 29,
+      columnNumber: 9
+    }
+  }, "My name is ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 29
-    },
-    __self: this
-  }), " Andrew Westenskow"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 29,
+      columnNumber: 41
+    }
+  }), " Andrew Westenskow"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "titles-hold",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 30
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
+      lineNumber: 30,
+      columnNumber: 11
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "intro-head",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 30
-    },
-    __self: this
-  }, "I am a"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(AnimatedTypingComponent, {
+      lineNumber: 30,
+      columnNumber: 40
+    }
+  }, "I am a"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(AnimatedTypingComponent, {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 31
-    },
-    __self: this
-  }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 31,
+      columnNumber: 11
+    }
+  }))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "photo-hold",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 33
-    },
-    __self: this
+      lineNumber: 33,
+      columnNumber: 9
+    }
   })));
 };
 
@@ -1183,41 +1313,47 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _styles_Portfolio_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_styles_Portfolio_scss__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var nuka_carousel__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! nuka-carousel */ "nuka-carousel");
 /* harmony import */ var nuka_carousel__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(nuka_carousel__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "C:\\Users\\andre\\Development-Projects\\portfolio\\Components\\Sections\\Portfolio.jsx";
+var _this = undefined,
+    _jsxFileName = "C:\\Users\\andre\\development-projects\\portfolio\\Components\\Sections\\Portfolio.jsx";
+
 
 
 
 
 var Portfolio = function Portfolio() {
-  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "Portfolio",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 7
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 7,
+      columnNumber: 5
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-content",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 8
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 8,
+      columnNumber: 7
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-item",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 9
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
+      lineNumber: 9,
+      columnNumber: 9
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "portfolio-item-title",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 10
-    },
-    __self: this
-  }, "vote2play"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(nuka_carousel__WEBPACK_IMPORTED_MODULE_2___default.a, {
+      lineNumber: 10,
+      columnNumber: 11
+    }
+  }, "vote2play"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(nuka_carousel__WEBPACK_IMPORTED_MODULE_2___default.a, {
     width: "80%",
     autoplay: true,
     autoplayInterval: 5000,
@@ -1227,206 +1363,234 @@ var Portfolio = function Portfolio() {
     wrapAround: true,
     heightMode: "first",
     speed: 1500,
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 11
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 11,
+      columnNumber: 11
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "carousel-item",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 22
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+      lineNumber: 22,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "carousel-image",
     src: "https://media-exp1.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=axXkYnru%2FRsTFyGE4%2FI2swPzz%2BA%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWjoecPWe-eg8EATcSRQjQBkfu61EmbmG47ueYvqKIojjJOzLZP5agYUbhl4lWdI",
     alt: "vote2play home page",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 23
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      lineNumber: 23,
+      columnNumber: 15
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "carousel-image-label",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 28
-    },
-    __self: this
-  }, "vote2play home page")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 28,
+      columnNumber: 15
+    }
+  }, "vote2play home page")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "carousel-item",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 30
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+      lineNumber: 30,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "carousel-image",
     src: "https://media-exp1.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=TTztfjD3q%2FBXqDru9n2niPqemyw%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWjpeMGJf-b3rUAfLSxQjQBgeLm1ETjpE46-Ktm6eo1xgpTld5b5agYUbhl4lWdI",
     alt: "vote2play dashboard",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 31
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      lineNumber: 31,
+      columnNumber: 15
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "carousel-image-label",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 36
-    },
-    __self: this
-  }, "User dashboard shows all groups and allows for joining new groups")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 36,
+      columnNumber: 15
+    }
+  }, "User dashboard shows all groups and allows for joining new groups")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "carousel-item",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 41
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+      lineNumber: 41,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "carousel-image",
     src: "https://media-exp1.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=rf7b99%2BqTIWsw3%2B28bJ7nW7sRSs%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWjvL8HXf7uk90BFK3gFjQA2e-21ETPkFI7tf469et4kjZe3IcP5agYUbhl4lWdI",
     alt: "vote2play group",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 42
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      lineNumber: 42,
+      columnNumber: 15
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "carousel-image-label",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 47
-    },
-    __self: this
-  }, "Host view plays media and shows additional controls")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 47,
+      columnNumber: 15
+    }
+  }, "Host view plays media and shows additional controls")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "carousel-item",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 51
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+      lineNumber: 51,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "carousel-image",
     src: "https://media-exp1.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=J3bMulaLJ7xzGB7NDuL94CBIYhE%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWjteZLce-OgrUBELX4AjQA0fLm1SDjmFI6-fo25e4p5jJKwJpX5agYUbhl4lWdI",
     alt: "vote2play group",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 52
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      lineNumber: 52,
+      columnNumber: 15
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "carousel-image-label",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 57
-    },
-    __self: this
-  }, "Member view shows what is playing and allows for voting and tuning in")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 57,
+      columnNumber: 15
+    }
+  }, "Member view shows what is playing and allows for voting and tuning in")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "carousel-item",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 66
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+      lineNumber: 66,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "carousel-image",
     src: "https://media-exp1.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=IXw94lAotzvDZWkqD3moyW44mNc%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWjvccTdeeHzpUAXcCsGjQBkeOu1SWXkFo69f4zvdNR5icbtIZP5agYUbhl4lWdI",
     alt: "vote2play profile",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 67
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      lineNumber: 67,
+      columnNumber: 15
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "carousel-image-label",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 72
-    },
-    __self: this
-  }, "Profile page allows users to edit their information and leave any unused groups"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
+      lineNumber: 72,
+      columnNumber: 15
+    }
+  }, "Profile page allows users to edit their information and leave any unused groups"))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
     className: "portfolio-item-list",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 78
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+      lineNumber: 78,
+      columnNumber: 11
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 79
-    },
-    __self: this
-  }, "vote2play is a platform for collaborative playlist making and music listening"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+      lineNumber: 79,
+      columnNumber: 13
+    }
+  }, "vote2play is a platform for collaborative playlist making and music listening"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 83
-    },
-    __self: this
-  }, "Playlists are made from YouTube links and can be added by listeners and voted on to determine the order they will play"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+      lineNumber: 83,
+      columnNumber: 13
+    }
+  }, "Playlists are made from YouTube links and can be added by listeners and voted on to determine the order they will play"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 87
-    },
-    __self: this
-  }, "By default, music only plays on host device but other members can tune in on their own devices"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+      lineNumber: 87,
+      columnNumber: 13
+    }
+  }, "By default, music only plays on host device but other members can tune in on their own devices"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 91
-    },
-    __self: this
-  }, "Music will always sync with the host device including pause, play, and seek functionality"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+      lineNumber: 91,
+      columnNumber: 13
+    }
+  }, "Music will always sync with the host device including pause, play, and seek functionality"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 95
-    },
-    __self: this
-  }, "Built using: React.js, Express, Socket.io, PostgreSQL, and Google's YouTube API"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+      lineNumber: 95,
+      columnNumber: 13
+    }
+  }, "Built using: React.js, Express, Socket.io, PostgreSQL, and Google's YouTube API"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 99
-    },
-    __self: this
-  }, "Live site:", ' ', react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+      lineNumber: 99,
+      columnNumber: 13
+    }
+  }, "Live site:", ' ', /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     target: "_blank",
     href: "http://www.vote2play.com",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 101
-    },
-    __self: this
-  }, "www.vote2play.com")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+      lineNumber: 101,
+      columnNumber: 15
+    }
+  }, "www.vote2play.com")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 105
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+      lineNumber: 105,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     target: "_blank",
     href: "https://github.com/andrewwestenskow/vote2play",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 106
-    },
-    __self: this
-  }, "GitHub repo", ' ')))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 106,
+      columnNumber: 15
+    }
+  }, "GitHub repo", ' ')))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-item",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 115
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
+      lineNumber: 115,
+      columnNumber: 9
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "portfolio-item-title",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 116
-    },
-    __self: this
-  }, "fin-s"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(nuka_carousel__WEBPACK_IMPORTED_MODULE_2___default.a, {
+      lineNumber: 116,
+      columnNumber: 11
+    }
+  }, "fin-s"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(nuka_carousel__WEBPACK_IMPORTED_MODULE_2___default.a, {
     width: "80%",
     autoplay: true,
     autoplayInterval: 5000,
@@ -1436,180 +1600,205 @@ var Portfolio = function Portfolio() {
     wrapAround: true,
     heightMode: "first",
     speed: 1500,
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 117
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 117,
+      columnNumber: 11
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "carousel-item",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 128
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+      lineNumber: 128,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "carousel-image",
     src: "https://media-exp1.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=zGFxHTHEqMenuYcpHsb13%2BPOczU%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWjpe8XecOPzo0ASfysHjQBnLbu1EmWzFY69etznLtUijMXldcH5agYUbhl4lWdI",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 129
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      lineNumber: 129,
+      columnNumber: 15
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "carousel-image-label",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 133
-    },
-    __self: this
-  }, "fin-s home page")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 133,
+      columnNumber: 15
+    }
+  }, "fin-s home page")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "carousel-item",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 135
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+      lineNumber: 135,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "carousel-image",
     src: "https://media-exp1.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=5u%2FzRZrAzoCtaa7hJiZMexX4xXE%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWjgeMDfeLv1oEBEfiVQjQBjeui1EmXjEI6_Ko7oKIkj2p60cJT5agYUbhl4lWdI",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 136
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      lineNumber: 136,
+      columnNumber: 15
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "carousel-image-label",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 140
-    },
-    __self: this
-  }, "The wizard allows users to quickly add incomes, debts, and expenses")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 140,
+      columnNumber: 15
+    }
+  }, "The wizard allows users to quickly add incomes, debts, and expenses")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "carousel-item",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 145
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+      lineNumber: 145,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "carousel-image",
     src: "https://media-exp1.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=PVfS6W5RQms%2BXHe%2FZSbXiiBxsvc%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWjuccKJK7ekp0AWLCoEjQAxfOy1SGS3RI7qeN6-KI0gip7gIpP5agYUbhl4lWdI",
     alt: "vote2play create group",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 146
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      lineNumber: 146,
+      columnNumber: 15
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "carousel-image-label",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 151
-    },
-    __self: this
-  }, "The dashboard shows graph, calendar, and upcoming events")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 151,
+      columnNumber: 15
+    }
+  }, "The dashboard shows graph, calendar, and upcoming events")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "carousel-item",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 155
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+      lineNumber: 155,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "carousel-image",
     src: "https://media-exp1.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=2mEXudE2jHKLIvcdgyEIvxMZMtw%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWjof5PZfraipUAVKS4DjQBmf-u1ETi0EI69LoK9fd5zicKwIJX5agYUbhl4lWdI",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 156
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      lineNumber: 156,
+      columnNumber: 15
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "carousel-image-label",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 160
-    },
-    __self: this
-  }, "Profile allows users to quickly manage information"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
+      lineNumber: 160,
+      columnNumber: 15
+    }
+  }, "Profile allows users to quickly manage information"))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
     className: "portfolio-item-list",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 165
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+      lineNumber: 165,
+      columnNumber: 11
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 166
-    },
-    __self: this
-  }, "fin-s is a financial tracker specifically designed to help users eliminate debt"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+      lineNumber: 166,
+      columnNumber: 13
+    }
+  }, "fin-s is a financial tracker specifically designed to help users eliminate debt"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 170
-    },
-    __self: this
-  }, "Users incomes, debts, and expenses are input at sign-up and visualized in the dashboard"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+      lineNumber: 170,
+      columnNumber: 13
+    }
+  }, "Users incomes, debts, and expenses are input at sign-up and visualized in the dashboard"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 174
-    },
-    __self: this
-  }, "The dashboard view shows both a list and calendar view of upcoming incomes, debts, and expenses as well as an interactive graph which visualizes debt payoff with higher payments"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+      lineNumber: 174,
+      columnNumber: 13
+    }
+  }, "The dashboard view shows both a list and calendar view of upcoming incomes, debts, and expenses as well as an interactive graph which visualizes debt payoff with higher payments"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 179
-    },
-    __self: this
-  }, "The dashboard also provides a financial wellness to-do list designed to help users reach financial stability"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+      lineNumber: 179,
+      columnNumber: 13
+    }
+  }, "The dashboard also provides a financial wellness to-do list designed to help users reach financial stability"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 183
-    },
-    __self: this
-  }, "Built using: React.js, Express, PostgreSQL, MongoDB, Chart.js, and fullcalendar"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+      lineNumber: 183,
+      columnNumber: 13
+    }
+  }, "Built using: React.js, Express, PostgreSQL, MongoDB, Chart.js, and fullcalendar"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 187
-    },
-    __self: this
-  }, "Live site:", ' ', react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+      lineNumber: 187,
+      columnNumber: 13
+    }
+  }, "Live site:", ' ', /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     target: "_blank",
     href: "http://www.fin-s.us",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 189
-    },
-    __self: this
-  }, "www.fin-s.us")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+      lineNumber: 189,
+      columnNumber: 15
+    }
+  }, "www.fin-s.us")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 193
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+      lineNumber: 193,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     target: "_blank",
     href: "https://github.com/fin-s/fin-s",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 194
-    },
-    __self: this
-  }, "GitHub repo", ' ')))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 194,
+      columnNumber: 15
+    }
+  }, "GitHub repo", ' ')))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "portfolio-item",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 200
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
+      lineNumber: 200,
+      columnNumber: 9
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "portfolio-item-title",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 201
-    },
-    __self: this
-  }, "Carve"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(nuka_carousel__WEBPACK_IMPORTED_MODULE_2___default.a, {
+      lineNumber: 201,
+      columnNumber: 11
+    }
+  }, "Carve"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(nuka_carousel__WEBPACK_IMPORTED_MODULE_2___default.a, {
     width: "80%",
     autoplay: true,
     autoplayInterval: 5000,
@@ -1619,181 +1808,206 @@ var Portfolio = function Portfolio() {
     wrapAround: true,
     heightMode: "first",
     speed: 1500,
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 202
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 202,
+      columnNumber: 11
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "carousel-item",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 213
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+      lineNumber: 213,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "carousel-image",
     src: "https://i.imgur.com/fgGZhOU.png",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 214
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      lineNumber: 214,
+      columnNumber: 15
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "carousel-image-label",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 218
-    },
-    __self: this
-  }, "Carve Dashboard")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 218,
+      columnNumber: 15
+    }
+  }, "Carve Dashboard")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "carousel-item",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 220
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+      lineNumber: 220,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "carousel-image",
     src: "https://i.imgur.com/E0ejIQz.png",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 221
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      lineNumber: 221,
+      columnNumber: 15
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "carousel-image-label",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 225
-    },
-    __self: this
-  }, "Spotify Library")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 225,
+      columnNumber: 15
+    }
+  }, "Spotify Library")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "carousel-item",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 227
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+      lineNumber: 227,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "carousel-image",
     src: "https://i.imgur.com/TUCyp6T.png",
     alt: "vote2play create group",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 228
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      lineNumber: 228,
+      columnNumber: 15
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "carousel-image-label",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 233
-    },
-    __self: this
-  }, "Artist view")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 233,
+      columnNumber: 15
+    }
+  }, "Artist view")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "carousel-item",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 235
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+      lineNumber: 235,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "carousel-image",
     src: "https://i.imgur.com/4SJANVh.png",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 236
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      lineNumber: 236,
+      columnNumber: 15
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "carousel-image-label",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 240
-    },
-    __self: this
-  }, "Album view")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 240,
+      columnNumber: 15
+    }
+  }, "Album view")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "carousel-item",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 242
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+      lineNumber: 242,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "carousel-image",
     src: "https://i.imgur.com/9RvmkSc.png",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 243
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      lineNumber: 243,
+      columnNumber: 15
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "carousel-image-label",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 247
-    },
-    __self: this
-  }, "Playlist view"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
+      lineNumber: 247,
+      columnNumber: 15
+    }
+  }, "Playlist view"))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
     className: "portfolio-item-list",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 250
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+      lineNumber: 250,
+      columnNumber: 11
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 251
-    },
-    __self: this
-  }, "Carve is a custom Spotify player designed for simplicity and ease of use."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+      lineNumber: 251,
+      columnNumber: 13
+    }
+  }, "Carve is a custom Spotify player designed for simplicity and ease of use."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 255
-    },
-    __self: this
-  }, "Contains all basic Spotify functionality."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+      lineNumber: 255,
+      columnNumber: 13
+    }
+  }, "Contains all basic Spotify functionality."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 256
-    },
-    __self: this
-  }, "Users can play music, add and remove albums or artists from library, and search for new music."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+      lineNumber: 256,
+      columnNumber: 13
+    }
+  }, "Users can play music, add and remove albums or artists from library, and search for new music."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 260
-    },
-    __self: this
-  }, "Built using: React.js with only functional components and hooks, Express, Spotify Web Playback SDK, Spotify Web API"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+      lineNumber: 260,
+      columnNumber: 13
+    }
+  }, "Built using: React.js with only functional components and hooks, Express, Spotify Web Playback SDK, Spotify Web API"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 264
-    },
-    __self: this
-  }, "Live site:", ' ', react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+      lineNumber: 264,
+      columnNumber: 13
+    }
+  }, "Live site:", ' ', /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     target: "_blank",
     href: "http://www.carve.westenskow.dev",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 266
-    },
-    __self: this
-  }, "carve.westenskow.dev")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+      lineNumber: 266,
+      columnNumber: 15
+    }
+  }, "carve.westenskow.dev")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 270
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+      lineNumber: 270,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     target: "_blank",
     href: "https://github.com/andrewwestenskow/slack-spotify",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 271
-    },
-    __self: this
+      lineNumber: 271,
+      columnNumber: 15
+    }
   }, "GitHub repo", ' '))))));
 };
 
@@ -1837,7 +2051,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _src_assets_GIT_png__WEBPACK_IMPORTED_MODULE_12___default = /*#__PURE__*/__webpack_require__.n(_src_assets_GIT_png__WEBPACK_IMPORTED_MODULE_12__);
 /* harmony import */ var _src_assets_REDIS_png__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ../../src/assets/REDIS.png */ "./src/assets/REDIS.png");
 /* harmony import */ var _src_assets_REDIS_png__WEBPACK_IMPORTED_MODULE_13___default = /*#__PURE__*/__webpack_require__.n(_src_assets_REDIS_png__WEBPACK_IMPORTED_MODULE_13__);
-var _jsxFileName = "C:\\Users\\andre\\Development-Projects\\portfolio\\Components\\Sections\\Stack.jsx";
+var _this = undefined,
+    _jsxFileName = "C:\\Users\\andre\\development-projects\\portfolio\\Components\\Sections\\Stack.jsx";
+
 
 
 
@@ -1854,115 +2070,129 @@ var _jsxFileName = "C:\\Users\\andre\\Development-Projects\\portfolio\\Component
 
 
 var Stack = function Stack() {
-  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "Stack",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 19
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+      lineNumber: 19,
+      columnNumber: 5
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
     className: "section-label",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 20
-    },
-    __self: this
-  }, "Stack"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 20,
+      columnNumber: 7
+    }
+  }, "Stack"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "stack-content",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 23
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
+      lineNumber: 23,
+      columnNumber: 7
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
     img: _src_assets_HTML_png__WEBPACK_IMPORTED_MODULE_3___default.a,
     name: "HTML5",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 24
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
+      lineNumber: 24,
+      columnNumber: 9
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
     img: _src_assets_CSS_png__WEBPACK_IMPORTED_MODULE_4___default.a,
     name: "CSS3",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 25
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
+      lineNumber: 25,
+      columnNumber: 9
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
     img: _src_assets_SASS_png__WEBPACK_IMPORTED_MODULE_11___default.a,
     name: "Sass",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 26
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
+      lineNumber: 26,
+      columnNumber: 9
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
     img: _src_assets_JAVASCRIPT_png__WEBPACK_IMPORTED_MODULE_5___default.a,
     name: "Javascript",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 27
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
+      lineNumber: 27,
+      columnNumber: 9
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
     img: _src_assets_REACT_png__WEBPACK_IMPORTED_MODULE_10___default.a,
     name: "React.js",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 28
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
+      lineNumber: 28,
+      columnNumber: 9
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
     img: _src_assets_NEXT_png__WEBPACK_IMPORTED_MODULE_7___default.a,
     name: "Next.js",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 29
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
+      lineNumber: 29,
+      columnNumber: 9
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
     img: _src_assets_NODE_png__WEBPACK_IMPORTED_MODULE_8___default.a,
     name: "Node.js",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 30
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
+      lineNumber: 30,
+      columnNumber: 9
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
     img: _src_assets_POSTGRES_png__WEBPACK_IMPORTED_MODULE_9___default.a,
     name: "PostgreSQL",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 31
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
+      lineNumber: 31,
+      columnNumber: 9
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
     img: _src_assets_MONGO_png__WEBPACK_IMPORTED_MODULE_6___default.a,
     name: "MongoDB",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 32
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
+      lineNumber: 32,
+      columnNumber: 9
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
     img: _src_assets_REDIS_png__WEBPACK_IMPORTED_MODULE_13___default.a,
     name: "Redis",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 33
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
+      lineNumber: 33,
+      columnNumber: 9
+    }
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_StackImg__WEBPACK_IMPORTED_MODULE_2__["default"], {
     img: _src_assets_GIT_png__WEBPACK_IMPORTED_MODULE_12___default.a,
     name: "Git",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 34
-    },
-    __self: this
+      lineNumber: 34,
+      columnNumber: 9
+    }
   })));
 };
 
@@ -1983,48 +2213,55 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _styles_StackImg_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../styles/StackImg.scss */ "./styles/StackImg.scss");
 /* harmony import */ var _styles_StackImg_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_styles_StackImg_scss__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "C:\\Users\\andre\\Development-Projects\\portfolio\\Components\\Sections\\StackImg.jsx";
+var _this = undefined,
+    _jsxFileName = "C:\\Users\\andre\\development-projects\\portfolio\\Components\\Sections\\StackImg.jsx";
+
 
 
 
 var StackImg = function StackImg(props) {
-  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "stack-img",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 7
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 7,
+      columnNumber: 5
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "stack-image-hold",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 8
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+      lineNumber: 8,
+      columnNumber: 7
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "stack-image",
     src: props.img,
     alt: props.name,
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 9
-    },
-    __self: this
-  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      lineNumber: 9,
+      columnNumber: 9
+    }
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "stack-name-hold",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 12
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+      lineNumber: 12,
+      columnNumber: 7
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "stack-name",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 13
-    },
-    __self: this
+      lineNumber: 13,
+      columnNumber: 9
+    }
   }, props.name)));
 };
 
@@ -2084,6 +2321,17 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/get-prototype
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__(/*! core-js/library/fn/object/set-prototype-of */ "core-js/library/fn/object/set-prototype-of");
+
+/***/ }),
+
+/***/ "./node_modules/@babel/runtime-corejs2/core-js/reflect/construct.js":
+/*!**************************************************************************!*\
+  !*** ./node_modules/@babel/runtime-corejs2/core-js/reflect/construct.js ***!
+  \**************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__(/*! core-js/library/fn/reflect/construct */ "core-js/library/fn/reflect/construct");
 
 /***/ }),
 
@@ -2848,7 +3096,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Components_Sections_Games__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../Components/Sections/Games */ "./Components/Sections/Games.jsx");
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! next/head */ "next/head");
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(next_head__WEBPACK_IMPORTED_MODULE_9__);
-var _jsxFileName = "C:\\Users\\andre\\Development-Projects\\portfolio\\pages\\index.js";
+var _this = undefined,
+    _jsxFileName = "C:\\Users\\andre\\development-projects\\portfolio\\pages\\index.js";
+
 
 
 
@@ -2861,102 +3111,117 @@ var _jsxFileName = "C:\\Users\\andre\\Development-Projects\\portfolio\\pages\\in
 
 
 var Index = function Index() {
-  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_head__WEBPACK_IMPORTED_MODULE_9___default.a, {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_head__WEBPACK_IMPORTED_MODULE_9___default.a, {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 15
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("title", {
+      lineNumber: 15,
+      columnNumber: 5
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("title", {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 16
-    },
-    __self: this
-  }, "Andrew Westenskow")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Components_Layout__WEBPACK_IMPORTED_MODULE_1__["default"], {
+      lineNumber: 16,
+      columnNumber: 7
+    }
+  }, "Andrew Westenskow")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Components_Layout__WEBPACK_IMPORTED_MODULE_1__["default"], {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 18
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
+      lineNumber: 18,
+      columnNumber: 5
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
     id: "home",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 19
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Components_Sections_Home__WEBPACK_IMPORTED_MODULE_3__["default"], {
+      lineNumber: 19,
+      columnNumber: 7
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Components_Sections_Home__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 20
-    },
-    __self: this
-  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
+      lineNumber: 20,
+      columnNumber: 9
+    }
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
     id: "about",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 22
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Components_Sections_About__WEBPACK_IMPORTED_MODULE_4__["default"], {
+      lineNumber: 22,
+      columnNumber: 7
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Components_Sections_About__WEBPACK_IMPORTED_MODULE_4__["default"], {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 23
-    },
-    __self: this
-  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
+      lineNumber: 23,
+      columnNumber: 9
+    }
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
     id: "portfolio",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 25
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Components_Sections_Portfolio__WEBPACK_IMPORTED_MODULE_6__["default"], {
+      lineNumber: 25,
+      columnNumber: 7
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Components_Sections_Portfolio__WEBPACK_IMPORTED_MODULE_6__["default"], {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 26
-    },
-    __self: this
-  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
+      lineNumber: 26,
+      columnNumber: 9
+    }
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
     id: "games",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 28
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Components_Sections_Games__WEBPACK_IMPORTED_MODULE_8__["default"], {
+      lineNumber: 28,
+      columnNumber: 7
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Components_Sections_Games__WEBPACK_IMPORTED_MODULE_8__["default"], {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 29
-    },
-    __self: this
-  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
+      lineNumber: 29,
+      columnNumber: 9
+    }
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
     id: "stack",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 31
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Components_Sections_Stack__WEBPACK_IMPORTED_MODULE_5__["default"], {
+      lineNumber: 31,
+      columnNumber: 7
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Components_Sections_Stack__WEBPACK_IMPORTED_MODULE_5__["default"], {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 32
-    },
-    __self: this
-  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
+      lineNumber: 32,
+      columnNumber: 9
+    }
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
     id: "contact",
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 34
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Components_Sections_Contact__WEBPACK_IMPORTED_MODULE_7__["default"], {
+      lineNumber: 34,
+      columnNumber: 7
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Components_Sections_Contact__WEBPACK_IMPORTED_MODULE_7__["default"], {
+    __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 35
-    },
-    __self: this
+      lineNumber: 35,
+      columnNumber: 9
+    }
   }))));
 };
 
@@ -3202,7 +3467,7 @@ module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAasAAAFACAYAAAAC
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\andre\Development-Projects\portfolio\pages\index.js */"./pages/index.js");
+module.exports = __webpack_require__(/*! C:\Users\andre\development-projects\portfolio\pages\index.js */"./pages/index.js");
 
 
 /***/ }),
@@ -3303,6 +3568,17 @@ module.exports = require("core-js/library/fn/object/get-prototype-of");
 /***/ (function(module, exports) {
 
 module.exports = require("core-js/library/fn/object/set-prototype-of");
+
+/***/ }),
+
+/***/ "core-js/library/fn/reflect/construct":
+/*!*******************************************************!*\
+  !*** external "core-js/library/fn/reflect/construct" ***!
+  \*******************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = require("core-js/library/fn/reflect/construct");
 
 /***/ }),
 

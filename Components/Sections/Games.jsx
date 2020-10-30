@@ -2,14 +2,14 @@ import React from 'react'
 import '../../styles/Games.scss'
 import Link from 'next/link'
 
-const Games = props => {
+const Games = (props) => {
   return (
     <div className="Games">
       <div className="games-content">
         <div className="portfolio-item">
           <h2 className="portfolio-item-title game-link">Minesweeper</h2>
           <img
-            className="carousel-image"
+            className="game-image"
             src="https://i.imgur.com/QmtSXXq.png"
             alt=""
           />
@@ -23,7 +23,7 @@ const Games = props => {
         <div className="portfolio-item">
           <h2 className="portfolio-item-title game-link">Space Invaders</h2>
           <img
-            className="carousel-image"
+            className="game-image"
             src="https://i.imgur.com/kKfXrhp.png"
             alt=""
           />
@@ -38,7 +38,7 @@ const Games = props => {
           <h2 className="portfolio-item-title game-link">31 Days of October</h2>
 
           <img
-            className="carousel-image"
+            className="game-image"
             src="https://i.imgur.com/5h8dhki.png"
             alt=""
           />

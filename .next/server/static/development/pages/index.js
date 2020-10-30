@@ -117,7 +117,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_6__);
 var _this = undefined,
-    _jsxFileName = "C:\\Users\\andre\\development-projects\\portfolio\\Components\\Layout.jsx";
+    _jsxFileName = "/Users/andrew/development-projects/portfolio/Components/Layout.jsx";
 
 
 
@@ -430,7 +430,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_2__);
 var _this = undefined,
-    _jsxFileName = "C:\\Users\\andre\\development-projects\\portfolio\\Components\\Sections\\About.jsx";
+    _jsxFileName = "/Users/andrew/development-projects/portfolio/Components/Sections/About.jsx";
 
 
 
@@ -548,7 +548,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var _ContactForm__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./ContactForm */ "./Components/Sections/ContactForm.jsx");
 var _this = undefined,
-    _jsxFileName = "C:\\Users\\andre\\development-projects\\portfolio\\Components\\Sections\\Contact.jsx";
+    _jsxFileName = "/Users/andrew/development-projects/portfolio/Components/Sections/Contact.jsx";
 
 
 
@@ -747,9 +747,9 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "C:\\Users\\andre\\development-projects\\portfolio\\Components\\Sections\\ContactForm.jsx";
+var _jsxFileName = "/Users/andrew/development-projects/portfolio/Components/Sections/ContactForm.jsx";
 
-function _createSuper(Derived) { return function () { var Super = Object(_babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_6__["default"])(Derived), result; if (_isNativeReflectConstruct()) { var NewTarget = Object(_babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_6__["default"])(this).constructor; result = _babel_runtime_corejs2_core_js_reflect_construct__WEBPACK_IMPORTED_MODULE_0___default()(Super, arguments, NewTarget); } else { result = Super.apply(this, arguments); } return Object(_babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_5__["default"])(this, result); }; }
+function _createSuper(Derived) { var hasNativeReflectConstruct = _isNativeReflectConstruct(); return function _createSuperInternal() { var Super = Object(_babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_6__["default"])(Derived), result; if (hasNativeReflectConstruct) { var NewTarget = Object(_babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_6__["default"])(this).constructor; result = _babel_runtime_corejs2_core_js_reflect_construct__WEBPACK_IMPORTED_MODULE_0___default()(Super, arguments, NewTarget); } else { result = Super.apply(this, arguments); } return Object(_babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_5__["default"])(this, result); }; }
 
 function _isNativeReflectConstruct() { if (typeof Reflect === "undefined" || !_babel_runtime_corejs2_core_js_reflect_construct__WEBPACK_IMPORTED_MODULE_0___default.a) return false; if (_babel_runtime_corejs2_core_js_reflect_construct__WEBPACK_IMPORTED_MODULE_0___default.a.sham) return false; if (typeof Proxy === "function") return true; try { Date.prototype.toString.call(_babel_runtime_corejs2_core_js_reflect_construct__WEBPACK_IMPORTED_MODULE_0___default()(Date, [], function () {})); return true; } catch (e) { return false; } }
 
@@ -898,7 +898,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_2__);
 var _this = undefined,
-    _jsxFileName = "C:\\Users\\andre\\development-projects\\portfolio\\Components\\Sections\\Games.jsx";
+    _jsxFileName = "/Users/andrew/development-projects/portfolio/Components/Sections/Games.jsx";
 
 
 
@@ -938,7 +938,7 @@ var Games = function Games(props) {
       columnNumber: 11
     }
   }, "Minesweeper"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    className: "carousel-image",
+    className: "game-image",
     src: "https://i.imgur.com/QmtSXXq.png",
     alt: "",
     __self: _this,
@@ -988,7 +988,7 @@ var Games = function Games(props) {
       columnNumber: 11
     }
   }, "Space Invaders"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    className: "carousel-image",
+    className: "game-image",
     src: "https://i.imgur.com/kKfXrhp.png",
     alt: "",
     __self: _this,
@@ -1038,7 +1038,7 @@ var Games = function Games(props) {
       columnNumber: 11
     }
   }, "31 Days of October"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    className: "carousel-image",
+    className: "game-image",
     src: "https://i.imgur.com/5h8dhki.png",
     alt: "",
     __self: _this,
@@ -1103,7 +1103,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_typing_animation__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react-typing-animation */ "react-typing-animation");
 /* harmony import */ var react_typing_animation__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react_typing_animation__WEBPACK_IMPORTED_MODULE_2__);
 var _this = undefined,
-    _jsxFileName = "C:\\Users\\andre\\development-projects\\portfolio\\Components\\Sections\\Home.jsx";
+    _jsxFileName = "/Users/andrew/development-projects/portfolio/Components/Sections/Home.jsx";
 
 
 
@@ -1314,7 +1314,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var nuka_carousel__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! nuka-carousel */ "nuka-carousel");
 /* harmony import */ var nuka_carousel__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(nuka_carousel__WEBPACK_IMPORTED_MODULE_2__);
 var _this = undefined,
-    _jsxFileName = "C:\\Users\\andre\\development-projects\\portfolio\\Components\\Sections\\Portfolio.jsx";
+    _jsxFileName = "/Users/andrew/development-projects/portfolio/Components/Sections/Portfolio.jsx";
 
 
 
@@ -1379,7 +1379,7 @@ var Portfolio = function Portfolio() {
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "carousel-image",
-    src: "https://media-exp1.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=axXkYnru%2FRsTFyGE4%2FI2swPzz%2BA%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWjoecPWe-eg8EATcSRQjQBkfu61EmbmG47ueYvqKIojjJOzLZP5agYUbhl4lWdI",
+    src: "https://i.imgur.com/bzxiXUG.jpg",
     alt: "vote2play home page",
     __self: _this,
     __source: {
@@ -1405,7 +1405,7 @@ var Portfolio = function Portfolio() {
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "carousel-image",
-    src: "https://media-exp1.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=TTztfjD3q%2FBXqDru9n2niPqemyw%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWjpeMGJf-b3rUAfLSxQjQBgeLm1ETjpE46-Ktm6eo1xgpTld5b5agYUbhl4lWdI",
+    src: "https://i.imgur.com/QlZvoUf.jpg",
     alt: "vote2play dashboard",
     __self: _this,
     __source: {
@@ -1431,7 +1431,7 @@ var Portfolio = function Portfolio() {
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "carousel-image",
-    src: "https://media-exp1.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=rf7b99%2BqTIWsw3%2B28bJ7nW7sRSs%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWjvL8HXf7uk90BFK3gFjQA2e-21ETPkFI7tf469et4kjZe3IcP5agYUbhl4lWdI",
+    src: "https://i.imgur.com/6G0sbHS.jpg",
     alt: "vote2play group",
     __self: _this,
     __source: {
@@ -1457,7 +1457,7 @@ var Portfolio = function Portfolio() {
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "carousel-image",
-    src: "https://media-exp1.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=J3bMulaLJ7xzGB7NDuL94CBIYhE%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWjteZLce-OgrUBELX4AjQA0fLm1SDjmFI6-fo25e4p5jJKwJpX5agYUbhl4lWdI",
+    src: "https://i.imgur.com/PFwmFGp.jpg",
     alt: "vote2play group",
     __self: _this,
     __source: {
@@ -1483,7 +1483,7 @@ var Portfolio = function Portfolio() {
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "carousel-image",
-    src: "https://media-exp1.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=IXw94lAotzvDZWkqD3moyW44mNc%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWjvccTdeeHzpUAXcCsGjQBkeOu1SWXkFo69f4zvdNR5icbtIZP5agYUbhl4lWdI",
+    src: "https://i.imgur.com/h5MsRkc.jpg",
     alt: "vote2play profile",
     __self: _this,
     __source: {
@@ -1590,10 +1590,10 @@ var Portfolio = function Portfolio() {
       lineNumber: 116,
       columnNumber: 11
     }
-  }, "fin-s"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(nuka_carousel__WEBPACK_IMPORTED_MODULE_2___default.a, {
+  }, "Carve"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(nuka_carousel__WEBPACK_IMPORTED_MODULE_2___default.a, {
     width: "80%",
     autoplay: true,
-    autoplayInterval: 5000,
+    autoplayInterval: 10000,
     swiping: true,
     withoutControls: true,
     pauseOnHover: true,
@@ -1616,7 +1616,7 @@ var Portfolio = function Portfolio() {
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "carousel-image",
-    src: "https://media-exp1.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=zGFxHTHEqMenuYcpHsb13%2BPOczU%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWjpe8XecOPzo0ASfysHjQBnLbu1EmWzFY69etznLtUijMXldcH5agYUbhl4lWdI",
+    src: "https://i.imgur.com/fgGZhOU.png",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
@@ -1631,7 +1631,7 @@ var Portfolio = function Portfolio() {
       lineNumber: 133,
       columnNumber: 15
     }
-  }, "fin-s home page")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }, "Carve Dashboard")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "carousel-item",
     __self: _this,
     __source: {
@@ -1641,7 +1641,7 @@ var Portfolio = function Portfolio() {
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "carousel-image",
-    src: "https://media-exp1.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=5u%2FzRZrAzoCtaa7hJiZMexX4xXE%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWjgeMDfeLv1oEBEfiVQjQBjeui1EmXjEI6_Ko7oKIkj2p60cJT5agYUbhl4lWdI",
+    src: "https://i.imgur.com/E0ejIQz.png",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
@@ -1656,47 +1656,72 @@ var Portfolio = function Portfolio() {
       lineNumber: 140,
       columnNumber: 15
     }
-  }, "The wizard allows users to quickly add incomes, debts, and expenses")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }, "Spotify Library")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "carousel-item",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 145,
+      lineNumber: 142,
       columnNumber: 13
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "carousel-image",
-    src: "https://media-exp1.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=PVfS6W5RQms%2BXHe%2FZSbXiiBxsvc%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWjuccKJK7ekp0AWLCoEjQAxfOy1SGS3RI7qeN6-KI0gip7gIpP5agYUbhl4lWdI",
+    src: "https://i.imgur.com/TUCyp6T.png",
     alt: "vote2play create group",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 146,
+      lineNumber: 143,
       columnNumber: 15
     }
   }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "carousel-image-label",
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 148,
+      columnNumber: 15
+    }
+  }, "Artist view")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "carousel-item",
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 150,
+      columnNumber: 13
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    className: "carousel-image",
+    src: "https://i.imgur.com/4SJANVh.png",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 151,
       columnNumber: 15
     }
-  }, "The dashboard shows graph, calendar, and upcoming events")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    className: "carousel-item",
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+    className: "carousel-image-label",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 155,
+      columnNumber: 15
+    }
+  }, "Album view")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "carousel-item",
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 157,
       columnNumber: 13
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "carousel-image",
-    src: "https://media-exp1.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=2mEXudE2jHKLIvcdgyEIvxMZMtw%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWjof5PZfraipUAVKS4DjQBmf-u1ETi0EI69LoK9fd5zicKwIJX5agYUbhl4lWdI",
+    src: "https://i.imgur.com/9RvmkSc.png",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 156,
+      lineNumber: 158,
       columnNumber: 15
     }
   }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
@@ -1704,10 +1729,10 @@ var Portfolio = function Portfolio() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 160,
+      lineNumber: 162,
       columnNumber: 15
     }
-  }, "Profile allows users to quickly manage information"))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
+  }, "Playlist view"))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
     className: "portfolio-item-list",
     __self: _this,
     __source: {
@@ -1722,265 +1747,32 @@ var Portfolio = function Portfolio() {
       lineNumber: 166,
       columnNumber: 13
     }
-  }, "fin-s is a financial tracker specifically designed to help users eliminate debt"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+  }, "Carve is a custom Spotify player designed for simplicity and ease of use."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 170,
       columnNumber: 13
     }
-  }, "Users incomes, debts, and expenses are input at sign-up and visualized in the dashboard"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 174,
-      columnNumber: 13
-    }
-  }, "The dashboard view shows both a list and calendar view of upcoming incomes, debts, and expenses as well as an interactive graph which visualizes debt payoff with higher payments"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 179,
-      columnNumber: 13
-    }
-  }, "The dashboard also provides a financial wellness to-do list designed to help users reach financial stability"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 183,
-      columnNumber: 13
-    }
-  }, "Built using: React.js, Express, PostgreSQL, MongoDB, Chart.js, and fullcalendar"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 187,
-      columnNumber: 13
-    }
-  }, "Live site:", ' ', /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-    target: "_blank",
-    href: "http://www.fin-s.us",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 189,
-      columnNumber: 15
-    }
-  }, "www.fin-s.us")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 193,
-      columnNumber: 13
-    }
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-    target: "_blank",
-    href: "https://github.com/fin-s/fin-s",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 194,
-      columnNumber: 15
-    }
-  }, "GitHub repo", ' ')))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    className: "portfolio-item",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 200,
-      columnNumber: 9
-    }
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
-    className: "portfolio-item-title",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 201,
-      columnNumber: 11
-    }
-  }, "Carve"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(nuka_carousel__WEBPACK_IMPORTED_MODULE_2___default.a, {
-    width: "80%",
-    autoplay: true,
-    autoplayInterval: 5000,
-    swiping: true,
-    withoutControls: true,
-    pauseOnHover: true,
-    wrapAround: true,
-    heightMode: "first",
-    speed: 1500,
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 202,
-      columnNumber: 11
-    }
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    className: "carousel-item",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 213,
-      columnNumber: 13
-    }
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    className: "carousel-image",
-    src: "https://i.imgur.com/fgGZhOU.png",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 214,
-      columnNumber: 15
-    }
-  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
-    className: "carousel-image-label",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 218,
-      columnNumber: 15
-    }
-  }, "Carve Dashboard")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    className: "carousel-item",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 220,
-      columnNumber: 13
-    }
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    className: "carousel-image",
-    src: "https://i.imgur.com/E0ejIQz.png",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 221,
-      columnNumber: 15
-    }
-  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
-    className: "carousel-image-label",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 225,
-      columnNumber: 15
-    }
-  }, "Spotify Library")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    className: "carousel-item",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 227,
-      columnNumber: 13
-    }
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    className: "carousel-image",
-    src: "https://i.imgur.com/TUCyp6T.png",
-    alt: "vote2play create group",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 228,
-      columnNumber: 15
-    }
-  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
-    className: "carousel-image-label",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 233,
-      columnNumber: 15
-    }
-  }, "Artist view")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    className: "carousel-item",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 235,
-      columnNumber: 13
-    }
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    className: "carousel-image",
-    src: "https://i.imgur.com/4SJANVh.png",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 236,
-      columnNumber: 15
-    }
-  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
-    className: "carousel-image-label",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 240,
-      columnNumber: 15
-    }
-  }, "Album view")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    className: "carousel-item",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 242,
-      columnNumber: 13
-    }
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    className: "carousel-image",
-    src: "https://i.imgur.com/9RvmkSc.png",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 243,
-      columnNumber: 15
-    }
-  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
-    className: "carousel-image-label",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 247,
-      columnNumber: 15
-    }
-  }, "Playlist view"))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
-    className: "portfolio-item-list",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 250,
-      columnNumber: 11
-    }
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 251,
-      columnNumber: 13
-    }
-  }, "Carve is a custom Spotify player designed for simplicity and ease of use."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 255,
-      columnNumber: 13
-    }
   }, "Contains all basic Spotify functionality."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 256,
+      lineNumber: 171,
       columnNumber: 13
     }
   }, "Users can play music, add and remove albums or artists from library, and search for new music."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 260,
+      lineNumber: 175,
       columnNumber: 13
     }
   }, "Built using: React.js with only functional components and hooks, Express, Spotify Web Playback SDK, Spotify Web API"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 264,
+      lineNumber: 179,
       columnNumber: 13
     }
   }, "Live site:", ' ', /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
@@ -1989,14 +1781,14 @@ var Portfolio = function Portfolio() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 266,
+      lineNumber: 181,
       columnNumber: 15
     }
   }, "carve.westenskow.dev")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 270,
+      lineNumber: 185,
       columnNumber: 13
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
@@ -2005,7 +1797,7 @@ var Portfolio = function Portfolio() {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 271,
+      lineNumber: 186,
       columnNumber: 15
     }
   }, "GitHub repo", ' '))))));
@@ -2052,7 +1844,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _src_assets_REDIS_png__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ../../src/assets/REDIS.png */ "./src/assets/REDIS.png");
 /* harmony import */ var _src_assets_REDIS_png__WEBPACK_IMPORTED_MODULE_13___default = /*#__PURE__*/__webpack_require__.n(_src_assets_REDIS_png__WEBPACK_IMPORTED_MODULE_13__);
 var _this = undefined,
-    _jsxFileName = "C:\\Users\\andre\\development-projects\\portfolio\\Components\\Sections\\Stack.jsx";
+    _jsxFileName = "/Users/andrew/development-projects/portfolio/Components/Sections/Stack.jsx";
 
 
 
@@ -2214,7 +2006,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _styles_StackImg_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../styles/StackImg.scss */ "./styles/StackImg.scss");
 /* harmony import */ var _styles_StackImg_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_styles_StackImg_scss__WEBPACK_IMPORTED_MODULE_1__);
 var _this = undefined,
-    _jsxFileName = "C:\\Users\\andre\\development-projects\\portfolio\\Components\\Sections\\StackImg.jsx";
+    _jsxFileName = "/Users/andrew/development-projects/portfolio/Components/Sections/StackImg.jsx";
 
 
 
@@ -3097,7 +2889,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! next/head */ "next/head");
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(next_head__WEBPACK_IMPORTED_MODULE_9__);
 var _this = undefined,
-    _jsxFileName = "C:\\Users\\andre\\development-projects\\portfolio\\pages\\index.js";
+    _jsxFileName = "/Users/andrew/development-projects/portfolio/pages/index.js";
 
 
 
@@ -3467,7 +3259,7 @@ module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAasAAAFACAYAAAAC
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\andre\development-projects\portfolio\pages\index.js */"./pages/index.js");
+module.exports = __webpack_require__(/*! /Users/andrew/development-projects/portfolio/pages/index.js */"./pages/index.js");
 
 
 /***/ }),

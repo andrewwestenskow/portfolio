@@ -22,7 +22,7 @@ const Portfolio = () => {
             <div className="carousel-item">
               <img
                 className="carousel-image"
-                src="https://media-exp1.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=axXkYnru%2FRsTFyGE4%2FI2swPzz%2BA%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWjoecPWe-eg8EATcSRQjQBkfu61EmbmG47ueYvqKIojjJOzLZP5agYUbhl4lWdI"
+                src="https://i.imgur.com/bzxiXUG.jpg"
                 alt="vote2play home page"
               />
               <p className="carousel-image-label">vote2play home page</p>
@@ -30,7 +30,7 @@ const Portfolio = () => {
             <div className="carousel-item">
               <img
                 className="carousel-image"
-                src="https://media-exp1.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=TTztfjD3q%2FBXqDru9n2niPqemyw%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWjpeMGJf-b3rUAfLSxQjQBgeLm1ETjpE46-Ktm6eo1xgpTld5b5agYUbhl4lWdI"
+                src="https://i.imgur.com/QlZvoUf.jpg"
                 alt="vote2play dashboard"
               />
               <p className="carousel-image-label">
@@ -41,7 +41,7 @@ const Portfolio = () => {
             <div className="carousel-item">
               <img
                 className="carousel-image"
-                src="https://media-exp1.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=rf7b99%2BqTIWsw3%2B28bJ7nW7sRSs%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWjvL8HXf7uk90BFK3gFjQA2e-21ETPkFI7tf469et4kjZe3IcP5agYUbhl4lWdI"
+                src="https://i.imgur.com/6G0sbHS.jpg"
                 alt="vote2play group"
               />
               <p className="carousel-image-label">
@@ -51,7 +51,7 @@ const Portfolio = () => {
             <div className="carousel-item">
               <img
                 className="carousel-image"
-                src="https://media-exp1.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=J3bMulaLJ7xzGB7NDuL94CBIYhE%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWjteZLce-OgrUBELX4AjQA0fLm1SDjmFI6-fo25e4p5jJKwJpX5agYUbhl4lWdI"
+                src="https://i.imgur.com/PFwmFGp.jpg"
                 alt="vote2play group"
               />
               <p className="carousel-image-label">
@@ -66,7 +66,7 @@ const Portfolio = () => {
             <div className="carousel-item">
               <img
                 className="carousel-image"
-                src="https://media-exp1.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=IXw94lAotzvDZWkqD3moyW44mNc%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWjvccTdeeHzpUAXcCsGjQBkeOu1SWXkFo69f4zvdNR5icbtIZP5agYUbhl4lWdI"
+                src="https://i.imgur.com/h5MsRkc.jpg"
                 alt="vote2play profile"
               />
               <p className="carousel-image-label">
@@ -113,96 +113,11 @@ const Portfolio = () => {
           </ul>
         </div>
         <div className="portfolio-item">
-          <h2 className="portfolio-item-title">fin-s</h2>
-          <Carousel
-            width="80%"
-            autoplay={true}
-            autoplayInterval={5000}
-            swiping={true}
-            withoutControls={true}
-            pauseOnHover={true}
-            wrapAround={true}
-            heightMode="first"
-            speed={1500}
-          >
-            <div className="carousel-item">
-              <img
-                className="carousel-image"
-                src="https://media-exp1.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=zGFxHTHEqMenuYcpHsb13%2BPOczU%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWjpe8XecOPzo0ASfysHjQBnLbu1EmWzFY69etznLtUijMXldcH5agYUbhl4lWdI"
-              />
-              <p className="carousel-image-label">fin-s home page</p>
-            </div>
-            <div className="carousel-item">
-              <img
-                className="carousel-image"
-                src="https://media-exp1.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=5u%2FzRZrAzoCtaa7hJiZMexX4xXE%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWjgeMDfeLv1oEBEfiVQjQBjeui1EmXjEI6_Ko7oKIkj2p60cJT5agYUbhl4lWdI"
-              />
-              <p className="carousel-image-label">
-                The wizard allows users to quickly add incomes, debts, and
-                expenses
-              </p>
-            </div>
-            <div className="carousel-item">
-              <img
-                className="carousel-image"
-                src="https://media-exp1.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=PVfS6W5RQms%2BXHe%2FZSbXiiBxsvc%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWjuccKJK7ekp0AWLCoEjQAxfOy1SGS3RI7qeN6-KI0gip7gIpP5agYUbhl4lWdI"
-                alt="vote2play create group"
-              />
-              <p className="carousel-image-label">
-                The dashboard shows graph, calendar, and upcoming events
-              </p>
-            </div>
-            <div className="carousel-item">
-              <img
-                className="carousel-image"
-                src="https://media-exp1.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=2mEXudE2jHKLIvcdgyEIvxMZMtw%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWjof5PZfraipUAVKS4DjQBmf-u1ETi0EI69LoK9fd5zicKwIJX5agYUbhl4lWdI"
-              />
-              <p className="carousel-image-label">
-                Profile allows users to quickly manage information
-              </p>
-            </div>
-          </Carousel>
-          <ul className="portfolio-item-list">
-            <li>
-              fin-s is a financial tracker specifically designed to help users
-              eliminate debt
-            </li>
-            <li>
-              Users incomes, debts, and expenses are input at sign-up and
-              visualized in the dashboard
-            </li>
-            <li>
-              The dashboard view shows both a list and calendar view of upcoming
-              incomes, debts, and expenses as well as an interactive graph which
-              visualizes debt payoff with higher payments
-            </li>
-            <li>
-              The dashboard also provides a financial wellness to-do list
-              designed to help users reach financial stability
-            </li>
-            <li>
-              Built using: React.js, Express, PostgreSQL, MongoDB, Chart.js, and
-              fullcalendar
-            </li>
-            <li>
-              Live site:{' '}
-              <a target="_blank" href="http://www.fin-s.us">
-                www.fin-s.us
-              </a>
-            </li>
-            <li>
-              <a target="_blank" href="https://github.com/fin-s/fin-s">
-                GitHub repo{' '}
-              </a>
-            </li>
-          </ul>
-        </div>
-        <div className="portfolio-item">
           <h2 className="portfolio-item-title">Carve</h2>
           <Carousel
             width="80%"
             autoplay={true}
-            autoplayInterval={5000}
+            autoplayInterval={10000}
             swiping={true}
             withoutControls={true}
             pauseOnHover={true}

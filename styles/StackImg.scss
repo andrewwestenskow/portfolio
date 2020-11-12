@@ -1,4 +1,4 @@
-.stack-img{
+.stack-img {
   width: 200px;
   height: 200px;
   padding: 0 25px;
@@ -8,10 +8,9 @@
     height: 100px;
     margin-bottom: 15px;
   }
-  
 }
 
-.stack-name-hold{
+.stack-name-hold {
   height: 33%;
   width: 100%;
   display: flex;
@@ -19,15 +18,15 @@
   align-items: center;
 }
 
-.stack-name{
+.stack-name {
   font-size: 2rem;
+  text-align: center;
   @media screen and (max-width: 690px) {
     font-size: 1rem;
-    
   }
 }
 
-.stack-image-hold{
+.stack-image-hold {
   height: 66%;
   width: 100%;
   display: flex;
@@ -35,13 +34,13 @@
   align-items: center;
 }
 
-.stack-image{
+.stack-image {
   width: 150px;
   @media screen and (max-width: 900px) {
     width: 100px;
     // margin-bottom: 35px;
   }
   @media screen and (max-width: 690px) {
-    width: 75px
+    width: 75px;
   }
 }

@@ -13,6 +13,7 @@ import SASS from '../../src/assets/SASS.png'
 import GIT from '../../src/assets/GIT.png'
 import REDIS from '../../src/assets/REDIS.png'
 import PYTHON from '../../src/assets/PYTHON.png'
+import TYPESCRIPT from '../../src/assets/TYPESCRIPT.png'
 
 const Stack = () => {
   return (
@@ -23,6 +24,7 @@ const Stack = () => {
         <StackImg img={CSS} name="CSS3" />
         <StackImg img={SASS} name="Sass" />
         <StackImg img={JAVASCRIPT} name="Javascript" />
+        <StackImg img={TYPESCRIPT} name="Typescript" />
         <StackImg img={REACT} name="React.js" />
         <StackImg img={NEXT} name="Next.js" />
         <StackImg img={NODE} name="Node.js" />

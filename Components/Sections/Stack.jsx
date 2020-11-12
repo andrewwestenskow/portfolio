@@ -12,26 +12,26 @@ import REACT from '../../src/assets/REACT.png'
 import SASS from '../../src/assets/SASS.png'
 import GIT from '../../src/assets/GIT.png'
 import REDIS from '../../src/assets/REDIS.png'
-
+import PYTHON from '../../src/assets/PYTHON.png'
 
 const Stack = () => {
   return (
-    <div className='Stack'>
-      <h1 className="section-label">
-        Stack
-      </h1>
+    <div className="Stack">
+      <h1 className="section-label">Stack</h1>
       <div className="stack-content">
-        <StackImg img={HTML} name='HTML5' />
-        <StackImg img={CSS} name='CSS3' />
-        <StackImg img={SASS} name='Sass' />
-        <StackImg img={JAVASCRIPT} name='Javascript' />
-        <StackImg img={REACT} name='React.js' />
-        <StackImg img={NEXT} name='Next.js' />
-        <StackImg img={NODE} name='Node.js' />
-        <StackImg img={POSTGRES} name='PostgreSQL' />
-        <StackImg img={MONGO} name='MongoDB' />
-        <StackImg img={REDIS} name='Redis'/>
-        <StackImg img={GIT} name='Git'/>
+        <StackImg img={HTML} name="HTML5" />
+        <StackImg img={CSS} name="CSS3" />
+        <StackImg img={SASS} name="Sass" />
+        <StackImg img={JAVASCRIPT} name="Javascript" />
+        <StackImg img={REACT} name="React.js" />
+        <StackImg img={NEXT} name="Next.js" />
+        <StackImg img={NODE} name="Node.js" />
+        <StackImg img={PYTHON} name="Python" />
+        <StackImg img={REACT} name="React Native" />
+        <StackImg img={POSTGRES} name="PostgreSQL" />
+        <StackImg img={MONGO} name="MongoDB" />
+        <StackImg img={REDIS} name="Redis" />
+        <StackImg img={GIT} name="Git" />
       </div>
     </div>
   )
